@@ -1,0 +1,38 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import RegionBadge from './RegionBadge.astro';
+
+interface Props {
+  entry: CollectionEntry<'airports'>;
+}
+
+const { entry } = Astro.props;
+const { title, city, country, iataCode, image, imageAlt, excerpt, region } = entry.data;
+---
+
+<a
+  href={`/airports/${entry.slug}`}
+  class="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md dark:border-slate-800 dark:bg-slate-900"
+>
+  <div class="relative aspect-[16/9] w-full overflow-hidden bg-slate-100 dark:bg-slate-800">
+    <Image
+      src={image}
+      alt={imageAlt}
+      width={640}
+      height={360}
+      class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+    />
+    <span class="absolute left-3 top-3 rounded-md bg-slate-950/70 px-2 py-1 text-xs font-bold tracking-wide text-white">
+      {iataCode}
+    </span>
+  </div>
+  <div class="flex flex-1 flex-col gap-2 p-4">
+    <RegionBadge region={region} class="self-start" />
+    <h3 class="text-lg font-bold leading-snug text-slate-900 group-hover:text-brand-700 dark:text-slate-100 dark:group-hover:text-brand-300">
+      {title}
+    </h3>
+    <p class="text-sm text-slate-500 dark:text-slate-400">{city}, {country}</p>
+    <p class="mt-1 line-clamp-3 text-sm text-slate-600 dark:text-slate-300">{excerpt}</p>
+  </div>
+</a>

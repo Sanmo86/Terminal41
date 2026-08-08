@@ -1,0 +1,86 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import RegionBadge from '../components/RegionBadge.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import AdSlot from '../components/AdSlot.astro';
+
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  entry: CollectionEntry<'airports'>;
+  headings: Heading[];
+}
+
+const { entry, headings } = Astro.props;
+const {
+  title,
+  airport,
+  iataCode,
+  city,
+  country,
+  date,
+  updatedDate,
+  image,
+  imageAlt,
+  excerpt,
+  region,
+  tags,
+  seoTitle,
+  seoDescription,
+} = entry.data;
+
+const dateOpts: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'long', day: 'numeric' };
+const formattedDate = date.toLocaleDateString('en-US', dateOpts);
+const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
+---
+
+<BaseLayout title={seoTitle ?? title} description={seoDescription ?? excerpt} image={image.src} article>
+  <article class="mx-auto max-w-6xl px-4 py-8 sm:px-6">
+    <nav class="mb-4 text-sm text-slate-500 dark:text-slate-400">
+      <a href="/" class="hover:text-brand-700 dark:hover:text-brand-300">Home</a>
+      <span class="mx-1">/</span>
+      <RegionBadge region={region} />
+    </nav>
+
+    <header class="mb-6">
+      <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl dark:text-slate-100">{title}</h1>
+      <p class="mt-2 text-slate-500 dark:text-slate-400">
+        {airport} ({iataCode}) — {city}, {country}
+      </p>
+      <p class="mt-1 text-xs text-slate-400 dark:text-slate-500">
+        Published {formattedDate}
+        {formattedUpdated && ` · Updated ${formattedUpdated}`}
+      </p>
+    </header>
+
+    <Image src={image} alt={imageAlt} width={1200} height={630} class="mb-8 w-full rounded-xl object-cover" />
+
+    <div class="grid gap-8 lg:grid-cols-[1fr_260px]">
+      <div class="prose-article prose max-w-none dark:prose-invert">
+        <AdSlot placement="article-top" />
+        <slot />
+        <AdSlot placement="article-bottom" />
+      </div>
+      <aside class="order-first lg:order-last">
+        <div class="lg:sticky lg:top-20 lg:space-y-4">
+          <TableOfContents headings={headings} />
+          <AdSlot placement="sidebar" />
+        </div>
+      </aside>
+    </div>
+
+    {tags.length > 0 && (
+      <div class="mt-10 flex flex-wrap gap-2 border-t border-slate-200 pt-6 dark:border-slate-800">
+        {tags.map((tag) => (
+          <span class="rounded-full bg-slate-100 px-2.5 py-1 text-xs text-slate-500 dark:bg-slate-800 dark:text-slate-400">#{tag}</span>
+        ))}
+      </div>
+    )}
+  </article>
+</BaseLayout>

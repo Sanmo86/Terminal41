@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { REGIONS, regionLabel, SITE } from '../../config/site';
+
+export async function getStaticPaths() {
+  return REGIONS.map((r) => ({ params: { region: r.slug } }));
+}
+
+const { region } = Astro.params;
+const entries = (await getCollection('airports', ({ data }) => !data.draft && data.region === region)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+const label = regionLabel(region!);
+---
+
+<BaseLayout title={`${label} airports`} description={`${SITE.name} airport guides in ${label}.`}>
+  <section class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+    <nav class="mb-2 text-sm text-slate-500 dark:text-slate-400">
+      <a href="/regions" class="hover:text-brand-700 dark:hover:text-brand-300">Regions</a>
+      <span class="mx-1">/</span>
+      <span>{label}</span>
+    </nav>
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">{label} airports</h1>
+
+    {entries.length === 0 ? (
+      <p class="mt-8 text-slate-500 dark:text-slate-400">No guides published for this region yet.</p>
+    ) : (
+      <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {entries.map((entry) => <ArticleCard entry={entry} />)}
+      </div>
+    )}
+  </section>
+</BaseLayout>

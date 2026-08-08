@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <path d="M180 460L1020 460L960 490L240 490Z" fill="#ffffff" opacity="0.15"/>
+  <path d="M120 330L980 240L980 330L120 420Z" fill="#ffffff" opacity="0.9"/>
+  <text x="600" y="560" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#ffffff" text-anchor="middle">Terminal41</text>
+  <text x="600" y="600" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#ffffff" text-anchor="middle" opacity="0.9">Your gate to smarter travel</text>
+</svg>

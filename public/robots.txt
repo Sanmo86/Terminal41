@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://terminal41.com/sitemap-index.xml

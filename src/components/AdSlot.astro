@@ -1,0 +1,24 @@
+---
+// Placeholder ad slot. Rendering is gated behind ADS_ENABLED in
+// src/config/site.ts so the whole site is monetization-ready without any
+// layout rework: flip the flag, drop in your ad network's script/tag in the
+// commented block below, and slots start appearing everywhere this
+// component is already placed (see BaseLayout.astro and ArticleLayout.astro).
+import { ADS_ENABLED } from '../config/site';
+
+interface Props {
+  // NOTE: intentionally not named "slot" — that's a reserved Astro/HTML
+  // attribute for named-slot content projection and would be swallowed
+  // instead of passed through as a prop.
+  placement?: string; // identifies placement, e.g. "article-top", "sidebar", "in-content"
+}
+
+const { placement = 'default' } = Astro.props;
+---
+
+{ADS_ENABLED && (
+  <div class="ad-slot my-6 flex min-h-24 items-center justify-center rounded-lg border border-dashed border-slate-300 text-xs text-slate-400 dark:border-slate-700" data-ad-slot={placement}>
+    <!-- Replace with your ad network snippet (AdSense, affiliate banner, etc.) -->
+    Ad slot: {placement}
+  </div>
+)}
