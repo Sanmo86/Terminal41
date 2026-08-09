@@ -10,6 +10,9 @@ export const SITE = {
   defaultOgImage: '/og-default.svg',
   twitter: '@terminal41',
   locale: 'en-US',
+  // Used on About, Legal Notice, Privacy Policy, and Cookie Policy pages.
+  legalName: 'The Terminal41 Team',
+  contactEmail: 'sanmo8604@gmail.com',
 };
 
 // Regions used for the category/tag system. Keep the `slug` stable — it is

@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../config/site';
+
+const lastUpdated = 'August 9, 2026';
+---
+
+<BaseLayout title="Privacy Policy" description={`Privacy policy for ${SITE.name}.`}>
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">Privacy Policy</h1>
+    <p class="mt-2 text-sm text-slate-400">Last updated: {lastUpdated}</p>
+
+    <div class="prose mt-6 max-w-none dark:prose-invert">
+      <p>
+        This policy explains what happens with your data when you visit {SITE.name}
+        ({SITE.url}), operated by {SITE.legalName}.
+      </p>
+
+      <h2>What we collect today</h2>
+      <p>
+        As of the date above, {SITE.name} does <strong>not</strong> use any analytics or
+        advertising cookies, does not require an account, and has no forms that collect personal
+        data. The site's search box runs entirely in your browser and never sends your search terms
+        to a server.
+      </p>
+      <p>
+        The only thing stored locally on your device is your cookie-banner choice (accept/decline),
+        kept in your browser's local storage so we don't ask again on every visit. See our
+        <a href="/cookie-policy">Cookie Policy</a> for details.
+      </p>
+
+      <h2>What may change</h2>
+      <p>
+        If {SITE.name} adds analytics in the future (for example, to understand which guides are
+        most useful), it will only run after you actively accept cookies via the banner, and this
+        policy — along with the <a href="/cookie-policy">Cookie Policy</a> — will be updated first to
+        disclose exactly what's collected and why.
+      </p>
+
+      <h2>Third parties</h2>
+      <p>
+        This site is hosted by Vercel Inc., which processes standard technical data (like IP
+        addresses) as part of serving any website, under its own privacy policy. Links to external
+        sites (airport authorities, transport operators, etc.) are provided for convenience; once
+        you leave {SITE.name}, that site's own privacy policy applies.
+      </p>
+
+      <h2>Your rights</h2>
+      <p>
+        Since we don't currently collect or store personal data beyond the local cookie-consent
+        choice described above, there is generally nothing to access, correct, or delete on our
+        end. If that changes, this section will be updated to explain how to exercise your rights
+        (access, rectification, deletion, and objection) over any data we hold.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions about this policy can be sent to <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

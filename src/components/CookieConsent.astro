@@ -1,0 +1,70 @@
+---
+// Lightweight cookie consent banner. Terminal41 doesn't load any tracking
+// scripts today, so this mostly future-proofs the site: when analytics is
+// added later, gate that script behind `window.terminal41HasAnalyticsConsent()`
+// (see the helper exposed below) instead of loading it unconditionally.
+---
+
+<div
+  id="cookie-banner"
+  class="fixed inset-x-0 bottom-0 z-50 hidden border-t border-slate-200 bg-white/95 p-4 backdrop-blur sm:p-5 dark:border-slate-800 dark:bg-slate-950/95"
+  role="dialog"
+  aria-label="Cookie notice"
+>
+  <div class="mx-auto flex max-w-6xl flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+    <p class="text-sm text-slate-600 dark:text-slate-300">
+      We use cookies for essential site functionality and, if you allow it, to understand how the
+      site is used. Read our
+      <a href="/cookie-policy" class="underline hover:text-brand-700 dark:hover:text-brand-300">Cookie Policy</a>.
+    </p>
+    <div class="flex shrink-0 gap-2">
+      <button
+        type="button"
+        id="cookie-decline"
+        class="rounded-full border border-slate-300 px-4 py-1.5 text-sm font-semibold text-slate-600 hover:bg-slate-50 dark:border-slate-700 dark:text-slate-300 dark:hover:bg-slate-900"
+      >
+        Decline
+      </button>
+      <button
+        type="button"
+        id="cookie-accept"
+        class="rounded-full bg-brand-600 px-4 py-1.5 text-sm font-semibold text-white hover:bg-brand-700"
+      >
+        Accept
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const STORAGE_KEY = 'terminal41-cookie-consent';
+
+  // Exposed globally so a future analytics snippet can check this before
+  // loading, e.g.: `if (window.terminal41HasAnalyticsConsent()) { ...load GA... }`
+  window.terminal41HasAnalyticsConsent = function () {
+    return localStorage.getItem(STORAGE_KEY) === 'accepted';
+  };
+
+  function initCookieBanner() {
+    const banner = document.getElementById('cookie-banner');
+    if (!banner) return;
+
+    const existing = localStorage.getItem(STORAGE_KEY);
+    if (!existing) {
+      banner.classList.remove('hidden');
+    }
+
+    document.getElementById('cookie-accept')?.addEventListener('click', () => {
+      localStorage.setItem(STORAGE_KEY, 'accepted');
+      banner.classList.add('hidden');
+    });
+
+    document.getElementById('cookie-decline')?.addEventListener('click', () => {
+      localStorage.setItem(STORAGE_KEY, 'declined');
+      banner.classList.add('hidden');
+    });
+  }
+
+  initCookieBanner();
+  document.addEventListener('astro:page-load', initCookieBanner);
+</script>

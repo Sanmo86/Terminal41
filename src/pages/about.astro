@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../config/site';
+---
+
+<BaseLayout title="About" description={`What ${SITE.name} is, and who's behind it.`}>
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">About Terminal41</h1>
+
+    <div class="prose mt-6 max-w-none dark:prose-invert">
+      <p>
+        Terminal41 is a growing collection of practical, no-fluff airport guides — the kind of
+        information you actually want before a flight: which terminal you're in, how to get into
+        town without overpaying, how long security really takes, where to eat, and what to do if
+        your layover runs long. No listicle padding, just the details that make a trip smoother.
+      </p>
+
+      <h2>Why this exists</h2>
+      <p>
+        Airport information online is scattered across dozens of tabs — one site for transport
+        prices, another for terminal maps, a forum thread for security wait times from three years
+        ago. Terminal41 tries to put the useful parts of all of that in one place, per airport, kept
+        as current and specific as possible.
+      </p>
+
+      <h2>Who's behind it</h2>
+      <p>
+        Terminal41 was started by a tourism student with a genuine interest in how airports work
+        and how travelers actually move through them — part personal project, part way of applying
+        what studying tourism looks like outside a classroom. The site is a work in progress and
+        will keep growing with more airports, more detail, and better tools over time.
+      </p>
+
+      <h2>Get in touch</h2>
+      <p>
+        Spotted something outdated, have an airport you'd like to see covered, or just want to say
+        hello? Reach out at
+        <a href={`mailto:${SITE.contactEmail}`} class="text-brand-700 hover:underline dark:text-brand-300">{SITE.contactEmail}</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

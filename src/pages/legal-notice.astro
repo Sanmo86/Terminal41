@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../config/site';
+
+const lastUpdated = 'August 9, 2026';
+---
+
+<BaseLayout title="Legal Notice" description={`Legal notice for ${SITE.name}.`}>
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">Legal Notice</h1>
+    <p class="mt-2 text-sm text-slate-400">Last updated: {lastUpdated}</p>
+
+    <div class="prose mt-6 max-w-none dark:prose-invert">
+      <p>
+        This is a lightweight legal notice appropriate for {SITE.name} as an independent,
+        non-commercial editorial project run by a student, without a registered business entity
+        behind it. If that changes — for example, if the site starts running paid advertising or
+        operating as a registered business — this notice should be expanded with full company
+        identification details (tax ID, registered address, etc.) with the help of a legal
+        professional.
+      </p>
+
+      <h2>Site identification</h2>
+      <ul>
+        <li><strong>Site name:</strong> {SITE.name}</li>
+        <li><strong>Responsible party:</strong> {SITE.legalName}</li>
+        <li><strong>Contact email:</strong> <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a></li>
+        <li><strong>Website:</strong> {SITE.url}</li>
+      </ul>
+
+      <h2>Purpose of this site</h2>
+      <p>
+        {SITE.name} publishes editorial, informational content about airports — terminals,
+        transport, amenities, and general travel guidance. It is intended for general informational
+        purposes only and does not constitute travel, legal, or financial advice. Prices, wait
+        times, and other practical details are estimates that can change; always confirm current
+        information with the relevant airport, transport operator, or airline before you travel.
+      </p>
+
+      <h2>Hosting</h2>
+      <p>
+        This site is hosted by Vercel Inc. Technical hosting details are handled by that provider
+        under its own terms of service.
+      </p>
+
+      <h2>Intellectual property</h2>
+      <p>
+        Unless otherwise noted, the written content and original graphics on {SITE.name} are
+        created by the site and may not be reproduced elsewhere without permission. Airport names,
+        IATA codes, and airline names referenced on this site are the property of their respective
+        owners and are used for identification purposes only.
+      </p>
+
+      <h2>Questions</h2>
+      <p>
+        For any question about this notice, contact <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../config/site';
+
+const lastUpdated = 'August 9, 2026';
+---
+
+<BaseLayout title="Cookie Policy" description={`Cookie policy for ${SITE.name}.`}>
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">Cookie Policy</h1>
+    <p class="mt-2 text-sm text-slate-400">Last updated: {lastUpdated}</p>
+
+    <div class="prose mt-6 max-w-none dark:prose-invert">
+      <h2>What are cookies?</h2>
+      <p>
+        Cookies (and similar technologies like local storage) are small pieces of data a website can
+        store in your browser, usually to remember something between visits — a preference, a login
+        session, or in our case, whether you've responded to the cookie banner.
+      </p>
+
+      <h2>What Terminal41 uses today</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Purpose</th>
+            <th>Duration</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>terminal41-cookie-consent</code></td>
+            <td>Local storage (not a cookie)</td>
+            <td>Remembers whether you accepted or declined the cookie banner</td>
+            <td>Until you clear your browser data</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>
+        That's it — no advertising cookies, no third-party tracking cookies, and no analytics
+        cookies are set on {SITE.name} as of the date above.
+      </p>
+
+      <h2>What may be added later</h2>
+      <p>
+        If we add an analytics tool (to see, for example, which airport guides get the most
+        traffic), it will only start running for visitors who click "Accept" on the cookie banner —
+        visitors who decline, or who haven't made a choice yet, won't have any analytics script
+        loaded. When that happens, this table will be updated with the specific cookies that tool
+        sets, their provider, and their duration.
+      </p>
+
+      <h2>Managing your choice</h2>
+      <p>
+        You can change your mind at any time by clearing your browser's local storage for this site,
+        which will bring the cookie banner back on your next visit. Most browsers also let you block
+        or delete cookies and local storage entirely through their privacy settings.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions about this policy can be sent to <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

@@ -5,8 +5,8 @@ const year = new Date().getFullYear();
 
 <footer class="mt-20 border-t border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-950">
   <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
-    <div class="grid gap-8 sm:grid-cols-3">
-      <div>
+    <div class="grid grid-cols-2 gap-8 sm:grid-cols-4">
+      <div class="col-span-2 sm:col-span-1">
         <p class="text-lg font-bold text-brand-800 dark:text-brand-300">{SITE.name}</p>
         <p class="mt-2 max-w-xs text-sm text-slate-500 dark:text-slate-400">{SITE.tagline}</p>
       </div>
@@ -21,8 +21,17 @@ const year = new Date().getFullYear();
       <div>
         <p class="text-sm font-semibold text-slate-700 dark:text-slate-200">Site</p>
         <ul class="mt-2 space-y-1 text-sm text-slate-500 dark:text-slate-400">
+          <li><a href="/about" class="hover:text-brand-700 dark:hover:text-brand-300">About</a></li>
           <li><a href="/search" class="hover:text-brand-700 dark:hover:text-brand-300">Search</a></li>
           <li><a href="/rss.xml" class="hover:text-brand-700 dark:hover:text-brand-300">RSS feed</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="text-sm font-semibold text-slate-700 dark:text-slate-200">Legal</p>
+        <ul class="mt-2 space-y-1 text-sm text-slate-500 dark:text-slate-400">
+          <li><a href="/legal-notice" class="hover:text-brand-700 dark:hover:text-brand-300">Legal Notice</a></li>
+          <li><a href="/privacy-policy" class="hover:text-brand-700 dark:hover:text-brand-300">Privacy Policy</a></li>
+          <li><a href="/cookie-policy" class="hover:text-brand-700 dark:hover:text-brand-300">Cookie Policy</a></li>
         </ul>
       </div>
     </div>
