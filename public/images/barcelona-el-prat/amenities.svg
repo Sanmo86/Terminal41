@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260">
+  <g>
+    <rect x="10" y="10" width="280" height="240" rx="16" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+    <circle cx="150" cy="70" r="28" fill="#0f766e"/>
+    <path d="M138 78 a17 17 0 0 1 24 0 M132 68 a26 26 0 0 1 36 0 M126 58 a35 35 0 0 1 48 0" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="150" cy="86" r="2.5" fill="#ffffff"/>
+    <text x="150" y="128" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1e293b" text-anchor="middle">Free Wifi</text>
+    <text x="150" y="152" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">Time-limited free</text>
+    <text x="150" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">session, both terminals</text>
+  </g>
+  <g>
+    <rect x="305" y="10" width="280" height="240" rx="16" fill="#fefce8" stroke="#a16207" stroke-width="2"/>
+    <rect x="415" y="48" width="70" height="44" rx="6" fill="#a16207"/>
+    <rect x="425" y="92" width="50" height="8" fill="#a16207"/>
+    <text x="445" y="128" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1e293b" text-anchor="middle">Lounges</text>
+    <text x="445" y="152" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">Sala VIP + Priority</text>
+    <text x="445" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">Pass, both T1 and T2</text>
+  </g>
+  <g>
+    <rect x="600" y="10" width="280" height="240" rx="16" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+    <rect x="700" y="55" width="80" height="55" rx="8" fill="#15803d"/>
+    <circle cx="720" cy="45" r="10" fill="#15803d"/>
+    <circle cx="760" cy="45" r="10" fill="#15803d"/>
+    <text x="740" y="128" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1e293b" text-anchor="middle">Duty-Free</text>
+    <text x="740" y="152" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">Cava, gourmet, fashion</text>
+    <text x="740" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">much larger in T1</text>
+  </g>
+  <g>
+    <rect x="895" y="10" width="295" height="240" rx="16" fill="#fff7ed" stroke="#f97316" stroke-width="2"/>
+    <circle cx="1042" cy="70" r="28" fill="#ea580c"/>
+    <path d="M1030 60 v20 M1042 55 v25 M1054 60 v20" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <text x="1042" y="128" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1e293b" text-anchor="middle">Dining</text>
+    <text x="1042" y="152" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">Catalan food, coffee</text>
+    <text x="1042" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">bars, best in T1</text>
+  </g>
+</svg>

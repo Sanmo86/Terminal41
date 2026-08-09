@@ -12,6 +12,20 @@ excerpt: "The essential guide to Schiphol: its single-terminal layout, KLM's Sky
 region: "europe"
 tags: ["netherlands", "klm-hub", "long-layover", "schengen"]
 featured: true
+quickFacts:
+  passengers: "60M+/year"
+  terminals: "1 (3 halls)"
+  distanceToCity: "9 km / 5.5 mi"
+security:
+  typeALabel: "Schengen"
+  typeATypical: "10–20 min"
+  typeAPeak: "30 min"
+  typeBLabel: "International"
+  typeBTypical: "20–30 min"
+  typeBPeak: "45–60 min"
+arrivalGuidance:
+  typeA: "90 minutes"
+  typeB: "3 hours"
 ---
 
 Amsterdam Schiphol (IATA: **AMS**) is one of Europe's busiest hub airports and the home base of KLM and the SkyTeam alliance. Unlike most major hubs, Schiphol operates as a single unified terminal split into departure piers, which makes internal connections relatively straightforward compared to multi-terminal airports.
@@ -58,6 +72,10 @@ Schiphol provides free, unlimited wifi throughout the terminal with no time cap 
 - **Schengen flights:** **90 minutes** ahead is typically sufficient; allow closer to **2 hours** if departing during the 06:00–08:00 morning bank.
 - **Non-Schengen/international flights:** Arrive **3 hours** ahead, especially for KLM long-haul departures from piers E and F, where security and passport control queues can build up during morning and evening banks.
 - Early morning (06:00-08:00) is consistently the busiest window due to KLM's long-haul departure bank — if your itinerary lets you pick a flight time, a midday departure is usually far less stressful.
+
+## Amenities at a Glance
+
+![Icons summarizing Schiphol amenities: unlimited free wifi, KLM Crown Lounges, duty-free shopping, and dining](/images/amsterdam-schiphol/amenities.svg)
 
 ## Where to Eat
 

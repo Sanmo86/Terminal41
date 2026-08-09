@@ -35,6 +35,35 @@ const airports = defineCollection({
       draft: z.boolean().default(false),
       featured: z.boolean().default(false),
 
+      // --- Quick Facts stat card (optional — card is skipped if absent) ---
+      quickFacts: z
+        .object({
+          passengers: z.string(), // e.g. "60 million/year"
+          terminals: z.string(), // e.g. "4"
+          distanceToCity: z.string(), // e.g. "13 km / 8 mi"
+        })
+        .optional(),
+
+      // --- Interactive arrival-time helper (optional — widget is skipped
+      // if absent). typeA/typeB let each article use its own framing
+      // (Schengen vs non-Schengen, or domestic vs international).
+      security: z
+        .object({
+          typeALabel: z.string(),
+          typeATypical: z.string(),
+          typeAPeak: z.string(),
+          typeBLabel: z.string(),
+          typeBTypical: z.string(),
+          typeBPeak: z.string(),
+        })
+        .optional(),
+      arrivalGuidance: z
+        .object({
+          typeA: z.string(),
+          typeB: z.string(),
+        })
+        .optional(),
+
       // --- Reserved for future monetization ---------------------------
       // Not rendered anywhere yet (ADS_ENABLED is false in src/config/site.ts),
       // but present so per-article affiliate links can be added later

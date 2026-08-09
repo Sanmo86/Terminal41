@@ -12,6 +12,20 @@ excerpt: "Everything you need to know about Madrid-Barajas: terminals, airlines,
 region: "europe"
 tags: ["spain", "iberia-hub", "long-layover", "schengen"]
 featured: true
+quickFacts:
+  passengers: "60M+/year"
+  terminals: "4"
+  distanceToCity: "13 km / 8 mi"
+security:
+  typeALabel: "Domestic / Schengen"
+  typeATypical: "10–20 min"
+  typeAPeak: "30–40 min"
+  typeBLabel: "International"
+  typeBTypical: "20–40 min"
+  typeBPeak: "60–90 min"
+arrivalGuidance:
+  typeA: "90 minutes"
+  typeB: "3 hours"
 ---
 
 Madrid-Barajas (IATA: **MAD**) is Spain's largest airport and the main hub for Iberia and the oneworld alliance in southern Europe. It sits about 13 km northeast of downtown Madrid and handles more than 60 million passengers a year, making it one of the busiest gateways between Europe and Latin America.
@@ -65,6 +79,10 @@ Free wifi is available throughout the airport for the first 15-30 minutes; after
 - **International flights (non-Schengen):** Arrive at least **3 hours** early — passport control queues at T4 and T123 can back up significantly during morning and early-evening banks of departures, especially in summer.
 - If you have checked luggage and are cutting it close, add another 20–30 minutes to whichever estimate above applies to you.
 - Avoid the 06:00-08:00 and 18:00-20:00 waves if your itinerary lets you choose a flight time.
+
+## Amenities at a Glance
+
+![Icons summarizing Madrid-Barajas amenities: free wifi, Iberia VIP lounges, duty-free shopping, and dining](/images/madrid-barajas/amenities.svg)
 
 ## Where to Eat
 

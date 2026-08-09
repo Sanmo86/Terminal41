@@ -4,14 +4,18 @@ import { regionLabel } from '../config/site';
 interface Props {
   region: string;
   class?: string;
+  // Set to false when this badge is nested inside another <a> (e.g. inside
+  // ArticleCard's card-wide link) — nested <a> tags are invalid HTML and
+  // browsers silently split/duplicate the DOM to recover from it.
+  linked?: boolean;
 }
 
-const { region, class: className = '' } = Astro.props;
+const { region, class: className = '', linked = true } = Astro.props;
+const classes = `inline-flex items-center rounded-full bg-brand-50 px-2.5 py-1 text-xs font-semibold text-brand-700 hover:bg-brand-100 dark:bg-brand-900/40 dark:text-brand-300 dark:hover:bg-brand-900/60 ${className}`;
 ---
 
-<a
-  href={`/regions/${region}`}
-  class={`inline-flex items-center rounded-full bg-brand-50 px-2.5 py-1 text-xs font-semibold text-brand-700 hover:bg-brand-100 dark:bg-brand-900/40 dark:text-brand-300 dark:hover:bg-brand-900/60 ${className}`}
->
-  {regionLabel(region)}
-</a>
+{linked ? (
+  <a href={`/regions/${region}`} class={classes}>{regionLabel(region)}</a>
+) : (
+  <span class={classes}>{regionLabel(region)}</span>
+)}

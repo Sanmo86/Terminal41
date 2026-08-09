@@ -3,11 +3,13 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import AdSlot from '../components/AdSlot.astro';
-import { SITE } from '../config/site';
+import { SITE, REGIONS } from '../config/site';
 
 const entries = (await getCollection('airports', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
 );
+
+const activeRegions = REGIONS.filter((r) => entries.some((e) => e.data.region === r.slug));
 ---
 
 <BaseLayout title={SITE.name} description={SITE.description}>
@@ -26,17 +28,75 @@ const entries = (await getCollection('airports', ({ data }) => !data.draft)).sor
   <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
     <AdSlot placement="home-top" />
 
-    <div class="mb-6 flex items-center justify-between">
+    <div class="mb-4 flex items-center justify-between">
       <h2 class="text-xl font-bold text-slate-900 dark:text-slate-100">Latest guides</h2>
-      <span class="text-sm text-slate-400">{entries.length} airport{entries.length === 1 ? '' : 's'}</span>
+      <span id="result-count" class="text-sm text-slate-400">{entries.length} airport{entries.length === 1 ? '' : 's'}</span>
     </div>
+
+    {activeRegions.length > 1 && (
+      <div id="region-filters" class="mb-6 flex flex-wrap gap-2" role="group" aria-label="Filter by region">
+        <button type="button" class="filter-chip is-active rounded-full border border-brand-300 bg-brand-600 px-3.5 py-1.5 text-sm font-semibold text-white shadow-sm" data-region="all">
+          All regions
+        </button>
+        {activeRegions.map((r) => (
+          <button type="button" class="filter-chip rounded-full border border-slate-200 bg-white px-3.5 py-1.5 text-sm font-semibold text-slate-600 shadow-sm transition hover:border-brand-300 hover:text-brand-700 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-300" data-region={r.slug}>
+            {r.label}
+          </button>
+        ))}
+      </div>
+    )}
 
     {entries.length === 0 ? (
       <p class="text-slate-500 dark:text-slate-400">No articles published yet — check back soon.</p>
     ) : (
-      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <div id="article-grid" class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {entries.map((entry) => <ArticleCard entry={entry} />)}
       </div>
     )}
+    <p id="no-results" class="hidden text-slate-500 dark:text-slate-400">No airports match this region yet.</p>
   </section>
 </BaseLayout>
+
+<script>
+  function initRegionFilters() {
+    const filterBar = document.getElementById('region-filters');
+    const grid = document.getElementById('article-grid');
+    const countEl = document.getElementById('result-count');
+    const noResultsEl = document.getElementById('no-results');
+    if (!filterBar || !grid) return;
+
+    const chips = filterBar.querySelectorAll<HTMLButtonElement>('.filter-chip');
+    const cards = grid.querySelectorAll<HTMLElement>('[data-region]');
+
+    chips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        const region = chip.dataset.region ?? 'all';
+
+        chips.forEach((c) => {
+          const active = c === chip;
+          c.classList.toggle('is-active', active);
+          c.classList.toggle('bg-brand-600', active);
+          c.classList.toggle('text-white', active);
+          c.classList.toggle('border-brand-300', active);
+          c.classList.toggle('bg-white', !active);
+          c.classList.toggle('dark:bg-slate-900', !active);
+          c.classList.toggle('text-slate-600', !active);
+          c.classList.toggle('dark:text-slate-300', !active);
+        });
+
+        let visible = 0;
+        cards.forEach((card) => {
+          const match = region === 'all' || card.dataset.region === region;
+          card.classList.toggle('hidden', !match);
+          if (match) visible++;
+        });
+
+        if (countEl) countEl.textContent = `${visible} airport${visible === 1 ? '' : 's'}`;
+        if (noResultsEl) noResultsEl.classList.toggle('hidden', visible !== 0);
+      });
+    });
+  }
+
+  initRegionFilters();
+  document.addEventListener('astro:page-load', initRegionFilters);
+</script>

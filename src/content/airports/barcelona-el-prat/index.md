@@ -12,6 +12,20 @@ excerpt: "A practical guide to Barcelona-El Prat: terminals, airlines, transport
 region: "europe"
 tags: ["spain", "vueling-hub", "short-layover", "schengen"]
 featured: true
+quickFacts:
+  passengers: "50M+/year"
+  terminals: "2"
+  distanceToCity: "12 km / 7 mi"
+security:
+  typeALabel: "Domestic / Schengen"
+  typeATypical: "15–25 min"
+  typeAPeak: "40–45 min"
+  typeBLabel: "International"
+  typeBTypical: "25–45 min"
+  typeBPeak: "60–75 min"
+arrivalGuidance:
+  typeA: "90 minutes"
+  typeB: "3 hours"
 ---
 
 Barcelona-El Prat (IATA: **BCN**) is Spain's second-busiest airport and the main base for low-cost carrier Vueling. Located about 12 km southwest of the city center, it's a common gateway for both leisure travelers heading to the Mediterranean coast and business travelers visiting the city.
@@ -60,6 +74,10 @@ Free wifi is available across both terminals with a time-limited free session. F
 - **International flights:** Arrive **3 hours** ahead — security lines at T2 can be slow during peak departure banks.
 - If you're connecting between T1 and T2 (or need the shuttle to reach the R2 Nord train from T1), add 20–30 minutes to whichever estimate above applies.
 - Summer weekends see the heaviest traffic due to leisure travel to the Costa Brava and Balearic Islands.
+
+## Amenities at a Glance
+
+![Icons summarizing Barcelona-El Prat amenities: free wifi, Sala VIP lounges, duty-free shopping, and dining](/images/barcelona-el-prat/amenities.svg)
 
 ## Where to Eat
 
