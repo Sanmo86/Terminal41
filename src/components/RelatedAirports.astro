@@ -1,0 +1,28 @@
+---
+// "Keep reading" block at the end of an article — reuses ArticleCard so it
+// matches the homepage/region grid styling exactly. Entries are picked by
+// the calling page (same region first, backfilled with others) via
+// getStaticPaths, so this component just renders whatever it's given.
+import type { CollectionEntry } from 'astro:content';
+import ArticleCard from './ArticleCard.astro';
+import { useTranslations, type Lang } from '../i18n/ui';
+
+interface Props {
+  entries: CollectionEntry<'airports'>[];
+  lang: Lang;
+}
+
+const { entries, lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+{entries.length > 0 && (
+  <section class="mt-12 border-t border-slate-200 pt-8 dark:border-slate-800">
+    <h2 class="mb-4 text-xl font-bold text-slate-900 dark:text-slate-100">{t('article.relatedAirports')}</h2>
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {entries.map((entry) => (
+        <ArticleCard entry={entry} lang={lang} />
+      ))}
+    </div>
+  </section>
+)}

@@ -55,6 +55,7 @@ export const ui = {
     'article.updated': 'Updated',
     'article.gettingThere': 'Getting there, at a glance',
     'article.amenitiesGlance': 'Amenities, at a glance',
+    'article.relatedAirports': 'Related airports',
 
     'toc.title': 'On this page',
 
@@ -126,6 +127,7 @@ export const ui = {
     'article.updated': 'Actualizado',
     'article.gettingThere': 'Cómo llegar, de un vistazo',
     'article.amenitiesGlance': 'Servicios, de un vistazo',
+    'article.relatedAirports': 'Aeropuertos relacionados',
 
     'toc.title': 'En esta página',
 

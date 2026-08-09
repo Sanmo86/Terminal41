@@ -4,16 +4,25 @@ import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('airports', ({ data }) => !data.draft && data.lang === 'en');
-  return entries.map((entry) => ({
-    params: { slug: entry.data.articleSlug },
-    props: { entry },
-  }));
+  return entries.map((entry) => {
+    // "Related airports": same region first, backfilled with other regions
+    // so the block always has content even for regions with only 1-2 entries.
+    const sameRegion = entries.filter(
+      (e) => e.data.region === entry.data.region && e.data.articleSlug !== entry.data.articleSlug
+    );
+    const others = entries.filter((e) => e.data.region !== entry.data.region);
+    const related = [...sameRegion, ...others].slice(0, 3);
+    return {
+      params: { slug: entry.data.articleSlug },
+      props: { entry, related },
+    };
+  });
 }
 
-const { entry } = Astro.props;
+const { entry, related } = Astro.props;
 const { Content, headings } = await render(entry);
 ---
 
-<ArticleLayout entry={entry} headings={headings} lang="en">
+<ArticleLayout entry={entry} headings={headings} lang="en" related={related}>
   <Content />
 </ArticleLayout>

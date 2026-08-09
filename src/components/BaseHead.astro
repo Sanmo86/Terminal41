@@ -20,6 +20,32 @@ const pageTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
 // are translations of each other, not duplicate content.
 const enURL = new URL(getLocalizedPath(Astro.url.pathname, 'en'), Astro.site);
 const esURL = new URL(getLocalizedPath(Astro.url.pathname, 'es'), Astro.site);
+
+// Sitewide Organization + WebSite structured data (JSON-LD). Repeated on
+// every page rather than homepage-only — Google dedupes identical entities
+// across pages fine, and this keeps the component self-contained. Article
+// pages add their own Article/BreadcrumbList schema on top of this in
+// ArticleLayout.astro.
+const searchURL = lang === 'es' ? '/es/search' : '/search';
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: SITE.name,
+  url: SITE.url,
+  logo: new URL('/favicon.svg', SITE.url).toString(),
+};
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: SITE.url,
+  inLanguage: lang,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${new URL(searchURL, SITE.url).toString()}?q={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
+};
 ---
 
 <meta charset="utf-8" />
@@ -57,3 +83,7 @@ const esURL = new URL(getLocalizedPath(Astro.url.pathname, 'es'), Astro.site);
 
 <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
+
+<!-- Structured data -->
+<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
