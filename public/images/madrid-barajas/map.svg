@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">MAD — Simplified Terminal Layout</text>
+
+  <!-- Runways -->
+  <rect x="60" y="560" width="1080" height="14" rx="7" fill="#cbd5e1"/>
+  <rect x="60" y="590" width="1080" height="14" rx="7" fill="#cbd5e1"/>
+
+  <!-- T123 cluster -->
+  <g>
+    <rect x="90" y="120" width="300" height="220" rx="14" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/>
+    <text x="240" y="160" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1e3a8a" text-anchor="middle">T1 · T2 · T3</text>
+    <text x="240" y="190" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#475569" text-anchor="middle">Non-oneworld intl.</text>
+    <text x="240" y="212" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#475569" text-anchor="middle">+ domestic flights</text>
+    <rect x="150" y="250" width="180" height="50" rx="8" fill="#1d4ed8"/>
+    <text x="240" y="281" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">Metro L8 · Bus · Taxi</text>
+  </g>
+
+  <!-- Shuttle link -->
+  <g>
+    <line x1="390" y1="230" x2="760" y2="230" stroke="#94a3b8" stroke-width="4" stroke-dasharray="10 8"/>
+    <text x="575" y="212" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b" text-anchor="middle">free shuttle bus, ~15–20 min</text>
+  </g>
+
+  <!-- T4 cluster -->
+  <g>
+    <rect x="760" y="120" width="180" height="220" rx="14" fill="#fff7ed" stroke="#f97316" stroke-width="2"/>
+    <text x="850" y="160" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#9a3412" text-anchor="middle">T4</text>
+    <text x="850" y="190" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#475569" text-anchor="middle">Iberia · oneworld</text>
+    <text x="850" y="212" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#475569" text-anchor="middle">hub terminal</text>
+  </g>
+
+  <!-- APM link -->
+  <g>
+    <line x1="940" y1="230" x2="990" y2="230" stroke="#94a3b8" stroke-width="4" stroke-dasharray="6 6"/>
+  </g>
+
+  <!-- T4S cluster -->
+  <g>
+    <rect x="990" y="150" width="150" height="160" rx="14" fill="#fff7ed" stroke="#f97316" stroke-width="2"/>
+    <text x="1065" y="190" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#9a3412" text-anchor="middle">T4S</text>
+    <text x="1065" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">satellite</text>
+    <text x="1065" y="234" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">pier</text>
+  </g>
+
+  <rect x="760" y="360" width="380" height="46" rx="8" fill="#f97316"/>
+  <text x="950" y="389" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">Metro L8 (T4) · Cercanías C-1 · Bus · Taxi</text>
+
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>

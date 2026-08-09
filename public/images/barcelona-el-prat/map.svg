@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">BCN — Simplified Terminal Layout</text>
+
+  <!-- Runway -->
+  <rect x="60" y="560" width="1080" height="14" rx="7" fill="#cbd5e1"/>
+
+  <!-- T1 cluster -->
+  <g>
+    <rect x="120" y="130" width="360" height="220" rx="14" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+    <text x="300" y="172" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#134e4a" text-anchor="middle">Terminal 1 (T1)</text>
+    <text x="300" y="202" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#475569" text-anchor="middle">Vueling · Iberia · most long-haul</text>
+    <rect x="180" y="240" width="240" height="50" rx="8" fill="#0f766e"/>
+    <text x="300" y="271" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">Aerobús A1 · Metro L9 · Taxi</text>
+  </g>
+
+  <!-- Shuttle link -->
+  <g>
+    <line x1="480" y1="240" x2="740" y2="240" stroke="#94a3b8" stroke-width="4" stroke-dasharray="10 8"/>
+    <text x="610" y="222" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b" text-anchor="middle">free shuttle bus, ~10 min</text>
+  </g>
+
+  <!-- T2 cluster -->
+  <g>
+    <rect x="740" y="130" width="340" height="220" rx="14" fill="#fefce8" stroke="#eab308" stroke-width="2"/>
+    <text x="910" y="172" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#854d0e" text-anchor="middle">Terminal 2 (2A/B/C)</text>
+    <text x="910" y="202" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#475569" text-anchor="middle">Ryanair · easyJet · low-cost</text>
+    <rect x="790" y="240" width="240" height="50" rx="8" fill="#a16207"/>
+    <text x="910" y="271" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">Aerobús A2 · R2 Nord train</text>
+  </g>
+
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>

@@ -5,6 +5,7 @@ iataCode: "BCN"
 city: "Barcelona"
 country: "Spain"
 date: 2026-07-20
+updatedDate: 2026-08-09
 image: "./cover.svg"
 imageAlt: "Illustration of Barcelona-El Prat Airport terminal building"
 excerpt: "A practical guide to Barcelona-El Prat: terminals, airlines, transport into the city, parking, wifi, lounges, and how to make the most of a layover."
@@ -30,10 +31,20 @@ Vueling is BCN's dominant carrier, followed by Ryanair, easyJet, Iberia, and a w
 
 ## How to Get There
 
-- **Aerobús:** Direct express bus to Plaça Catalunya in the city center, roughly 35 minutes, with stops at both T1 and T2.
-- **Rodalies train (R2 Nord line):** Connects T2 to Barcelona-Sants and Passeig de Gràcia; note it does **not** serve T1 directly (a shuttle bus bridges the gap).
-- **Metro (L9 Sud):** Links both terminals to the city, useful if your hotel is near a metro line, though slower than the Aerobús for central destinations.
-- **Taxi:** Metered fare plus airport supplement; typically 25-35 minutes to the city center depending on traffic.
+![Comparison of transport options from Barcelona-El Prat: Aerobús, Rodalies train, and taxi, with prices and travel times](/images/barcelona-el-prat/transport.svg)
+
+- **Aerobús (A1/A2):** **€7.45** one-way (€12.85 return, valid 90 days) — direct express bus to Plaça Catalunya, about 35 minutes, running 24/7 with a stop at both T1 (line A1) and T2 (line A2), every 5–20 minutes depending on the time of day.
+- **Rodalies train (R2 Nord line):** **€4.60** single fare (or €12.15 for a 10-trip T-casual card, reusable around the city). About 20–25 minutes to Barcelona-Sants and Passeig de Gràcia. It only stops at **T2** — from T1 you need the free inter-terminal shuttle first, so budget extra time.
+- **Metro (L9 Sud):** Standard metro single fare, links both terminals to the city — cheaper than the Aerobús but slower (around 30–45 minutes to central stops), useful if your hotel sits right on the L9/L10 line.
+- **Taxi:** **€35–€45** on average to the city center (minimum airport-origin charge around €21, plus a €4.60 airport supplement), roughly 25–40 minutes depending on traffic.
+
+*Prices above are indicative and can change — always check the operator's site for the current fare: [Aerobús](https://www.aerobusbarcelona.es/en/), [Rodalies](https://rodalies.gencat.cat/en/).*
+
+## Getting Through Security and Passport Control
+
+- **Schengen flights:** Security only. Typically **15–25 minutes** off-peak, up to **40–45 minutes** during the low-cost carrier departure banks (early morning and late afternoon), which are concentrated in T2.
+- **Non-Schengen (international) flights:** Security plus passport control. Typically **25–45 minutes** off-peak, up to **60–75 minutes** during peak summer departure waves.
+- T1 checkpoints are generally faster and less crowded than T2's, which absorbs most of the low-cost traffic.
 
 ## Parking
 
@@ -45,8 +56,9 @@ Free wifi is available across both terminals with a time-limited free session. F
 
 ## Best Times to Arrive
 
-- **Domestic/Schengen flights:** 90 minutes is usually sufficient.
-- **International flights:** Arrive 3 hours ahead — security lines at T2 can be slow during peak low-cost carrier departure banks (early morning and late afternoon).
+- **Domestic/Schengen flights:** **90 minutes** is usually sufficient; allow **2 hours** if departing from T2 during an early-morning or late-afternoon low-cost bank.
+- **International flights:** Arrive **3 hours** ahead — security lines at T2 can be slow during peak departure banks.
+- If you're connecting between T1 and T2 (or need the shuttle to reach the R2 Nord train from T1), add 20–30 minutes to whichever estimate above applies.
 - Summer weekends see the heaviest traffic due to leisure travel to the Costa Brava and Balearic Islands.
 
 ## Where to Eat
@@ -61,6 +73,20 @@ T1 offers a broader range of sit-down restaurants and Catalan food options post-
 ## Duty-Free Shopping
 
 T1's duty-free area is significantly larger than T2's, with Spanish and Catalan gourmet products, cava, fashion, and perfume. If departing from T2, expect a more limited selection focused on essentials and souvenirs.
+
+## Airport Map
+
+![Simplified schematic map of Barcelona-El Prat showing Terminal 1 and Terminal 2 connected by a shuttle bus](/images/barcelona-el-prat/map.svg)
+
+This is a simplified layout to help you get oriented — for real-time, gate-by-gate wayfinding, use [Aena's official interactive map](https://www.aena.es/en/map.html?ca=BCN).
+
+## Useful Links
+
+- [Official airport page (Aena)](https://www.aena.es/en/barcelona.html) — terminal info, services, live flight status.
+- [Interactive terminal map (Aena)](https://www.aena.es/en/map.html?ca=BCN) — search shops, gates, and get walking directions.
+- [Aerobús — official site](https://www.aerobusbarcelona.es/en/) — timetables and tickets.
+- [Rodalies de Catalunya](https://rodalies.gencat.cat/en/) — R2 Nord timetables and fares.
+- [TMB — Barcelona Metro](https://www.tmb.cat/en) — L9 Sud fares and route planner.
 
 ## Long Layover Tips
 
