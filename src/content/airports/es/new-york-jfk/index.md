@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "new-york-jfk"
-title: "Aeropuerto JFK de Nueva York: la guía completa para viajeros"
+title: "Aeropuerto JFK de Nueva York: duerme, come o nada en el TWA Hotel"
 airport: "Aeropuerto Internacional John F. Kennedy"
 iataCode: "JFK"
 city: "Nueva York"

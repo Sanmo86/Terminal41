@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "paris-charles-de-gaulle"
-title: "Aeropuerto de París Charles de Gaulle: la guía completa para viajeros"
+title: "Aeropuerto de París Charles de Gaulle: mira hacia arriba en la Terminal 1"
 airport: "Aeropuerto de París-Charles de Gaulle"
 iataCode: "CDG"
 city: "París"

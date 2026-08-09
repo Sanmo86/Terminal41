@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "melbourne-airport"
-title: "Melbourne Airport: The Complete Traveler's Guide"
+title: "Melbourne Airport: One of the World's Busiest Airports Without a Train"
 airport: "Melbourne Airport (Tullamarine)"
 iataCode: "MEL"
 city: "Melbourne"

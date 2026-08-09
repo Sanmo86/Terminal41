@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "madrid-barajas"
-title: "Madrid-Barajas Airport: The Complete Traveler's Guide"
+title: "Madrid-Barajas Airport: Spot the Famous Bamboo Roof"
 airport: "Adolfo Suárez Madrid-Barajas Airport"
 iataCode: "MAD"
 city: "Madrid"

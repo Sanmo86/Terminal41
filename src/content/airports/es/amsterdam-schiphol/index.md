@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "amsterdam-schiphol"
-title: "Aeropuerto de Ámsterdam Schiphol: la guía completa para viajeros"
+title: "Aeropuerto de Ámsterdam Schiphol: con un museo dentro de la terminal"
 airport: "Aeropuerto de Ámsterdam Schiphol"
 iataCode: "AMS"
 city: "Ámsterdam"

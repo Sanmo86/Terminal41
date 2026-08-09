@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "new-york-jfk"
-title: "New York JFK Airport: The Complete Traveler's Guide"
+title: "New York JFK Airport: Sleep, Eat, or Swim at the TWA Hotel"
 airport: "John F. Kennedy International Airport"
 iataCode: "JFK"
 city: "New York"

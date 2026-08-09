@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "dubai-dxb"
-title: "Aeropuerto Internacional de Dubái: la guía completa para viajeros"
+title: "Aeropuerto Internacional de Dubái: rifas de superdeportivos en el duty-free"
 airport: "Aeropuerto Internacional de Dubái"
 iataCode: "DXB"
 city: "Dubái"

@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "sydney-airport"
-title: "Aeropuerto de Sídney Kingsford Smith: la guía completa para viajeros"
+title: "Aeropuerto de Sídney Kingsford Smith: el parque favorito de la ciudad para ver aviones"
 airport: "Aeropuerto de Sídney Kingsford Smith"
 iataCode: "SYD"
 city: "Sídney"

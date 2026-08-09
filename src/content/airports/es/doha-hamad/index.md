@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "doha-hamad"
-title: "Aeropuerto de Doha Hamad: la guía completa para viajeros"
+title: "Aeropuerto de Doha Hamad: el hogar del osito de peluche gigante"
 airport: "Aeropuerto Internacional Hamad"
 iataCode: "DOH"
 city: "Doha"

@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "johannesburg-or-tambo"
-title: "Johannesburg O.R. Tambo Airport: The Complete Traveler's Guide"
+title: "Johannesburg O.R. Tambo Airport: Take the Gautrain, Skip the Street Taxi"
 airport: "O.R. Tambo International Airport"
 iataCode: "JNB"
 city: "Johannesburg"

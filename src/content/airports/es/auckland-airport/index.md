@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "auckland-airport"
-title: "Aeropuerto de Auckland: la guía completa para viajeros"
+title: "Aeropuerto de Auckland: los estrictos controles de bioseguridad de Nueva Zelanda"
 airport: "Aeropuerto de Auckland"
 iataCode: "AKL"
 city: "Auckland"

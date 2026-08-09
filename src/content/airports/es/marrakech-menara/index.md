@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "marrakech-menara"
-title: "Aeropuerto de Marrakech Menara: la guía completa para viajeros"
+title: "Aeropuerto de Marrakech Menara: una terminal inspirada en la mashrabiya"
 airport: "Aeropuerto de Marrakech Menara"
 iataCode: "RAK"
 city: "Marrakech"

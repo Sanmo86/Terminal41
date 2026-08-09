@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "london-heathrow"
-title: "Aeropuerto de Londres Heathrow: la guía completa para viajeros"
+title: "Aeropuerto de Londres Heathrow: cuatro terminales que no se conectan a pie"
 airport: "Aeropuerto de Londres Heathrow"
 iataCode: "LHR"
 city: "Londres"

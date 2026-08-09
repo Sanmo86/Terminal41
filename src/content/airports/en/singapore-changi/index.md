@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "singapore-changi"
-title: "Singapore Changi Airport: The Complete Traveler's Guide"
+title: "Singapore Changi Airport: Home to the World's Tallest Indoor Waterfall"
 airport: "Singapore Changi Airport"
 iataCode: "SIN"
 city: "Singapore"

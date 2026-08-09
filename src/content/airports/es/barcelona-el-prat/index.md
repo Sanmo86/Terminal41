@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "barcelona-el-prat"
-title: "Aeropuerto de Barcelona-El Prat: la guía completa para viajeros"
+title: "Aeropuerto de Barcelona-El Prat: busca ventana para la aproximación mediterránea"
 airport: "Aeropuerto Josep Tarradellas Barcelona-El Prat"
 iataCode: "BCN"
 city: "Barcelona"

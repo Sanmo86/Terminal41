@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "london-heathrow"
-title: "London Heathrow Airport: The Complete Traveler's Guide"
+title: "London Heathrow Airport: Four Terminals That Aren't Walkable to Each Other"
 airport: "London Heathrow Airport"
 iataCode: "LHR"
 city: "London"

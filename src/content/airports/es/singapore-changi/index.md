@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "singapore-changi"
-title: "Aeropuerto de Singapur Changi: la guía completa para viajeros"
+title: "Aeropuerto de Singapur Changi: el hogar de la cascada interior más alta del mundo"
 airport: "Aeropuerto de Singapur Changi"
 iataCode: "SIN"
 city: "Singapur"

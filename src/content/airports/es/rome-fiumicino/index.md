@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "rome-fiumicino"
-title: "Aeropuerto de Roma Fiumicino: la guía completa para viajeros"
+title: "Aeropuerto de Roma Fiumicino: una exposición de arte gratis entre vuelos"
 airport: "Aeropuerto Leonardo da Vinci–Fiumicino"
 iataCode: "FCO"
 city: "Roma"

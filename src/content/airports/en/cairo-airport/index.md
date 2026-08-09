@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "cairo-airport"
-title: "Cairo International Airport: The Complete Traveler's Guide"
+title: "Cairo International Airport: Visa on Arrival for Most Nationalities"
 airport: "Cairo International Airport"
 iataCode: "CAI"
 city: "Cairo"

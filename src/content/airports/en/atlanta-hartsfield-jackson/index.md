@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "atlanta-hartsfield-jackson"
-title: "Atlanta Hartsfield-Jackson Airport: The Complete Traveler's Guide"
+title: "Atlanta Hartsfield-Jackson Airport: The World's Busiest Airport Train"
 airport: "Hartsfield-Jackson Atlanta International Airport"
 iataCode: "ATL"
 city: "Atlanta"

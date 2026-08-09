@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "sydney-airport"
-title: "Sydney Kingsford Smith Airport: The Complete Traveler's Guide"
+title: "Sydney Kingsford Smith Airport: The City's Favorite Plane-Spotting Park"
 airport: "Sydney Kingsford Smith Airport"
 iataCode: "SYD"
 city: "Sydney"

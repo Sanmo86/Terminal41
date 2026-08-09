@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "tokyo-haneda"
-title: "Aeropuerto de Tokio Haneda: la guía completa para viajeros"
+title: "Aeropuerto de Tokio Haneda: date un baño en el onsen del aeropuerto"
 airport: "Aeropuerto Internacional de Tokio (Haneda)"
 iataCode: "HND"
 city: "Tokio"

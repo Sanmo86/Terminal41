@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "doha-hamad"
-title: "Doha Hamad Airport: The Complete Traveler's Guide"
+title: "Doha Hamad Airport: Home to the Giant Teddy Bear Sculpture"
 airport: "Hamad International Airport"
 iataCode: "DOH"
 city: "Doha"

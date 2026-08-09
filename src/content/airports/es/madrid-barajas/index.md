@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "madrid-barajas"
-title: "Aeropuerto de Madrid-Barajas: la guía completa para viajeros"
+title: "Aeropuerto de Madrid-Barajas: fíjate en el famoso techo de bambú"
 airport: "Aeropuerto Adolfo Suárez Madrid-Barajas"
 iataCode: "MAD"
 city: "Madrid"

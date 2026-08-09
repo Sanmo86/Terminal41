@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "rio-de-janeiro-galeao"
-title: "Aeropuerto de Río de Janeiro Galeão: la guía completa para viajeros"
+title: "Aeropuerto de Río de Janeiro Galeão: pide ventanilla para la aproximación"
 airport: "Aeropuerto Internacional de Río de Janeiro–Galeão (Tom Jobim)"
 iataCode: "GIG"
 city: "Río de Janeiro"

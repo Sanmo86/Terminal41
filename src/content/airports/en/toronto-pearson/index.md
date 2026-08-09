@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "toronto-pearson"
-title: "Toronto Pearson Airport: The Complete Traveler's Guide"
+title: "Toronto Pearson Airport: Clear US Customs Before You Even Board"
 airport: "Toronto Pearson International Airport"
 iataCode: "YYZ"
 city: "Toronto"

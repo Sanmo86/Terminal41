@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "johannesburg-or-tambo"
-title: "Aeropuerto de Johannesburgo O.R. Tambo: la guía completa para viajeros"
+title: "Aeropuerto de Johannesburgo O.R. Tambo: usa el Gautrain, no un taxi de calle"
 airport: "Aeropuerto Internacional O.R. Tambo"
 iataCode: "JNB"
 city: "Johannesburgo"

@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "frankfurt-airport"
-title: "Aeropuerto de Fráncfort: la guía completa para viajeros"
+title: "Aeropuerto de Fráncfort: el hub con su propia estación de tren de alta velocidad"
 airport: "Aeropuerto de Fráncfort"
 iataCode: "FRA"
 city: "Fráncfort"

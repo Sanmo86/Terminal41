@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "shanghai-pudong"
-title: "Shanghai Pudong Airport: The Complete Traveler's Guide"
+title: "Shanghai Pudong Airport: Ride the World's Fastest Commercial Train"
 airport: "Shanghai Pudong International Airport"
 iataCode: "PVG"
 city: "Shanghai"

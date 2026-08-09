@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "dubai-dxb"
-title: "Dubai International Airport: The Complete Traveler's Guide"
+title: "Dubai International Airport: Duty-Free Supercar Raffles"
 airport: "Dubai International Airport"
 iataCode: "DXB"
 city: "Dubai"

@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "frankfurt-airport"
-title: "Frankfurt Airport: The Complete Traveler's Guide"
+title: "Frankfurt Airport: The Hub With Its Own High-Speed Train Station"
 airport: "Frankfurt Airport"
 iataCode: "FRA"
 city: "Frankfurt"

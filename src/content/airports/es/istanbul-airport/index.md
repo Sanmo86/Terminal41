@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "istanbul-airport"
-title: "Aeropuerto de Estambul: la guía completa para viajeros"
+title: "Aeropuerto de Estambul: consigue un tour gratis por la ciudad en escalas largas"
 airport: "Aeropuerto de Estambul"
 iataCode: "IST"
 city: "Estambul"

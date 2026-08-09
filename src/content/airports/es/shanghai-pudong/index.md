@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "shanghai-pudong"
-title: "Aeropuerto de Shanghái Pudong: la guía completa para viajeros"
+title: "Aeropuerto de Shanghái Pudong: sube al tren comercial más rápido del mundo"
 airport: "Aeropuerto Internacional de Shanghái Pudong"
 iataCode: "PVG"
 city: "Shanghái"

@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "dallas-fort-worth"
-title: "Dallas Fort Worth Airport: The Complete Traveler's Guide"
+title: "Dallas Fort Worth Airport: Bigger Than Manhattan"
 airport: "Dallas Fort Worth International Airport"
 iataCode: "DFW"
 city: "Dallas"

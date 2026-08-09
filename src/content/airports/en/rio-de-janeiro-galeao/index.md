@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "rio-de-janeiro-galeao"
-title: "Rio de Janeiro Galeão Airport: The Complete Traveler's Guide"
+title: "Rio de Janeiro Galeão Airport: Request a Window Seat for the Approach"
 airport: "Rio de Janeiro–Galeão International Airport (Tom Jobim)"
 iataCode: "GIG"
 city: "Rio de Janeiro"

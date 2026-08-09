@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "atlanta-hartsfield-jackson"
-title: "Aeropuerto de Atlanta Hartsfield-Jackson: la guía completa para viajeros"
+title: "Aeropuerto de Atlanta Hartsfield-Jackson: el tren de aeropuerto más transitado del mundo"
 airport: "Aeropuerto Internacional Hartsfield-Jackson de Atlanta"
 iataCode: "ATL"
 city: "Atlanta"

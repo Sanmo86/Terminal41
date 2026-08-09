@@ -1,7 +1,7 @@
 ---
 lang: "en"
 articleSlug: "istanbul-airport"
-title: "Istanbul Airport: The Complete Traveler's Guide"
+title: "Istanbul Airport: Score a Free City Tour on a Long Layover"
 airport: "Istanbul Airport"
 iataCode: "IST"
 city: "Istanbul"

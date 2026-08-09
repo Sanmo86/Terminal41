@@ -1,7 +1,7 @@
 ---
 lang: "es"
 articleSlug: "cairo-airport"
-title: "Aeropuerto Internacional de El Cairo: la guía completa para viajeros"
+title: "Aeropuerto Internacional de El Cairo: visado a la llegada para la mayoría"
 airport: "Aeropuerto Internacional de El Cairo"
 iataCode: "CAI"
 city: "El Cairo"
