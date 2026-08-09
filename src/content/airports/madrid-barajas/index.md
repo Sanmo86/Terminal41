@@ -26,6 +26,28 @@ security:
 arrivalGuidance:
   typeA: "90 minutes"
   typeB: "3 hours"
+transportOptions:
+  - label: "Metro (Line 8)"
+    price: "€4.50–€5.00"
+    time: "~15–20 min"
+    note: "Cheapest, 06:05–01:30"
+  - label: "Airport Express Bus"
+    price: "€5.00 flat"
+    time: "~40 min"
+    note: "24 hours a day"
+  - label: "Taxi (flat rate)"
+    price: "€33 within M-30"
+    time: "~20–30 min"
+    note: "Regulated fare"
+amenities:
+  - label: "Wifi"
+    detail: "15–30 min free session"
+  - label: "Lounges"
+    detail: "Iberia VIP + Priority Pass"
+  - label: "Duty-Free"
+    detail: "Jamón, wine, olive oil"
+  - label: "Dining"
+    detail: "Tapas to sit-down, best in T4"
 ---
 
 Madrid-Barajas (IATA: **MAD**) is Spain's largest airport and the main hub for Iberia and the oneworld alliance in southern Europe. It sits about 13 km northeast of downtown Madrid and handles more than 60 million passengers a year, making it one of the busiest gateways between Europe and Latin America.
@@ -46,8 +68,6 @@ Always check which terminal your flight departs from — a same-airport "connect
 Iberia dominates MAD as its home hub, alongside joint-venture partners American Airlines and British Airways. Other major operators include Air Europa, Vueling, Ryanair, LATAM, Aeroméxico, and most major European flag carriers. This makes MAD one of the best-connected airports in Europe for flights to Latin America.
 
 ## How to Get There
-
-![Comparison of transport options from Madrid-Barajas: metro, bus, and taxi, with prices and travel times](/images/madrid-barajas/transport.svg)
 
 - **Metro (Line 8, pink line):** €4.50–€5.00 (a Zone A fare plus the mandatory €3 airport supplement — waived if you're using a Tourist Travel Pass). Connects T4 and T123 to Nuevos Ministerios in central Madrid in about 15–20 minutes. Runs 06:05–01:30, every 4–7 minutes — the cheapest option by far.
 - **Cercanías train (Line C-1):** Links T4 to Chamartín and Atocha stations at a standard Cercanías fare (cheaper than a taxi, priced by zone) — check current fares on [Renfe](https://www.renfe.com/es/en/cercanias).
@@ -79,10 +99,6 @@ Free wifi is available throughout the airport for the first 15-30 minutes; after
 - **International flights (non-Schengen):** Arrive at least **3 hours** early — passport control queues at T4 and T123 can back up significantly during morning and early-evening banks of departures, especially in summer.
 - If you have checked luggage and are cutting it close, add another 20–30 minutes to whichever estimate above applies to you.
 - Avoid the 06:00-08:00 and 18:00-20:00 waves if your itinerary lets you choose a flight time.
-
-## Amenities at a Glance
-
-![Icons summarizing Madrid-Barajas amenities: free wifi, Iberia VIP lounges, duty-free shopping, and dining](/images/madrid-barajas/amenities.svg)
 
 ## Where to Eat
 

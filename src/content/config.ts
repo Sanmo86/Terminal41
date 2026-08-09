@@ -64,6 +64,27 @@ const airports = defineCollection({
         })
         .optional(),
 
+      // --- Transport options + amenities, rendered as responsive HTML
+      // cards (not images) so the text stays legible on mobile. ---------
+      transportOptions: z
+        .array(
+          z.object({
+            label: z.string(),
+            price: z.string(),
+            time: z.string(),
+            note: z.string().optional(),
+          })
+        )
+        .optional(),
+      amenities: z
+        .array(
+          z.object({
+            label: z.string(),
+            detail: z.string(),
+          })
+        )
+        .optional(),
+
       // --- Reserved for future monetization ---------------------------
       // Not rendered anywhere yet (ADS_ENABLED is false in src/config/site.ts),
       // but present so per-article affiliate links can be added later

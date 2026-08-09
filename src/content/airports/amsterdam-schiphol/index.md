@@ -26,6 +26,28 @@ security:
 arrivalGuidance:
   typeA: "90 minutes"
   typeB: "3 hours"
+transportOptions:
+  - label: "NS Sprinter Train"
+    price: "from ~€6.20"
+    time: "~17 min"
+    note: "8 trains/hour to Centraal"
+  - label: "Regional Bus"
+    price: "varies by route"
+    time: "~30–45 min"
+    note: "For stops trains don't reach"
+  - label: "Taxi / ride-hailing"
+    price: "€40–€65"
+    time: "~20–30 min"
+    note: "~€3.17/km + €0.52/min"
+amenities:
+  - label: "Wifi"
+    detail: "Unlimited, no time cap"
+  - label: "Lounges"
+    detail: "KLM Crown, piers E/F/M"
+  - label: "Duty-Free"
+    detail: "Cheese, tulips, genever"
+  - label: "Dining"
+    detail: "Dutch & international"
 ---
 
 Amsterdam Schiphol (IATA: **AMS**) is one of Europe's busiest hub airports and the home base of KLM and the SkyTeam alliance. Unlike most major hubs, Schiphol operates as a single unified terminal split into departure piers, which makes internal connections relatively straightforward compared to multi-terminal airports.
@@ -43,8 +65,6 @@ There is technically one terminal building, divided into **Departure Halls 1, 2,
 KLM is the dominant carrier and anchor of the SkyTeam alliance at AMS, alongside partners like Delta, Air France, and Korean Air. Schiphol also hosts a large number of European and long-haul carriers, making it one of the best-connected airports for transatlantic and Europe-Asia routings.
 
 ## How to Get There
-
-![Comparison of transport options from Schiphol: NS train, regional bus, and taxi, with prices and travel times](/images/amsterdam-schiphol/transport.svg)
 
 - **Train (NS):** From around **€6.20** for a single fare (prices vary with how you tap in/out via OV-pay or book ahead). Schiphol has its own railway station directly beneath the terminal, with 8 Sprinter trains an hour to Amsterdam Centraal in about **17 minutes**, plus frequent direct trains to other major Dutch cities.
 - **Bus:** Regional and airport shuttle buses serve destinations not directly covered by rail; fares vary by route and operator, roughly 30–45 minutes depending on the stop.
@@ -72,10 +92,6 @@ Schiphol provides free, unlimited wifi throughout the terminal with no time cap 
 - **Schengen flights:** **90 minutes** ahead is typically sufficient; allow closer to **2 hours** if departing during the 06:00–08:00 morning bank.
 - **Non-Schengen/international flights:** Arrive **3 hours** ahead, especially for KLM long-haul departures from piers E and F, where security and passport control queues can build up during morning and evening banks.
 - Early morning (06:00-08:00) is consistently the busiest window due to KLM's long-haul departure bank — if your itinerary lets you pick a flight time, a midday departure is usually far less stressful.
-
-## Amenities at a Glance
-
-![Icons summarizing Schiphol amenities: unlimited free wifi, KLM Crown Lounges, duty-free shopping, and dining](/images/amsterdam-schiphol/amenities.svg)
 
 ## Where to Eat
 

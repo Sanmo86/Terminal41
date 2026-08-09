@@ -25,6 +25,28 @@ security:
 arrivalGuidance:
   typeA: "2 hours"
   typeB: "3 hours"
+transportOptions:
+  - label: "AirTrain + Subway"
+    price: "$11.75 total"
+    time: "~60–80 min"
+    note: "Cheapest, 24 hours"
+  - label: "AirTrain + LIRR"
+    price: "$14–$16 total"
+    time: "~35–45 min"
+    note: "Fastest public transit"
+  - label: "Yellow Taxi (flat)"
+    price: "$70 to Manhattan"
+    time: "~45–60 min"
+    note: "+tolls/tip, +$5 rush fee"
+amenities:
+  - label: "Wifi"
+    detail: "Free session, then paid"
+  - label: "Lounges"
+    detail: "Delta Sky Club, Admirals"
+  - label: "Duty-Free"
+    detail: "Fashion, NYC souvenirs"
+  - label: "Dining"
+    detail: "Celebrity-chef spots, T4"
 ---
 
 New York's John F. Kennedy International Airport (IATA: **JFK**) is the busiest of the three major New York City airports and the main international gateway to the city, with a huge concentration of transatlantic and long-haul flights. It sits in Queens, about 26 km southeast of Manhattan, and is Delta's largest hub alongside a major JetBlue and international-carrier presence.
@@ -42,8 +64,6 @@ JFK currently operates **five active terminals**: 1, 4, 5, 7, and 8 (former Term
 Delta is JFK's dominant carrier and uses it as a major international hub, alongside JetBlue (based in Terminal 5) and American Airlines (Terminal 8). JFK is also the primary New York gateway for the vast majority of foreign flag carriers — British Airways, Air France, Emirates, Cathay Pacific, and dozens more — making it one of the most internationally connected airports in North America.
 
 ## How to Get There
-
-![Comparison of transport options from JFK: AirTrain+Subway, AirTrain+LIRR, and taxi, with prices and travel times](/images/new-york-jfk/transport.svg)
 
 - **AirTrain + Subway:** **$11.75** total ($8.75 AirTrain + $3.00 subway) — the cheapest way into the city, via the A/E/J/Z lines from Jamaica or Howard Beach stations. About 60–80 minutes to Midtown Manhattan.
 - **AirTrain + LIRR:** **$14–$16** total ($8.75 AirTrain + a Long Island Rail Road CityTicket fare) — the fastest public transit option, about 35–45 minutes from Jamaica Station to Penn Station.
@@ -74,10 +94,6 @@ Free wifi (via Boingo) is available across JFK, typically with a free introducto
 - **International flights:** Arrive **3 hours** ahead — TSA lines at internationally-heavy terminals (T4 especially) get busy fast in the evening long-haul departure wave.
 - If you're arriving from an international flight with a tight connection, budget significant extra time for CBP — 90+ minutes isn't unusual during peak arrival banks.
 - TSA PreCheck and Global Entry (via the Trusted Traveler Programs) are well worth enrolling in if you fly through JFK regularly.
-
-## Amenities at a Glance
-
-![Icons summarizing JFK amenities: wifi, Delta Sky Club and Priority Pass lounges, duty-free shopping, and dining](/images/new-york-jfk/amenities.svg)
 
 ## Where to Eat
 

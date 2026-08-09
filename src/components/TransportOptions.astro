@@ -1,0 +1,35 @@
+---
+// Responsive HTML replacement for the old static transport-comparison SVGs
+// — those shrank to illegible text on mobile. Real markup reflows instead.
+interface Item {
+  label: string;
+  price: string;
+  time: string;
+  note?: string;
+}
+interface Props {
+  items: Item[];
+}
+const { items } = Astro.props;
+
+const palette = [
+  { bg: 'bg-blue-50 dark:bg-blue-950/30', border: 'border-blue-200 dark:border-blue-900', text: 'text-blue-700 dark:text-blue-300' },
+  { bg: 'bg-orange-50 dark:bg-orange-950/30', border: 'border-orange-200 dark:border-orange-900', text: 'text-orange-700 dark:text-orange-300' },
+  { bg: 'bg-green-50 dark:bg-green-950/30', border: 'border-green-200 dark:border-green-900', text: 'text-green-700 dark:text-green-300' },
+  { bg: 'bg-purple-50 dark:bg-purple-950/30', border: 'border-purple-200 dark:border-purple-900', text: 'text-purple-700 dark:text-purple-300' },
+];
+---
+
+<div class="not-prose my-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+  {items.map((item, i) => {
+    const c = palette[i % palette.length];
+    return (
+      <div class={`rounded-xl border p-4 ${c.bg} ${c.border}`}>
+        <p class="text-sm font-bold text-slate-800 dark:text-slate-100">{item.label}</p>
+        <p class={`mt-1 text-xl font-extrabold ${c.text}`}>{item.price}</p>
+        <p class="mt-1 text-sm text-slate-600 dark:text-slate-300">{item.time}</p>
+        {item.note && <p class="mt-1 text-xs text-slate-400">{item.note}</p>}
+      </div>
+    );
+  })}
+</div>

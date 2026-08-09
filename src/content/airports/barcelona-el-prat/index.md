@@ -26,6 +26,28 @@ security:
 arrivalGuidance:
   typeA: "90 minutes"
   typeB: "3 hours"
+transportOptions:
+  - label: "Aerobús (A1/A2)"
+    price: "€7.45 one-way"
+    time: "~35 min"
+    note: "24/7 to Pl. Catalunya"
+  - label: "Rodalies R2 Nord"
+    price: "€4.60 single"
+    time: "~20–25 min"
+    note: "T2 only, shuttle from T1"
+  - label: "Taxi"
+    price: "€35–€45"
+    time: "~25–40 min"
+    note: "+€4.60 airport supplement"
+amenities:
+  - label: "Wifi"
+    detail: "Time-limited free session"
+  - label: "Lounges"
+    detail: "Sala VIP + Priority Pass"
+  - label: "Duty-Free"
+    detail: "Cava, gourmet, fashion"
+  - label: "Dining"
+    detail: "Catalan food, best in T1"
 ---
 
 Barcelona-El Prat (IATA: **BCN**) is Spain's second-busiest airport and the main base for low-cost carrier Vueling. Located about 12 km southwest of the city center, it's a common gateway for both leisure travelers heading to the Mediterranean coast and business travelers visiting the city.
@@ -44,8 +66,6 @@ BCN has two main passenger terminals — T1 and T2 — that are **not** within w
 Vueling is BCN's dominant carrier, followed by Ryanair, easyJet, Iberia, and a wide range of European and international airlines. BCN has strong connectivity to the rest of Europe and a growing number of long-haul routes to North America and Asia.
 
 ## How to Get There
-
-![Comparison of transport options from Barcelona-El Prat: Aerobús, Rodalies train, and taxi, with prices and travel times](/images/barcelona-el-prat/transport.svg)
 
 - **Aerobús (A1/A2):** **€7.45** one-way (€12.85 return, valid 90 days) — direct express bus to Plaça Catalunya, about 35 minutes, running 24/7 with a stop at both T1 (line A1) and T2 (line A2), every 5–20 minutes depending on the time of day.
 - **Rodalies train (R2 Nord line):** **€4.60** single fare (or €12.15 for a 10-trip T-casual card, reusable around the city). About 20–25 minutes to Barcelona-Sants and Passeig de Gràcia. It only stops at **T2** — from T1 you need the free inter-terminal shuttle first, so budget extra time.
@@ -74,10 +94,6 @@ Free wifi is available across both terminals with a time-limited free session. F
 - **International flights:** Arrive **3 hours** ahead — security lines at T2 can be slow during peak departure banks.
 - If you're connecting between T1 and T2 (or need the shuttle to reach the R2 Nord train from T1), add 20–30 minutes to whichever estimate above applies.
 - Summer weekends see the heaviest traffic due to leisure travel to the Costa Brava and Balearic Islands.
-
-## Amenities at a Glance
-
-![Icons summarizing Barcelona-El Prat amenities: free wifi, Sala VIP lounges, duty-free shopping, and dining](/images/barcelona-el-prat/amenities.svg)
 
 ## Where to Eat
 

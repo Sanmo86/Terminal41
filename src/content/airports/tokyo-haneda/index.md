@@ -25,6 +25,28 @@ security:
 arrivalGuidance:
   typeA: "60–90 minutes"
   typeB: "2.5–3 hours"
+transportOptions:
+  - label: "Keikyu Line"
+    price: "¥310 to Shinagawa"
+    time: "~13 min"
+    note: "Cheapest, connects to JR"
+  - label: "Tokyo Monorail"
+    price: "¥520"
+    time: "~15–20 min"
+    note: "To Hamamatsuchō / JR Yamanote"
+  - label: "Taxi"
+    price: "¥5,000–¥11,000"
+    time: "~30–40 min"
+    note: "Varies by destination/time"
+amenities:
+  - label: "Wifi"
+    detail: "Unlimited, free everywhere"
+  - label: "Lounges"
+    detail: "JAL Sakura, ANA Lounge"
+  - label: "Duty-Free"
+    detail: "Sake, snacks, Edo street"
+  - label: "Dining"
+    detail: "Ramen, sushi, izakaya"
 ---
 
 Tokyo Haneda (IATA: **HND**) is Japan's busiest airport by passenger volume and, thanks to its location just 15 km from central Tokyo, has become the preferred gateway for both domestic travel and a fast-growing share of international flights — a role that expanded significantly after slot reforms opened up more international capacity in the 2020s. It's the home base for both ANA and Japan Airlines.
@@ -44,8 +66,6 @@ Haneda is split into three terminal buildings: Terminal 1 and Terminal 2 handle 
 ANA and JAL dominate Haneda as their primary hub, covering an extensive domestic network across Japan plus growing long-haul international routes. International flag carriers — including major US, European, and Asian airlines — increasingly favor Haneda's international slots over Narita's, given the shorter transfer time into central Tokyo.
 
 ## How to Get There
-
-![Comparison of transport options from Haneda: Keikyu Line, Tokyo Monorail, and taxi, with prices and travel times](/images/tokyo-haneda/transport.svg)
 
 - **Keikyu Line:** **¥310** to Shinagawa, about **13 minutes** — the cheapest and often fastest option, with direct through-service onto several Tokyo subway lines.
 - **Tokyo Monorail:** **¥520** (or ¥519 with an IC card) to Hamamatsuchō, about 15–20 minutes, connecting directly onto the JR Yamanote Line loop.
@@ -72,10 +92,6 @@ Free, unlimited wifi is available throughout all terminals with no time cap — 
 - **Domestic flights:** **60–90 minutes** before departure is typically enough, given Haneda's efficient domestic security process.
 - **International flights:** **2.5–3 hours** ahead, especially for evening long-haul departures when Terminal 3 gets busiest.
 - Immigration on arrival is generally fast thanks to e-gates, but budget extra time during Japanese holiday periods (New Year, Golden Week, Obon) when both domestic and international traffic peaks.
-
-## Amenities at a Glance
-
-![Icons summarizing Haneda amenities: unlimited free wifi, JAL and ANA lounges, duty-free shopping, and dining](/images/tokyo-haneda/amenities.svg)
 
 ## Where to Eat
 

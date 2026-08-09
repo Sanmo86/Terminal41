@@ -7,6 +7,8 @@ import TableOfContents from '../components/TableOfContents.astro';
 import AdSlot from '../components/AdSlot.astro';
 import QuickFacts from '../components/QuickFacts.astro';
 import ArrivalTimeHelper from '../components/ArrivalTimeHelper.astro';
+import TransportOptions from '../components/TransportOptions.astro';
+import AmenityGrid from '../components/AmenityGrid.astro';
 
 interface Heading {
   depth: number;
@@ -38,6 +40,8 @@ const {
   quickFacts,
   security,
   arrivalGuidance,
+  transportOptions,
+  amenities,
 } = entry.data;
 
 const dateOpts: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'long', day: 'numeric' };
@@ -78,6 +82,14 @@ const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
     <div class="grid gap-8 lg:grid-cols-[1fr_260px]">
       <div class="prose-article prose max-w-none dark:prose-invert">
         <AdSlot placement="article-top" />
+
+        {transportOptions && transportOptions.length > 0 && (
+          <>
+            <h2 class="not-prose mb-1 text-lg font-bold text-slate-800 dark:text-slate-100">Getting there, at a glance</h2>
+            <TransportOptions items={transportOptions} />
+          </>
+        )}
+
         {security && arrivalGuidance && (
           <ArrivalTimeHelper
             typeALabel={security.typeALabel}
@@ -90,6 +102,14 @@ const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
             typeBArrival={arrivalGuidance.typeB}
           />
         )}
+
+        {amenities && amenities.length > 0 && (
+          <>
+            <h2 class="not-prose mb-1 text-lg font-bold text-slate-800 dark:text-slate-100">Amenities, at a glance</h2>
+            <AmenityGrid items={amenities} />
+          </>
+        )}
+
         <slot />
         <AdSlot placement="article-bottom" />
       </div>

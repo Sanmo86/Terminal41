@@ -25,6 +25,28 @@ security:
 arrivalGuidance:
   typeA: "90 minutes"
   typeB: "3 hours"
+transportOptions:
+  - label: "Airport Bus (Line 19)"
+    price: "30 MAD (~$3)"
+    time: "~25–45 min"
+    note: "Cheapest option"
+  - label: "Official Airport Taxi"
+    price: "100–150 MAD (day)"
+    time: "~20–30 min"
+    note: "Fixed prepaid fare"
+  - label: "Ride-hailing / Uber"
+    price: "120–220 MAD"
+    time: "~20–30 min"
+    note: "Price varies with demand"
+amenities:
+  - label: "Wifi"
+    detail: "Time-limited free session"
+  - label: "Lounges"
+    detail: "Limited, Priority Pass only"
+  - label: "Duty-Free"
+    detail: "Argan oil, spices, leather"
+  - label: "Dining"
+    detail: "Mint tea, tagine, chains"
 ---
 
 Marrakech Menara Airport (IATA: **RAK**) is Morocco's second-busiest airport and the main gateway to Marrakech's Medina and the wider Atlas region. Remarkably close to the city — just 6 km from the Jemaa el-Fnaa square — it has seen fast-growing passenger numbers in step with Morocco's tourism boom, with strong charter and low-cost links to Europe.
@@ -45,8 +67,6 @@ Always confirm your terminal when booking a transfer or arranging pickup, since 
 Royal Air Maroc is the dominant carrier and Morocco's flag airline, with an extensive domestic network plus growing international routes. Marrakech is also a major destination for European low-cost and charter carriers — Ryanair, easyJet, Transavia, and seasonal charter operators — reflecting the city's position as one of Morocco's top tourism draws.
 
 ## How to Get There
-
-![Comparison of transport options from Marrakech Menara: airport bus, official taxi, and ride-hailing, with prices and travel times](/images/marrakech-menara/transport.svg)
 
 - **Airport Bus (Line 19):** **30 MAD** (~$3) one-way — the cheapest option, running regularly between the airport and the city center, about 25–45 minutes depending on traffic and stops.
 - **Official Airport Taxi:** **100–150 MAD** by day, **150–240 MAD** at night for central destinations — a prepaid, fixed-rate system introduced in 2023 with no bargaining: pay at the taxi ordering counter, then head to your cab. About 20–30 minutes to the Medina.
@@ -74,10 +94,6 @@ Free wifi is available in both terminals with a time-limited free session, typic
 - **Domestic flights:** **90 minutes** before departure is generally sufficient outside peak periods.
 - **International flights:** Arrive **3 hours** ahead, especially during the winter/spring high season when charter and low-cost banks can overwhelm check-in and security simultaneously.
 - If you're being met by a riad or hotel driver, confirm your terminal and expected arrival-hall exit point in advance — the two terminals have separate arrivals areas.
-
-## Amenities at a Glance
-
-![Icons summarizing Marrakech Menara amenities: wifi, limited lounge access, duty-free shopping, and dining](/images/marrakech-menara/amenities.svg)
 
 ## Where to Eat
 
