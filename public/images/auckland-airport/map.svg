@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">AKL — Simplified Terminal Layout</text>
+
+  <rect x="60" y="560" width="1080" height="14" rx="7" fill="#cbd5e1"/>
+
+  <!-- International -->
+  <g>
+    <rect x="220" y="160" width="340" height="220" rx="14" fill="#eff6ff" stroke="#1e3a8a" stroke-width="2"/>
+    <text x="390" y="210" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1e3a8a" text-anchor="middle">International Terminal</text>
+    <text x="390" y="240" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">Air New Zealand &amp; partners</text>
+    <rect x="270" y="280" width="240" height="46" rx="8" fill="#1e3a8a"/>
+    <text x="390" y="309" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">SkyDrive Bus · Taxi</text>
+  </g>
+
+  <line x1="560" y1="270" x2="640" y2="270" stroke="#94a3b8" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="600" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">walk / bus</text>
+
+  <!-- Domestic -->
+  <g>
+    <rect x="640" y="160" width="340" height="220" rx="14" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+    <text x="810" y="210" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#0f766e" text-anchor="middle">Domestic Terminal</text>
+    <text x="810" y="240" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">Air New Zealand domestic</text>
+    <text x="810" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">(integrating into one terminal by 2028–29)</text>
+  </g>
+
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>
