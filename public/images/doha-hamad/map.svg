@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">DOH — Simplified Terminal Layout</text>
+
+  <rect x="60" y="560" width="1080" height="14" rx="7" fill="#cbd5e1"/>
+
+  <rect x="150" y="150" width="900" height="260" rx="18" fill="#fff7ed" stroke="#7c2d12" stroke-width="2"/>
+  <text x="600" y="200" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#7c2d12" text-anchor="middle">One terminal — Qatar Airways hub</text>
+
+  <g fill="#581c87">
+    <rect x="200" y="250" width="180" height="90" rx="10"/>
+    <rect x="420" y="250" width="180" height="90" rx="10"/>
+    <rect x="620" y="250" width="180" height="90" rx="10"/>
+    <rect x="820" y="250" width="180" height="90" rx="10"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="290" y="300">Concourse A</text>
+    <text x="510" y="300">Concourse B</text>
+    <text x="710" y="300">Concourse C</text>
+    <text x="910" y="300">Concourse D</text>
+  </g>
+
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>
