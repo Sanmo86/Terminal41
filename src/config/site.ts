@@ -6,7 +6,7 @@ export const SITE = {
   tagline: 'Your gate to smarter travel',
   description:
     'Terminal41 is a guide to airports around the world — terminals, airlines, parking, wifi, lounges, duty-free, and everything you need for a smooth layover.',
-  url: 'https://terminal41.vercel.app',
+  url: 'https://www.terminal41.co',
   defaultOgImage: '/og-default.svg',
   twitter: '@terminal41',
   locale: 'en-US',
