@@ -54,6 +54,10 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Dutch & international"
+spotlight:
+  title: "Visit the museum between flights"
+  text: "Schiphol houses a genuine outpost of the Rijksmuseum (free, airside) plus its own public library — one of the only airports in the world where you can see a real Rembrandt without leaving security."
+hubAirlines: ["KLM", "Delta", "Air France", "Korean Air"]
 ---
 
 Amsterdam Schiphol (IATA: **AMS**) is one of Europe's busiest hub airports and the home base of KLM and the SkyTeam alliance. Unlike most major hubs, Schiphol operates as a single unified terminal split into departure piers, which makes internal connections relatively straightforward compared to multi-terminal airports.

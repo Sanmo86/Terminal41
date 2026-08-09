@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">IST — Simplified Concourse Layout</text>
+
+  <rect x="100" y="140" width="1000" height="280" rx="18" fill="#fef2f2" stroke="#9f1239" stroke-width="2"/>
+  <text x="600" y="185" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#9f1239" text-anchor="middle">One single mega-terminal</text>
+  <text x="600" y="210" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#475569" text-anchor="middle">Among the world's largest airport buildings by floor area</text>
+
+  <g fill="#78350f">
+    <rect x="150" y="250" width="140" height="80" rx="10"/>
+    <rect x="320" y="250" width="140" height="80" rx="10"/>
+    <rect x="490" y="250" width="140" height="80" rx="10"/>
+    <rect x="660" y="250" width="140" height="80" rx="10"/>
+    <rect x="830" y="250" width="140" height="80" rx="10"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="220" y="298">A</text>
+    <text x="390" y="298">B</text>
+    <text x="560" y="298">D</text>
+    <text x="730" y="298">F</text>
+    <text x="900" y="298">G</text>
+  </g>
+  <text x="900" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#475569" text-anchor="middle">Domestic</text>
+  <text x="450" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#475569" text-anchor="middle">International</text>
+
+  <rect x="60" y="560" width="1080" height="14" rx="7" fill="#cbd5e1"/>
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>

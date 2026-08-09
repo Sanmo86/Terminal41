@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Mint tea, tagine, chains"
+spotlight:
+  title: "Notice the mashrabiya facade"
+  text: "The terminal's exterior uses a traditional Moroccan mashrabiya lattice pattern that filters sunlight and reduces the need for heavy air conditioning — a striking architectural nod before you've even reached the Medina."
+hubAirlines: ["Royal Air Maroc", "Ryanair", "easyJet", "Transavia"]
 ---
 
 Marrakech Menara Airport (IATA: **RAK**) is Morocco's second-busiest airport and the main gateway to Marrakech's Medina and the wider Atlas region. Remarkably close to the city — just 6 km from the Jemaa el-Fnaa square — it has seen fast-growing passenger numbers in step with Morocco's tourism boom, with strong charter and low-cost links to Europe.

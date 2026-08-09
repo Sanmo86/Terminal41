@@ -54,6 +54,10 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Comida catalana, lo mejor en T1"
+spotlight:
+  title: "Busca ventana en tu llegada"
+  text: "El vestíbulo de salidas de T1 tiene ventanales de suelo a techo con vistas al Mediterráneo y a la sierra de Collserola — una de las vistas de terminal más bonitas de Europa, sobre todo al atardecer."
+hubAirlines: ["Vueling", "Ryanair", "easyJet", "Iberia"]
 ---
 
 Barcelona-El Prat (IATA: **BCN**) es el segundo aeropuerto con más tráfico de España y la principal base de la aerolínea low-cost Vueling. Situado a unos 12 km al suroeste del centro de la ciudad, es una puerta de entrada habitual tanto para turistas que se dirigen a la costa mediterránea como para viajeros de negocios que visitan la ciudad.

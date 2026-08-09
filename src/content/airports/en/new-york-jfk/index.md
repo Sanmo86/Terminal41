@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Celebrity-chef spots, T4"
+spotlight:
+  title: "Check out the TWA Hotel"
+  text: "Built inside Eero Saarinen's iconic 1962 TWA Flight Center next to Terminal 5, the TWA Hotel is open to visit even if you're not staying — the retro lounge and runway-view pool bar are worth the detour."
+hubAirlines: ["Delta", "JetBlue", "American Airlines", "British Airways"]
 ---
 
 New York's John F. Kennedy International Airport (IATA: **JFK**) is the busiest of the three major New York City airports and the main international gateway to the city, with a huge concentration of transatlantic and long-haul flights. It sits in Queens, about 26 km southeast of Manhattan, and is Delta's largest hub alongside a major JetBlue and international-carrier presence.

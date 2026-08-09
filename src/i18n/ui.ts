@@ -68,6 +68,9 @@ export const ui = {
     'arrival.typicalWait': 'Typical security wait',
     'arrival.peakWait': 'Peak-hour wait',
 
+    'spotlight.eyebrow': 'Only here',
+    'hubAirlines.title': 'Hub airlines',
+
     'cookie.message': 'We use cookies for essential site functionality and, if you allow it, to understand how the site is used. Read our',
     'cookie.policyLink': 'Cookie Policy',
     'cookie.decline': 'Decline',
@@ -135,6 +138,9 @@ export const ui = {
     'arrival.arriveAt': 'Llega al aeropuerto',
     'arrival.typicalWait': 'Espera típica en seguridad',
     'arrival.peakWait': 'Espera en hora punta',
+
+    'spotlight.eyebrow': 'Solo aquí',
+    'hubAirlines.title': 'Aerolíneas base',
 
     'cookie.message': 'Usamos cookies para el funcionamiento esencial de la web y, si lo permites, para entender cómo se usa el sitio. Lee nuestra',
     'cookie.policyLink': 'Política de Cookies',

@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Clásicos brasileños, cafeterías"
+spotlight:
+  title: "Pide ventanilla para la aproximación"
+  text: "Los vuelos que llegan desde el norte suelen sobrevolar el Pan de Azúcar y la Bahía de Guanabara en la aproximación final — pide ventanilla en el lado derecho para uno de los aterrizajes más espectaculares de Sudamérica."
+hubAirlines: ["LATAM Brasil", "GOL", "Azul"]
 ---
 
 El Aeropuerto Internacional de Río de Janeiro–Galeão, oficialmente Aeropuerto Internacional Tom Jobim (IATA: **GIG**), es la principal puerta de entrada internacional de Río, situado en la Isla del Gobernador a unos 20 km al norte del centro de la ciudad. Es el hub principal para vuelos internacionales a Río, mientras que un aeropuerto más pequeño en pleno centro (Santos Dumont) gestiona el puente aéreo con São Paulo y algunas rutas regionales.

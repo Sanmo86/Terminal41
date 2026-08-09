@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Ramen, sushi, izakaya"
+spotlight:
+  title: "Date un baño en el onsen del aeropuerto"
+  text: "El complejo Haneda Airport Garden, justo a las afueras de la Terminal 3, tiene un auténtico baño termal japonés (onsen) con vistas a las pistas — una forma poco habitual de pasar una escala larga."
+hubAirlines: ["ANA", "JAL"]
 ---
 
 Tokio Haneda (IATA: **HND**) es el aeropuerto con más pasajeros de Japón y, gracias a su ubicación a solo 15 km del centro de Tokio, se ha convertido en la puerta de entrada preferida tanto para vuelos nacionales como para una porción cada vez mayor de vuelos internacionales — un papel que creció mucho tras las reformas de slots que abrieron más capacidad internacional en la década de 2020. Es la base de ANA y Japan Airlines.

@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Brazilian classics, coffee bars"
+spotlight:
+  title: "Request a window seat for the approach"
+  text: "Flights arriving from the north often bank past Sugarloaf Mountain and Guanabara Bay on final approach — ask for a right-side window seat for one of the most scenic landings in South America."
+hubAirlines: ["LATAM Brasil", "GOL", "Azul"]
 ---
 
 Rio de Janeiro's Galeão International Airport, officially Tom Jobim International Airport (IATA: **GIG**), is Rio's main international gateway, sitting on Governador Island about 20 km north of the city center. It's the primary hub for international flights into Rio, while a smaller downtown airport (Santos Dumont) handles the São Paulo air shuttle and some regional routes.

@@ -101,6 +101,20 @@ const airports = defineCollection({
       )
       .optional(),
 
+    // --- Spotlight callout: one genuinely airport-specific fact/tip
+    // (not generic travel advice), rendered as a highlighted card near the
+    // top of the article. Optional — card is skipped if absent.
+    spotlight: z
+      .object({
+        title: z.string(),
+        text: z.string(),
+      })
+      .optional(),
+
+    // Hub/anchor airlines shown as a quick badge row. Airline names are
+    // proper nouns, so the same array works in both locales.
+    hubAirlines: z.array(z.string()).optional(),
+
     // --- Reserved for future monetization ---------------------------
     // Not rendered anywhere yet (ADS_ENABLED is false in src/config/site.ts),
     // but present so per-article affiliate links can be added later

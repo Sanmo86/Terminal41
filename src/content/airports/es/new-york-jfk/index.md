@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Sitios de chefs famosos, en T4"
+spotlight:
+  title: "Visita el TWA Hotel"
+  text: "Construido dentro de la icónica Terminal TWA de 1962 diseñada por Eero Saarinen, junto a la Terminal 5, el TWA Hotel se puede visitar aunque no te alojes — el lounge retro y el bar de la piscina con vistas a la pista merecen el desvío."
+hubAirlines: ["Delta", "JetBlue", "American Airlines", "British Airways"]
 ---
 
 El Aeropuerto Internacional John F. Kennedy de Nueva York (IATA: **JFK**) es el más transitado de los tres grandes aeropuertos neoyorquinos y la principal puerta de entrada internacional a la ciudad, con una enorme concentración de vuelos transatlánticos y de largo radio. Está en Queens, a unos 26 km al sureste de Manhattan, y es el mayor hub de Delta además de tener una fuerte presencia de JetBlue y aerolíneas internacionales.

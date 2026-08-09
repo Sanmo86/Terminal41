@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Ramen, sushi, izakaya"
+spotlight:
+  title: "Soak in an airport onsen"
+  text: "The Haneda Airport Garden complex just outside Terminal 3 has a genuine Japanese hot spring (onsen) with an observation deck view of the runways — a rare way to spend a long layover."
+hubAirlines: ["ANA", "JAL"]
 ---
 
 Tokyo Haneda (IATA: **HND**) is Japan's busiest airport by passenger volume and, thanks to its location just 15 km from central Tokyo, has become the preferred gateway for both domestic travel and a fast-growing share of international flights — a role that expanded significantly after slot reforms opened up more international capacity in the 2020s. It's the home base for both ANA and Japan Airlines.

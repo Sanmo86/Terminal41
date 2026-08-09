@@ -54,6 +54,10 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Catalan food, best in T1"
+spotlight:
+  title: "Grab a window seat on arrival"
+  text: "T1's departures hall has floor-to-ceiling windows facing both the Mediterranean and the Collserola hills — one of the more scenic terminal views in Europe, especially at sunset."
+hubAirlines: ["Vueling", "Ryanair", "easyJet", "Iberia"]
 ---
 
 Barcelona-El Prat (IATA: **BCN**) is Spain's second-busiest airport and the main base for low-cost carrier Vueling. Located about 12 km southwest of the city center, it's a common gateway for both leisure travelers heading to the Mediterranean coast and business travelers visiting the city.

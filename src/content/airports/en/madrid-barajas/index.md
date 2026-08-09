@@ -54,6 +54,10 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Tapas to sit-down, best in T4"
+spotlight:
+  title: "Spot the bamboo roof"
+  text: "Terminal 4's undulating roof, clad in bamboo and color-coded by section, was designed by Richard Rogers — the colors double as a quick way to orient yourself if you forget your gate area."
+hubAirlines: ["Iberia", "American Airlines", "British Airways", "LATAM"]
 ---
 
 Madrid-Barajas (IATA: **MAD**) is Spain's largest airport and the main hub for Iberia and the oneworld alliance in southern Europe. It sits about 13 km northeast of downtown Madrid and handles more than 60 million passengers a year, making it one of the busiest gateways between Europe and Latin America.

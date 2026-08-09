@@ -54,6 +54,10 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "De tapas a restaurantes, lo mejor en T4"
+spotlight:
+  title: "Fíjate en el techo de bambú"
+  text: "El techo ondulado de la Terminal 4, revestido de bambú y codificado por colores según la zona, lo diseñó Richard Rogers — los colores también sirven para orientarte rápido si olvidas en qué zona está tu puerta."
+hubAirlines: ["Iberia", "American Airlines", "British Airways", "LATAM"]
 ---
 
 Madrid-Barajas (IATA: **MAD**) es el aeropuerto más grande de España y el principal hub de Iberia y la alianza oneworld en el sur de Europa. Está a unos 13 km al noreste del centro de Madrid y gestiona más de 60 millones de pasajeros al año, lo que lo convierte en una de las puertas de entrada más transitadas entre Europa y Latinoamérica.

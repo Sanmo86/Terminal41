@@ -54,6 +54,10 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina neerlandesa e internacional"
+spotlight:
+  title: "Visita el museo entre vuelos"
+  text: "Schiphol tiene una sede real del Rijksmuseum (gratis, en zona de embarque) además de su propia biblioteca pública — uno de los pocos aeropuertos del mundo donde puedes ver un Rembrandt auténtico sin salir de seguridad."
+hubAirlines: ["KLM", "Delta", "Air France", "Korean Air"]
 ---
 
 Ámsterdam Schiphol (IATA: **AMS**) es uno de los aeropuertos hub más transitados de Europa y la base de KLM y la alianza SkyTeam. A diferencia de la mayoría de grandes hubs, Schiphol funciona como una única terminal unificada dividida en salas de embarque, lo que hace que las conexiones internas sean relativamente sencillas comparado con aeropuertos multi-terminal.

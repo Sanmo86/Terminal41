@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Bistros to international chains"
+spotlight:
+  title: "Look up in Terminal 1"
+  text: "Terminal 1's central atrium, with its criss-crossing glass escalator tubes designed by Paul Andreu, is one of the most photographed pieces of 1970s airport architecture in the world."
+hubAirlines: ["Air France", "Delta", "KLM", "Korean Air"]
 ---
 
 Paris-Charles de Gaulle (IATA: **CDG**) is France's main international gateway and the second-busiest airport in Europe, handling more than 70 million passengers a year. It sits about 25 km northeast of central Paris and serves as Air France's primary hub and the main SkyTeam gateway to Western Europe.

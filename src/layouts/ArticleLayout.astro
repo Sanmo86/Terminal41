@@ -8,6 +8,8 @@ import QuickFacts from '../components/QuickFacts.astro';
 import ArrivalTimeHelper from '../components/ArrivalTimeHelper.astro';
 import TransportOptions from '../components/TransportOptions.astro';
 import AmenityGrid from '../components/AmenityGrid.astro';
+import AirportSpotlight from '../components/AirportSpotlight.astro';
+import HubAirlines from '../components/HubAirlines.astro';
 import { useTranslations, type Lang } from '../i18n/ui';
 
 interface Heading {
@@ -44,6 +46,8 @@ const {
   arrivalGuidance,
   transportOptions,
   amenities,
+  spotlight,
+  hubAirlines,
 } = entry.data;
 
 const homeHref = lang === 'es' ? '/es/' : '/';
@@ -74,6 +78,8 @@ const formattedUpdated = updatedDate?.toLocaleDateString(dateLocale, dateOpts);
 
     <img src={image} alt={imageAlt} width={1200} height={630} loading="eager" decoding="async" class="mb-8 w-full rounded-xl object-cover" />
 
+    {hubAirlines && hubAirlines.length > 0 && <HubAirlines airlines={hubAirlines} lang={lang} />}
+
     {quickFacts && (
       <QuickFacts
         iataCode={iataCode}
@@ -83,6 +89,8 @@ const formattedUpdated = updatedDate?.toLocaleDateString(dateLocale, dateOpts);
         lang={lang}
       />
     )}
+
+    {spotlight && <AirportSpotlight title={spotlight.title} text={spotlight.text} lang={lang} />}
 
     <div class="grid gap-8 lg:grid-cols-[1fr_260px]">
       <div class="prose-article prose max-w-none dark:prose-invert">

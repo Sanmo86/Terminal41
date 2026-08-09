@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "De bistrós a cadenas internacionales"
+spotlight:
+  title: "Mira hacia arriba en la Terminal 1"
+  text: "El atrio central de la Terminal 1, con sus tubos de escaleras mecánicas de cristal entrecruzados diseñados por Paul Andreu, es una de las piezas de arquitectura aeroportuaria de los años 70 más fotografiadas del mundo."
+hubAirlines: ["Air France", "Delta", "KLM", "Korean Air"]
 ---
 
 París-Charles de Gaulle (IATA: **CDG**) es la principal puerta de entrada internacional de Francia y el segundo aeropuerto con más tráfico de Europa, con más de 70 millones de pasajeros al año. Está a unos 25 km al noreste del centro de París y es el hub principal de Air France y la puerta de entrada principal de SkyTeam a Europa occidental.

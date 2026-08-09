@@ -53,6 +53,10 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Té a la menta, tajín, cadenas"
+spotlight:
+  title: "Fíjate en la fachada de mashrabiya"
+  text: "El exterior de la terminal usa un enrejado tradicional marroquí (mashrabiya) que filtra la luz solar y reduce la necesidad de aire acondicionado — un guiño arquitectónico llamativo antes incluso de llegar a la Medina."
+hubAirlines: ["Royal Air Maroc", "Ryanair", "easyJet", "Transavia"]
 ---
 
 El Aeropuerto de Marrakech Menara (IATA: **RAK**) es el segundo aeropuerto con más tráfico de Marruecos y la principal puerta de entrada a la Medina de Marrakech y a la región del Atlas. Notablemente cerca de la ciudad — a solo 6 km de la plaza Jemaa el-Fnaa — ha visto un crecimiento rápido de pasajeros en paralelo al boom turístico de Marruecos, con fuertes conexiones chárter y low-cost con Europa.
