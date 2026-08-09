@@ -1,4 +1,6 @@
 ---
+lang: "en"
+articleSlug: "barcelona-el-prat"
 title: "Barcelona-El Prat Airport: The Complete Traveler's Guide"
 airport: "Josep Tarradellas Barcelona-El Prat Airport"
 iataCode: "BCN"
@@ -6,7 +8,7 @@ city: "Barcelona"
 country: "Spain"
 date: 2026-07-20
 updatedDate: 2026-08-09
-image: "./cover.svg"
+image: "/images/barcelona-el-prat/cover.svg"
 imageAlt: "Illustration of Barcelona-El Prat Airport terminal building"
 excerpt: "A practical guide to Barcelona-El Prat: terminals, airlines, transport into the city, parking, wifi, lounges, and how to make the most of a layover."
 region: "europe"
@@ -40,13 +42,17 @@ transportOptions:
     time: "~25–40 min"
     note: "+€4.60 airport supplement"
 amenities:
-  - label: "Wifi"
+  - key: "wifi"
+    label: "Wifi"
     detail: "Time-limited free session"
-  - label: "Lounges"
+  - key: "lounges"
+    label: "Lounges"
     detail: "Sala VIP + Priority Pass"
-  - label: "Duty-Free"
+  - key: "duty-free"
+    label: "Duty-Free"
     detail: "Cava, gourmet, fashion"
-  - label: "Dining"
+  - key: "dining"
+    label: "Dining"
     detail: "Catalan food, best in T1"
 ---
 

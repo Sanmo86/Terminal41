@@ -13,8 +13,13 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  image: {
-    // Sharp is bundled with Astro and used automatically for local images
-    // referenced via the content collections `image()` schema helper.
+  // English is the default and stays unprefixed at existing URLs (already
+  // indexed by Google — must not change). Spanish lives under /es/.
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'es'],
+    routing: {
+      prefixDefaultLocale: false,
+    },
   },
 });

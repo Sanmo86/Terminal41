@@ -1,28 +1,32 @@
 ---
-import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import RegionBadge from './RegionBadge.astro';
+import type { Lang } from '../i18n/ui';
 
 interface Props {
   entry: CollectionEntry<'airports'>;
+  lang: Lang;
 }
 
-const { entry } = Astro.props;
+const { entry, lang } = Astro.props;
 const { title, city, country, iataCode, image, imageAlt, excerpt, region } = entry.data;
+const href = lang === 'es' ? `/es/airports/${entry.data.articleSlug}` : `/airports/${entry.data.articleSlug}`;
 ---
 
 <a
-  href={`/airports/${entry.slug}`}
+  href={href}
   data-region={region}
   data-search={`${title} ${city} ${country} ${iataCode}`.toLowerCase()}
   class="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md dark:border-slate-800 dark:bg-slate-900"
 >
   <div class="relative aspect-[16/9] w-full overflow-hidden bg-slate-100 dark:bg-slate-800">
-    <Image
+    <img
       src={image}
       alt={imageAlt}
       width={640}
       height={360}
+      loading="lazy"
+      decoding="async"
       class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
     />
     <span class="absolute left-3 top-3 rounded-md bg-slate-950/70 px-2 py-1 text-xs font-bold tracking-wide text-white">
@@ -30,7 +34,7 @@ const { title, city, country, iataCode, image, imageAlt, excerpt, region } = ent
     </span>
   </div>
   <div class="flex flex-1 flex-col gap-2 p-4">
-    <RegionBadge region={region} class="self-start" linked={false} />
+    <RegionBadge region={region} lang={lang} class="self-start" linked={false} />
     <h3 class="text-lg font-bold leading-snug text-slate-900 group-hover:text-brand-700 dark:text-slate-100 dark:group-hover:text-brand-300">
       {title}
     </h3>

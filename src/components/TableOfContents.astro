@@ -1,4 +1,6 @@
 ---
+import { useTranslations, type Lang } from '../i18n/ui';
+
 interface Heading {
   depth: number;
   slug: string;
@@ -7,16 +9,18 @@ interface Heading {
 
 interface Props {
   headings: Heading[];
+  lang: Lang;
 }
 
-const { headings } = Astro.props;
+const { headings, lang } = Astro.props;
+const t = useTranslations(lang);
 // Only show h2/h3 — h1 is the article title itself, deeper levels get noisy.
 const items = headings.filter((h) => h.depth === 2 || h.depth === 3);
 ---
 
 {items.length > 0 && (
-  <nav aria-label="Table of contents" class="rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm dark:border-slate-800 dark:bg-slate-900">
-    <p class="mb-2 font-semibold text-slate-700 dark:text-slate-200">On this page</p>
+  <nav aria-label={t('toc.title')} class="rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm dark:border-slate-800 dark:bg-slate-900">
+    <p class="mb-2 font-semibold text-slate-700 dark:text-slate-200">{t('toc.title')}</p>
     <ul class="space-y-1.5">
       {items.map((h) => (
         <li class={h.depth === 3 ? 'ml-3' : ''}>

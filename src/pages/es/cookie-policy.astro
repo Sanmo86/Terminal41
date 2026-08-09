@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../config/site';
+
+const lastUpdated = '9 de agosto de 2026';
+---
+
+<BaseLayout title="Política de Cookies" description={`Política de cookies de ${SITE.name}.`} lang="es">
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">Política de Cookies</h1>
+    <p class="mt-2 text-sm text-slate-400">Última actualización: {lastUpdated}</p>
+
+    <div class="prose mt-6 max-w-none dark:prose-invert">
+      <h2>¿Qué son las cookies?</h2>
+      <p>
+        Las cookies (y tecnologías similares como el almacenamiento local) son pequeños fragmentos de
+        datos que una web puede guardar en tu navegador, normalmente para recordar algo entre
+        visitas — una preferencia, una sesión de acceso, o en nuestro caso, si ya has respondido al
+        banner de cookies.
+      </p>
+
+      <h2>Siempre activas — no requieren consentimiento</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Nombre</th>
+            <th>Tipo</th>
+            <th>Propósito</th>
+            <th>Duración</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>terminal41-cookie-consent</code></td>
+            <td>Almacenamiento local (no es una cookie)</td>
+            <td>Recuerda si aceptaste o rechazaste el banner de cookies</td>
+            <td>Hasta que borres los datos del navegador</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>Esta es puramente funcional — es lo que hace que el banner no vuelva a aparecer en cada página.</p>
+
+      <h2>Solo activas si haces clic en "Aceptar"</h2>
+      <p>
+        Usamos <strong>Google Analytics</strong> para entender qué guías se leen y cómo llega la
+        gente a la web. Solo empieza a funcionar después de que hagas clic en "Aceptar" en el banner
+        de cookies — si rechazas, o todavía no has elegido, ninguna de las cookies de abajo se
+        activa.
+      </p>
+      <table>
+        <thead>
+          <tr>
+            <th>Nombre</th>
+            <th>Proveedor</th>
+            <th>Propósito</th>
+            <th>Duración</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>_ga</code></td>
+            <td>Google Analytics</td>
+            <td>Distingue visitantes únicos</td>
+            <td>~2 años</td>
+          </tr>
+          <tr>
+            <td><code>_ga_&lt;id-contenedor&gt;</code></td>
+            <td>Google Analytics</td>
+            <td>Mantiene el estado de sesión de la propiedad GA4</td>
+            <td>~2 años</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>
+        El uso que Google hace de estos datos se rige por su propia
+        <a href="https://policies.google.com/privacy?hl=es" target="_blank" rel="noopener noreferrer">Política de Privacidad</a>.
+        Puedes optar por no participar en el seguimiento de Google Analytics en todas las webs con su
+        <a href="https://tools.google.com/dlpage/gaoptout?hl=es" target="_blank" rel="noopener noreferrer">complemento de navegador</a>,
+        o simplemente hacer clic en "Rechazar" en nuestro banner.
+      </p>
+
+      <h2>Gestionar tu elección</h2>
+      <p>
+        Puedes cambiar de opinión en cualquier momento borrando el almacenamiento local de tu
+        navegador para este sitio, lo que hará que el banner de cookies vuelva a aparecer en tu
+        próxima visita. La mayoría de navegadores también te permiten bloquear o eliminar cookies y
+        almacenamiento local por completo desde su configuración de privacidad.
+      </p>
+
+      <h2>Contacto</h2>
+      <p>
+        Las consultas sobre esta política pueden enviarse a <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

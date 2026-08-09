@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../config/site';
+
+const lastUpdated = '9 de agosto de 2026';
+---
+
+<BaseLayout title="Política de Privacidad" description={`Política de privacidad de ${SITE.name}.`} lang="es">
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">Política de Privacidad</h1>
+    <p class="mt-2 text-sm text-slate-400">Última actualización: {lastUpdated}</p>
+
+    <div class="prose mt-6 max-w-none dark:prose-invert">
+      <p>
+        Esta política explica qué pasa con tus datos cuando visitas {SITE.name}
+        ({SITE.url}), operado por {SITE.legalName}.
+      </p>
+
+      <h2>Qué recogemos</h2>
+      <p>
+        {SITE.name} no requiere cuenta de usuario y no tiene formularios que recojan datos
+        personales. El buscador de la web funciona enteramente en tu navegador y nunca envía tus
+        términos de búsqueda a un servidor.
+      </p>
+      <p>
+        Lo único que se guarda localmente en tu dispositivo por defecto es tu elección en el banner
+        de cookies (aceptar/rechazar), guardada en el almacenamiento local de tu navegador para no
+        volver a preguntarte en cada visita.
+      </p>
+      <p>
+        Si haces clic en <strong>"Aceptar"</strong> en el banner de cookies, también usamos
+        <strong>Google Analytics</strong> para entender qué guías se leen más, de dónde vienen
+        aproximadamente los visitantes, y datos generales de dispositivo/ubicación (a nivel de
+        ciudad, no ubicación precisa) — nada que te identifique personalmente. Si haces clic en
+        "Rechazar", nada de esto se ejecuta. Consulta nuestra
+        <a href="/es/cookie-policy">Política de Cookies</a> para ver las cookies exactas implicadas.
+      </p>
+
+      <h2>Terceros</h2>
+      <p>
+        Este sitio está alojado por Vercel Inc., que procesa datos técnicos estándar (como
+        direcciones IP) como parte de servir cualquier web, bajo su propia política de privacidad.
+        Los enlaces a sitios externos (autoridades aeroportuarias, operadores de transporte, etc.) se
+        ofrecen por comodidad; una vez que sales de {SITE.name}, aplica la política de privacidad
+        propia de ese sitio.
+      </p>
+
+      <h2>Tus derechos</h2>
+      <p>
+        Dado que actualmente no recogemos ni almacenamos datos personales más allá de la elección de
+        consentimiento de cookies descrita arriba, generalmente no hay nada que acceder, corregir o
+        eliminar por nuestra parte. Si eso cambia, esta sección se actualizará para explicar cómo
+        ejercer tus derechos (acceso, rectificación, supresión y oposición) sobre cualquier dato que
+        tengamos.
+      </p>
+
+      <h2>Contacto</h2>
+      <p>
+        Las consultas sobre esta política pueden enviarse a <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

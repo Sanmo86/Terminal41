@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../config/site';
+import { useTranslations } from '../../i18n/ui';
+
+const lang = 'es';
+const t = useTranslations(lang);
+const indexUrl = '/es/search-index.json';
+const articleBase = '/es/airports';
+---
+
+<BaseLayout title={t('search.title')} description={`Busca en ${SITE.name} un aeropuerto o ciudad.`} lang={lang}>
+  <section class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">{t('search.title')}</h1>
+    <p class="mt-2 text-slate-500 dark:text-slate-400">{t('search.subtitle')}</p>
+
+    <div class="mt-6 flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-2.5 shadow-sm focus-within:ring-2 focus-within:ring-brand-400 dark:border-slate-800 dark:bg-slate-900">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" class="shrink-0 text-slate-400" aria-hidden="true">
+        <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" />
+        <path d="M21 21l-4.3-4.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+      </svg>
+      <input
+        id="search-input"
+        type="search"
+        placeholder={t('search.placeholder')}
+        class="w-full bg-transparent text-slate-700 outline-none placeholder:text-slate-400 dark:text-slate-200"
+        autofocus
+      />
+    </div>
+
+    <ul id="search-results" class="mt-6 space-y-3"></ul>
+    <p id="search-empty" class="mt-6 hidden text-sm text-slate-400">{t('search.noResults')}</p>
+  </section>
+</BaseLayout>
+
+<script is:inline define:vars={{ indexUrl, articleBase }}>
+  const input = document.getElementById('search-input');
+  const list = document.getElementById('search-results');
+  const empty = document.getElementById('search-empty');
+
+  let items = [];
+
+  function render(filtered) {
+    list.innerHTML = filtered
+      .map(
+        (item) => `
+        <li>
+          <a href="${articleBase}/${item.slug}" class="block rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md dark:border-slate-800 dark:bg-slate-900">
+            <div class="flex items-center justify-between">
+              <span class="font-semibold text-slate-800 dark:text-slate-100">${item.title}</span>
+              <span class="rounded bg-slate-100 px-1.5 py-0.5 text-xs font-bold text-slate-500 dark:bg-slate-800 dark:text-slate-400">${item.iataCode}</span>
+            </div>
+            <p class="mt-1 text-sm text-slate-500 dark:text-slate-400">${item.city}, ${item.country}</p>
+          </a>
+        </li>`
+      )
+      .join('');
+    empty.classList.toggle('hidden', filtered.length !== 0);
+  }
+
+  function filter(query) {
+    const q = query.trim().toLowerCase();
+    if (!q) return render(items);
+    render(
+      items.filter((item) =>
+        [item.title, item.airport, item.city, item.country, item.iataCode]
+          .join(' ')
+          .toLowerCase()
+          .includes(q)
+      )
+    );
+  }
+
+  async function init() {
+    const res = await fetch(indexUrl);
+    items = await res.json();
+
+    const params = new URLSearchParams(window.location.search);
+    const initialQuery = params.get('q') ?? '';
+    input.value = initialQuery;
+    filter(initialQuery);
+
+    input.addEventListener('input', () => filter(input.value));
+  }
+
+  init();
+</script>

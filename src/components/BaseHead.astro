@@ -1,18 +1,25 @@
 ---
-import { SITE } from '../config/site';
+import { SITE, LOCALE_META } from '../config/site';
+import { getLocalizedPath, type Lang } from '../i18n/ui';
 
 interface Props {
   title: string;
   description: string;
   image?: string; // absolute or root-relative URL
   article?: boolean;
+  lang: Lang;
 }
 
-const { title, description, image, article = false } = Astro.props;
+const { title, description, image, article = false, lang } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImageURL = new URL(image ?? SITE.defaultOgImage, Astro.site);
 const pageTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
+
+// hreflang alternates — tells search engines the English and Spanish pages
+// are translations of each other, not duplicate content.
+const enURL = new URL(getLocalizedPath(Astro.url.pathname, 'en'), Astro.site);
+const esURL = new URL(getLocalizedPath(Astro.url.pathname, 'es'), Astro.site);
 ---
 
 <meta charset="utf-8" />
@@ -20,6 +27,9 @@ const pageTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="sitemap" href="/sitemap-index.xml" />
 <link rel="canonical" href={canonicalURL} />
+<link rel="alternate" hreflang="en" href={enURL} />
+<link rel="alternate" hreflang="es" href={esURL} />
+<link rel="alternate" hreflang="x-default" href={enURL} />
 <meta name="generator" content={Astro.generator} />
 <meta name="google-site-verification" content="JSG8HMXq24u-3xgcTJX_KvoKl4UdzOdimtGp7g4pp8o" />
 
@@ -35,7 +45,7 @@ const pageTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
 <meta property="og:description" content={description} />
 <meta property="og:image" content={ogImageURL} />
 <meta property="og:site_name" content={SITE.name} />
-<meta property="og:locale" content={SITE.locale} />
+<meta property="og:locale" content={LOCALE_META[lang].ogLocale} />
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image" />

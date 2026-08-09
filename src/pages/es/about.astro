@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../config/site';
+---
+
+<BaseLayout title="Quiénes somos" description={`Qué es ${SITE.name} y quién está detrás.`} lang="es">
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">Quiénes somos</h1>
+
+    <div class="prose mt-6 max-w-none dark:prose-invert">
+      <p>
+        Terminal41 es una colección creciente de guías de aeropuertos prácticas y sin relleno — el
+        tipo de información que de verdad quieres antes de un vuelo: en qué terminal estás, cómo
+        llegar a la ciudad sin pagar de más, cuánto se tarda realmente en pasar seguridad, dónde
+        comer, y qué hacer si tu escala se alarga. Nada de listas rellenas, solo los detalles que
+        hacen que un viaje sea más fácil.
+      </p>
+
+      <h2>Por qué existe</h2>
+      <p>
+        La información de aeropuertos está repartida en internet entre docenas de pestañas — una web
+        para precios de transporte, otra para mapas de terminal, un hilo de foro con tiempos de
+        espera de seguridad de hace tres años. Terminal41 intenta reunir lo útil de todo eso en un
+        solo sitio, por aeropuerto, lo más actualizado y concreto posible.
+      </p>
+
+      <h2>Quién está detrás</h2>
+      <p>
+        Terminal41 lo empezó un estudiante de turismo con un interés genuino en cómo funcionan los
+        aeropuertos y cómo se mueve realmente la gente por ellos — en parte proyecto personal, en
+        parte una forma de aplicar lo que se estudia en turismo fuera del aula. La web está en
+        constante evolución y seguirá creciendo con más aeropuertos, más detalle y mejores
+        herramientas con el tiempo.
+      </p>
+
+      <h2>Contacto</h2>
+      <p>
+        ¿Has visto algo desactualizado, quieres que cubramos un aeropuerto concreto, o simplemente
+        quieres saludar? Escribe a
+        <a href={`mailto:${SITE.contactEmail}`} class="text-brand-700 hover:underline dark:text-brand-300">{SITE.contactEmail}</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

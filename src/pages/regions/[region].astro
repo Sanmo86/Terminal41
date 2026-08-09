@@ -3,32 +3,36 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { REGIONS, regionLabel, SITE } from '../../config/site';
+import { useTranslations, regionPageTitle } from '../../i18n/ui';
+
+const lang = 'en';
+const t = useTranslations(lang);
 
 export async function getStaticPaths() {
   return REGIONS.map((r) => ({ params: { region: r.slug } }));
 }
 
 const { region } = Astro.params;
-const entries = (await getCollection('airports', ({ data }) => !data.draft && data.region === region)).sort(
+const entries = (await getCollection('airports', ({ data }) => !data.draft && data.lang === lang && data.region === region)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
 );
-const label = regionLabel(region!);
+const label = regionLabel(region!, lang);
 ---
 
-<BaseLayout title={`${label} airports`} description={`${SITE.name} airport guides in ${label}.`}>
+<BaseLayout title={regionPageTitle(label, lang)} description={`${SITE.name} airport guides in ${label}.`} lang={lang}>
   <section class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
     <nav class="mb-2 text-sm text-slate-500 dark:text-slate-400">
-      <a href="/regions" class="hover:text-brand-700 dark:hover:text-brand-300">Regions</a>
+      <a href="/regions" class="hover:text-brand-700 dark:hover:text-brand-300">{t('regions.crumb')}</a>
       <span class="mx-1">/</span>
       <span>{label}</span>
     </nav>
-    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">{label} airports</h1>
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">{regionPageTitle(label, lang)}</h1>
 
     {entries.length === 0 ? (
-      <p class="mt-8 text-slate-500 dark:text-slate-400">No guides published for this region yet.</p>
+      <p class="mt-8 text-slate-500 dark:text-slate-400">{t('regions.noResults')}</p>
     ) : (
       <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {entries.map((entry) => <ArticleCard entry={entry} />)}
+        {entries.map((entry) => <ArticleCard entry={entry} lang={lang} />)}
       </div>
     )}
   </section>

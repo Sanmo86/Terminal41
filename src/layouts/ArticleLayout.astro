@@ -1,5 +1,4 @@
 ---
-import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import RegionBadge from '../components/RegionBadge.astro';
@@ -9,6 +8,7 @@ import QuickFacts from '../components/QuickFacts.astro';
 import ArrivalTimeHelper from '../components/ArrivalTimeHelper.astro';
 import TransportOptions from '../components/TransportOptions.astro';
 import AmenityGrid from '../components/AmenityGrid.astro';
+import { useTranslations, type Lang } from '../i18n/ui';
 
 interface Heading {
   depth: number;
@@ -19,9 +19,11 @@ interface Heading {
 interface Props {
   entry: CollectionEntry<'airports'>;
   headings: Heading[];
+  lang: Lang;
 }
 
-const { entry, headings } = Astro.props;
+const { entry, headings, lang } = Astro.props;
+const t = useTranslations(lang);
 const {
   title,
   airport,
@@ -44,17 +46,19 @@ const {
   amenities,
 } = entry.data;
 
+const homeHref = lang === 'es' ? '/es/' : '/';
+const dateLocale = lang === 'es' ? 'es-ES' : 'en-US';
 const dateOpts: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'long', day: 'numeric' };
-const formattedDate = date.toLocaleDateString('en-US', dateOpts);
-const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
+const formattedDate = date.toLocaleDateString(dateLocale, dateOpts);
+const formattedUpdated = updatedDate?.toLocaleDateString(dateLocale, dateOpts);
 ---
 
-<BaseLayout title={seoTitle ?? title} description={seoDescription ?? excerpt} image={image.src} article>
+<BaseLayout title={seoTitle ?? title} description={seoDescription ?? excerpt} image={image} article lang={lang}>
   <article class="mx-auto max-w-6xl px-4 py-8 sm:px-6">
     <nav class="mb-4 text-sm text-slate-500 dark:text-slate-400">
-      <a href="/" class="hover:text-brand-700 dark:hover:text-brand-300">Home</a>
+      <a href={homeHref} class="hover:text-brand-700 dark:hover:text-brand-300">{t('nav.home')}</a>
       <span class="mx-1">/</span>
-      <RegionBadge region={region} />
+      <RegionBadge region={region} lang={lang} />
     </nav>
 
     <header class="mb-6">
@@ -63,12 +67,12 @@ const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
         {airport} ({iataCode}) — {city}, {country}
       </p>
       <p class="mt-1 text-xs text-slate-400 dark:text-slate-500">
-        Published {formattedDate}
-        {formattedUpdated && ` · Updated ${formattedUpdated}`}
+        {t('article.published')} {formattedDate}
+        {formattedUpdated && ` · ${t('article.updated')} ${formattedUpdated}`}
       </p>
     </header>
 
-    <Image src={image} alt={imageAlt} width={1200} height={630} class="mb-8 w-full rounded-xl object-cover" />
+    <img src={image} alt={imageAlt} width={1200} height={630} loading="eager" decoding="async" class="mb-8 w-full rounded-xl object-cover" />
 
     {quickFacts && (
       <QuickFacts
@@ -76,6 +80,7 @@ const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
         passengers={quickFacts.passengers}
         terminals={quickFacts.terminals}
         distanceToCity={quickFacts.distanceToCity}
+        lang={lang}
       />
     )}
 
@@ -85,7 +90,7 @@ const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
 
         {transportOptions && transportOptions.length > 0 && (
           <>
-            <h2 class="not-prose mb-1 text-lg font-bold text-slate-800 dark:text-slate-100">Getting there, at a glance</h2>
+            <h2 class="not-prose mb-1 text-lg font-bold text-slate-800 dark:text-slate-100">{t('article.gettingThere')}</h2>
             <TransportOptions items={transportOptions} />
           </>
         )}
@@ -100,12 +105,13 @@ const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
             typeBTypical={security.typeBTypical}
             typeBPeak={security.typeBPeak}
             typeBArrival={arrivalGuidance.typeB}
+            lang={lang}
           />
         )}
 
         {amenities && amenities.length > 0 && (
           <>
-            <h2 class="not-prose mb-1 text-lg font-bold text-slate-800 dark:text-slate-100">Amenities, at a glance</h2>
+            <h2 class="not-prose mb-1 text-lg font-bold text-slate-800 dark:text-slate-100">{t('article.amenitiesGlance')}</h2>
             <AmenityGrid items={amenities} />
           </>
         )}
@@ -115,7 +121,7 @@ const formattedUpdated = updatedDate?.toLocaleDateString('en-US', dateOpts);
       </div>
       <aside class="order-first lg:order-last">
         <div class="lg:sticky lg:top-20 lg:space-y-4">
-          <TableOfContents headings={headings} />
+          <TableOfContents headings={headings} lang={lang} />
           <AdSlot placement="sidebar" />
         </div>
       </aside>

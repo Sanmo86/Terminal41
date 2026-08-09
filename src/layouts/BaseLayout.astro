@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import CookieConsent from '../components/CookieConsent.astro';
 import Analytics from '../components/Analytics.astro';
+import type { Lang } from '../i18n/ui';
 import '../styles/global.css';
 
 interface Props {
@@ -11,23 +12,24 @@ interface Props {
   description: string;
   image?: string;
   article?: boolean;
+  lang: Lang;
 }
 
-const { title, description, image, article = false } = Astro.props;
+const { title, description, image, article = false, lang } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
-    <BaseHead title={title} description={description} image={image} article={article} />
+    <BaseHead title={title} description={description} image={image} article={article} lang={lang} />
   </head>
   <body class="flex min-h-screen flex-col">
-    <Header />
+    <Header lang={lang} pathname={Astro.url.pathname} />
     <main class="flex-1">
       <slot />
     </main>
-    <Footer />
-    <CookieConsent />
+    <Footer lang={lang} />
+    <CookieConsent lang={lang} />
     <Analytics />
   </body>
 </html>

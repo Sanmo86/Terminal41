@@ -6,7 +6,7 @@ import { GA_MEASUREMENT_ID } from '../config/site';
 ---
 
 {GA_MEASUREMENT_ID && (
-  <script define:vars={{ GA_MEASUREMENT_ID }}>
+  <script is:inline define:vars={{ GA_MEASUREMENT_ID }}>
     let gaLoaded = false;
 
     function loadGoogleAnalytics() {

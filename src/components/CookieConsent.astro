@@ -4,6 +4,15 @@
 // without waiting for a page reload. Nothing analytics-related loads until
 // this fires (or `terminal41HasAnalyticsConsent()` already returns true
 // from a previous visit).
+import { useTranslations, type Lang } from '../i18n/ui';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const cookiePolicyHref = lang === 'es' ? '/es/cookie-policy' : '/cookie-policy';
 ---
 
 <div
@@ -14,9 +23,8 @@
 >
   <div class="mx-auto flex max-w-6xl flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
     <p class="text-sm text-slate-600 dark:text-slate-300">
-      We use cookies for essential site functionality and, if you allow it, to understand how the
-      site is used. Read our
-      <a href="/cookie-policy" class="underline hover:text-brand-700 dark:hover:text-brand-300">Cookie Policy</a>.
+      {t('cookie.message')}
+      <a href={cookiePolicyHref} class="underline hover:text-brand-700 dark:hover:text-brand-300">{t('cookie.policyLink')}</a>.
     </p>
     <div class="flex shrink-0 gap-2">
       <button
@@ -24,14 +32,14 @@
         id="cookie-decline"
         class="rounded-full border border-slate-300 px-4 py-1.5 text-sm font-semibold text-slate-600 hover:bg-slate-50 dark:border-slate-700 dark:text-slate-300 dark:hover:bg-slate-900"
       >
-        Decline
+        {t('cookie.decline')}
       </button>
       <button
         type="button"
         id="cookie-accept"
         class="rounded-full bg-brand-600 px-4 py-1.5 text-sm font-semibold text-white hover:bg-brand-700"
       >
-        Accept
+        {t('cookie.accept')}
       </button>
     </div>
   </div>

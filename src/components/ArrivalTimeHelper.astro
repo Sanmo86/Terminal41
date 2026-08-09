@@ -2,6 +2,8 @@
 // Small interactive widget: pick your flight type, see the recommended
 // arrival time and typical/peak security wait instantly. Pure vanilla JS,
 // no framework — supports multiple instances on a page via closest().
+import { useTranslations, type Lang } from '../i18n/ui';
+
 interface Props {
   typeALabel: string;
   typeATypical: string;
@@ -11,6 +13,7 @@ interface Props {
   typeBTypical: string;
   typeBPeak: string;
   typeBArrival: string;
+  lang: Lang;
 }
 
 const {
@@ -22,12 +25,14 @@ const {
   typeBTypical,
   typeBPeak,
   typeBArrival,
+  lang,
 } = Astro.props;
+const t = useTranslations(lang);
 ---
 
 <div class="arrival-helper not-prose my-8 rounded-2xl border border-brand-200 bg-brand-50/60 p-5 dark:border-brand-900 dark:bg-brand-950/30">
-  <p class="text-sm font-semibold text-slate-700 dark:text-slate-200">✈️ What kind of flight are you taking?</p>
-  <div class="mt-3 flex flex-wrap gap-2" role="group" aria-label="Flight type">
+  <p class="text-sm font-semibold text-slate-700 dark:text-slate-200">{t('arrival.question')}</p>
+  <div class="mt-3 flex flex-wrap gap-2" role="group" aria-label={t('arrival.question')}>
     <button
       type="button"
       class="option-btn rounded-full border border-brand-300 bg-white px-4 py-1.5 text-sm font-semibold text-brand-700 shadow-sm transition hover:bg-brand-50 aria-pressed:bg-brand-600 aria-pressed:text-white dark:border-brand-700 dark:bg-slate-900 dark:text-brand-300"
@@ -48,19 +53,19 @@ const {
 
   <div class="mt-4 grid gap-3 sm:grid-cols-3">
     <div class="rounded-lg bg-white p-3 dark:bg-slate-900">
-      <p class="text-xs uppercase tracking-wide text-slate-400">Arrive at the airport</p>
+      <p class="text-xs uppercase tracking-wide text-slate-400">{t('arrival.arriveAt')}</p>
       <p class="result-arrival mt-1 text-lg font-bold text-slate-800 dark:text-slate-100" data-a={typeAArrival} data-b={typeBArrival}>
         {typeAArrival}
       </p>
     </div>
     <div class="rounded-lg bg-white p-3 dark:bg-slate-900">
-      <p class="text-xs uppercase tracking-wide text-slate-400">Typical security wait</p>
+      <p class="text-xs uppercase tracking-wide text-slate-400">{t('arrival.typicalWait')}</p>
       <p class="result-typical mt-1 text-lg font-bold text-slate-800 dark:text-slate-100" data-a={typeATypical} data-b={typeBTypical}>
         {typeATypical}
       </p>
     </div>
     <div class="rounded-lg bg-white p-3 dark:bg-slate-900">
-      <p class="text-xs uppercase tracking-wide text-slate-400">Peak-hour wait</p>
+      <p class="text-xs uppercase tracking-wide text-slate-400">{t('arrival.peakWait')}</p>
       <p class="result-peak mt-1 text-lg font-bold text-slate-800 dark:text-slate-100" data-a={typeAPeak} data-b={typeBPeak}>
         {typeAPeak}
       </p>

@@ -1,11 +1,13 @@
 ---
+lang: "en"
+articleSlug: "new-york-jfk"
 title: "New York JFK Airport: The Complete Traveler's Guide"
 airport: "John F. Kennedy International Airport"
 iataCode: "JFK"
 city: "New York"
 country: "United States"
 date: 2026-08-09
-image: "./cover.svg"
+image: "/images/new-york-jfk/cover.svg"
 imageAlt: "Illustration of John F. Kennedy International Airport terminal building"
 excerpt: "Everything you need to know about JFK: terminals, airlines, how to get into Manhattan, parking, wifi, lounges, and what to do during a long layover."
 region: "americas"
@@ -39,13 +41,17 @@ transportOptions:
     time: "~45–60 min"
     note: "+tolls/tip, +$5 rush fee"
 amenities:
-  - label: "Wifi"
+  - key: "wifi"
+    label: "Wifi"
     detail: "Free session, then paid"
-  - label: "Lounges"
+  - key: "lounges"
+    label: "Lounges"
     detail: "Delta Sky Club, Admirals"
-  - label: "Duty-Free"
+  - key: "duty-free"
+    label: "Duty-Free"
     detail: "Fashion, NYC souvenirs"
-  - label: "Dining"
+  - key: "dining"
+    label: "Dining"
     detail: "Celebrity-chef spots, T4"
 ---
 

@@ -1,11 +1,13 @@
 ---
+lang: "en"
+articleSlug: "tokyo-haneda"
 title: "Tokyo Haneda Airport: The Complete Traveler's Guide"
 airport: "Tokyo International Airport (Haneda)"
 iataCode: "HND"
 city: "Tokyo"
 country: "Japan"
 date: 2026-08-09
-image: "./cover.svg"
+image: "/images/tokyo-haneda/cover.svg"
 imageAlt: "Illustration of Tokyo Haneda Airport terminal building"
 excerpt: "Everything you need to know about Haneda: terminals, airlines, how to get into central Tokyo, parking, wifi, lounges, and what to do during a long layover."
 region: "asia"
@@ -39,13 +41,17 @@ transportOptions:
     time: "~30–40 min"
     note: "Varies by destination/time"
 amenities:
-  - label: "Wifi"
+  - key: "wifi"
+    label: "Wifi"
     detail: "Unlimited, free everywhere"
-  - label: "Lounges"
+  - key: "lounges"
+    label: "Lounges"
     detail: "JAL Sakura, ANA Lounge"
-  - label: "Duty-Free"
+  - key: "duty-free"
+    label: "Duty-Free"
     detail: "Sake, snacks, Edo street"
-  - label: "Dining"
+  - key: "dining"
+    label: "Dining"
     detail: "Ramen, sushi, izakaya"
 ---
 

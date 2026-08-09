@@ -1,4 +1,6 @@
 ---
+lang: "en"
+articleSlug: "madrid-barajas"
 title: "Madrid-Barajas Airport: The Complete Traveler's Guide"
 airport: "Adolfo Suárez Madrid-Barajas Airport"
 iataCode: "MAD"
@@ -6,7 +8,7 @@ city: "Madrid"
 country: "Spain"
 date: 2026-08-01
 updatedDate: 2026-08-09
-image: "./cover.svg"
+image: "/images/madrid-barajas/cover.svg"
 imageAlt: "Illustration of Madrid-Barajas Airport terminal building"
 excerpt: "Everything you need to know about Madrid-Barajas: terminals, airlines, how to get into the city, parking, wifi, lounges, and what to do during a long layover."
 region: "europe"
@@ -40,13 +42,17 @@ transportOptions:
     time: "~20–30 min"
     note: "Regulated fare"
 amenities:
-  - label: "Wifi"
+  - key: "wifi"
+    label: "Wifi"
     detail: "15–30 min free session"
-  - label: "Lounges"
+  - key: "lounges"
+    label: "Lounges"
     detail: "Iberia VIP + Priority Pass"
-  - label: "Duty-Free"
+  - key: "duty-free"
+    label: "Duty-Free"
     detail: "Jamón, wine, olive oil"
-  - label: "Dining"
+  - key: "dining"
+    label: "Dining"
     detail: "Tapas to sit-down, best in T4"
 ---
 

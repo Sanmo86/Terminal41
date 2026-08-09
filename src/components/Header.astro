@@ -1,10 +1,22 @@
 ---
-import { SITE, REGIONS } from '../config/site';
+import { SITE, REGIONS, regionLabel } from '../config/site';
+import { useTranslations, type Lang } from '../i18n/ui';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+
+interface Props {
+  lang: Lang;
+  pathname?: string;
+}
+
+const { lang, pathname = '/' } = Astro.props;
+const t = useTranslations(lang);
+const prefix = lang === 'es' ? '/es' : '';
+const homeHref = lang === 'es' ? '/es/' : '/';
 ---
 
 <header class="sticky top-0 z-40 border-b border-slate-200 bg-white/90 backdrop-blur dark:border-slate-800 dark:bg-slate-950/90">
   <div class="mx-auto flex max-w-6xl items-center gap-4 px-4 py-3 sm:px-6">
-    <a href="/" class="flex shrink-0 items-center gap-2 text-lg font-bold tracking-tight text-brand-800 dark:text-brand-300">
+    <a href={homeHref} class="flex shrink-0 items-center gap-2 text-lg font-bold tracking-tight text-brand-800 dark:text-brand-300">
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <path d="M2.5 19.5L21.5 12L2.5 4.5L2.5 10.5L16.5 12L2.5 13.5L2.5 19.5Z" fill="currentColor" />
       </svg>
@@ -12,22 +24,24 @@ import { SITE, REGIONS } from '../config/site';
     </a>
 
     <nav class="hidden flex-1 items-center gap-5 text-sm font-medium text-slate-600 md:flex dark:text-slate-300">
-      <a href="/" class="hover:text-brand-700 dark:hover:text-brand-300">Home</a>
+      <a href={homeHref} class="hover:text-brand-700 dark:hover:text-brand-300">{t('nav.home')}</a>
       <div class="group relative">
         <button type="button" class="flex items-center gap-1 hover:text-brand-700 dark:hover:text-brand-300">
-          Regions
+          {t('nav.regions')}
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </button>
         <div class="invisible absolute left-0 top-full z-50 w-48 rounded-lg border border-slate-200 bg-white py-2 opacity-0 shadow-lg transition group-hover:visible group-hover:opacity-100 dark:border-slate-800 dark:bg-slate-900">
           {REGIONS.map((r) => (
-            <a href={`/regions/${r.slug}`} class="block px-4 py-1.5 hover:bg-slate-50 dark:hover:bg-slate-800">{r.label}</a>
+            <a href={`${prefix}/regions/${r.slug}`} class="block px-4 py-1.5 hover:bg-slate-50 dark:hover:bg-slate-800">{regionLabel(r.slug, lang)}</a>
           ))}
         </div>
       </div>
-      <a href="/about" class="hover:text-brand-700 dark:hover:text-brand-300">About</a>
+      <a href={`${prefix}/about`} class="hover:text-brand-700 dark:hover:text-brand-300">{t('nav.about')}</a>
     </nav>
 
-    <form action="/search" method="get" class="ml-auto flex w-full max-w-xs items-center gap-2 rounded-full border border-slate-200 bg-slate-50 px-3 py-1.5 text-sm focus-within:ring-2 focus-within:ring-brand-400 dark:border-slate-800 dark:bg-slate-900">
+    <LanguageSwitcher lang={lang} pathname={pathname} class="hidden md:inline-flex" />
+
+    <form action={`${prefix}/search`} method="get" class="ml-auto flex w-full max-w-xs items-center gap-2 rounded-full border border-slate-200 bg-slate-50 px-3 py-1.5 text-sm focus-within:ring-2 focus-within:ring-brand-400 dark:border-slate-800 dark:bg-slate-900">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" class="shrink-0 text-slate-400" aria-hidden="true">
         <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" />
         <path d="M21 21l-4.3-4.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -35,9 +49,9 @@ import { SITE, REGIONS } from '../config/site';
       <input
         type="search"
         name="q"
-        placeholder="Search airport or city…"
+        placeholder={t('nav.searchPlaceholder')}
         class="w-full bg-transparent text-slate-700 outline-none placeholder:text-slate-400 dark:text-slate-200"
-        aria-label="Search airports"
+        aria-label={t('nav.searchLabel')}
       />
     </form>
 
@@ -47,7 +61,7 @@ import { SITE, REGIONS } from '../config/site';
       class="flex shrink-0 items-center justify-center rounded-lg border border-slate-200 p-2 text-slate-600 md:hidden dark:border-slate-800 dark:text-slate-300"
       aria-expanded="false"
       aria-controls="mobile-menu"
-      aria-label="Toggle navigation menu"
+      aria-label={t('nav.toggleMenu')}
     >
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
@@ -56,12 +70,15 @@ import { SITE, REGIONS } from '../config/site';
   </div>
 
   <nav id="mobile-menu" class="hidden border-t border-slate-200 px-4 py-3 text-sm font-medium text-slate-600 md:hidden dark:border-slate-800 dark:text-slate-300">
-    <a href="/" class="block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">Home</a>
-    <p class="mt-2 px-2 text-xs font-semibold uppercase tracking-wide text-slate-400">Regions</p>
+    <a href={homeHref} class="block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">{t('nav.home')}</a>
+    <p class="mt-2 px-2 text-xs font-semibold uppercase tracking-wide text-slate-400">{t('nav.regions')}</p>
     {REGIONS.map((r) => (
-      <a href={`/regions/${r.slug}`} class="block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">{r.label}</a>
+      <a href={`${prefix}/regions/${r.slug}`} class="block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">{regionLabel(r.slug, lang)}</a>
     ))}
-    <a href="/about" class="mt-2 block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">About</a>
+    <a href={`${prefix}/about`} class="mt-2 block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">{t('nav.about')}</a>
+    <div class="mt-3 border-t border-slate-200 pt-3 dark:border-slate-800">
+      <LanguageSwitcher lang={lang} pathname={pathname} />
+    </div>
   </nav>
 </header>
 

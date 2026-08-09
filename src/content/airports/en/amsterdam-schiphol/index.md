@@ -1,4 +1,6 @@
 ---
+lang: "en"
+articleSlug: "amsterdam-schiphol"
 title: "Amsterdam Schiphol Airport: The Complete Traveler's Guide"
 airport: "Amsterdam Airport Schiphol"
 iataCode: "AMS"
@@ -6,7 +8,7 @@ city: "Amsterdam"
 country: "Netherlands"
 date: 2026-06-15
 updatedDate: 2026-08-09
-image: "./cover.svg"
+image: "/images/amsterdam-schiphol/cover.svg"
 imageAlt: "Illustration of Amsterdam Schiphol Airport terminal building"
 excerpt: "The essential guide to Schiphol: its single-terminal layout, KLM's SkyTeam hub, getting into Amsterdam, parking, wifi, lounges, and long-layover tips."
 region: "europe"
@@ -40,13 +42,17 @@ transportOptions:
     time: "~20–30 min"
     note: "~€3.17/km + €0.52/min"
 amenities:
-  - label: "Wifi"
+  - key: "wifi"
+    label: "Wifi"
     detail: "Unlimited, no time cap"
-  - label: "Lounges"
+  - key: "lounges"
+    label: "Lounges"
     detail: "KLM Crown, piers E/F/M"
-  - label: "Duty-Free"
+  - key: "duty-free"
+    label: "Duty-Free"
     detail: "Cheese, tulips, genever"
-  - label: "Dining"
+  - key: "dining"
+    label: "Dining"
     detail: "Dutch & international"
 ---
 

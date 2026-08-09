@@ -1,18 +1,22 @@
 ---
+import { useTranslations, type Lang } from '../i18n/ui';
+
 interface Props {
   iataCode: string;
   passengers: string;
   terminals: string;
   distanceToCity: string;
+  lang: Lang;
 }
 
-const { iataCode, passengers, terminals, distanceToCity } = Astro.props;
+const { iataCode, passengers, terminals, distanceToCity, lang } = Astro.props;
+const t = useTranslations(lang);
 
 const stats = [
-  { label: 'IATA code', value: iataCode },
-  { label: 'Passengers', value: passengers },
-  { label: 'Terminals', value: terminals },
-  { label: 'To city center', value: distanceToCity },
+  { label: t('quickFacts.iataCode'), value: iataCode },
+  { label: t('quickFacts.passengers'), value: passengers },
+  { label: t('quickFacts.terminals'), value: terminals },
+  { label: t('quickFacts.toCityCenter'), value: distanceToCity },
 ];
 ---
 

@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../config/site';
+
+const lastUpdated = '9 de agosto de 2026';
+---
+
+<BaseLayout title="Aviso Legal" description={`Aviso legal de ${SITE.name}.`} lang="es">
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">Aviso Legal</h1>
+    <p class="mt-2 text-sm text-slate-400">Última actualización: {lastUpdated}</p>
+
+    <div class="prose mt-6 max-w-none dark:prose-invert">
+      <p>
+        Este es un aviso legal ligero, apropiado para {SITE.name} como proyecto editorial
+        independiente y no comercial gestionado por un estudiante, sin una entidad de negocio
+        registrada detrás. Si eso cambia — por ejemplo, si la web empieza a mostrar publicidad de
+        pago o a operar como negocio registrado — este aviso debería ampliarse con datos completos
+        de identificación de la empresa (NIF, domicilio social, etc.) con ayuda de un profesional
+        legal.
+      </p>
+
+      <h2>Identificación del sitio</h2>
+      <ul>
+        <li><strong>Nombre del sitio:</strong> {SITE.name}</li>
+        <li><strong>Responsable:</strong> {SITE.legalName}</li>
+        <li><strong>Email de contacto:</strong> <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a></li>
+        <li><strong>Sitio web:</strong> {SITE.url}</li>
+      </ul>
+
+      <h2>Objeto de este sitio</h2>
+      <p>
+        {SITE.name} publica contenido editorial e informativo sobre aeropuertos — terminales,
+        transporte, servicios y orientación general de viaje. Está pensado únicamente con fines
+        informativos generales y no constituye asesoramiento de viaje, legal o financiero. Los
+        precios, tiempos de espera y otros detalles prácticos son estimaciones que pueden cambiar;
+        confirma siempre la información actual con el aeropuerto, operador de transporte o aerolínea
+        correspondiente antes de viajar.
+      </p>
+
+      <h2>Alojamiento (hosting)</h2>
+      <p>
+        Este sitio está alojado por Vercel Inc. Los detalles técnicos del alojamiento los gestiona
+        ese proveedor bajo sus propias condiciones de servicio.
+      </p>
+
+      <h2>Propiedad intelectual</h2>
+      <p>
+        Salvo que se indique lo contrario, el contenido escrito y los gráficos originales de
+        {SITE.name} son creación propia del sitio y no pueden reproducirse en otro lugar sin
+        permiso. Los nombres de aeropuertos, códigos IATA y nombres de aerolíneas mencionados en
+        este sitio son propiedad de sus respectivos dueños y se usan únicamente con fines de
+        identificación.
+      </p>
+
+      <h2>Consultas</h2>
+      <p>
+        Para cualquier consulta sobre este aviso, escribe a <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

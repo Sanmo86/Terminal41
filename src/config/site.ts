@@ -3,33 +3,36 @@
 
 export const SITE = {
   name: 'Terminal41',
-  tagline: 'Your gate to smarter travel',
-  description:
-    'Terminal41 is a guide to airports around the world — terminals, airlines, parking, wifi, lounges, duty-free, and everything you need for a smooth layover.',
   url: 'https://www.terminal41.co',
   defaultOgImage: '/og-default.svg',
   twitter: '@terminal41',
-  locale: 'en-US',
   // Used on About, Legal Notice, Privacy Policy, and Cookie Policy pages.
   legalName: 'The Terminal41 Team',
   contactEmail: 'sanmo8604@gmail.com',
 };
 
+// Locale metadata (og:locale, <html lang>, etc.) — page copy (tagline,
+// description) lives in src/i18n/ui.ts alongside the rest of the UI strings.
+export const LOCALE_META = {
+  en: { ogLocale: 'en_US' },
+  es: { ogLocale: 'es_ES' },
+} as const;
+
 // Regions used for the category/tag system. Keep the `slug` stable — it is
 // used in URLs (/regions/[slug]) and in each article's frontmatter.
 export const REGIONS = [
-  { slug: 'europe', label: 'Europe' },
-  { slug: 'americas', label: 'Americas' },
-  { slug: 'asia', label: 'Asia' },
-  { slug: 'africa', label: 'Africa' },
-  { slug: 'middle-east', label: 'Middle East' },
-  { slug: 'oceania', label: 'Oceania' },
+  { slug: 'europe', label: { en: 'Europe', es: 'Europa' } },
+  { slug: 'americas', label: { en: 'Americas', es: 'América' } },
+  { slug: 'asia', label: { en: 'Asia', es: 'Asia' } },
+  { slug: 'africa', label: { en: 'Africa', es: 'África' } },
+  { slug: 'middle-east', label: { en: 'Middle East', es: 'Oriente Medio' } },
+  { slug: 'oceania', label: { en: 'Oceania', es: 'Oceanía' } },
 ] as const;
 
 export type RegionSlug = (typeof REGIONS)[number]['slug'];
 
-export function regionLabel(slug: string): string {
-  return REGIONS.find((r) => r.slug === slug)?.label ?? slug;
+export function regionLabel(slug: string, lang: 'en' | 'es' = 'en'): string {
+  return REGIONS.find((r) => r.slug === slug)?.label[lang] ?? slug;
 }
 
 // --- Analytics ---------------------------------------------------------

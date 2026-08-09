@@ -1,11 +1,13 @@
 ---
+lang: "en"
+articleSlug: "marrakech-menara"
 title: "Marrakech Menara Airport: The Complete Traveler's Guide"
 airport: "Marrakech Menara Airport"
 iataCode: "RAK"
 city: "Marrakech"
 country: "Morocco"
 date: 2026-08-09
-image: "./cover.svg"
+image: "/images/marrakech-menara/cover.svg"
 imageAlt: "Illustration of Marrakech Menara Airport terminal building"
 excerpt: "Everything you need to know about Marrakech Menara: terminals, airlines, how to get into the Medina, parking, wifi, and what to do during a long layover."
 region: "africa"
@@ -39,13 +41,17 @@ transportOptions:
     time: "~20–30 min"
     note: "Price varies with demand"
 amenities:
-  - label: "Wifi"
+  - key: "wifi"
+    label: "Wifi"
     detail: "Time-limited free session"
-  - label: "Lounges"
+  - key: "lounges"
+    label: "Lounges"
     detail: "Limited, Priority Pass only"
-  - label: "Duty-Free"
+  - key: "duty-free"
+    label: "Duty-Free"
     detail: "Argan oil, spices, leather"
-  - label: "Dining"
+  - key: "dining"
+    label: "Dining"
     detail: "Mint tea, tagine, chains"
 ---
 
