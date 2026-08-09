@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://terminal41.com/sitemap-index.xml
+Sitemap: https://terminal41.vercel.app/sitemap-index.xml
