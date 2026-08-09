@@ -32,6 +32,12 @@ export function regionLabel(slug: string): string {
   return REGIONS.find((r) => r.slug === slug)?.label ?? slug;
 }
 
+// --- Analytics ---------------------------------------------------------
+// Google Analytics 4 measurement ID. The actual gtag.js script only loads
+// once a visitor accepts cookies (see src/components/Analytics.astro and
+// CookieConsent.astro) — never unconditionally. Leave blank to disable.
+export const GA_MEASUREMENT_ID = 'G-9WTM8N781Y';
+
 // --- Monetization (disabled for now) ---------------------------------
 // Flip this to true once you're ready to show ad slots. Individual slots
 // are rendered by <AdSlot /> (src/components/AdSlot.astro), which already

@@ -1,0 +1,42 @@
+---
+// Loads Google Analytics 4 — but only for visitors who accepted cookies.
+// Never injects gtag.js unconditionally. See CookieConsent.astro, which
+// dispatches the 'terminal41:consent-accepted' event this listens for.
+import { GA_MEASUREMENT_ID } from '../config/site';
+---
+
+{GA_MEASUREMENT_ID && (
+  <script define:vars={{ GA_MEASUREMENT_ID }}>
+    let gaLoaded = false;
+
+    function loadGoogleAnalytics() {
+      if (gaLoaded) return;
+      gaLoaded = true;
+
+      const script = document.createElement('script');
+      script.async = true;
+      script.src = `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`;
+      document.head.appendChild(script);
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        window.dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      // anonymize_ip is on by default in GA4, kept explicit for clarity.
+      gtag('config', GA_MEASUREMENT_ID, { anonymize_ip: true });
+    }
+
+    function maybeLoad() {
+      if (window.terminal41HasAnalyticsConsent?.()) {
+        loadGoogleAnalytics();
+      }
+    }
+
+    // Case 1: returning visitor who already accepted — load right away.
+    maybeLoad();
+    // Case 2: visitor accepts the banner during this session — load then.
+    window.addEventListener('terminal41:consent-accepted', loadGoogleAnalytics);
+    document.addEventListener('astro:page-load', maybeLoad);
+  </script>
+)}

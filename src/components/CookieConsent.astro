@@ -1,8 +1,9 @@
 ---
-// Lightweight cookie consent banner. Terminal41 doesn't load any tracking
-// scripts today, so this mostly future-proofs the site: when analytics is
-// added later, gate that script behind `window.terminal41HasAnalyticsConsent()`
-// (see the helper exposed below) instead of loading it unconditionally.
+// Cookie consent banner. Dispatches 'terminal41:consent-accepted' on Accept
+// so Analytics.astro (Google Analytics) can start loading immediately,
+// without waiting for a page reload. Nothing analytics-related loads until
+// this fires (or `terminal41HasAnalyticsConsent()` already returns true
+// from a previous visit).
 ---
 
 <div
@@ -57,6 +58,7 @@
     document.getElementById('cookie-accept')?.addEventListener('click', () => {
       localStorage.setItem(STORAGE_KEY, 'accepted');
       banner.classList.add('hidden');
+      window.dispatchEvent(new Event('terminal41:consent-accepted'));
     });
 
     document.getElementById('cookie-decline')?.addEventListener('click', () => {
