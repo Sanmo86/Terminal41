@@ -4,7 +4,10 @@
 // using a simple equirectangular projection onto a 1200x600 canvas, over
 // simplified (not geographically precise) continent silhouettes so it
 // reads clearly as a world map — see the "Simplified illustrative map"
-// caption. Each marker is a real <a> link — works with zero JS.
+// caption. Continent outlines are built from hand-plotted coastline
+// reference points, then rendered as smooth closed splines (not straight
+// polygon edges) via smoothPath() below, for a more natural, hand-drawn
+// look. Each marker is a real <a> link — works with zero JS.
 import type { CollectionEntry } from 'astro:content';
 import { REGIONS, regionLabel } from '../config/site';
 import { useTranslations, type Lang } from '../i18n/ui';
@@ -48,24 +51,43 @@ const markers = entries
     };
   });
 
-// Simplified continent silhouettes — hand-plotted from rough real-world
-// coastline reference points run through the same projection above, then
-// straight-line-connected. Recognizable at a glance, deliberately not a
-// precise coastline (no external map data is loaded).
-const CONTINENTS = [
+// Turns a closed polygon (array of [x,y] points) into a smooth closed
+// spline: each edge becomes a quadratic curve through the midpoint of its
+// two endpoints, using the shared vertex as the control point. Standard
+// "corner rounding" trick for turning hand-plotted reference points into
+// an organic, coastline-like outline without needing real map data.
+function smoothPath(points: [number, number][]): string {
+  const n = points.length;
+  const mid = (a: [number, number], b: [number, number]): [number, number] => [(a[0] + b[0]) / 2, (a[1] + b[1]) / 2];
+  const start = mid(points[n - 1], points[0]);
+  let d = `M ${start[0].toFixed(1)},${start[1].toFixed(1)} `;
+  for (let i = 0; i < n; i++) {
+    const p = points[i];
+    const next = points[(i + 1) % n];
+    const m = mid(p, next);
+    d += `Q ${p[0].toFixed(1)},${p[1].toFixed(1)} ${m[0].toFixed(1)},${m[1].toFixed(1)} `;
+  }
+  return d + 'Z';
+}
+
+// Continent reference points — same rough real-world coastline landmarks
+// as before, now smoothed into curves instead of straight polygon edges.
+const CONTINENT_POINTS: [number, number][][] = [
   // North America
-  'M80,63 L133,100 L183,137 L200,187 L233,223 L293,250 L333,273 L333,217 L283,203 L330,193 L353,163 L380,150 L417,137 L393,110 L317,100 L267,67 Z',
+  [[80, 63], [133, 100], [183, 137], [200, 187], [233, 223], [293, 250], [333, 273], [333, 217], [283, 203], [330, 193], [353, 163], [380, 150], [417, 137], [393, 110], [317, 100], [267, 67]],
   // South America
-  'M343,273 L483,317 L457,377 L410,417 L373,483 L357,433 L343,340 L337,297 Z',
+  [[343, 273], [483, 317], [457, 377], [410, 417], [373, 483], [357, 433], [343, 340], [337, 297]],
   // Europe
-  'M570,177 L580,180 L587,140 L583,117 L683,67 L717,73 L800,117 L717,160 L677,173 L650,167 Z',
+  [[570, 177], [580, 180], [587, 140], [583, 117], [683, 67], [717, 73], [800, 117], [717, 160], [677, 173], [650, 167]],
   // Africa
-  'M580,117 L637,110 L710,197 L770,260 L733,313 L710,383 L660,413 L640,360 L643,327 L627,287 L543,250 Z',
+  [[580, 117], [637, 110], [710, 197], [770, 260], [733, 313], [710, 383], [660, 413], [640, 360], [643, 327], [627, 287], [543, 250]],
   // Asia
-  'M717,177 L750,233 L833,233 L857,273 L917,233 L950,283 L983,317 L1007,260 L1007,200 L1023,177 L1067,180 L1133,100 L900,67 L783,143 Z',
+  [[717, 177], [750, 233], [833, 233], [857, 273], [917, 233], [950, 283], [983, 317], [1007, 260], [1007, 200], [1023, 177], [1067, 180], [1133, 100], [900, 67], [783, 143]],
   // Australia
-  'M1020,313 L1073,303 L1110,390 L1083,427 L1060,417 L987,407 L980,333 Z',
+  [[1020, 313], [1073, 303], [1110, 390], [1083, 427], [1060, 417], [987, 407], [980, 333]],
 ];
+
+const CONTINENT_PATHS = CONTINENT_POINTS.map(smoothPath);
 
 // New Zealand — tiny, drawn separately as two small islands near Auckland.
 const NEW_ZEALAND = [
@@ -84,13 +106,44 @@ const activeRegions = REGIONS.filter((r) => markers.length > 0 && entries.some((
 
   <div class="overflow-x-auto rounded-2xl border border-slate-200 dark:border-slate-800">
     <svg viewBox={`0 0 ${W} ${H}`} class="h-auto w-full min-w-[640px]" role="img" aria-label={t('home.mapTitle')}>
-      <rect width={W} height={H} class="fill-sky-100 dark:fill-slate-800" />
+      <defs>
+        <linearGradient id="ocean" x1="0" y1="0" x2="0.4" y2="1">
+          <stop offset="0%" stop-color="#bae6fd" />
+          <stop offset="100%" stop-color="#7dd3fc" />
+        </linearGradient>
+        <linearGradient id="ocean-dark" x1="0" y1="0" x2="0.4" y2="1">
+          <stop offset="0%" stop-color="#0c2f52" />
+          <stop offset="100%" stop-color="#082238" />
+        </linearGradient>
+        <linearGradient id="land" x1="0" y1="0" x2="0.3" y2="1">
+          <stop offset="0%" stop-color="#bbf7d0" />
+          <stop offset="100%" stop-color="#86efac" />
+        </linearGradient>
+        <linearGradient id="land-dark" x1="0" y1="0" x2="0.3" y2="1">
+          <stop offset="0%" stop-color="#14532d" />
+          <stop offset="100%" stop-color="#0f3d22" />
+        </linearGradient>
+      </defs>
 
-      {CONTINENTS.map((d) => (
-        <path d={d} class="fill-slate-300 stroke-slate-400 dark:fill-slate-600 dark:stroke-slate-500" stroke-width="1.5" stroke-linejoin="round" />
+      <rect width={W} height={H} class="fill-[url(#ocean)] dark:fill-[url(#ocean-dark)]" />
+
+      {CONTINENT_PATHS.map((d) => (
+        <path
+          d={d}
+          class="fill-[url(#land)] stroke-emerald-600 dark:fill-[url(#land-dark)] dark:stroke-emerald-800"
+          stroke-width="2"
+          stroke-linejoin="round"
+        />
       ))}
       {NEW_ZEALAND.map((nz) => (
-        <ellipse cx={nz.cx} cy={nz.cy} rx={nz.rx} ry={nz.ry} class="fill-slate-300 stroke-slate-400 dark:fill-slate-600 dark:stroke-slate-500" stroke-width="1.5" />
+        <ellipse
+          cx={nz.cx}
+          cy={nz.cy}
+          rx={nz.rx}
+          ry={nz.ry}
+          class="fill-[url(#land)] stroke-emerald-600 dark:fill-[url(#land-dark)] dark:stroke-emerald-800"
+          stroke-width="2"
+        />
       ))}
 
       {markers.map((m) => (
