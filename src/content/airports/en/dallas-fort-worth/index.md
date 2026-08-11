@@ -4,12 +4,16 @@ articleSlug: "dallas-fort-worth"
 title: "Dallas Fort Worth Airport: Bigger Than Manhattan"
 airport: "Dallas Fort Worth International Airport"
 iataCode: "DFW"
+coordinates:
+  lat: 32.9
+  lng: -97.04
 city: "Dallas"
 country: "United States"
 date: 2026-08-09
 image: "/images/dallas-fort-worth/cover.svg"
 imageAlt: "Illustration of Dallas Fort Worth International Airport terminal building"
 excerpt: "Everything you need to know about DFW: terminals, airlines, how to get into Dallas, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "This airport's grounds cover more land area than the island of Manhattan."
 region: "americas"
 tags: ["usa", "american-airlines-hub", "short-layover", "international"]
 featured: true

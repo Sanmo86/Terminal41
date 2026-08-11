@@ -4,12 +4,16 @@ articleSlug: "atlanta-hartsfield-jackson"
 title: "Atlanta Hartsfield-Jackson Airport: The World's Busiest Airport Train"
 airport: "Hartsfield-Jackson Atlanta International Airport"
 iataCode: "ATL"
+coordinates:
+  lat: 33.64
+  lng: -84.43
 city: "Atlanta"
 country: "United States"
 date: 2026-08-09
 image: "/images/atlanta-hartsfield-jackson/cover.svg"
 imageAlt: "Illustration of Atlanta Hartsfield-Jackson Airport terminal building"
 excerpt: "Everything you need to know about ATL: concourses, airlines, how to get into Atlanta, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Its internal train system alone carries more daily riders than most standalone city metro systems."
 region: "americas"
 tags: ["usa", "delta-hub", "short-layover", "international"]
 featured: true

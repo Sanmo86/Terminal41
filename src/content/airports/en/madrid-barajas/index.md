@@ -4,6 +4,9 @@ articleSlug: "madrid-barajas"
 title: "Madrid-Barajas Airport: Spot the Famous Bamboo Roof"
 airport: "Adolfo Suárez Madrid-Barajas Airport"
 iataCode: "MAD"
+coordinates:
+  lat: 40.47
+  lng: -3.56
 city: "Madrid"
 country: "Spain"
 date: 2026-08-01
@@ -11,6 +14,7 @@ updatedDate: 2026-08-09
 image: "/images/madrid-barajas/cover.svg"
 imageAlt: "Illustration of Madrid-Barajas Airport terminal building"
 excerpt: "Everything you need to know about Madrid-Barajas: terminals, airlines, how to get into the city, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Its striking roof is built from panels of real bamboo — one of the largest uses of the material in modern airport architecture."
 region: "europe"
 tags: ["spain", "iberia-hub", "long-layover", "schengen"]
 featured: true

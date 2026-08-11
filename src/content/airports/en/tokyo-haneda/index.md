@@ -4,12 +4,16 @@ articleSlug: "tokyo-haneda"
 title: "Tokyo Haneda Airport: Soak in an Onsen Between Flights"
 airport: "Tokyo International Airport (Haneda)"
 iataCode: "HND"
+coordinates:
+  lat: 35.55
+  lng: 139.78
 city: "Tokyo"
 country: "Japan"
 date: 2026-08-09
 image: "/images/tokyo-haneda/cover.svg"
 imageAlt: "Illustration of Tokyo Haneda Airport terminal building"
 excerpt: "Everything you need to know about Haneda: terminals, airlines, how to get into central Tokyo, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Long-haul travelers can unwind in a traditional Japanese hot-spring bath located airside."
 region: "asia"
 tags: ["japan", "ana-hub", "jal-hub", "short-layover"]
 featured: true

@@ -4,12 +4,16 @@ articleSlug: "shanghai-pudong"
 title: "Shanghai Pudong Airport: Ride the World's Fastest Commercial Train"
 airport: "Shanghai Pudong International Airport"
 iataCode: "PVG"
+coordinates:
+  lat: 31.14
+  lng: 121.81
 city: "Shanghai"
 country: "China"
 date: 2026-08-09
 image: "/images/shanghai-pudong/cover.svg"
 imageAlt: "Illustration of Shanghai Pudong International Airport terminal building"
 excerpt: "Everything you need to know about PVG: terminals, airlines, how to get into Shanghai, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "A train connecting this airport to the city can reach speeds of over 430 km/h using magnetic levitation."
 region: "asia"
 tags: ["china", "china-eastern-hub", "long-layover", "international"]
 featured: true

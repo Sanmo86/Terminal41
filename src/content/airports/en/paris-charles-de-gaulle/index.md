@@ -4,12 +4,16 @@ articleSlug: "paris-charles-de-gaulle"
 title: "Paris Charles de Gaulle Airport: Look Up in Terminal 1"
 airport: "Paris-Charles de Gaulle Airport"
 iataCode: "CDG"
+coordinates:
+  lat: 49.01
+  lng: 2.55
 city: "Paris"
 country: "France"
 date: 2026-08-09
 image: "/images/paris-charles-de-gaulle/cover.svg"
 imageAlt: "Illustration of Paris Charles de Gaulle Airport terminal building"
 excerpt: "Everything you need to know about CDG: terminals, airlines, how to get into Paris, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "One of its terminals has a striking tube-shaped design, with escalators crossing dramatically through open air inside."
 region: "europe"
 tags: ["france", "air-france-hub", "long-layover", "schengen"]
 featured: true

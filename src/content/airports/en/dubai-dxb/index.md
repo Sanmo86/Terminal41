@@ -4,12 +4,16 @@ articleSlug: "dubai-dxb"
 title: "Dubai International Airport: Duty-Free Supercar Raffles"
 airport: "Dubai International Airport"
 iataCode: "DXB"
+coordinates:
+  lat: 25.25
+  lng: 55.36
 city: "Dubai"
 country: "United Arab Emirates"
 date: 2026-08-09
 image: "/images/dubai-dxb/cover.svg"
 imageAlt: "Illustration of Dubai International Airport terminal building"
 excerpt: "Everything you need to know about DXB: terminals, airlines, how to get into Dubai, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Its duty-free shop runs a raffle where a lucky ticket can win you a brand-new luxury supercar."
 region: "middle-east"
 tags: ["uae", "emirates-hub", "long-layover", "international"]
 featured: true

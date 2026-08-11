@@ -4,12 +4,16 @@ articleSlug: "istanbul-airport"
 title: "Istanbul Airport: Score a Free City Tour on a Long Layover"
 airport: "Istanbul Airport"
 iataCode: "IST"
+coordinates:
+  lat: 41.28
+  lng: 28.75
 city: "Istanbul"
 country: "Turkey"
 date: 2026-08-09
 image: "/images/istanbul-airport/cover.svg"
 imageAlt: "Illustration of Istanbul Airport terminal building"
 excerpt: "Everything you need to know about IST: concourses, airlines, how to get into Istanbul, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Passengers with a long enough layover here can claim a free guided tour of the historic city center."
 region: "europe"
 tags: ["turkey", "turkish-airlines-hub", "long-layover", "international"]
 featured: true

@@ -4,12 +4,16 @@ articleSlug: "marrakech-menara"
 title: "Marrakech Menara Airport: A Terminal Built Like a Mashrabiya Screen"
 airport: "Marrakech Menara Airport"
 iataCode: "RAK"
+coordinates:
+  lat: 31.61
+  lng: -8.03
 city: "Marrakech"
 country: "Morocco"
 date: 2026-08-09
 image: "/images/marrakech-menara/cover.svg"
 imageAlt: "Illustration of Marrakech Menara Airport terminal building"
 excerpt: "Everything you need to know about Marrakech Menara: terminals, airlines, how to get into the Medina, parking, wifi, and what to do during a long layover."
+triviaClue: "The terminal's facade is covered in an intricate lattice pattern inspired by traditional Islamic latticework screens."
 region: "africa"
 tags: ["morocco", "royal-air-maroc-hub", "short-layover"]
 featured: true

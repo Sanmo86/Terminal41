@@ -4,6 +4,9 @@ articleSlug: "barcelona-el-prat"
 title: "Barcelona-El Prat Airport: Grab a Window Seat for the Mediterranean Approach"
 airport: "Josep Tarradellas Barcelona-El Prat Airport"
 iataCode: "BCN"
+coordinates:
+  lat: 41.3
+  lng: 2.08
 city: "Barcelona"
 country: "Spain"
 date: 2026-07-20
@@ -11,6 +14,7 @@ updatedDate: 2026-08-09
 image: "/images/barcelona-el-prat/cover.svg"
 imageAlt: "Illustration of Barcelona-El Prat Airport terminal building"
 excerpt: "A practical guide to Barcelona-El Prat: terminals, airlines, transport into the city, parking, wifi, lounges, and how to make the most of a layover."
+triviaClue: "Request a window seat on arrival — the final approach offers a dramatic view of the Mediterranean coastline."
 region: "europe"
 tags: ["spain", "vueling-hub", "short-layover", "schengen"]
 featured: true

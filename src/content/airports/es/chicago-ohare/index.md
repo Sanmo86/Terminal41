@@ -4,12 +4,16 @@ articleSlug: "chicago-ohare"
 title: "Aeropuerto de Chicago O'Hare: camina por el túnel de neón"
 airport: "Aeropuerto Internacional O'Hare de Chicago"
 iataCode: "ORD"
+coordinates:
+  lat: 41.98
+  lng: -87.9
 city: "Chicago"
 country: "Estados Unidos"
 date: 2026-08-11
 image: "/images/chicago-ohare/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional O'Hare de Chicago"
 excerpt: "Todo lo que necesitas saber sobre ORD: terminales, aerolíneas, cómo llegar a Chicago, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Un túnel peatonal subterráneo aquí está iluminado enteramente con neón, con un espectáculo de luces rotativo y música ambiental."
 region: "americas"
 tags: ["estados-unidos", "doble-hub", "escala-corta", "internacional"]
 featured: true

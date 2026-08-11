@@ -4,12 +4,16 @@ articleSlug: "frankfurt-airport"
 title: "Frankfurt Airport: The Hub With Its Own High-Speed Train Station"
 airport: "Frankfurt Airport"
 iataCode: "FRA"
+coordinates:
+  lat: 50.03
+  lng: 8.57
 city: "Frankfurt"
 country: "Germany"
 date: 2026-08-09
 image: "/images/frankfurt-airport/cover.svg"
 imageAlt: "Illustration of Frankfurt Airport terminal building"
 excerpt: "Everything you need to know about FRA: terminals, airlines, how to get into Frankfurt, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "A high-speed intercity train station sits directly inside the terminal complex, letting you skip the city entirely."
 region: "europe"
 tags: ["germany", "lufthansa-hub", "long-layover", "schengen"]
 featured: true

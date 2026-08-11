@@ -4,12 +4,16 @@ articleSlug: "london-heathrow"
 title: "London Heathrow Airport: Four Terminals That Aren't Walkable to Each Other"
 airport: "London Heathrow Airport"
 iataCode: "LHR"
+coordinates:
+  lat: 51.47
+  lng: -0.45
 city: "London"
 country: "United Kingdom"
 date: 2026-08-09
 image: "/images/london-heathrow/cover.svg"
 imageAlt: "Illustration of London Heathrow Airport terminal building"
 excerpt: "Everything you need to know about Heathrow: terminals, airlines, how to get into London, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "This airport's terminals are spread so far apart that you cannot simply walk between them — some transfers require a bus, train, or even a short flight."
 region: "europe"
 tags: ["uk", "british-airways-hub", "long-layover", "international"]
 featured: true

@@ -4,12 +4,16 @@ articleSlug: "doha-hamad"
 title: "Aeropuerto de Doha Hamad: el hogar del osito de peluche gigante"
 airport: "Aeropuerto Internacional Hamad"
 iataCode: "DOH"
+coordinates:
+  lat: 25.27
+  lng: 51.61
 city: "Doha"
 country: "Catar"
 date: 2026-08-09
 image: "/images/doha-hamad/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional Hamad de Doha"
 excerpt: "Todo lo que necesitas saber sobre DOH: terminales, aerolíneas, cómo llegar a Doha, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Una escultura gigante de un osito de peluche con una lámpara de mesa por cabeza es una de las obras de arte más fotografiadas de esta terminal."
 region: "middle-east"
 tags: ["catar", "hub-qatar-airways", "escala-larga", "internacional"]
 featured: true

@@ -4,6 +4,9 @@ articleSlug: "barcelona-el-prat"
 title: "Aeropuerto de Barcelona-El Prat: busca ventana para la aproximación mediterránea"
 airport: "Aeropuerto Josep Tarradellas Barcelona-El Prat"
 iataCode: "BCN"
+coordinates:
+  lat: 41.3
+  lng: 2.08
 city: "Barcelona"
 country: "España"
 date: 2026-07-20
@@ -11,6 +14,7 @@ updatedDate: 2026-08-09
 image: "/images/barcelona-el-prat/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Barcelona-El Prat"
 excerpt: "Guía práctica de Barcelona-El Prat: terminales, aerolíneas, transporte a la ciudad, parking, wifi, salas VIP y cómo aprovechar al máximo una escala."
+triviaClue: "Pide ventanilla en la llegada — la aproximación final ofrece una vista dramática de la costa mediterránea."
 region: "europe"
 tags: ["españa", "hub-vueling", "escala-corta", "schengen"]
 featured: true

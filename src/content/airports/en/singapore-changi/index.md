@@ -4,12 +4,16 @@ articleSlug: "singapore-changi"
 title: "Singapore Changi Airport: Home to the World's Tallest Indoor Waterfall"
 airport: "Singapore Changi Airport"
 iataCode: "SIN"
+coordinates:
+  lat: 1.36
+  lng: 103.99
 city: "Singapore"
 country: "Singapore"
 date: 2026-08-09
 image: "/images/singapore-changi/cover.svg"
 imageAlt: "Illustration of Singapore Changi Airport terminal building"
 excerpt: "Everything you need to know about Changi: terminals, airlines, how to get into Singapore, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "A ten-story indoor garden dome next to the terminals contains the world's tallest indoor waterfall."
 region: "asia"
 tags: ["singapore", "singapore-airlines-hub", "long-layover", "international"]
 featured: true

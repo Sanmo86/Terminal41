@@ -4,12 +4,16 @@ articleSlug: "denver-airport"
 title: "Denver International Airport: Meet Blucifer, the 32-Foot Blue Mustang"
 airport: "Denver International Airport"
 iataCode: "DEN"
+coordinates:
+  lat: 39.86
+  lng: -104.67
 city: "Denver"
 country: "United States"
 date: 2026-08-11
 image: "/images/denver-airport/cover.svg"
 imageAlt: "Illustration of Denver International Airport's tent-shaped terminal roof"
 excerpt: "Everything you need to know about DEN: terminals, airlines, how to get into Denver, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "A 32-foot bright blue horse sculpture with glowing red eyes greets drivers at this airport's entrance."
 region: "americas"
 tags: ["united-states", "hub-united-airlines", "short-layover", "domestic"]
 featured: true

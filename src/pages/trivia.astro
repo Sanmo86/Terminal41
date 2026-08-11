@@ -1,0 +1,230 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { useTranslations } from '../i18n/ui';
+
+const lang = 'en';
+const t = useTranslations(lang);
+
+const entries = await getCollection(
+  'airports',
+  ({ data }) => !data.draft && data.lang === lang && !!data.triviaClue && !!data.coordinates
+);
+
+const questions = entries.map((e) => ({
+  slug: e.data.articleSlug,
+  clue: e.data.triviaClue,
+  name: `${e.data.city}, ${e.data.country}`,
+  iata: e.data.iataCode,
+  href: `/airports/${e.data.articleSlug}`,
+}));
+---
+
+<BaseLayout title={t('trivia.title')} description={t('trivia.subtitle')} lang={lang}>
+  <section class="mx-auto max-w-2xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl dark:text-slate-100">{t('trivia.title')}</h1>
+    <p class="mt-2 text-slate-500 dark:text-slate-400">{t('trivia.subtitle')}</p>
+
+    <div id="trivia-app" class="mt-8 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8 dark:border-slate-800 dark:bg-slate-900">
+      <div id="trivia-start" class="text-center">
+        <p id="trivia-best" class="mb-4 hidden text-sm font-medium text-brand-700 dark:text-brand-300"></p>
+        <button type="button" id="trivia-start-btn" class="rounded-full bg-brand-600 px-6 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-700">
+          {t('trivia.start')}
+        </button>
+      </div>
+
+      <div id="trivia-question" class="hidden">
+        <div class="mb-3 flex items-center justify-between text-xs font-semibold uppercase tracking-wide text-slate-400">
+          <span id="trivia-progress"></span>
+          <span id="trivia-score"></span>
+        </div>
+        <p id="trivia-clue" class="text-lg font-medium leading-relaxed text-slate-800 dark:text-slate-100"></p>
+        <div id="trivia-choices" class="mt-6 grid gap-2.5"></div>
+        <p id="trivia-feedback" class="mt-4 hidden text-sm font-semibold"></p>
+        <button type="button" id="trivia-next-btn" class="mt-4 hidden w-full rounded-full bg-brand-600 px-6 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-700">
+          {t('trivia.next')}
+        </button>
+      </div>
+
+      <div id="trivia-results" class="hidden text-center">
+        <p id="trivia-results-tier" class="text-2xl font-extrabold text-slate-900 dark:text-slate-100"></p>
+        <p id="trivia-results-score" class="mt-2 text-slate-500 dark:text-slate-400"></p>
+        <ul id="trivia-review" class="mt-6 space-y-2 text-left"></ul>
+        <button type="button" id="trivia-again-btn" class="mt-6 rounded-full bg-brand-600 px-6 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-700">
+          {t('trivia.playAgain')}
+        </button>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script
+  is:inline
+  define:vars={{
+    questions,
+    storageKey: 'terminal41_trivia_best_en',
+    i18n: {
+      questionWord: t('trivia.questionWord'),
+      ofWord: t('trivia.ofWord'),
+      correct: t('trivia.correct'),
+      incorrect: t('trivia.incorrect'),
+      next: t('trivia.next'),
+      seeResults: t('trivia.seeResults'),
+      resultsExpert: t('trivia.resultsExpert'),
+      resultsFrequent: t('trivia.resultsFrequent'),
+      resultsBeginner: t('trivia.resultsBeginner'),
+      bestScore: t('trivia.bestScore'),
+      readGuide: t('trivia.readGuide'),
+    },
+  }}
+>
+  function initTrivia() {
+    const app = document.getElementById('trivia-app');
+    if (!app || app.dataset.initialized === 'true') return;
+    app.dataset.initialized = 'true';
+
+    const QUESTION_COUNT = Math.min(8, questions.length);
+    const startScreen = document.getElementById('trivia-start');
+    const startBtn = document.getElementById('trivia-start-btn');
+    const bestEl = document.getElementById('trivia-best');
+    const questionScreen = document.getElementById('trivia-question');
+    const progressEl = document.getElementById('trivia-progress');
+    const scoreEl = document.getElementById('trivia-score');
+    const clueEl = document.getElementById('trivia-clue');
+    const choicesEl = document.getElementById('trivia-choices');
+    const feedbackEl = document.getElementById('trivia-feedback');
+    const nextBtn = document.getElementById('trivia-next-btn');
+    const resultsScreen = document.getElementById('trivia-results');
+    const tierEl = document.getElementById('trivia-results-tier');
+    const scoreLineEl = document.getElementById('trivia-results-score');
+    const reviewEl = document.getElementById('trivia-review');
+    const againBtn = document.getElementById('trivia-again-btn');
+
+    let round = [];
+    let current = 0;
+    let score = 0;
+    let answered = false;
+    let missed = [];
+
+    function shuffle(arr) {
+      const a = arr.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    function showBestScore() {
+      const best = localStorage.getItem(storageKey);
+      if (best) {
+        bestEl.textContent = `${i18n.bestScore}: ${best}/${QUESTION_COUNT}`;
+        bestEl.classList.remove('hidden');
+      }
+    }
+
+    function startGame() {
+      round = shuffle(questions).slice(0, QUESTION_COUNT);
+      current = 0;
+      score = 0;
+      missed = [];
+      startScreen.classList.add('hidden');
+      resultsScreen.classList.add('hidden');
+      questionScreen.classList.remove('hidden');
+      renderQuestion();
+    }
+
+    function renderQuestion() {
+      answered = false;
+      const q = round[current];
+      progressEl.textContent = `${i18n.questionWord} ${current + 1} ${i18n.ofWord} ${round.length}`;
+      scoreEl.textContent = `${score}/${round.length}`;
+      clueEl.textContent = q.clue;
+      feedbackEl.classList.add('hidden');
+      nextBtn.classList.add('hidden');
+
+      const distractors = shuffle(questions.filter((x) => x.slug !== q.slug)).slice(0, 3);
+      const options = shuffle([q, ...distractors]);
+
+      choicesEl.innerHTML = '';
+      options.forEach((opt) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className =
+          'trivia-choice rounded-xl border border-slate-200 bg-slate-50 px-4 py-3 text-left text-sm font-medium text-slate-700 transition hover:border-brand-300 hover:bg-brand-50 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200';
+        btn.textContent = `${opt.name} (${opt.iata})`;
+        btn.addEventListener('click', () => selectAnswer(btn, opt, q));
+        choicesEl.appendChild(btn);
+      });
+    }
+
+    function selectAnswer(btn, opt, q) {
+      if (answered) return;
+      answered = true;
+
+      const isCorrect = opt.slug === q.slug;
+      if (isCorrect) {
+        score++;
+        btn.classList.add('!border-emerald-500', '!bg-emerald-50', '!text-emerald-800', 'dark:!bg-emerald-900/30', 'dark:!text-emerald-300');
+      } else {
+        btn.classList.add('!border-rose-500', '!bg-rose-50', '!text-rose-800', 'dark:!bg-rose-900/30', 'dark:!text-rose-300');
+        missed.push(q);
+        Array.from(choicesEl.children).forEach((c) => {
+          if (c.textContent === `${q.name} (${q.iata})`) {
+            c.classList.add('!border-emerald-500', '!bg-emerald-50', '!text-emerald-800', 'dark:!bg-emerald-900/30', 'dark:!text-emerald-300');
+          }
+        });
+      }
+
+      Array.from(choicesEl.children).forEach((c) => (c.disabled = true));
+
+      feedbackEl.textContent = isCorrect ? i18n.correct : `${i18n.incorrect} ${q.name} (${q.iata})`;
+      feedbackEl.className = `mt-4 text-sm font-semibold ${isCorrect ? 'text-emerald-600 dark:text-emerald-400' : 'text-rose-600 dark:text-rose-400'}`;
+      scoreEl.textContent = `${score}/${round.length}`;
+      nextBtn.classList.remove('hidden');
+      nextBtn.textContent = current + 1 < round.length ? i18n.next : i18n.seeResults;
+    }
+
+    function nextQuestion() {
+      current++;
+      if (current >= round.length) {
+        showResults();
+      } else {
+        renderQuestion();
+      }
+    }
+
+    function showResults() {
+      questionScreen.classList.add('hidden');
+      resultsScreen.classList.remove('hidden');
+
+      const ratio = score / round.length;
+      tierEl.textContent = ratio >= 0.85 ? i18n.resultsExpert : ratio >= 0.5 ? i18n.resultsFrequent : i18n.resultsBeginner;
+      scoreLineEl.textContent = `${score} / ${round.length}`;
+
+      const best = parseInt(localStorage.getItem(storageKey) || '0', 10);
+      if (score > best) localStorage.setItem(storageKey, String(score));
+
+      reviewEl.innerHTML = '';
+      missed.forEach((q) => {
+        const li = document.createElement('li');
+        li.className = 'flex items-center justify-between gap-3 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-sm dark:border-slate-700 dark:bg-slate-800';
+        li.innerHTML = `<span class="text-slate-600 dark:text-slate-300">${q.name} (${q.iata})</span>`;
+        const link = document.createElement('a');
+        link.href = q.href;
+        link.className = 'shrink-0 font-semibold text-brand-700 hover:underline dark:text-brand-300';
+        link.textContent = i18n.readGuide;
+        li.appendChild(link);
+        reviewEl.appendChild(li);
+      });
+    }
+
+    startBtn.addEventListener('click', startGame);
+    nextBtn.addEventListener('click', nextQuestion);
+    againBtn.addEventListener('click', startGame);
+    showBestScore();
+  }
+
+  initTrivia();
+  document.addEventListener('astro:page-load', initTrivia);
+</script>

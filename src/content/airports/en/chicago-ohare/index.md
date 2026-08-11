@@ -4,12 +4,16 @@ articleSlug: "chicago-ohare"
 title: "Chicago O'Hare Airport: Walk Through the Neon Sky Tunnel"
 airport: "Chicago O'Hare International Airport"
 iataCode: "ORD"
+coordinates:
+  lat: 41.98
+  lng: -87.9
 city: "Chicago"
 country: "United States"
 date: 2026-08-11
 image: "/images/chicago-ohare/cover.svg"
 imageAlt: "Illustration of Chicago O'Hare International Airport terminal building"
 excerpt: "Everything you need to know about ORD: terminals, airlines, how to get into Chicago, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "An underground passenger tunnel here is lit entirely in neon, with a rotating light show set to ambient music."
 region: "americas"
 tags: ["united-states", "dual-hub", "short-layover", "international"]
 featured: true

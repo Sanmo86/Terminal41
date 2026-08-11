@@ -4,12 +4,16 @@ articleSlug: "cairo-airport"
 title: "Cairo International Airport: Visa on Arrival for Most Nationalities"
 airport: "Cairo International Airport"
 iataCode: "CAI"
+coordinates:
+  lat: 30.12
+  lng: 31.41
 city: "Cairo"
 country: "Egypt"
 date: 2026-08-09
 image: "/images/cairo-airport/cover.svg"
 imageAlt: "Illustration of Cairo International Airport terminal building"
 excerpt: "Everything you need to know about CAI: terminals, airlines, how to get into Cairo, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Travelers from many countries can obtain their entry visa right at the arrival counter, with no advance application needed."
 region: "africa"
 tags: ["egypt", "egyptair-hub", "short-layover", "international"]
 featured: true

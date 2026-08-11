@@ -4,12 +4,16 @@ articleSlug: "rio-de-janeiro-galeao"
 title: "Aeropuerto de Río de Janeiro Galeão: pide ventanilla para la aproximación"
 airport: "Aeropuerto Internacional de Río de Janeiro–Galeão (Tom Jobim)"
 iataCode: "GIG"
+coordinates:
+  lat: -22.81
+  lng: -43.25
 city: "Río de Janeiro"
 country: "Brasil"
 date: 2026-08-09
 image: "/images/rio-de-janeiro-galeao/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Río de Janeiro Galeão"
 excerpt: "Todo lo que necesitas saber sobre Galeão: terminales, aerolíneas, cómo llegar a Río, parking, wifi y qué hacer si tienes una escala larga."
+triviaClue: "Pide ventanilla para la aproximación — los vuelos aquí ofrecen una vista famosa de una estatua sobre una montaña que domina la bahía."
 region: "americas"
 tags: ["brasil", "hub-latam", "escala-corta", "internacional"]
 featured: true

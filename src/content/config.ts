@@ -26,6 +26,16 @@ const airports = defineCollection({
       .transform((v) => v.toUpperCase()),
     city: z.string(),
     country: z.string(),
+    // Real-world coordinates of the airport, used to plot the interactive
+    // world map on the homepage. Locale-independent (same physical airport),
+    // so — like `image` — it's duplicated identically in both the en/ and
+    // es/ frontmatter for a given articleSlug rather than deduplicated.
+    coordinates: z
+      .object({
+        lat: z.number(),
+        lng: z.number(),
+      })
+      .optional(),
     date: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     // Path string into public/images/<slug>/cover.svg — shared between the
@@ -35,6 +45,11 @@ const airports = defineCollection({
     image: z.string(),
     imageAlt: z.string(),
     excerpt: z.string().max(300),
+    // One-sentence, non-revealing clue used by the /trivia quiz — written to
+    // describe something genuinely unique about the airport WITHOUT naming
+    // the airport, city, or IATA code (that would give the answer away).
+    // Optional so an airport without one is simply skipped from the quiz.
+    triviaClue: z.string().optional(),
 
     // Categorization
     region: z.enum(regionSlugs),

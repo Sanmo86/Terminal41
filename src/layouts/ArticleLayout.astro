@@ -99,8 +99,8 @@ const breadcrumbSchema = {
 ---
 
 <BaseLayout title={seoTitle ?? title} description={seoDescription ?? excerpt} image={image} article lang={lang}>
-  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
-  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <article class="mx-auto max-w-6xl px-4 py-8 sm:px-6">
     <nav class="mb-4 text-sm text-slate-500 dark:text-slate-400">
       <a href={homeHref} class="hover:text-brand-700 dark:hover:text-brand-300">{t('nav.home')}</a>

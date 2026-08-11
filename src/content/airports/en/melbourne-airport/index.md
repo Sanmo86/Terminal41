@@ -4,12 +4,16 @@ articleSlug: "melbourne-airport"
 title: "Melbourne Airport: One of the World's Busiest Airports Without a Train"
 airport: "Melbourne Airport (Tullamarine)"
 iataCode: "MEL"
+coordinates:
+  lat: -37.67
+  lng: 144.84
 city: "Melbourne"
 country: "Australia"
 date: 2026-08-09
 image: "/images/melbourne-airport/cover.svg"
 imageAlt: "Illustration of Melbourne Airport terminal building"
 excerpt: "Everything you need to know about MEL: terminals, airlines, how to get into Melbourne, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Despite being one of the busiest airports in the world, this one still has no train line connecting it to its city center."
 region: "oceania"
 tags: ["australia", "qantas-hub", "short-layover", "international"]
 featured: true

@@ -4,12 +4,16 @@ articleSlug: "rome-fiumicino"
 title: "Aeropuerto de Roma Fiumicino: una exposición de arte gratis entre vuelos"
 airport: "Aeropuerto Leonardo da Vinci–Fiumicino"
 iataCode: "FCO"
+coordinates:
+  lat: 41.8
+  lng: 12.25
 city: "Roma"
 country: "Italia"
 date: 2026-08-09
 image: "/images/rome-fiumicino/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Roma Fiumicino"
 excerpt: "Todo lo que necesitas saber sobre FCO: terminales, aerolíneas, cómo llegar a Roma, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Una exposición de arte gratuita rota dentro de la terminal, donde los viajeros pueden ver cuadros y esculturas reales durante una escala."
 region: "europe"
 tags: ["italia", "hub-ita-airways", "escala-larga", "schengen"]
 featured: true

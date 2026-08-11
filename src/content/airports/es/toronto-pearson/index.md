@@ -4,12 +4,16 @@ articleSlug: "toronto-pearson"
 title: "Aeropuerto de Toronto Pearson: pasa la aduana de EE. UU. antes incluso de embarcar"
 airport: "Aeropuerto Internacional de Toronto Pearson"
 iataCode: "YYZ"
+coordinates:
+  lat: 43.68
+  lng: -79.63
 city: "Toronto"
 country: "Canadá"
 date: 2026-08-09
 image: "/images/toronto-pearson/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Toronto Pearson"
 excerpt: "Todo lo que necesitas saber sobre YYZ: terminales, aerolíneas, cómo llegar a Toronto, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Muchos pasajeros transatlánticos pasan la aduana e inmigración de su país de destino aquí mismo, antes incluso de embarcar, no al aterrizar."
 region: "americas"
 tags: ["canadá", "hub-air-canada", "escala-corta", "internacional"]
 featured: true

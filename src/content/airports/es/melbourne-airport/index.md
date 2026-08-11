@@ -4,12 +4,16 @@ articleSlug: "melbourne-airport"
 title: "Aeropuerto de Melbourne: uno de los aeropuertos con más tráfico del mundo sin tren"
 airport: "Aeropuerto de Melbourne (Tullamarine)"
 iataCode: "MEL"
+coordinates:
+  lat: -37.67
+  lng: 144.84
 city: "Melbourne"
 country: "Australia"
 date: 2026-08-09
 image: "/images/melbourne-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Melbourne"
 excerpt: "Todo lo que necesitas saber sobre MEL: terminales, aerolíneas, cómo llegar a Melbourne, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "A pesar de ser uno de los aeropuertos con más tráfico del mundo, este todavía no tiene ninguna línea de tren que lo conecte con el centro de su ciudad."
 region: "oceania"
 tags: ["australia", "hub-qantas", "escala-corta", "internacional"]
 featured: true

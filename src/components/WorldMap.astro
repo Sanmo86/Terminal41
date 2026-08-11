@@ -1,0 +1,107 @@
+---
+// Interactive world map — complements (does not replace) the homepage
+// article grid. Plots every airport with `coordinates` in its frontmatter
+// using a simple equirectangular projection onto a 1200x600 canvas, with
+// soft, intentionally-not-to-scale continent zones for visual context
+// (see the "Simplified illustrative map" caption) rather than a precise
+// coastline path. Each marker is a real <a> link — works with zero JS.
+import type { CollectionEntry } from 'astro:content';
+import { REGIONS, regionLabel } from '../config/site';
+import { useTranslations, type Lang } from '../i18n/ui';
+
+interface Props {
+  entries: CollectionEntry<'airports'>[];
+  lang: Lang;
+}
+
+const { entries, lang } = Astro.props;
+const t = useTranslations(lang);
+
+const REGION_COLORS: Record<string, string> = {
+  europe: '#2563eb',
+  americas: '#dc2626',
+  asia: '#d97706',
+  africa: '#16a34a',
+  'middle-east': '#9333ea',
+  oceania: '#0891b2',
+};
+
+const W = 1200;
+const H = 600;
+function project(lat: number, lng: number) {
+  const x = ((lng + 180) / 360) * W;
+  const y = ((90 - lat) / 180) * H;
+  return { x, y };
+}
+
+const markers = entries
+  .filter((e) => e.data.coordinates)
+  .map((e) => {
+    const { x, y } = project(e.data.coordinates!.lat, e.data.coordinates!.lng);
+    const href = lang === 'es' ? `/es/airports/${e.data.articleSlug}` : `/airports/${e.data.articleSlug}`;
+    return {
+      x,
+      y,
+      href,
+      label: `${e.data.iataCode} — ${e.data.city}, ${e.data.country}`,
+      color: REGION_COLORS[e.data.region] ?? '#64748b',
+    };
+  });
+
+// Soft, approximate continent "zones" — decorative context, not a real
+// coastline. Positions come from rough real-world bounding boxes run
+// through the same projection above, not hand-picked pixels.
+const CONTINENT_ZONES = [
+  { cx: 233, cy: 150, rx: 200, ry: 100 }, // North America
+  { cx: 405, cy: 372, rx: 80, ry: 110 }, // South America
+  { cx: 650, cy: 125, rx: 85, ry: 60 }, // Europe
+  { cx: 657, cy: 296, rx: 115, ry: 120 }, // Africa
+  { cx: 917, cy: 167, rx: 185, ry: 115 }, // Asia
+  { cx: 1043, cy: 373, rx: 70, ry: 75 }, // Oceania
+];
+
+const activeRegions = REGIONS.filter((r) => markers.length > 0 && entries.some((e) => e.data.region === r.slug));
+---
+
+<section class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+  <div class="mb-4">
+    <h2 class="text-xl font-bold text-slate-900 dark:text-slate-100">{t('home.mapTitle')}</h2>
+    <p class="mt-1 text-sm text-slate-500 dark:text-slate-400">{t('home.mapSubtitle')}</p>
+  </div>
+
+  <div class="overflow-x-auto rounded-2xl border border-slate-200 bg-slate-50 dark:border-slate-800 dark:bg-slate-900">
+    <svg viewBox={`0 0 ${W} ${H}`} class="h-auto w-full min-w-[640px]" role="img" aria-label={t('home.mapTitle')}>
+      <rect width={W} height={H} fill="transparent" />
+
+      <g opacity="0.5" stroke="#cbd5e1" stroke-width="1">
+        {[0, 150, 300, 450, 600].map((y) => <line x1="0" y1={y} x2={W} y2={y} />)}
+        {[0, 200, 400, 600, 800, 1000, 1200].map((x) => <line x1={x} y1="0" x2={x} y2={H} />)}
+      </g>
+
+      <g class="dark:opacity-20" opacity="0.35">
+        {CONTINENT_ZONES.map((z) => (
+          <ellipse cx={z.cx} cy={z.cy} rx={z.rx} ry={z.ry} fill="#94a3b8" />
+        ))}
+      </g>
+
+      {markers.map((m) => (
+        <a href={m.href}>
+          <title>{m.label}</title>
+          <circle cx={m.x} cy={m.y} r="13" fill="transparent" />
+          <circle cx={m.x} cy={m.y} r="5.5" fill={m.color} stroke="#ffffff" stroke-width="1.5" class="transition-transform hover:scale-150" style="transform-origin: center; transform-box: fill-box;" />
+        </a>
+      ))}
+    </svg>
+  </div>
+
+  {activeRegions.length > 0 && (
+    <div class="mt-3 flex flex-wrap gap-x-4 gap-y-1.5">
+      {activeRegions.map((r) => (
+        <span class="flex items-center gap-1.5 text-xs font-medium text-slate-500 dark:text-slate-400">
+          <span class="inline-block h-2.5 w-2.5 rounded-full" style={`background-color: ${REGION_COLORS[r.slug] ?? '#64748b'}`} />
+          {regionLabel(r.slug, lang)}
+        </span>
+      ))}
+    </div>
+  )}
+</section>

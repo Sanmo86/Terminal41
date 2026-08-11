@@ -4,6 +4,9 @@ articleSlug: "madrid-barajas"
 title: "Aeropuerto de Madrid-Barajas: fíjate en el famoso techo de bambú"
 airport: "Aeropuerto Adolfo Suárez Madrid-Barajas"
 iataCode: "MAD"
+coordinates:
+  lat: 40.47
+  lng: -3.56
 city: "Madrid"
 country: "España"
 date: 2026-08-01
@@ -11,6 +14,7 @@ updatedDate: 2026-08-09
 image: "/images/madrid-barajas/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Madrid-Barajas"
 excerpt: "Todo lo que necesitas saber sobre Madrid-Barajas: terminales, aerolíneas, cómo llegar a la ciudad, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Su llamativo techo está construido con paneles de bambú real, uno de los mayores usos de este material en la arquitectura aeroportuaria moderna."
 region: "europe"
 tags: ["españa", "hub-iberia", "escala-larga", "schengen"]
 featured: true

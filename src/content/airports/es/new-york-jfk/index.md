@@ -4,12 +4,16 @@ articleSlug: "new-york-jfk"
 title: "Aeropuerto JFK de Nueva York: duerme, come o nada en el TWA Hotel"
 airport: "Aeropuerto Internacional John F. Kennedy"
 iataCode: "JFK"
+coordinates:
+  lat: 40.64
+  lng: -73.78
 city: "Nueva York"
 country: "Estados Unidos"
 date: 2026-08-09
 image: "/images/new-york-jfk/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional John F. Kennedy"
 excerpt: "Todo lo que necesitas saber sobre JFK: terminales, aerolíneas, cómo llegar a Manhattan, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Un edificio de terminal retro de los años 60 se convirtió en un hotel totalmente funcional, con piscina en la azotea y un lounge original de la era Pan Am."
 region: "americas"
 tags: ["ee-uu", "hub-delta", "escala-larga", "internacional"]
 featured: true

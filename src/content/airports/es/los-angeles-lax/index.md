@@ -4,12 +4,16 @@ articleSlug: "los-angeles-lax"
 title: "Aeropuerto de Los Ángeles LAX: sube al nuevo tren gratuito entre terminales"
 airport: "Aeropuerto Internacional de Los Ángeles"
 iataCode: "LAX"
+coordinates:
+  lat: 33.94
+  lng: -118.41
 city: "Los Ángeles"
 country: "Estados Unidos"
 date: 2026-08-11
 image: "/images/los-angeles-lax/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional de Los Ángeles"
 excerpt: "Todo lo que necesitas saber sobre LAX: terminales, aerolíneas, cómo llegar a Los Ángeles, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Este aeropuerto inauguró en 2023 un tren automático gratuito que por fin conecta todas sus terminales con la red de metro de la ciudad."
 region: "americas"
 tags: ["estados-unidos", "multi-hub", "escala-corta", "internacional"]
 featured: true

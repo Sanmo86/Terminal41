@@ -4,12 +4,16 @@ articleSlug: "new-york-jfk"
 title: "New York JFK Airport: Sleep, Eat, or Swim at the TWA Hotel"
 airport: "John F. Kennedy International Airport"
 iataCode: "JFK"
+coordinates:
+  lat: 40.64
+  lng: -73.78
 city: "New York"
 country: "United States"
 date: 2026-08-09
 image: "/images/new-york-jfk/cover.svg"
 imageAlt: "Illustration of John F. Kennedy International Airport terminal building"
 excerpt: "Everything you need to know about JFK: terminals, airlines, how to get into Manhattan, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "A retro 1960s terminal building was converted into a fully functioning hotel, complete with a rooftop pool and an original Pan Am-era lounge."
 region: "americas"
 tags: ["usa", "delta-hub", "long-layover", "international"]
 featured: true

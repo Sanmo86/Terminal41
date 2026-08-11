@@ -4,6 +4,9 @@ articleSlug: "amsterdam-schiphol"
 title: "Amsterdam Schiphol Airport: Home to a Museum Inside the Terminal"
 airport: "Amsterdam Airport Schiphol"
 iataCode: "AMS"
+coordinates:
+  lat: 52.31
+  lng: 4.76
 city: "Amsterdam"
 country: "Netherlands"
 date: 2026-06-15
@@ -11,6 +14,7 @@ updatedDate: 2026-08-09
 image: "/images/amsterdam-schiphol/cover.svg"
 imageAlt: "Illustration of Amsterdam Schiphol Airport terminal building"
 excerpt: "The essential guide to Schiphol: its single-terminal layout, KLM's SkyTeam hub, getting into Amsterdam, parking, wifi, lounges, and long-layover tips."
+triviaClue: "This airport has a genuine art museum annex inside the terminal, letting travelers browse real paintings between flights."
 region: "europe"
 tags: ["netherlands", "klm-hub", "long-layover", "schengen"]
 featured: true

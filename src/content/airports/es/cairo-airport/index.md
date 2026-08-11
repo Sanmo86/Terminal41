@@ -4,12 +4,16 @@ articleSlug: "cairo-airport"
 title: "Aeropuerto Internacional de El Cairo: visado a la llegada para la mayoría"
 airport: "Aeropuerto Internacional de El Cairo"
 iataCode: "CAI"
+coordinates:
+  lat: 30.12
+  lng: 31.41
 city: "El Cairo"
 country: "Egipto"
 date: 2026-08-09
 image: "/images/cairo-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional de El Cairo"
 excerpt: "Todo lo que necesitas saber sobre CAI: terminales, aerolíneas, cómo llegar a El Cairo, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Viajeros de muchos países pueden obtener su visado de entrada directamente en el mostrador de llegadas, sin solicitud previa."
 region: "africa"
 tags: ["egipto", "hub-egyptair", "escala-corta", "internacional"]
 featured: true

@@ -4,12 +4,16 @@ articleSlug: "sydney-airport"
 title: "Sydney Kingsford Smith Airport: The City's Favorite Plane-Spotting Park"
 airport: "Sydney Kingsford Smith Airport"
 iataCode: "SYD"
+coordinates:
+  lat: -33.95
+  lng: 151.18
 city: "Sydney"
 country: "Australia"
 date: 2026-08-09
 image: "/images/sydney-airport/cover.svg"
 imageAlt: "Illustration of Sydney Kingsford Smith Airport terminal building"
 excerpt: "Everything you need to know about SYD: terminals, airlines, how to get into Sydney, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "A hillside park near this airport is famous specifically as a spot for watching planes take off and land up close."
 region: "oceania"
 tags: ["australia", "qantas-hub", "short-layover", "international"]
 featured: true

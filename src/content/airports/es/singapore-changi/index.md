@@ -4,12 +4,16 @@ articleSlug: "singapore-changi"
 title: "Aeropuerto de Singapur Changi: el hogar de la cascada interior más alta del mundo"
 airport: "Aeropuerto de Singapur Changi"
 iataCode: "SIN"
+coordinates:
+  lat: 1.36
+  lng: 103.99
 city: "Singapur"
 country: "Singapur"
 date: 2026-08-09
 image: "/images/singapore-changi/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Singapur Changi"
 excerpt: "Todo lo que necesitas saber sobre Changi: terminales, aerolíneas, cómo llegar a Singapur, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Una cúpula de jardín interior de diez pisos junto a las terminales alberga la cascada interior más alta del mundo."
 region: "asia"
 tags: ["singapur", "hub-singapore-airlines", "escala-larga", "internacional"]
 featured: true

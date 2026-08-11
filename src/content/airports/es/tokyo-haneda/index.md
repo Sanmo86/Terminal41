@@ -4,12 +4,16 @@ articleSlug: "tokyo-haneda"
 title: "Aeropuerto de Tokio Haneda: date un baño en el onsen del aeropuerto"
 airport: "Aeropuerto Internacional de Tokio (Haneda)"
 iataCode: "HND"
+coordinates:
+  lat: 35.55
+  lng: 139.78
 city: "Tokio"
 country: "Japón"
 date: 2026-08-09
 image: "/images/tokyo-haneda/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Tokio Haneda"
 excerpt: "Todo lo que necesitas saber sobre Haneda: terminales, aerolíneas, cómo llegar al centro de Tokio, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Los viajeros de largo radio pueden relajarse en un baño termal tradicional japonés ubicado en zona de embarque."
 region: "asia"
 tags: ["japón", "hub-ana", "hub-jal", "escala-corta"]
 featured: true

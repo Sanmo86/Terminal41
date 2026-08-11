@@ -4,12 +4,16 @@ articleSlug: "delhi-airport"
 title: "Delhi Airport: You Need Your Ticket Just to Walk In"
 airport: "Indira Gandhi International Airport"
 iataCode: "DEL"
+coordinates:
+  lat: 28.56
+  lng: 77.1
 city: "Delhi"
 country: "India"
 date: 2026-08-11
 image: "/images/delhi-airport/cover.svg"
 imageAlt: "Illustration of Delhi's Indira Gandhi International Airport terminal building"
 excerpt: "Everything you need to know about DEL: terminals, airlines, how to get into Delhi, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Unlike most airports, you cannot even enter this terminal building without first showing a valid ticket and photo ID at the door."
 region: "asia"
 tags: ["india", "hub-indigo", "short-layover", "international"]
 featured: true

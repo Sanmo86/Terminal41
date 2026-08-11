@@ -4,12 +4,16 @@ articleSlug: "guangzhou-baiyun"
 title: "Guangzhou Baiyun Airport: 144 Visa-Free Hours to Explore the City"
 airport: "Guangzhou Baiyun International Airport"
 iataCode: "CAN"
+coordinates:
+  lat: 23.39
+  lng: 113.3
 city: "Guangzhou"
 country: "China"
 date: 2026-08-11
 image: "/images/guangzhou-baiyun/cover.svg"
 imageAlt: "Illustration of Guangzhou Baiyun International Airport terminal building"
 excerpt: "Everything you need to know about CAN: terminals, airlines, how to get into Guangzhou, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Eligible travelers can leave this airport and explore the surrounding city visa-free for up to six days."
 region: "asia"
 tags: ["china", "hub-china-southern", "long-layover", "international"]
 featured: true

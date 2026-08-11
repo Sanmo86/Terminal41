@@ -4,12 +4,16 @@ articleSlug: "rio-de-janeiro-galeao"
 title: "Rio de Janeiro Galeão Airport: Request a Window Seat for the Approach"
 airport: "Rio de Janeiro–Galeão International Airport (Tom Jobim)"
 iataCode: "GIG"
+coordinates:
+  lat: -22.81
+  lng: -43.25
 city: "Rio de Janeiro"
 country: "Brazil"
 date: 2026-08-09
 image: "/images/rio-de-janeiro-galeao/cover.svg"
 imageAlt: "Illustration of Rio de Janeiro Galeão Airport terminal building"
 excerpt: "Everything you need to know about Galeão: terminals, airlines, how to get into Rio, parking, wifi, and what to do during a long layover."
+triviaClue: "Request a window seat for the approach — flights here offer a famous view of a mountaintop statue overlooking the bay."
 region: "americas"
 tags: ["brazil", "latam-hub", "short-layover", "international"]
 featured: true

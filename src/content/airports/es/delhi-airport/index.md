@@ -4,12 +4,16 @@ articleSlug: "delhi-airport"
 title: "Aeropuerto de Delhi: necesitas el billete solo para entrar"
 airport: "Aeropuerto Internacional Indira Gandhi"
 iataCode: "DEL"
+coordinates:
+  lat: 28.56
+  lng: 77.1
 city: "Delhi"
 country: "India"
 date: 2026-08-11
 image: "/images/delhi-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional Indira Gandhi de Delhi"
 excerpt: "Todo lo que necesitas saber sobre DEL: terminales, aerolíneas, cómo llegar a Delhi, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "A diferencia de la mayoría de aeropuertos, no puedes ni siquiera entrar al edificio de esta terminal sin mostrar antes un billete válido e identificación con foto en la puerta."
 region: "asia"
 tags: ["india", "hub-indigo", "escala-corta", "internacional"]
 featured: true

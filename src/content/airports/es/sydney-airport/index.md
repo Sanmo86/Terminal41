@@ -4,12 +4,16 @@ articleSlug: "sydney-airport"
 title: "Aeropuerto de Sídney Kingsford Smith: el parque favorito de la ciudad para ver aviones"
 airport: "Aeropuerto de Sídney Kingsford Smith"
 iataCode: "SYD"
+coordinates:
+  lat: -33.95
+  lng: 151.18
 city: "Sídney"
 country: "Australia"
 date: 2026-08-09
 image: "/images/sydney-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Sídney Kingsford Smith"
 excerpt: "Todo lo que necesitas saber sobre SYD: terminales, aerolíneas, cómo llegar a Sídney, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Un parque en una colina cerca de este aeropuerto es famoso específicamente como lugar para ver despegar y aterrizar aviones de cerca."
 region: "oceania"
 tags: ["australia", "hub-qantas", "escala-corta", "internacional"]
 featured: true

@@ -4,12 +4,16 @@ articleSlug: "los-angeles-lax"
 title: "Los Angeles International Airport: Ride the Brand-New Free Terminal Train"
 airport: "Los Angeles International Airport"
 iataCode: "LAX"
+coordinates:
+  lat: 33.94
+  lng: -118.41
 city: "Los Angeles"
 country: "United States"
 date: 2026-08-11
 image: "/images/los-angeles-lax/cover.svg"
 imageAlt: "Illustration of Los Angeles International Airport terminal building"
 excerpt: "Everything you need to know about LAX: terminals, airlines, how to get into Los Angeles, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "This airport opened a free automated train in 2023 that finally connects all of its terminals to the city's metro rail system."
 region: "americas"
 tags: ["united-states", "multi-hub", "short-layover", "international"]
 featured: true

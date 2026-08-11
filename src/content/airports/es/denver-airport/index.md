@@ -4,12 +4,16 @@ articleSlug: "denver-airport"
 title: "Aeropuerto de Denver: conoce a Blucifer, el mustang azul de 10 metros"
 airport: "Aeropuerto Internacional de Denver"
 iataCode: "DEN"
+coordinates:
+  lat: 39.86
+  lng: -104.67
 city: "Denver"
 country: "Estados Unidos"
 date: 2026-08-11
 image: "/images/denver-airport/cover.svg"
 imageAlt: "Ilustración del techo en forma de tienda de campaña del Aeropuerto Internacional de Denver"
 excerpt: "Todo lo que necesitas saber sobre DEN: terminales, aerolíneas, cómo llegar a Denver, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Una escultura de un caballo azul brillante de casi 10 metros con ojos rojos brillantes recibe a los conductores en la entrada de este aeropuerto."
 region: "americas"
 tags: ["estados-unidos", "hub-united-airlines", "escala-corta", "nacional"]
 featured: true

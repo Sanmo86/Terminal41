@@ -4,12 +4,16 @@ articleSlug: "istanbul-airport"
 title: "Aeropuerto de Estambul: consigue un tour gratis por la ciudad en escalas largas"
 airport: "Aeropuerto de Estambul"
 iataCode: "IST"
+coordinates:
+  lat: 41.28
+  lng: 28.75
 city: "Estambul"
 country: "Turquía"
 date: 2026-08-09
 image: "/images/istanbul-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Estambul"
 excerpt: "Todo lo que necesitas saber sobre IST: concourses, aerolíneas, cómo llegar a Estambul, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Los pasajeros con una escala suficientemente larga aquí pueden reclamar un tour guiado gratuito por el centro histórico de la ciudad."
 region: "europe"
 tags: ["turquía", "hub-turkish-airlines", "escala-larga", "internacional"]
 featured: true

@@ -4,12 +4,16 @@ articleSlug: "shanghai-pudong"
 title: "Aeropuerto de Shanghái Pudong: sube al tren comercial más rápido del mundo"
 airport: "Aeropuerto Internacional de Shanghái Pudong"
 iataCode: "PVG"
+coordinates:
+  lat: 31.14
+  lng: 121.81
 city: "Shanghái"
 country: "China"
 date: 2026-08-09
 image: "/images/shanghai-pudong/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Shanghái Pudong"
 excerpt: "Todo lo que necesitas saber sobre PVG: terminales, aerolíneas, cómo llegar a Shanghái, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Un tren que conecta este aeropuerto con la ciudad puede alcanzar velocidades de más de 430 km/h usando levitación magnética."
 region: "asia"
 tags: ["china", "hub-china-eastern", "escala-larga", "internacional"]
 featured: true

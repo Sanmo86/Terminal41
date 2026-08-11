@@ -4,12 +4,16 @@ articleSlug: "auckland-airport"
 title: "Aeropuerto de Auckland: los estrictos controles de bioseguridad de Nueva Zelanda"
 airport: "Aeropuerto de Auckland"
 iataCode: "AKL"
+coordinates:
+  lat: -37.01
+  lng: 174.79
 city: "Auckland"
 country: "Nueva Zelanda"
 date: 2026-08-09
 image: "/images/auckland-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Auckland"
 excerpt: "Todo lo que necesitas saber sobre AKL: terminales, aerolíneas, cómo llegar a Auckland, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Los agentes de bioseguridad de este país son famosos por su rigurosidad — hasta una sola pieza de fruta en tu maleta puede suponer una multa."
 region: "oceania"
 tags: ["nueva-zelanda", "hub-air-new-zealand", "escala-corta", "internacional"]
 featured: true

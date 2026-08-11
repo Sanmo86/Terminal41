@@ -4,12 +4,16 @@ articleSlug: "london-heathrow"
 title: "Aeropuerto de Londres Heathrow: cuatro terminales que no se conectan a pie"
 airport: "Aeropuerto de Londres Heathrow"
 iataCode: "LHR"
+coordinates:
+  lat: 51.47
+  lng: -0.45
 city: "Londres"
 country: "Reino Unido"
 date: 2026-08-09
 image: "/images/london-heathrow/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Londres Heathrow"
 excerpt: "Todo lo que necesitas saber sobre Heathrow: terminales, aerolíneas, cómo llegar a Londres, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+triviaClue: "Las terminales de este aeropuerto están tan separadas que no se puede ir caminando de una a otra — algunos traslados requieren autobús, tren o incluso un vuelo corto."
 region: "europe"
 tags: ["reino-unido", "hub-british-airways", "escala-larga", "internacional"]
 featured: true

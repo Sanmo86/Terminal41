@@ -4,12 +4,16 @@ articleSlug: "marrakech-menara"
 title: "Aeropuerto de Marrakech Menara: una terminal inspirada en la mashrabiya"
 airport: "Aeropuerto de Marrakech Menara"
 iataCode: "RAK"
+coordinates:
+  lat: 31.61
+  lng: -8.03
 city: "Marrakech"
 country: "Marruecos"
 date: 2026-08-09
 image: "/images/marrakech-menara/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Marrakech Menara"
 excerpt: "Todo lo que necesitas saber sobre Marrakech Menara: terminales, aerolíneas, cómo llegar a la Medina, parking, wifi y qué hacer si tienes una escala larga."
+triviaClue: "La fachada de la terminal está cubierta con un intrincado patrón de celosía inspirado en las tradicionales pantallas islámicas."
 region: "africa"
 tags: ["marruecos", "hub-royal-air-maroc", "escala-corta"]
 featured: true

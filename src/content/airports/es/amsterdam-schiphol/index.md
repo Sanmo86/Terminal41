@@ -4,6 +4,9 @@ articleSlug: "amsterdam-schiphol"
 title: "Aeropuerto de Ámsterdam Schiphol: con un museo dentro de la terminal"
 airport: "Aeropuerto de Ámsterdam Schiphol"
 iataCode: "AMS"
+coordinates:
+  lat: 52.31
+  lng: 4.76
 city: "Ámsterdam"
 country: "Países Bajos"
 date: 2026-06-15
@@ -11,6 +14,7 @@ updatedDate: 2026-08-09
 image: "/images/amsterdam-schiphol/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Ámsterdam Schiphol"
 excerpt: "La guía esencial de Schiphol: su terminal única, el hub de SkyTeam de KLM, cómo llegar a Ámsterdam, parking, wifi, salas VIP y consejos para escalas largas."
+triviaClue: "Este aeropuerto tiene un auténtico anexo de museo de arte dentro de la terminal, donde puedes ver cuadros reales entre vuelos."
 region: "europe"
 tags: ["países-bajos", "hub-klm", "escala-larga", "schengen"]
 featured: true

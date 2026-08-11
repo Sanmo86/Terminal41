@@ -4,12 +4,16 @@ articleSlug: "toronto-pearson"
 title: "Toronto Pearson Airport: Clear US Customs Before You Even Board"
 airport: "Toronto Pearson International Airport"
 iataCode: "YYZ"
+coordinates:
+  lat: 43.68
+  lng: -79.63
 city: "Toronto"
 country: "Canada"
 date: 2026-08-09
 image: "/images/toronto-pearson/cover.svg"
 imageAlt: "Illustration of Toronto Pearson International Airport terminal building"
 excerpt: "Everything you need to know about YYZ: terminals, airlines, how to get into Toronto, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Many transatlantic passengers clear their onward country's customs and immigration right here, before they even board — not after landing."
 region: "americas"
 tags: ["canada", "air-canada-hub", "short-layover", "international"]
 featured: true

@@ -37,7 +37,19 @@ const homeHref = lang === 'es' ? '/es/' : '/';
         </div>
       </div>
       <a href={`${prefix}/about`} class="hover:text-brand-700 dark:hover:text-brand-300">{t('nav.about')}</a>
+      <a href={`${prefix}/trivia`} class="hover:text-brand-700 dark:hover:text-brand-300">{t('nav.trivia')}</a>
     </nav>
+
+    <button
+      type="button"
+      id="surprise-me-btn"
+      data-index-url={`${prefix}/search-index.json`}
+      data-article-base={`${prefix}/airports`}
+      class="hidden shrink-0 items-center gap-1.5 rounded-full border border-slate-200 px-3 py-1.5 text-sm font-medium text-slate-600 transition hover:border-brand-300 hover:text-brand-700 md:inline-flex dark:border-slate-800 dark:text-slate-300 dark:hover:text-brand-300"
+      title={t('nav.surpriseMe')}
+    >
+      🎲 {t('nav.surpriseMe')}
+    </button>
 
     <LanguageSwitcher lang={lang} pathname={pathname} class="hidden md:inline-flex" />
 
@@ -76,6 +88,16 @@ const homeHref = lang === 'es' ? '/es/' : '/';
       <a href={`${prefix}/regions/${r.slug}`} class="block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">{regionLabel(r.slug, lang)}</a>
     ))}
     <a href={`${prefix}/about`} class="mt-2 block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">{t('nav.about')}</a>
+    <a href={`${prefix}/trivia`} class="block rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-900">{t('nav.trivia')}</a>
+    <button
+      type="button"
+      id="surprise-me-btn-mobile"
+      data-index-url={`${prefix}/search-index.json`}
+      data-article-base={`${prefix}/airports`}
+      class="block w-full rounded-lg px-2 py-2 text-left hover:bg-slate-50 dark:hover:bg-slate-900"
+    >
+      🎲 {t('nav.surpriseMe')}
+    </button>
     <div class="mt-3 border-t border-slate-200 pt-3 dark:border-slate-800">
       <LanguageSwitcher lang={lang} pathname={pathname} />
     </div>
@@ -96,6 +118,35 @@ const homeHref = lang === 'es' ? '/es/' : '/';
     });
   }
 
+  async function goToRandomAirport(button: HTMLButtonElement) {
+    if (!button || button.dataset.loading === 'true') return;
+    button.dataset.loading = 'true';
+    try {
+      const indexUrl = button.dataset.indexUrl;
+      const articleBase = button.dataset.articleBase;
+      if (!indexUrl || !articleBase) return;
+      const res = await fetch(indexUrl);
+      const items = await res.json();
+      if (!Array.isArray(items) || items.length === 0) return;
+      const currentSlug = window.location.pathname.split('/').filter(Boolean).pop();
+      const pool = items.length > 1 ? items.filter((i: { slug: string }) => i.slug !== currentSlug) : items;
+      const pick = pool[Math.floor(Math.random() * pool.length)];
+      window.location.href = `${articleBase}/${pick.slug}`;
+    } finally {
+      button.dataset.loading = 'false';
+    }
+  }
+
+  function initSurpriseMe() {
+    document.querySelectorAll<HTMLButtonElement>('#surprise-me-btn, #surprise-me-btn-mobile').forEach((btn) => {
+      if (btn.dataset.initialized === 'true') return;
+      btn.dataset.initialized = 'true';
+      btn.addEventListener('click', () => goToRandomAirport(btn));
+    });
+  }
+
   initMobileMenu();
+  initSurpriseMe();
   document.addEventListener('astro:page-load', initMobileMenu);
+  document.addEventListener('astro:page-load', initSurpriseMe);
 </script>

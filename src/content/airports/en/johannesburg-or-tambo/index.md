@@ -4,12 +4,16 @@ articleSlug: "johannesburg-or-tambo"
 title: "Johannesburg O.R. Tambo Airport: Take the Gautrain, Skip the Street Taxi"
 airport: "O.R. Tambo International Airport"
 iataCode: "JNB"
+coordinates:
+  lat: -26.14
+  lng: 28.24
 city: "Johannesburg"
 country: "South Africa"
 date: 2026-08-09
 image: "/images/johannesburg-or-tambo/cover.svg"
 imageAlt: "Illustration of O.R. Tambo International Airport terminal building"
 excerpt: "Everything you need to know about JNB: terminals, airlines, how to get into Johannesburg, parking, wifi, lounges, and what to do during a long layover."
+triviaClue: "Travelers are specifically advised to use a dedicated rail line or the official taxi rank here, rather than hailing a cab on the street."
 region: "africa"
 tags: ["south-africa", "south-african-airways-hub", "short-layover", "international"]
 featured: true
