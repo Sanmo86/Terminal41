@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">LAX — Simplified Terminal Layout</text>
+
+  <path d="M200 560 Q600 460 1000 560" stroke="#cbd5e1" stroke-width="16" fill="none"/>
+  <text x="600" y="600" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b" text-anchor="middle">The famous "horseshoe" central terminal loop road</text>
+
+  <g fill="#0c4a6e">
+    <rect x="120" y="380" width="140" height="80" rx="10"/>
+    <rect x="300" y="330" width="140" height="80" rx="10"/>
+    <rect x="480" y="300" width="140" height="80" rx="10"/>
+    <rect x="660" y="300" width="140" height="80" rx="10"/>
+    <rect x="840" y="330" width="140" height="80" rx="10"/>
+    <rect x="1010" y="380" width="90" height="80" rx="10"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="190" y="425">T1/T2</text>
+    <text x="370" y="375">T3</text>
+    <text x="550" y="345">TBIT</text>
+    <text x="730" y="345">T5/T6</text>
+    <text x="910" y="375">T7/T8</text>
+    <text x="1055" y="425">APM</text>
+  </g>
+
+  <text x="600" y="150" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#c2410c" text-anchor="middle">Free Automated People Mover connects all terminals to Metro rail</text>
+
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>

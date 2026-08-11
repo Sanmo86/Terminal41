@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">DEL — Simplified Terminal Layout</text>
+
+  <g fill="#a16207">
+    <rect x="160" y="240" width="220" height="90" rx="10"/>
+    <rect x="420" y="240" width="220" height="90" rx="10"/>
+  </g>
+  <rect x="680" y="180" width="360" height="200" rx="18" fill="#fff7ed" stroke="#9a3412" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="270" y="292">Terminal 1</text>
+    <text x="530" y="292">Terminal 2</text>
+  </g>
+  <text x="860" y="270" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#9a3412" text-anchor="middle">Terminal 3</text>
+  <text x="860" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#9a3412" text-anchor="middle">Main international terminal</text>
+
+  <text x="600" y="450" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b" text-anchor="middle">Ticket/ID required for CISF security check at the terminal entrance gate</text>
+
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>
