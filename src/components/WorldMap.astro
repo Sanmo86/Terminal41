@@ -3,11 +3,15 @@
 // article grid. Plots every airport with `coordinates` in its frontmatter
 // using a simple equirectangular projection onto a 1200x600 canvas, over
 // a real satellite-derived equirectangular world map image (not a
-// hand-drawn shape) so it reads as an actual map. Background image:
-// "Equirectangular projection SW.jpg" by Strebe, CC BY-SA 3.0, via
-// Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Equirectangular_projection_SW.jpg
-// (public/images/world-map-bg.jpg). Each marker is a real <a> link —
-// works with zero JS.
+// hand-drawn shape, and no graticule/grid lines) so it reads as an
+// actual map. Background image: NASA's "Land, Ocean, Ice" Blue Marble
+// composite (Reto Stöckli / Robert Simmon, NASA Goddard Space Flight
+// Center), CC BY-SA 3.0 via Wikimedia Commons —
+// https://commons.wikimedia.org/wiki/File:Land_ocean_ice_2048.jpg
+// (public/images/world-map-bg.jpg, 2048x1024). Marker alignment was
+// verified by compositing known airport coordinates onto the raw image
+// with the same projection formula before publishing. Each marker is a
+// real <a> link — works with zero JS.
 import type { CollectionEntry } from 'astro:content';
 import { REGIONS, regionLabel } from '../config/site';
 import { useTranslations, type Lang } from '../i18n/ui';
@@ -75,7 +79,7 @@ const activeRegions = REGIONS.filter((r) => markers.length > 0 && entries.some((
   </div>
   <p class="mt-2 text-xs text-slate-400 dark:text-slate-500">
     {lang === 'es' ? 'Mapa: ' : 'Map: '}
-    <a href="https://commons.wikimedia.org/wiki/File:Equirectangular_projection_SW.jpg" class="underline hover:text-slate-600 dark:hover:text-slate-300" target="_blank" rel="noopener noreferrer nofollow">Strebe</a>,
+    <a href="https://commons.wikimedia.org/wiki/File:Land_ocean_ice_2048.jpg" class="underline hover:text-slate-600 dark:hover:text-slate-300" target="_blank" rel="noopener noreferrer nofollow">NASA Goddard Space Flight Center</a>,
     <a href="https://creativecommons.org/licenses/by-sa/3.0/" class="underline hover:text-slate-600 dark:hover:text-slate-300" target="_blank" rel="noopener noreferrer nofollow">CC BY-SA 3.0</a>
   </p>
 
