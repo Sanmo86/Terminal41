@@ -35,6 +35,22 @@ export function regionLabel(slug: string, lang: 'en' | 'es' = 'en'): string {
   return REGIONS.find((r) => r.slug === slug)?.label[lang] ?? slug;
 }
 
+// Shared per-region accent colors — used by the homepage world map
+// (marker + legend dots) and by the build-time OG image generator
+// (src/pages/og/[lang]/[slug].png.ts), so both stay visually consistent.
+export const REGION_COLORS: Record<string, string> = {
+  europe: '#2563eb',
+  americas: '#dc2626',
+  asia: '#d97706',
+  africa: '#16a34a',
+  'middle-east': '#9333ea',
+  oceania: '#0891b2',
+};
+
+export function regionColor(slug: string): string {
+  return REGION_COLORS[slug] ?? '#64748b';
+}
+
 // --- Analytics ---------------------------------------------------------
 // Google Analytics 4 measurement ID. The actual gtag.js script only loads
 // once a visitor accepts cookies (see src/components/Analytics.astro and

@@ -69,6 +69,13 @@ const canonicalURL = new URL(Astro.url.pathname, SITE.url).toString();
 const absoluteImage = new URL(image, SITE.url).toString();
 const regionHref = lang === 'es' ? `/es/regions/${region}` : `/regions/${region}`;
 
+// Dynamic Open Graph card — generated at build time per article (see
+// src/pages/og/[lang]/[slug].png.ts), used for og:image/twitter:image and
+// social share links instead of the flat cover.svg illustration, since
+// most link-preview crawlers don't reliably rasterize SVG images.
+const ogImage = `/og/${lang}/${entry.data.articleSlug}.png`;
+const ogImageAbsolute = new URL(ogImage, SITE.url).toString();
+
 const articleSchema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -99,7 +106,7 @@ const breadcrumbSchema = {
 };
 ---
 
-<BaseLayout title={seoTitle ?? title} description={seoDescription ?? excerpt} image={image} article lang={lang}>
+<BaseLayout title={seoTitle ?? title} description={seoDescription ?? excerpt} image={ogImage} article lang={lang}>
   <script is:inline type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <article class="mx-auto max-w-6xl px-4 py-8 sm:px-6">
@@ -119,7 +126,7 @@ const breadcrumbSchema = {
         {formattedUpdated && ` · ${t('article.updated')} ${formattedUpdated}`}
       </p>
       <div class="mt-3">
-        <ShareButtons url={canonicalURL} title={title} image={absoluteImage} lang={lang} />
+        <ShareButtons url={canonicalURL} title={title} image={ogImageAbsolute} lang={lang} />
       </div>
     </header>
 
