@@ -8,7 +8,7 @@ export const SITE = {
   twitter: '@terminal41',
   // Used on About, Legal Notice, Privacy Policy, and Cookie Policy pages.
   legalName: 'The Terminal41 Team',
-  contactEmail: 'sanmo8604@gmail.com',
+  contactEmail: 'terminal41.co@gmail.com',
 };
 
 // Locale metadata (og:locale, <html lang>, etc.) — page copy (tagline,
