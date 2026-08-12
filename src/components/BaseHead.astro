@@ -1,5 +1,5 @@
 ---
-import { SITE, LOCALE_META } from '../config/site';
+import { SITE, LOCALE_META, ADSENSE_CLIENT_ID } from '../config/site';
 import { getLocalizedPath, type Lang } from '../i18n/ui';
 
 interface Props {
@@ -58,6 +58,19 @@ const websiteSchema = {
 <link rel="alternate" hreflang="x-default" href={enURL} />
 <meta name="generator" content={Astro.generator} />
 <meta name="google-site-verification" content="JSG8HMXq24u-3xgcTJX_KvoKl4UdzOdimtGp7g4pp8o" />
+
+<!-- AdSense site verification / auto-ads script. Live sitewide as soon
+     as ADSENSE_CLIENT_ID is set (src/config/site.ts) so Google can crawl
+     and review the site — separate from ADS_ENABLED, which gates the
+     actual <AdSlot /> ad units and stays off until AdSense approves. -->
+{ADSENSE_CLIENT_ID && (
+  <script
+    is:inline
+    async
+    src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
+    crossorigin="anonymous"
+  ></script>
+)}
 
 <!-- Primary meta tags -->
 <title>{pageTitle}</title>

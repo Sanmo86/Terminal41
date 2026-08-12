@@ -58,9 +58,17 @@ export function regionColor(slug: string): string {
 export const GA_MEASUREMENT_ID = 'G-9WTM8N781Y';
 
 // --- Monetization (disabled for now) ---------------------------------
-// Flip this to true once you're ready to show ad slots. Individual slots
-// are rendered by <AdSlot /> (src/components/AdSlot.astro), which already
-// reads this flag — no template changes needed later.
+// AdSense publisher ID — the site-verification/auto-ads script
+// (loaded sitewide in BaseHead.astro) is live as soon as this is set,
+// so Google can crawl and review the site. This is separate from
+// ADS_ENABLED below: the verification script can be live during
+// review with zero ad units actually rendering.
+export const ADSENSE_CLIENT_ID = 'ca-pub-1875402371880877';
+
+// Flip this to true once AdSense approves the site and you're ready to
+// show ad slots. Individual slots are rendered by <AdSlot />
+// (src/components/AdSlot.astro), which already reads this flag — no
+// template changes needed later.
 export const ADS_ENABLED = false;
 
 // Optional affiliate program placeholders. Leave blank until you have real
