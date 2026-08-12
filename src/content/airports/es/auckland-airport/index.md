@@ -12,7 +12,7 @@ country: "Nueva Zelanda"
 date: 2026-08-09
 image: "/images/auckland-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Auckland"
-excerpt: "Todo lo que necesitas saber sobre AKL: terminales, aerolíneas, cómo llegar a Auckland, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Los controles de bioseguridad de Nueva Zelanda en el Aeropuerto de Auckland son famosos por su rigor. Aquí tienes transporte, seguridad, parking y salas VIP."
 triviaClue: "Los agentes de bioseguridad de este país son famosos por su rigurosidad — hasta una sola pieza de fruta en tu maleta puede suponer una multa."
 region: "oceania"
 tags: ["nueva-zelanda", "hub-air-new-zealand", "escala-corta", "internacional"]

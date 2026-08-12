@@ -12,7 +12,7 @@ country: "Australia"
 date: 2026-08-09
 image: "/images/sydney-airport/cover.svg"
 imageAlt: "Illustration of Sydney Kingsford Smith Airport terminal building"
-excerpt: "Everything you need to know about SYD: terminals, airlines, how to get into Sydney, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "There's a famous plane-spotting park near Sydney's Kingsford Smith airport. Transport into the city, security wait times, parking, and lounges."
 triviaClue: "A hillside park near this airport is famous specifically as a spot for watching planes take off and land up close."
 region: "oceania"
 tags: ["australia", "qantas-hub", "short-layover", "international"]

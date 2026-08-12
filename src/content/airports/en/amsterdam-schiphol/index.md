@@ -13,7 +13,7 @@ date: 2026-06-15
 updatedDate: 2026-08-09
 image: "/images/amsterdam-schiphol/cover.svg"
 imageAlt: "Illustration of Amsterdam Schiphol Airport terminal building"
-excerpt: "The essential guide to Schiphol: its single-terminal layout, KLM's SkyTeam hub, getting into Amsterdam, parking, wifi, lounges, and long-layover tips."
+excerpt: "Schiphol has its own art museum annex inside the terminal. Here's how to get into Amsterdam, clear security fast, and make the most of a layover."
 triviaClue: "This airport has a genuine art museum annex inside the terminal, letting travelers browse real paintings between flights."
 region: "europe"
 tags: ["netherlands", "klm-hub", "long-layover", "schengen"]

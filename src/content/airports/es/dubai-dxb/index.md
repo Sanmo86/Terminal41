@@ -12,7 +12,7 @@ country: "Emiratos Árabes Unidos"
 date: 2026-08-09
 image: "/images/dubai-dxb/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional de Dubái"
-excerpt: "Todo lo que necesitas saber sobre DXB: terminales, aerolíneas, cómo llegar a Dubái, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "El duty-free de Dubai International organiza una rifa de superdeportivos reales. Aquí tienes cómo llegar a la ciudad, tiempos de seguridad, parking y salas VIP."
 triviaClue: "Su tienda duty-free organiza una rifa en la que un billete con suerte puede hacerte ganar un superdeportivo de lujo nuevo."
 region: "middle-east"
 tags: ["eau", "hub-emirates", "escala-larga", "internacional"]

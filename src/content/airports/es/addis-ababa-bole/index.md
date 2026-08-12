@@ -12,7 +12,7 @@ country: "Etiopía"
 date: 2026-08-12
 image: "/images/addis-ababa-bole/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional Bole de Adís Abeba"
-excerpt: "Todo lo que necesitas saber sobre ADD: terminales, aerolíneas, cómo llegar a Adís Abeba, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Vive una ceremonia tradicional del café etíope en Adís Abeba Bole. Cómo llegar a la ciudad, tiempos de seguridad, parking y salas VIP."
 triviaClue: "Los viajeros pueden vivir una ceremonia tradicional del café en este aeropuerto, en el país considerado la cuna del café."
 region: "africa"
 tags: ["etiopia", "hub-ethiopian-airlines", "escala-larga", "internacional"]

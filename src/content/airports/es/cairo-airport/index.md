@@ -12,7 +12,7 @@ country: "Egipto"
 date: 2026-08-09
 image: "/images/cairo-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional de El Cairo"
-excerpt: "Todo lo que necesitas saber sobre CAI: terminales, aerolíneas, cómo llegar a El Cairo, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "El Aeropuerto Internacional de El Cairo ofrece visado a la llegada para la mayoría de nacionalidades. Cómo llegar a la ciudad, seguridad, parking, wifi y salas VIP."
 triviaClue: "Viajeros de muchos países pueden obtener su visado de entrada directamente en el mostrador de llegadas, sin solicitud previa."
 region: "africa"
 tags: ["egipto", "hub-egyptair", "escala-corta", "internacional"]

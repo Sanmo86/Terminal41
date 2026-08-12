@@ -12,7 +12,7 @@ country: "China"
 date: 2026-08-12
 image: "/images/beijing-capital/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional de Pekín Capital"
-excerpt: "Todo lo que necesitas saber sobre PEK: terminales, aerolíneas, cómo llegar a Pekín, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "La Terminal 3 de Pekín Capital fue en su día la terminal de aeropuerto más grande del mundo. Cómo llegar a la ciudad, tiempos de seguridad y salas VIP."
 triviaClue: "Una de sus terminales fue, cuando se inauguró para unos Juegos Olímpicos en casa, el edificio de terminal de aeropuerto individual más grande del mundo."
 region: "asia"
 tags: ["china", "hub-air-china", "escala-larga", "internacional"]

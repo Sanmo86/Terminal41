@@ -12,7 +12,7 @@ country: "United States"
 date: 2026-08-11
 image: "/images/los-angeles-lax/cover.svg"
 imageAlt: "Illustration of Los Angeles International Airport terminal building"
-excerpt: "Everything you need to know about LAX: terminals, airlines, how to get into Los Angeles, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "LAX's brand-new free terminal train finally links every terminal to Metro rail. Transport into LA, security wait times, parking, and lounges."
 triviaClue: "This airport opened a free automated train in 2023 that finally connects all of its terminals to the city's metro rail system."
 region: "americas"
 tags: ["united-states", "multi-hub", "short-layover", "international"]

@@ -12,7 +12,7 @@ country: "United States"
 date: 2026-08-09
 image: "/images/atlanta-hartsfield-jackson/cover.svg"
 imageAlt: "Illustration of Atlanta Hartsfield-Jackson Airport terminal building"
-excerpt: "Everything you need to know about ATL: concourses, airlines, how to get into Atlanta, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Atlanta's Hartsfield-Jackson runs the world's busiest airport train. Transport into the city, security wait times, parking, wifi, and lounges covered."
 triviaClue: "Its internal train system alone carries more daily riders than most standalone city metro systems."
 region: "americas"
 tags: ["usa", "delta-hub", "short-layover", "international"]

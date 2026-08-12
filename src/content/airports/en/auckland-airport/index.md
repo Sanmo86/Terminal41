@@ -12,7 +12,7 @@ country: "New Zealand"
 date: 2026-08-09
 image: "/images/auckland-airport/cover.svg"
 imageAlt: "Illustration of Auckland Airport terminal building"
-excerpt: "Everything you need to know about AKL: terminals, airlines, how to get into Auckland, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "New Zealand's biosecurity checks at Auckland Airport are famously strict. Here's transport into the city, security times, parking, and lounges."
 triviaClue: "This country's biosecurity officers are famously strict — even a single piece of fruit in your bag can mean a fine."
 region: "oceania"
 tags: ["new-zealand", "air-new-zealand-hub", "short-layover", "international"]

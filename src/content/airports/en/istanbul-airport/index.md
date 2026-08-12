@@ -12,7 +12,7 @@ country: "Turkey"
 date: 2026-08-09
 image: "/images/istanbul-airport/cover.svg"
 imageAlt: "Illustration of Istanbul Airport terminal building"
-excerpt: "Everything you need to know about IST: concourses, airlines, how to get into Istanbul, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Long layover at Istanbul Airport? You can claim a free guided city tour. Plus transport into the city, security wait times, and lounge options."
 triviaClue: "Passengers with a long enough layover here can claim a free guided tour of the historic city center."
 region: "europe"
 tags: ["turkey", "turkish-airlines-hub", "long-layover", "international"]

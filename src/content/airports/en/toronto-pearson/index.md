@@ -12,7 +12,7 @@ country: "Canada"
 date: 2026-08-09
 image: "/images/toronto-pearson/cover.svg"
 imageAlt: "Illustration of Toronto Pearson International Airport terminal building"
-excerpt: "Everything you need to know about YYZ: terminals, airlines, how to get into Toronto, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Many Toronto Pearson passengers clear US customs before they even board. Transport into the city, security times, parking, wifi, and lounges."
 triviaClue: "Many transatlantic passengers clear their onward country's customs and immigration right here, before they even board — not after landing."
 region: "americas"
 tags: ["canada", "air-canada-hub", "short-layover", "international"]

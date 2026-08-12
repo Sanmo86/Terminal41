@@ -12,7 +12,7 @@ country: "United States"
 date: 2026-08-12
 image: "/images/miami-airport/cover.svg"
 imageAlt: "Illustration of Miami International Airport terminal building"
-excerpt: "Everything you need to know about MIA: terminals, airlines, how to get into Miami, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Miami International runs more flights to Latin America than any other US airport. Transport into the city, security wait times, and lounges."
 triviaClue: "More flights depart this airport for Latin America and the Caribbean than from any other airport in the United States."
 region: "americas"
 tags: ["united-states", "hub-american-airlines", "short-layover", "international"]

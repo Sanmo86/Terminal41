@@ -12,7 +12,7 @@ country: "Brasil"
 date: 2026-08-09
 image: "/images/rio-de-janeiro-galeao/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Río de Janeiro Galeão"
-excerpt: "Todo lo que necesitas saber sobre Galeão: terminales, aerolíneas, cómo llegar a Río, parking, wifi y qué hacer si tienes una escala larga."
+excerpt: "Pide ventanilla al volar a Galeão de Río — la aproximación es famosa. Además, cómo llegar a la ciudad, tiempos de seguridad, parking y salas VIP."
 triviaClue: "Pide ventanilla para la aproximación — los vuelos aquí ofrecen una vista famosa de una estatua sobre una montaña que domina la bahía."
 region: "americas"
 tags: ["brasil", "hub-latam", "escala-corta", "internacional"]

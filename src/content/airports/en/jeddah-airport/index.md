@@ -12,7 +12,7 @@ country: "Saudi Arabia"
 date: 2026-08-12
 image: "/images/jeddah-airport/cover.svg"
 imageAlt: "Illustration of King Abdulaziz International Airport terminal building"
-excerpt: "Everything you need to know about JED: terminals, airlines, how to get into Jeddah, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Jeddah's historic Hajj Terminal has a massive tent-like roof built for pilgrims. Transport into the city, security wait times, and lounges."
 triviaClue: "A terminal here has a massive tent-like fabric roof built specifically to process millions of religious pilgrims each year."
 region: "middle-east"
 tags: ["saudi-arabia", "hub-saudia", "short-layover", "international"]

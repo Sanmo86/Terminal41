@@ -12,7 +12,7 @@ country: "Alemania"
 date: 2026-08-12
 image: "/images/munich-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Múnich"
-excerpt: "Todo lo que necesitas saber sobre MUC: terminales, aerolíneas, cómo llegar a Múnich, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "El Aeropuerto de Múnich tiene su propia cervecería en funcionamiento. Cómo llegar a la ciudad, tiempos de seguridad, parking, wifi y salas VIP — más un jardín de cerveza."
 triviaClue: "Este aeropuerto tiene su propia cervecería dentro de la terminal, donde se elabora cerveza in situ."
 region: "europe"
 tags: ["alemania", "hub-lufthansa", "escala-larga", "schengen"]

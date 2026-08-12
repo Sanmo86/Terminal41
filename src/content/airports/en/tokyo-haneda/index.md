@@ -12,7 +12,7 @@ country: "Japan"
 date: 2026-08-09
 image: "/images/tokyo-haneda/cover.svg"
 imageAlt: "Illustration of Tokyo Haneda Airport terminal building"
-excerpt: "Everything you need to know about Haneda: terminals, airlines, how to get into central Tokyo, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Haneda has a real onsen hot-spring bath airside. Here's how to get into central Tokyo, clear security, and spend a long layover well."
 triviaClue: "Long-haul travelers can unwind in a traditional Japanese hot-spring bath located airside."
 region: "asia"
 tags: ["japan", "ana-hub", "jal-hub", "short-layover"]

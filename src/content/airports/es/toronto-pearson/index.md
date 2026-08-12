@@ -12,7 +12,7 @@ country: "Canadá"
 date: 2026-08-09
 image: "/images/toronto-pearson/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Toronto Pearson"
-excerpt: "Todo lo que necesitas saber sobre YYZ: terminales, aerolíneas, cómo llegar a Toronto, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Muchos pasajeros de Toronto Pearson pasan la aduana de EE. UU. antes incluso de embarcar. Cómo llegar a la ciudad, tiempos de seguridad, parking, wifi y salas VIP."
 triviaClue: "Muchos pasajeros transatlánticos pasan la aduana e inmigración de su país de destino aquí mismo, antes incluso de embarcar, no al aterrizar."
 region: "americas"
 tags: ["canadá", "hub-air-canada", "escala-corta", "internacional"]

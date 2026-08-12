@@ -12,7 +12,7 @@ country: "South Africa"
 date: 2026-08-09
 image: "/images/johannesburg-or-tambo/cover.svg"
 imageAlt: "Illustration of O.R. Tambo International Airport terminal building"
-excerpt: "Everything you need to know about JNB: terminals, airlines, how to get into Johannesburg, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "At O.R. Tambo, stick to the Gautrain or the official taxi rank, not a street hail. Transport options, security wait times, parking, and lounges."
 triviaClue: "Travelers are specifically advised to use a dedicated rail line or the official taxi rank here, rather than hailing a cab on the street."
 region: "africa"
 tags: ["south-africa", "south-african-airways-hub", "short-layover", "international"]

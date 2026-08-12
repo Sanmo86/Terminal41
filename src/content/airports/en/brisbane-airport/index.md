@@ -12,7 +12,7 @@ country: "Australia"
 date: 2026-08-12
 image: "/images/brisbane-airport/cover.svg"
 imageAlt: "Illustration of Brisbane Airport terminal building"
-excerpt: "Everything you need to know about BNE: terminals, airlines, how to get into Brisbane, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Brisbane Airport opened Australia's newest parallel runway in 2020. Transport into the city, security wait times, parking, wifi, and lounges."
 triviaClue: "This airport opened a brand-new parallel runway in 2020, one of the most modern runway systems in its region."
 region: "oceania"
 tags: ["australia", "hub-qantas", "short-layover", "international"]

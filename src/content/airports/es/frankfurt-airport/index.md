@@ -12,7 +12,7 @@ country: "Alemania"
 date: 2026-08-09
 image: "/images/frankfurt-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Fráncfort"
-excerpt: "Todo lo que necesitas saber sobre FRA: terminales, aerolíneas, cómo llegar a Fráncfort, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "El Aeropuerto de Fráncfort tiene su propia estación de tren de alta velocidad integrada. Cómo llegar a la ciudad, tiempos de seguridad, parking, wifi y salas VIP."
 triviaClue: "Una estación de tren interurbano de alta velocidad se encuentra directamente dentro del complejo de la terminal, lo que te permite saltarte la ciudad por completo."
 region: "europe"
 tags: ["alemania", "hub-lufthansa", "escala-larga", "schengen"]

@@ -12,7 +12,7 @@ country: "China"
 date: 2026-08-12
 image: "/images/beijing-capital/cover.svg"
 imageAlt: "Illustration of Beijing Capital International Airport terminal building"
-excerpt: "Everything you need to know about PEK: terminals, airlines, how to get into Beijing, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Beijing Capital's Terminal 3 was once the largest airport terminal in the world. Transport into the city, security wait times, and lounges."
 triviaClue: "One of its terminals was, when it opened for a home Olympics, the largest single airport terminal building in the world."
 region: "asia"
 tags: ["china", "hub-air-china", "long-layover", "international"]

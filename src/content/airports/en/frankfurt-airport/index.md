@@ -12,7 +12,7 @@ country: "Germany"
 date: 2026-08-09
 image: "/images/frankfurt-airport/cover.svg"
 imageAlt: "Illustration of Frankfurt Airport terminal building"
-excerpt: "Everything you need to know about FRA: terminals, airlines, how to get into Frankfurt, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Frankfurt Airport has its own high-speed train station built in. Transport into the city, security wait times, parking, wifi, and lounges."
 triviaClue: "A high-speed intercity train station sits directly inside the terminal complex, letting you skip the city entirely."
 region: "europe"
 tags: ["germany", "lufthansa-hub", "long-layover", "schengen"]

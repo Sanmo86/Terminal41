@@ -12,7 +12,7 @@ country: "Sudáfrica"
 date: 2026-08-09
 image: "/images/johannesburg-or-tambo/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Johannesburgo O.R. Tambo"
-excerpt: "Todo lo que necesitas saber sobre JNB: terminales, aerolíneas, cómo llegar a Johannesburgo, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "En O.R. Tambo, usa el Gautrain o la parada oficial de taxis, no pares uno en la calle. Opciones de transporte, tiempos de seguridad, parking y salas VIP."
 triviaClue: "Se aconseja específicamente a los viajeros usar una línea de tren dedicada o la parada oficial de taxis aquí, en vez de parar un taxi en la calle."
 region: "africa"
 tags: ["sudáfrica", "hub-south-african-airways", "escala-corta", "internacional"]

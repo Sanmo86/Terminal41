@@ -12,7 +12,7 @@ country: "Singapore"
 date: 2026-08-09
 image: "/images/singapore-changi/cover.svg"
 imageAlt: "Illustration of Singapore Changi Airport terminal building"
-excerpt: "Everything you need to know about Changi: terminals, airlines, how to get into Singapore, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Singapore Changi's Jewel has the world's tallest indoor waterfall. Transport into the city, security times, parking, wifi, and lounge access."
 triviaClue: "A ten-story indoor garden dome next to the terminals contains the world's tallest indoor waterfall."
 region: "asia"
 tags: ["singapore", "singapore-airlines-hub", "long-layover", "international"]

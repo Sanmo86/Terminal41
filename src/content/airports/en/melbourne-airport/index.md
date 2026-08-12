@@ -12,7 +12,7 @@ country: "Australia"
 date: 2026-08-09
 image: "/images/melbourne-airport/cover.svg"
 imageAlt: "Illustration of Melbourne Airport terminal building"
-excerpt: "Everything you need to know about MEL: terminals, airlines, how to get into Melbourne, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Melbourne Airport still has no train line to the city — here's how SkyBus fills the gap, plus security wait times, parking, and lounges."
 triviaClue: "Despite being one of the busiest airports in the world, this one still has no train line connecting it to its city center."
 region: "oceania"
 tags: ["australia", "qantas-hub", "short-layover", "international"]

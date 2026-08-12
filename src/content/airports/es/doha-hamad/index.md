@@ -12,7 +12,7 @@ country: "Catar"
 date: 2026-08-09
 image: "/images/doha-hamad/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional Hamad de Doha"
-excerpt: "Todo lo que necesitas saber sobre DOH: terminales, aerolíneas, cómo llegar a Doha, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Doha Hamad alberga una escultura gigante de un osito de peluche que no te puedes perder. Cómo llegar a la ciudad, tiempos de seguridad, parking, wifi y salas VIP."
 triviaClue: "Una escultura gigante de un osito de peluche con una lámpara de mesa por cabeza es una de las obras de arte más fotografiadas de esta terminal."
 region: "middle-east"
 tags: ["catar", "hub-qatar-airways", "escala-larga", "internacional"]

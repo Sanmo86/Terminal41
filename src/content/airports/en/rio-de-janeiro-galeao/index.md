@@ -12,7 +12,7 @@ country: "Brazil"
 date: 2026-08-09
 image: "/images/rio-de-janeiro-galeao/cover.svg"
 imageAlt: "Illustration of Rio de Janeiro Galeão Airport terminal building"
-excerpt: "Everything you need to know about Galeão: terminals, airlines, how to get into Rio, parking, wifi, and what to do during a long layover."
+excerpt: "Request a window seat flying into Rio's Galeão — the approach is famous. Plus transport into the city, security times, parking, and lounges."
 triviaClue: "Request a window seat for the approach — flights here offer a famous view of a mountaintop statue overlooking the bay."
 region: "americas"
 tags: ["brazil", "latam-hub", "short-layover", "international"]

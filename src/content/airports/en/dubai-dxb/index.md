@@ -12,7 +12,7 @@ country: "United Arab Emirates"
 date: 2026-08-09
 image: "/images/dubai-dxb/cover.svg"
 imageAlt: "Illustration of Dubai International Airport terminal building"
-excerpt: "Everything you need to know about DXB: terminals, airlines, how to get into Dubai, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Dubai International's duty-free runs a raffle for actual supercars. Here's transport into the city, security wait times, parking, and lounge access."
 triviaClue: "Its duty-free shop runs a raffle where a lucky ticket can win you a brand-new luxury supercar."
 region: "middle-east"
 tags: ["uae", "emirates-hub", "long-layover", "international"]

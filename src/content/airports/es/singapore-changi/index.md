@@ -12,7 +12,7 @@ country: "Singapur"
 date: 2026-08-09
 image: "/images/singapore-changi/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Singapur Changi"
-excerpt: "Todo lo que necesitas saber sobre Changi: terminales, aerolíneas, cómo llegar a Singapur, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "El Jewel de Singapur Changi tiene la cascada interior más alta del mundo. Cómo llegar a la ciudad, tiempos de seguridad, parking, wifi y acceso a salas VIP."
 triviaClue: "Una cúpula de jardín interior de diez pisos junto a las terminales alberga la cascada interior más alta del mundo."
 region: "asia"
 tags: ["singapur", "hub-singapore-airlines", "escala-larga", "internacional"]

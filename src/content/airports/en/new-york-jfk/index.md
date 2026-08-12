@@ -12,7 +12,7 @@ country: "United States"
 date: 2026-08-09
 image: "/images/new-york-jfk/cover.svg"
 imageAlt: "Illustration of John F. Kennedy International Airport terminal building"
-excerpt: "Everything you need to know about JFK: terminals, airlines, how to get into Manhattan, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "JFK's retro TWA Hotel is worth a detour. This guide covers transport into Manhattan, security wait times, parking, wifi, and lounges."
 triviaClue: "A retro 1960s terminal building was converted into a fully functioning hotel, complete with a rooftop pool and an original Pan Am-era lounge."
 region: "americas"
 tags: ["usa", "delta-hub", "long-layover", "international"]

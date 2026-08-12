@@ -12,7 +12,7 @@ country: "Arabia Saudita"
 date: 2026-08-12
 image: "/images/jeddah-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional Rey Abdulaziz"
-excerpt: "Todo lo que necesitas saber sobre JED: terminales, aerolíneas, cómo llegar a Yeda, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "La histórica Terminal del Hajj de Yeda tiene un enorme techo de tienda construido para peregrinos. Cómo llegar a la ciudad, tiempos de seguridad y salas VIP."
 triviaClue: "Una terminal aquí tiene un enorme techo de tela en forma de tienda de campaña, construido específicamente para procesar a millones de peregrinos religiosos cada año."
 region: "middle-east"
 tags: ["arabia-saudita", "hub-saudia", "escala-corta", "internacional"]

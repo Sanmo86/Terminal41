@@ -12,7 +12,7 @@ country: "Estados Unidos"
 date: 2026-08-12
 image: "/images/miami-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional de Miami"
-excerpt: "Todo lo que necesitas saber sobre MIA: terminales, aerolíneas, cómo llegar a Miami, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Desde Miami International salen más vuelos a Latinoamérica que desde cualquier otro aeropuerto de EE. UU. Cómo llegar a la ciudad, seguridad y salas VIP."
 triviaClue: "Desde este aeropuerto salen más vuelos hacia Latinoamérica y el Caribe que desde cualquier otro de Estados Unidos."
 region: "americas"
 tags: ["estados-unidos", "hub-american-airlines", "escala-corta", "internacional"]

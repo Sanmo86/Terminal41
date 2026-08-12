@@ -12,7 +12,7 @@ country: "Qatar"
 date: 2026-08-09
 image: "/images/doha-hamad/cover.svg"
 imageAlt: "Illustration of Hamad International Airport terminal building"
-excerpt: "Everything you need to know about DOH: terminals, airlines, how to get into Doha, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Doha Hamad is home to a giant teddy bear sculpture you can't miss. Transport into the city, security wait times, parking, wifi, and lounges."
 triviaClue: "A giant teddy bear sculpture with a table lamp for a head is one of the most photographed art pieces in this terminal."
 region: "middle-east"
 tags: ["qatar", "qatar-airways-hub", "long-layover", "international"]

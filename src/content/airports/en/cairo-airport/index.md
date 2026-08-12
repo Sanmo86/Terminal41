@@ -12,7 +12,7 @@ country: "Egypt"
 date: 2026-08-09
 image: "/images/cairo-airport/cover.svg"
 imageAlt: "Illustration of Cairo International Airport terminal building"
-excerpt: "Everything you need to know about CAI: terminals, airlines, how to get into Cairo, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Cairo International offers visa on arrival for most nationalities. Transport into the city, security wait times, parking, wifi, and lounges."
 triviaClue: "Travelers from many countries can obtain their entry visa right at the arrival counter, with no advance application needed."
 region: "africa"
 tags: ["egypt", "egyptair-hub", "short-layover", "international"]

@@ -12,7 +12,7 @@ country: "Francia"
 date: 2026-08-09
 image: "/images/paris-charles-de-gaulle/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de París Charles de Gaulle"
-excerpt: "Todo lo que necesitas saber sobre CDG: terminales, aerolíneas, cómo llegar a París, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "La Terminal 1 de Charles de Gaulle tiene un diseño realmente llamativo que merece mirar hacia arriba. Cómo llegar a París, tiempos de seguridad, parking y salas VIP."
 triviaClue: "Una de sus terminales tiene un diseño tubular llamativo, con escaleras mecánicas que cruzan de forma espectacular por el aire libre en su interior."
 region: "europe"
 tags: ["francia", "hub-air-france", "escala-larga", "schengen"]

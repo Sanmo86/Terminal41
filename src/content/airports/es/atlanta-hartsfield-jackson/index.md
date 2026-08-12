@@ -12,7 +12,7 @@ country: "Estados Unidos"
 date: 2026-08-09
 image: "/images/atlanta-hartsfield-jackson/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Atlanta Hartsfield-Jackson"
-excerpt: "Todo lo que necesitas saber sobre ATL: concourses, aerolíneas, cómo llegar a Atlanta, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "El Hartsfield-Jackson de Atlanta tiene el tren de aeropuerto más transitado del mundo. Cómo llegar a la ciudad, tiempos de seguridad, parking, wifi y salas VIP."
 triviaClue: "Su sistema de tren interno transporta más pasajeros al día que muchos metros urbanos completos por sí solos."
 region: "americas"
 tags: ["ee-uu", "hub-delta", "escala-corta", "internacional"]

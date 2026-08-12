@@ -13,7 +13,7 @@ date: 2026-08-01
 updatedDate: 2026-08-09
 image: "/images/madrid-barajas/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Madrid-Barajas"
-excerpt: "Todo lo que necesitas saber sobre Madrid-Barajas: terminales, aerolíneas, cómo llegar a la ciudad, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Guía práctica de Madrid-Barajas: su famoso techo de bambú, cómo llegar al centro, tiempos de seguridad, y dónde comer, comprar duty-free o relajarte en una sala VIP."
 triviaClue: "Su llamativo techo está construido con paneles de bambú real, uno de los mayores usos de este material en la arquitectura aeroportuaria moderna."
 region: "europe"
 tags: ["españa", "hub-iberia", "escala-larga", "schengen"]

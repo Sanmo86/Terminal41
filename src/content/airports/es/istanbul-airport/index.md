@@ -12,7 +12,7 @@ country: "Turquía"
 date: 2026-08-09
 image: "/images/istanbul-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Estambul"
-excerpt: "Todo lo que necesitas saber sobre IST: concourses, aerolíneas, cómo llegar a Estambul, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "¿Escala larga en el Aeropuerto de Estambul? Puedes reclamar un tour gratis por la ciudad. Además, cómo llegar al centro, tiempos de seguridad y opciones de sala VIP."
 triviaClue: "Los pasajeros con una escala suficientemente larga aquí pueden reclamar un tour guiado gratuito por el centro histórico de la ciudad."
 region: "europe"
 tags: ["turquía", "hub-turkish-airlines", "escala-larga", "internacional"]

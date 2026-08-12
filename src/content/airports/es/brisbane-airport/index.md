@@ -12,7 +12,7 @@ country: "Australia"
 date: 2026-08-12
 image: "/images/brisbane-airport/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Brisbane"
-excerpt: "Todo lo que necesitas saber sobre BNE: terminales, aerolíneas, cómo llegar a Brisbane, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "El Aeropuerto de Brisbane inauguró la pista paralela más nueva de Australia en 2020. Cómo llegar a la ciudad, tiempos de seguridad, parking, wifi y salas VIP."
 triviaClue: "Este aeropuerto inauguró en 2020 una pista paralela completamente nueva, uno de los sistemas de pistas más modernos de su región."
 region: "oceania"
 tags: ["australia", "hub-qantas", "escala-corta", "internacional"]

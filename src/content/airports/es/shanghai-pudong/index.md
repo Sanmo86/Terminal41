@@ -12,7 +12,7 @@ country: "China"
 date: 2026-08-09
 image: "/images/shanghai-pudong/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Shanghái Pudong"
-excerpt: "Todo lo que necesitas saber sobre PVG: terminales, aerolíneas, cómo llegar a Shanghái, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Shanghái Pudong conecta con la ciudad mediante el tren comercial más rápido del mundo. Opciones de transporte, tiempos de seguridad, parking y salas VIP."
 triviaClue: "Un tren que conecta este aeropuerto con la ciudad puede alcanzar velocidades de más de 430 km/h usando levitación magnética."
 region: "asia"
 tags: ["china", "hub-china-eastern", "escala-larga", "internacional"]

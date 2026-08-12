@@ -12,7 +12,7 @@ country: "China"
 date: 2026-08-09
 image: "/images/shanghai-pudong/cover.svg"
 imageAlt: "Illustration of Shanghai Pudong International Airport terminal building"
-excerpt: "Everything you need to know about PVG: terminals, airlines, how to get into Shanghai, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Shanghai Pudong connects to the city via the world's fastest commercial train. Transport options, security wait times, parking, and lounges."
 triviaClue: "A train connecting this airport to the city can reach speeds of over 430 km/h using magnetic levitation."
 region: "asia"
 tags: ["china", "china-eastern-hub", "long-layover", "international"]

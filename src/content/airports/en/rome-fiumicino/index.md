@@ -12,7 +12,7 @@ country: "Italy"
 date: 2026-08-09
 image: "/images/rome-fiumicino/cover.svg"
 imageAlt: "Illustration of Rome Fiumicino Airport terminal building"
-excerpt: "Everything you need to know about FCO: terminals, airlines, how to get into Rome, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Rome Fiumicino has a free rotating art exhibit inside the terminal. Transport into Rome, security wait times, parking, wifi, and lounges."
 triviaClue: "A free art exhibition rotates inside the terminal, letting travelers browse real paintings and sculptures during a layover."
 region: "europe"
 tags: ["italy", "ita-airways-hub", "long-layover", "schengen"]

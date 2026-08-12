@@ -12,7 +12,7 @@ country: "Marruecos"
 date: 2026-08-09
 image: "/images/marrakech-menara/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Marrakech Menara"
-excerpt: "Todo lo que necesitas saber sobre Marrakech Menara: terminales, aerolíneas, cómo llegar a la Medina, parking, wifi y qué hacer si tienes una escala larga."
+excerpt: "La fachada de la terminal de Marrakech Menara está inspirada en las tradicionales celosías mashrabiya. Toda la info sobre transporte, seguridad, parking y escalas."
 triviaClue: "La fachada de la terminal está cubierta con un intrincado patrón de celosía inspirado en las tradicionales pantallas islámicas."
 region: "africa"
 tags: ["marruecos", "hub-royal-air-maroc", "escala-corta"]

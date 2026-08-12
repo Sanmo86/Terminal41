@@ -12,7 +12,7 @@ country: "China"
 date: 2026-08-11
 image: "/images/guangzhou-baiyun/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto Internacional de Guangzhou Baiyun"
-excerpt: "Todo lo que necesitas saber sobre CAN: terminales, aerolíneas, cómo llegar a Guangzhou, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Guangzhou Baiyun permite a viajeros elegibles explorar la ciudad sin visado hasta 144 horas. Opciones de transporte, tiempos de seguridad y salas VIP."
 triviaClue: "Los viajeros elegibles pueden salir de este aeropuerto y explorar la ciudad circundante sin visado hasta seis días."
 region: "asia"
 tags: ["china", "hub-china-southern", "escala-larga", "internacional"]

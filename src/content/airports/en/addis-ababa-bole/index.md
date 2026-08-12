@@ -12,7 +12,7 @@ country: "Ethiopia"
 date: 2026-08-12
 image: "/images/addis-ababa-bole/cover.svg"
 imageAlt: "Illustration of Addis Ababa Bole International Airport terminal building"
-excerpt: "Everything you need to know about ADD: terminals, airlines, how to get into Addis Ababa, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Experience a traditional Ethiopian coffee ceremony at Addis Ababa Bole. Transport into the city, security wait times, parking, and lounges."
 triviaClue: "Travelers can experience a traditional coffee ceremony at this airport, in the country widely considered coffee's birthplace."
 region: "africa"
 tags: ["ethiopia", "hub-ethiopian-airlines", "long-layover", "international"]

@@ -12,7 +12,7 @@ country: "United States"
 date: 2026-08-09
 image: "/images/dallas-fort-worth/cover.svg"
 imageAlt: "Illustration of Dallas Fort Worth International Airport terminal building"
-excerpt: "Everything you need to know about DFW: terminals, airlines, how to get into Dallas, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Dallas Fort Worth's grounds are bigger than Manhattan. Here's transport into Dallas, security wait times, parking, wifi, and lounge access."
 triviaClue: "This airport's grounds cover more land area than the island of Manhattan."
 region: "americas"
 tags: ["usa", "american-airlines-hub", "short-layover", "international"]

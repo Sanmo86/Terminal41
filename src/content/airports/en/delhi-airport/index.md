@@ -12,7 +12,7 @@ country: "India"
 date: 2026-08-11
 image: "/images/delhi-airport/cover.svg"
 imageAlt: "Illustration of Delhi's Indira Gandhi International Airport terminal building"
-excerpt: "Everything you need to know about DEL: terminals, airlines, how to get into Delhi, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "You need a valid ticket just to enter Delhi's Indira Gandhi terminal building. Transport into the city, security wait times, parking, and lounges."
 triviaClue: "Unlike most airports, you cannot even enter this terminal building without first showing a valid ticket and photo ID at the door."
 region: "asia"
 tags: ["india", "hub-indigo", "short-layover", "international"]

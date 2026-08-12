@@ -12,7 +12,7 @@ country: "Germany"
 date: 2026-08-12
 image: "/images/munich-airport/cover.svg"
 imageAlt: "Illustration of Munich Airport terminal building"
-excerpt: "Everything you need to know about MUC: terminals, airlines, how to get into Munich, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Munich Airport has its own working on-site brewery. Transport into the city, security wait times, parking, wifi, and lounges — plus a beer garden."
 triviaClue: "This airport has its own on-site brewery, serving beer brewed right at the terminal."
 region: "europe"
 tags: ["germany", "hub-lufthansa", "long-layover", "schengen"]

@@ -12,7 +12,7 @@ country: "Estados Unidos"
 date: 2026-08-09
 image: "/images/dallas-fort-worth/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Dallas Fort Worth"
-excerpt: "Todo lo que necesitas saber sobre DFW: terminales, aerolíneas, cómo llegar a Dallas, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "El recinto de Dallas Fort Worth es más grande que Manhattan. Aquí tienes cómo llegar a Dallas, tiempos de seguridad, parking, wifi y acceso a salas VIP."
 triviaClue: "El recinto de este aeropuerto ocupa más superficie que la isla de Manhattan."
 region: "americas"
 tags: ["ee-uu", "hub-american-airlines", "escala-corta", "internacional"]

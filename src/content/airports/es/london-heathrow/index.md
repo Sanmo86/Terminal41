@@ -12,7 +12,7 @@ country: "Reino Unido"
 date: 2026-08-09
 image: "/images/london-heathrow/cover.svg"
 imageAlt: "Ilustración de la terminal del Aeropuerto de Londres Heathrow"
-excerpt: "Todo lo que necesitas saber sobre Heathrow: terminales, aerolíneas, cómo llegar a Londres, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Las cuatro terminales de Heathrow no se conectan a pie — así es como moverte entre ellas, además de cómo llegar a Londres, tiempos de seguridad y salas VIP."
 triviaClue: "Las terminales de este aeropuerto están tan separadas que no se puede ir caminando de una a otra — algunos traslados requieren autobús, tren o incluso un vuelo corto."
 region: "europe"
 tags: ["reino-unido", "hub-british-airways", "escala-larga", "internacional"]

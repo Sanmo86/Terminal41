@@ -12,7 +12,7 @@ country: "Estados Unidos"
 date: 2026-08-11
 image: "/images/denver-airport/cover.svg"
 imageAlt: "Ilustración del techo en forma de tienda de campaña del Aeropuerto Internacional de Denver"
-excerpt: "Todo lo que necesitas saber sobre DEN: terminales, aerolíneas, cómo llegar a Denver, parking, wifi, salas VIP y qué hacer si tienes una escala larga."
+excerpt: "Conoce a Blucifer, la escultura del mustang azul gigante en Denver International. Cómo llegar a la ciudad, tiempos de seguridad, parking y salas VIP."
 triviaClue: "Una escultura de un caballo azul brillante de casi 10 metros con ojos rojos brillantes recibe a los conductores en la entrada de este aeropuerto."
 region: "americas"
 tags: ["estados-unidos", "hub-united-airlines", "escala-corta", "nacional"]

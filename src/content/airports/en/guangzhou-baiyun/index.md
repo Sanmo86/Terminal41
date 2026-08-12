@@ -12,7 +12,7 @@ country: "China"
 date: 2026-08-11
 image: "/images/guangzhou-baiyun/cover.svg"
 imageAlt: "Illustration of Guangzhou Baiyun International Airport terminal building"
-excerpt: "Everything you need to know about CAN: terminals, airlines, how to get into Guangzhou, parking, wifi, lounges, and what to do during a long layover."
+excerpt: "Guangzhou Baiyun lets eligible travelers explore the city visa-free for up to 144 hours. Transport options, security wait times, and lounges."
 triviaClue: "Eligible travelers can leave this airport and explore the surrounding city visa-free for up to six days."
 region: "asia"
 tags: ["china", "hub-china-southern", "long-layover", "international"]
