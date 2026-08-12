@@ -45,7 +45,16 @@ const cookiePolicyHref = lang === 'es' ? '/es/cookie-policy' : '/cookie-policy';
   </div>
 </div>
 
-<script>
+<script is:inline>
+  // is:inline is load-bearing here, not just style: Analytics.astro's
+  // script is also is:inline and calls window.terminal41HasAnalyticsConsent()
+  // synchronously as soon as it runs. Without is:inline, Astro compiles
+  // this script as type="module", which the HTML spec defers until after
+  // the document finishes parsing — so Analytics' immediate check would
+  // always run first and find the function undefined, silently skipping
+  // GA for every returning visitor (anyone who isn't clicking "Accept"
+  // in that exact pageview). Keeping both scripts inline preserves plain
+  // top-to-bottom execution order, which is what both actually depend on.
   const STORAGE_KEY = 'terminal41-cookie-consent';
 
   // Exposed globally so a future analytics snippet can check this before
