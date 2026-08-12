@@ -1,0 +1,226 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { regionLabel } from '../config/site';
+import { useTranslations } from '../i18n/ui';
+
+const lang = 'en';
+const t = useTranslations(lang);
+
+const entries = await getCollection(
+  'airports',
+  ({ data }) => !data.draft && data.lang === lang && !!data.quickFacts && !!data.security
+);
+
+const airports = entries
+  .map((e) => ({
+    slug: e.data.articleSlug,
+    name: `${e.data.city} — ${e.data.airport} (${e.data.iataCode})`,
+    airport: e.data.airport,
+    iataCode: e.data.iataCode,
+    city: e.data.city,
+    country: e.data.country,
+    region: e.data.region,
+    regionLabel: regionLabel(e.data.region, lang),
+    image: e.data.image,
+    imageAlt: e.data.imageAlt,
+    quickFacts: e.data.quickFacts,
+    security: e.data.security,
+    cheapestTransport: e.data.transportOptions?.[0] ?? null,
+    amenities: e.data.amenities ?? [],
+    hubAirlines: e.data.hubAirlines ?? [],
+    href: `/airports/${e.data.articleSlug}`,
+  }))
+  .sort((a, b) => a.city.localeCompare(b.city));
+---
+
+<BaseLayout title={t('compare.title')} description={t('compare.subtitle')} lang={lang}>
+  <section class="mx-auto max-w-4xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl dark:text-slate-100">{t('compare.title')}</h1>
+    <p class="mt-2 text-slate-500 dark:text-slate-400">{t('compare.subtitle')}</p>
+
+    <div class="mt-8 grid items-end gap-3 sm:grid-cols-[1fr_auto_1fr]">
+      <div>
+        <label for="select-a" class="mb-1 block text-xs font-semibold uppercase tracking-wide text-slate-400">{t('compare.selectA')}</label>
+        <select id="select-a" class="w-full rounded-lg border border-slate-200 bg-white px-3 py-2.5 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200">
+          <option value="">{t('compare.choosePlaceholder')}</option>
+          {airports.map((a) => <option value={a.slug}>{a.name}</option>)}
+        </select>
+      </div>
+      <button
+        type="button"
+        id="swap-btn"
+        class="mx-auto flex h-10 w-10 items-center justify-center rounded-full border border-slate-200 text-slate-500 transition hover:border-brand-300 hover:text-brand-700 dark:border-slate-700 dark:text-slate-400 dark:hover:text-brand-300"
+        title={t('compare.swap')}
+        aria-label={t('compare.swap')}
+      >
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 7h13l-3.5-3.5M17 17H4l3.5 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div>
+        <label for="select-b" class="mb-1 block text-xs font-semibold uppercase tracking-wide text-slate-400">{t('compare.selectB')}</label>
+        <select id="select-b" class="w-full rounded-lg border border-slate-200 bg-white px-3 py-2.5 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200">
+          <option value="">{t('compare.choosePlaceholder')}</option>
+          {airports.map((a) => <option value={a.slug}>{a.name}</option>)}
+        </select>
+      </div>
+    </div>
+
+    <p id="compare-empty" class="mt-10 text-center text-slate-400 dark:text-slate-500">{t('compare.noSelection')}</p>
+    <div id="compare-result" class="mt-8 hidden overflow-x-auto"></div>
+  </section>
+</BaseLayout>
+
+<script
+  is:inline
+  define:vars={{
+    airports,
+    i18n: {
+      choosePlaceholder: t('compare.choosePlaceholder'),
+      rowRegion: t('compare.rowRegion'),
+      rowPassengers: t('compare.rowPassengers'),
+      rowTerminals: t('compare.rowTerminals'),
+      rowDistance: t('compare.rowDistance'),
+      rowTransport: t('compare.rowTransport'),
+      rowSecurityTypical: t('compare.rowSecurityTypical'),
+      rowSecurityPeak: t('compare.rowSecurityPeak'),
+      rowAmenities: t('compare.rowAmenities'),
+      rowHubAirlines: t('compare.rowHubAirlines'),
+      readGuide: t('compare.readGuide'),
+    },
+  }}
+>
+  function initCompare() {
+    const selectA = document.getElementById('select-a');
+    const selectB = document.getElementById('select-b');
+    const swapBtn = document.getElementById('swap-btn');
+    const emptyEl = document.getElementById('compare-empty');
+    const resultEl = document.getElementById('compare-result');
+    if (!selectA || !selectB || selectA.dataset.initialized === 'true') return;
+    selectA.dataset.initialized = 'true';
+
+    function findAirport(slug) {
+      return airports.find((a) => a.slug === slug) || null;
+    }
+
+    function cell(airport, rowKey) {
+      switch (rowKey) {
+        case 'region':
+          return airport.regionLabel;
+        case 'passengers':
+          return airport.quickFacts.passengers;
+        case 'terminals':
+          return airport.quickFacts.terminals;
+        case 'distance':
+          return airport.quickFacts.distanceToCity;
+        case 'transport':
+          return airport.cheapestTransport
+            ? `${airport.cheapestTransport.label} — ${airport.cheapestTransport.price} (${airport.cheapestTransport.time})`
+            : '—';
+        case 'securityTypical':
+          return `${airport.security.typeALabel}: ${airport.security.typeATypical}<br>${airport.security.typeBLabel}: ${airport.security.typeBTypical}`;
+        case 'securityPeak':
+          return `${airport.security.typeALabel}: ${airport.security.typeAPeak}<br>${airport.security.typeBLabel}: ${airport.security.typeBPeak}`;
+        case 'amenities':
+          return airport.amenities.length
+            ? airport.amenities.map((am) => `<div>${am.label}: ${am.detail}</div>`).join('')
+            : '—';
+        case 'hubAirlines':
+          return airport.hubAirlines.length ? airport.hubAirlines.join(', ') : '—';
+        default:
+          return '';
+      }
+    }
+
+    function render() {
+      const a = findAirport(selectA.value);
+      const b = findAirport(selectB.value);
+
+      if (!a || !b) {
+        emptyEl.classList.remove('hidden');
+        resultEl.classList.add('hidden');
+        return;
+      }
+      emptyEl.classList.add('hidden');
+      resultEl.classList.remove('hidden');
+
+      const rows = [
+        ['region', i18n.rowRegion],
+        ['passengers', i18n.rowPassengers],
+        ['terminals', i18n.rowTerminals],
+        ['distance', i18n.rowDistance],
+        ['transport', i18n.rowTransport],
+        ['securityTypical', i18n.rowSecurityTypical],
+        ['securityPeak', i18n.rowSecurityPeak],
+        ['amenities', i18n.rowAmenities],
+        ['hubAirlines', i18n.rowHubAirlines],
+      ];
+
+      const headerCell = (airport) => `
+        <th class="min-w-[220px] border-b border-slate-200 bg-slate-50 p-4 text-left align-bottom dark:border-slate-700 dark:bg-slate-900">
+          <img src="${airport.image}" alt="${airport.imageAlt}" width="80" height="42" class="mb-2 h-11 w-20 rounded object-cover" />
+          <div class="text-base font-bold text-slate-900 dark:text-slate-100">${airport.iataCode} — ${airport.city}</div>
+          <div class="text-xs font-normal text-slate-500 dark:text-slate-400">${airport.airport}, ${airport.country}</div>
+        </th>`;
+
+      resultEl.innerHTML = `
+        <table class="w-full min-w-[640px] border-collapse text-sm">
+          <thead>
+            <tr>
+              <th class="w-40 border-b border-slate-200 p-4 dark:border-slate-700"></th>
+              ${headerCell(a)}
+              ${headerCell(b)}
+            </tr>
+          </thead>
+          <tbody>
+            ${rows
+              .map(
+                ([key, label]) => `
+              <tr class="border-b border-slate-100 dark:border-slate-800">
+                <td class="p-4 align-top text-xs font-semibold uppercase tracking-wide text-slate-400">${label}</td>
+                <td class="p-4 align-top text-slate-700 dark:text-slate-200">${cell(a, key)}</td>
+                <td class="p-4 align-top text-slate-700 dark:text-slate-200">${cell(b, key)}</td>
+              </tr>`
+              )
+              .join('')}
+            <tr>
+              <td class="p-4"></td>
+              <td class="p-4"><a href="${a.href}" class="font-semibold text-brand-700 hover:underline dark:text-brand-300">${i18n.readGuide}</a></td>
+              <td class="p-4"><a href="${b.href}" class="font-semibold text-brand-700 hover:underline dark:text-brand-300">${i18n.readGuide}</a></td>
+            </tr>
+          </tbody>
+        </table>`;
+    }
+
+    function syncUrl() {
+      const params = new URLSearchParams(window.location.search);
+      if (selectA.value) params.set('a', selectA.value); else params.delete('a');
+      if (selectB.value) params.set('b', selectB.value); else params.delete('b');
+      const qs = params.toString();
+      history.replaceState(null, '', qs ? `?${qs}` : window.location.pathname);
+    }
+
+    function onChange() {
+      syncUrl();
+      render();
+    }
+
+    selectA.addEventListener('change', onChange);
+    selectB.addEventListener('change', onChange);
+    swapBtn.addEventListener('click', () => {
+      const tmp = selectA.value;
+      selectA.value = selectB.value;
+      selectB.value = tmp;
+      onChange();
+    });
+
+    const params = new URLSearchParams(window.location.search);
+    const initialA = params.get('a');
+    const initialB = params.get('b');
+    if (initialA && findAirport(initialA)) selectA.value = initialA;
+    if (initialB && findAirport(initialB)) selectB.value = initialB;
+    render();
+  }
+
+  initCompare();
+  document.addEventListener('astro:page-load', initCompare);
+</script>

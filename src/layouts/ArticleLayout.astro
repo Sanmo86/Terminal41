@@ -11,6 +11,7 @@ import AmenityGrid from '../components/AmenityGrid.astro';
 import AirportSpotlight from '../components/AirportSpotlight.astro';
 import HubAirlines from '../components/HubAirlines.astro';
 import RelatedAirports from '../components/RelatedAirports.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import { SITE, regionLabel } from '../config/site';
 import { useTranslations, type Lang } from '../i18n/ui';
 
@@ -117,6 +118,9 @@ const breadcrumbSchema = {
         {t('article.published')} {formattedDate}
         {formattedUpdated && ` · ${t('article.updated')} ${formattedUpdated}`}
       </p>
+      <div class="mt-3">
+        <ShareButtons url={canonicalURL} title={title} image={absoluteImage} lang={lang} />
+      </div>
     </header>
 
     <img src={image} alt={imageAlt} width={1200} height={630} loading="eager" decoding="async" class="mb-8 w-full rounded-xl object-cover" />
@@ -185,6 +189,10 @@ const breadcrumbSchema = {
         ))}
       </div>
     )}
+
+    <div class="mt-6 border-t border-slate-200 pt-6 dark:border-slate-800">
+      <ShareButtons url={canonicalURL} title={title} image={absoluteImage} lang={lang} />
+    </div>
 
     <RelatedAirports entries={related} lang={lang} />
   </article>
