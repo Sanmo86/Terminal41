@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1e3a8a"/><stop offset="100%" stop-color="#b91c1c"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g opacity="0.15" fill="#ffffff">
+    <path d="M0 480 L200 380 L340 460 L480 340 L620 460 L760 360 L900 460 L1050 400 L1200 480 L1200 630 L0 630 Z"/>
+  </g>
+  <text x="600" y="330" font-family="Arial, Helvetica, sans-serif" font-size="220" font-weight="700" fill="#ffffff" text-anchor="middle">SCL</text>
+  <text x="600" y="400" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="500" fill="#ffffff" text-anchor="middle" letter-spacing="2">SANTIAGO AIRPORT</text>
+</svg>
