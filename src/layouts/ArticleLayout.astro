@@ -9,6 +9,7 @@ import ArrivalTimeHelper from '../components/ArrivalTimeHelper.astro';
 import TransportOptions from '../components/TransportOptions.astro';
 import AmenityGrid from '../components/AmenityGrid.astro';
 import AirportSpotlight from '../components/AirportSpotlight.astro';
+import AffiliateLinks from '../components/AffiliateLinks.astro';
 import HubAirlines from '../components/HubAirlines.astro';
 import RelatedAirports from '../components/RelatedAirports.astro';
 import ShareButtons from '../components/ShareButtons.astro';
@@ -52,6 +53,7 @@ const {
   amenities,
   spotlight,
   hubAirlines,
+  affiliateLinks,
 } = entry.data;
 
 const homeHref = lang === 'es' ? '/es/' : '/';
@@ -177,6 +179,8 @@ const breadcrumbSchema = {
             <AmenityGrid items={amenities} />
           </>
         )}
+
+        <AffiliateLinks links={affiliateLinks} lang={lang} />
 
         <slot />
         <AdSlot placement="article-bottom" />

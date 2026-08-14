@@ -1,0 +1,162 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { REGIONS, regionLabel } from '../../config/site';
+import { useTranslations } from '../../i18n/ui';
+
+const lang = 'es';
+const t = useTranslations(lang);
+const indexUrl = '/es/directory-index.json';
+const regionOptions = REGIONS.map((r) => ({ slug: r.slug, label: regionLabel(r.slug, lang) }));
+---
+
+<BaseLayout title={t('directory.title')} description={t('directory.subtitle')} lang={lang}>
+  <section class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+    <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl dark:text-slate-100">{t('directory.title')}</h1>
+    <p class="mt-2 text-slate-500 dark:text-slate-400">{t('directory.subtitle')}</p>
+
+    <div class="mt-8 grid gap-4 rounded-xl border border-slate-200 bg-slate-50 p-4 sm:grid-cols-4 dark:border-slate-800 dark:bg-slate-900/60">
+      <div>
+        <label for="filter-region" class="mb-1 block text-xs font-semibold uppercase tracking-wide text-slate-400">{t('directory.filterRegion')}</label>
+        <select id="filter-region" class="w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200">
+          <option value="">{t('directory.anyOption')}</option>
+          {regionOptions.map((r) => <option value={r.slug}>{r.label}</option>)}
+        </select>
+      </div>
+      <div>
+        <label for="filter-distance" class="mb-1 block text-xs font-semibold uppercase tracking-wide text-slate-400">{t('directory.filterDistance')}</label>
+        <select id="filter-distance" class="w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200">
+          <option value="">{t('directory.anyOption')}</option>
+          <option value="close">{t('directory.distanceClose')}</option>
+          <option value="mid">{t('directory.distanceMid')}</option>
+          <option value="far">{t('directory.distanceFar')}</option>
+        </select>
+      </div>
+      <div>
+        <label for="filter-security" class="mb-1 block text-xs font-semibold uppercase tracking-wide text-slate-400">{t('directory.filterSecurity')}</label>
+        <select id="filter-security" class="w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200">
+          <option value="">{t('directory.anyOption')}</option>
+          <option value="fast">{t('directory.securityFast')}</option>
+          <option value="moderate">{t('directory.securityModerate')}</option>
+          <option value="slower">{t('directory.securitySlower')}</option>
+        </select>
+      </div>
+      <div class="flex items-end pb-2.5">
+        <label class="flex items-center gap-2 text-sm text-slate-600 dark:text-slate-300">
+          <input id="filter-rail" type="checkbox" class="h-4 w-4 rounded border-slate-300 text-brand-600 focus:ring-brand-400 dark:border-slate-700" />
+          {t('directory.filterRail')}
+        </label>
+      </div>
+    </div>
+
+    <div class="mt-4 flex items-center justify-between">
+      <p id="results-count" class="text-sm text-slate-500 dark:text-slate-400"></p>
+      <button type="button" id="reset-filters" class="text-sm font-semibold text-brand-700 hover:underline dark:text-brand-300">{t('directory.reset')}</button>
+    </div>
+
+    <div id="directory-results" class="mt-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-3"></div>
+    <p id="directory-empty" class="mt-6 hidden text-center text-slate-400 dark:text-slate-500">{t('directory.noResults')}</p>
+  </section>
+</BaseLayout>
+
+<script
+  is:inline
+  define:vars={{
+    indexUrl,
+    i18n: { resultsCount: t('directory.resultsCount') },
+  }}
+>
+  function initDirectory() {
+    const regionEl = document.getElementById('filter-region');
+    const distanceEl = document.getElementById('filter-distance');
+    const securityEl = document.getElementById('filter-security');
+    const railEl = document.getElementById('filter-rail');
+    const resetBtn = document.getElementById('reset-filters');
+    const resultsEl = document.getElementById('directory-results');
+    const emptyEl = document.getElementById('directory-empty');
+    const countEl = document.getElementById('results-count');
+    if (!regionEl || regionEl.dataset.initialized === 'true') return;
+    regionEl.dataset.initialized = 'true';
+
+    let items = [];
+
+    function card(item) {
+      return `
+        <a href="${item.href}" class="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md dark:border-slate-800 dark:bg-slate-900">
+          <div class="relative aspect-[16/9] w-full overflow-hidden bg-slate-100 dark:bg-slate-800">
+            <img src="${item.image}" alt="${item.imageAlt}" width="640" height="360" loading="lazy" decoding="async" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+            <span class="absolute left-3 top-3 rounded-md bg-slate-950/70 px-2 py-1 text-xs font-bold tracking-wide text-white">${item.iataCode}</span>
+          </div>
+          <div class="flex flex-1 flex-col gap-1 p-4">
+            <h3 class="text-lg font-bold leading-snug text-slate-900 group-hover:text-brand-700 dark:text-slate-100 dark:group-hover:text-brand-300">${item.airport}</h3>
+            <p class="text-sm text-slate-500 dark:text-slate-400">${item.city}, ${item.country}</p>
+          </div>
+        </a>`;
+    }
+
+    function render(filtered) {
+      resultsEl.innerHTML = filtered.map(card).join('');
+      emptyEl.classList.toggle('hidden', filtered.length !== 0);
+      countEl.textContent = `${filtered.length} ${i18n.resultsCount}`;
+    }
+
+    function applyFilters() {
+      const region = regionEl.value;
+      const distance = distanceEl.value;
+      const security = securityEl.value;
+      const railOnly = railEl.checked;
+
+      render(
+        items.filter((item) => {
+          if (region && item.region !== region) return false;
+          if (distance && item.distanceBucket !== distance) return false;
+          if (security && item.securityBucket !== security) return false;
+          if (railOnly && !item.hasRail) return false;
+          return true;
+        })
+      );
+      syncUrl();
+    }
+
+    function syncUrl() {
+      const params = new URLSearchParams();
+      if (regionEl.value) params.set('region', regionEl.value);
+      if (distanceEl.value) params.set('distance', distanceEl.value);
+      if (securityEl.value) params.set('security', securityEl.value);
+      if (railEl.checked) params.set('rail', '1');
+      const qs = params.toString();
+      history.replaceState(null, '', qs ? `?${qs}` : window.location.pathname);
+    }
+
+    function restoreFromUrl() {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('region')) regionEl.value = params.get('region');
+      if (params.get('distance')) distanceEl.value = params.get('distance');
+      if (params.get('security')) securityEl.value = params.get('security');
+      if (params.get('rail') === '1') railEl.checked = true;
+    }
+
+    async function init() {
+      const res = await fetch(indexUrl);
+      items = await res.json();
+      restoreFromUrl();
+      applyFilters();
+
+      regionEl.addEventListener('change', applyFilters);
+      distanceEl.addEventListener('change', applyFilters);
+      securityEl.addEventListener('change', applyFilters);
+      railEl.addEventListener('change', applyFilters);
+      resetBtn.addEventListener('click', () => {
+        regionEl.value = '';
+        distanceEl.value = '';
+        securityEl.value = '';
+        railEl.checked = false;
+        applyFilters();
+      });
+    }
+
+    init();
+  }
+
+  initDirectory();
+  document.addEventListener('astro:page-load', initDirectory);
+</script>
