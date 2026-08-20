@@ -72,6 +72,23 @@ const websiteSchema = {
   ></script>
 )}
 
+<!-- Travelpayouts "Drive" affiliate widget. Manual-install snippet from
+     their dashboard — the original included several WordPress cache-plugin
+     compatibility attributes (nowprocket, data-noptimize, data-cfasync,
+     data-wpfc-render, seraph-accel-crit, data-no-defer) that only mean
+     anything to WP Rocket/Autoptimize/WP Fastest Cache, none of which run
+     on this Astro site, so they're dropped here. data-cmp-ab is kept as-is
+     since it's read by Travelpayouts' own script, not a caching plugin. -->
+<script is:inline data-cmp-ab="2">
+  (function () {
+    var script = document.createElement('script');
+    script.async = 1;
+    script.setAttribute('data-cmp-ab', '2');
+    script.src = 'https://tp-em.com/NTY0NDA0.js?t=564404';
+    document.head.appendChild(script);
+  })();
+</script>
+
 <!-- Primary meta tags -->
 <title>{pageTitle}</title>
 <meta name="title" content={pageTitle} />
