@@ -149,6 +149,16 @@ export const ui = {
     'affiliate.esim': 'Local eSIM data plan',
     'affiliate.carRental': 'Compare car rental deals',
 
+    'iata.title': 'Airport IATA Codes',
+    'iata.subtitle': 'Look up the 3-letter IATA code for any airport covered on Terminal41 — search by city, country, or code.',
+    'iata.placeholder': 'e.g. Barcelona, BCN, Japan…',
+    'iata.colCode': 'IATA code',
+    'iata.colAirport': 'Airport',
+    'iata.colLocation': 'City, country',
+    'iata.readGuide': 'Guide →',
+    'iata.noResults': 'No airports match your search.',
+    'iata.footerNote': 'Airport IATA Codes',
+
     'cookie.message': 'We use cookies for essential site functionality and, if you allow it, to understand how the site is used. Read our',
     'cookie.policyLink': 'Cookie Policy',
     'cookie.decline': 'Decline',
@@ -297,6 +307,16 @@ export const ui = {
     'affiliate.lounge': 'Acceso a salas VIP con Priority Pass',
     'affiliate.esim': 'eSIM de datos local',
     'affiliate.carRental': 'Compara ofertas de alquiler de coche',
+
+    'iata.title': 'Códigos IATA de aeropuertos',
+    'iata.subtitle': 'Busca el código IATA de tres letras de cualquier aeropuerto cubierto en Terminal41 — por ciudad, país o código.',
+    'iata.placeholder': 'ej. Barcelona, BCN, Japón…',
+    'iata.colCode': 'Código IATA',
+    'iata.colAirport': 'Aeropuerto',
+    'iata.colLocation': 'Ciudad, país',
+    'iata.readGuide': 'Guía →',
+    'iata.noResults': 'Ningún aeropuerto coincide con tu búsqueda.',
+    'iata.footerNote': 'Códigos IATA',
 
     'cookie.message': 'Usamos cookies para el funcionamiento esencial de la web y, si lo permites, para entender cómo se usa el sitio. Lee nuestra',
     'cookie.policyLink': 'Política de Cookies',
