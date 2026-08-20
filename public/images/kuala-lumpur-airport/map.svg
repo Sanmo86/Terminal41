@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">KUL — Simplified Terminal Layout</text>
+  <rect x="230" y="210" width="290" height="160" rx="18" fill="#f0fdf4" stroke="#166534" stroke-width="2"/>
+  <text x="375" y="290" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#166534" text-anchor="middle">Main Terminal</text>
+  <rect x="650" y="230" width="270" height="120" rx="18" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+  <text x="785" y="296" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#b45309" text-anchor="middle">klia2 (AirAsia)</text>
+  <path d="M520 300 L650 300" stroke="#94a3b8" stroke-width="8"/>
+  <text x="585" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">Aerotrain</text>
+  <text x="600" y="450" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b" text-anchor="middle">About 28 minutes by KLIA Ekspres to KL Sentral</text>
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>
