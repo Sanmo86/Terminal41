@@ -13,6 +13,9 @@ interface Links {
   lounge?: string;
   esim?: string;
   carRental?: string;
+  flights?: string;
+  hotels?: string;
+  activities?: string;
 }
 
 interface Props {
@@ -24,17 +27,23 @@ const { links, lang } = Astro.props;
 const t = useTranslations(lang);
 
 const resolved = {
-  parking: links?.parking || AFFILIATE_LINKS.parking,
-  lounge: links?.lounge || AFFILIATE_LINKS.lounge,
-  esim: links?.esim || AFFILIATE_LINKS.esim,
+  flights: links?.flights || AFFILIATE_LINKS.flights,
+  hotels: links?.hotels || AFFILIATE_LINKS.hotels,
+  activities: links?.activities || AFFILIATE_LINKS.activities,
   carRental: links?.carRental || AFFILIATE_LINKS.carRental,
+  lounge: links?.lounge || AFFILIATE_LINKS.lounge,
+  parking: links?.parking || AFFILIATE_LINKS.parking,
+  esim: links?.esim || AFFILIATE_LINKS.esim,
 };
 
 const items = [
-  { key: 'parking', href: resolved.parking, label: t('affiliate.parking'), icon: 'M9 17a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM19 17a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM3 17V7a1 1 0 0 1 1-1h9l5 5v6M3 12h13' },
-  { key: 'lounge', href: resolved.lounge, label: t('affiliate.lounge'), icon: 'M4 19h16M6 19V9h5v10M13 19v-6h5v6' },
-  { key: 'esim', href: resolved.esim, label: t('affiliate.esim'), icon: 'M7 4h10a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1ZM10 18h4' },
+  { key: 'flights', href: resolved.flights, label: t('affiliate.flights'), icon: 'M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z' },
+  { key: 'hotels', href: resolved.hotels, label: t('affiliate.hotels'), icon: 'M3 19v-7a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v7M3 19h18M3 19v2M21 19v2M7 10V7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3' },
+  { key: 'activities', href: resolved.activities, label: t('affiliate.activities'), icon: 'M4 8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2a2 2 0 0 0 0 4v2a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2a2 2 0 0 0 0-4V8ZM10 6v1M10 17v1M10 11v2' },
   { key: 'carRental', href: resolved.carRental, label: t('affiliate.carRental'), icon: 'M5 17h14M6 17l1.5-5h9L18 17M8 17v2M16 17v2M6 12h12' },
+  { key: 'lounge', href: resolved.lounge, label: t('affiliate.lounge'), icon: 'M4 19h16M6 19V9h5v10M13 19v-6h5v6' },
+  { key: 'parking', href: resolved.parking, label: t('affiliate.parking'), icon: 'M9 17a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM19 17a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM3 17V7a1 1 0 0 1 1-1h9l5 5v6M3 12h13' },
+  { key: 'esim', href: resolved.esim, label: t('affiliate.esim'), icon: 'M7 4h10a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1ZM10 18h4' },
 ].filter((item): item is typeof item & { href: string } => !!item.href);
 ---
 

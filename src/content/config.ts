@@ -140,6 +140,9 @@ const airports = defineCollection({
         lounge: z.string().url().optional(),
         esim: z.string().url().optional(),
         carRental: z.string().url().optional(),
+        flights: z.string().url().optional(),
+        hotels: z.string().url().optional(),
+        activities: z.string().url().optional(),
       })
       .optional(),
   }),

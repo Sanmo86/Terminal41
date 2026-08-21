@@ -148,6 +148,9 @@ export const ui = {
     'affiliate.lounge': 'Priority Pass lounge access',
     'affiliate.esim': 'Local eSIM data plan',
     'affiliate.carRental': 'Compare car rental deals',
+    'affiliate.flights': 'Search flights',
+    'affiliate.hotels': 'Search hotels',
+    'affiliate.activities': 'Tours and activities',
 
     'iata.title': 'Airport IATA Codes',
     'iata.subtitle': 'Look up the 3-letter IATA code for any airport covered on Terminal41 — search by city, country, or code.',
@@ -307,6 +310,9 @@ export const ui = {
     'affiliate.lounge': 'Acceso a salas VIP con Priority Pass',
     'affiliate.esim': 'eSIM de datos local',
     'affiliate.carRental': 'Compara ofertas de alquiler de coche',
+    'affiliate.flights': 'Buscar vuelos',
+    'affiliate.hotels': 'Buscar hoteles',
+    'affiliate.activities': 'Tours y actividades',
 
     'iata.title': 'Códigos IATA de aeropuertos',
     'iata.subtitle': 'Busca el código IATA de tres letras de cualquier aeropuerto cubierto en Terminal41 — por ciudad, país o código.',
