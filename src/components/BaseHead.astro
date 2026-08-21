@@ -16,6 +16,22 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImageURL = new URL(image ?? SITE.defaultOgImage, Astro.site);
 const pageTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
 
+// Travelpayouts "Drive" manual-install snippet, kept byte-for-byte
+// identical to what their dashboard hands out (WordPress cache-plugin
+// attributes and all — inert here, but their automated "verify
+// installation" checker appears to string-match the literal snippet).
+// Rendered via set:html below since `nowprocket` isn't a attribute Astro's
+// <script> type recognizes, so JSX-attribute syntax fails `astro check`.
+const travelpayoutsSnippet = `<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+  (function () {
+      var script = document.createElement("script");
+      script.async = 1;
+      script.setAttribute("data-cmp-ab","2");
+      script.src = 'https://tp-em.com/NTY0NDA0.js?t=564404';
+      document.head.appendChild(script);
+  })();
+</script>`;
+
 // hreflang alternates — tells search engines the English and Spanish pages
 // are translations of each other, not duplicate content.
 const enURL = new URL(getLocalizedPath(Astro.url.pathname, 'en'), Astro.site);
@@ -72,22 +88,7 @@ const websiteSchema = {
   ></script>
 )}
 
-<!-- Travelpayouts "Drive" affiliate widget. Manual-install snippet from
-     their dashboard — the original included several WordPress cache-plugin
-     compatibility attributes (nowprocket, data-noptimize, data-cfasync,
-     data-wpfc-render, seraph-accel-crit, data-no-defer) that only mean
-     anything to WP Rocket/Autoptimize/WP Fastest Cache, none of which run
-     on this Astro site, so they're dropped here. data-cmp-ab is kept as-is
-     since it's read by Travelpayouts' own script, not a caching plugin. -->
-<script is:inline data-cmp-ab="2">
-  (function () {
-    var script = document.createElement('script');
-    script.async = 1;
-    script.setAttribute('data-cmp-ab', '2');
-    script.src = 'https://tp-em.com/NTY0NDA0.js?t=564404';
-    document.head.appendChild(script);
-  })();
-</script>
+<!-- Travelpayouts "Drive" affiliate widget — see travelpayoutsSnippet above. --><Fragment set:html={travelpayoutsSnippet} />
 
 <!-- Primary meta tags -->
 <title>{pageTitle}</title>
