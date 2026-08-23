@@ -20,8 +20,9 @@ const pageTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
 // identical to what their dashboard hands out (WordPress cache-plugin
 // attributes and all — inert here, but their automated "verify
 // installation" checker appears to string-match the literal snippet).
-// Rendered via set:html below since `nowprocket` isn't a attribute Astro's
-// <script> type recognizes, so JSX-attribute syntax fails `astro check`.
+// Rendered via set:html below since "nowprocket" isn't an attribute
+// Astro's <script> type recognizes, so JSX-attribute syntax fails
+// the astro check build step.
 const travelpayoutsSnippet = `<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
   (function () {
       var script = document.createElement("script");
