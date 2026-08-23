@@ -79,7 +79,7 @@ export const AFFILIATE_LINKS = {
   lounge: '',
   esim: '',
   carRental: '',
-  flights: '',
+  flights: 'https://aviasales.tpk.ro/N5RX147W',
   hotels: '',
   activities: '',
 };
