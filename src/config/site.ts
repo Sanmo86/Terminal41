@@ -77,7 +77,7 @@ export const ADS_ENABLED = false;
 export const AFFILIATE_LINKS = {
   parking: '',
   lounge: '',
-  esim: '',
+  esim: 'https://airalo.tpk.ro/yyBwLnVt',
   carRental: '',
   flights: 'https://aviasales.tpk.ro/N5RX147W',
   hotels: '',
