@@ -18,12 +18,23 @@ const pageTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
 
 // Travelpayouts "Drive" manual-install snippet, kept byte-for-byte
 // identical to what their dashboard hands out (WordPress cache-plugin
-// attributes and all — inert here, but their automated "verify
-// installation" checker appears to string-match the literal snippet).
-// Rendered via set:html below since "nowprocket" isn't an attribute
-// Astro's <script> type recognizes, so JSX-attribute syntax fails
-// the astro check build step.
-const travelpayoutsSnippet = `<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+// attributes and all, inert here, but their automated verify-install
+// checker appears to string-match the literal snippet). Rendered via
+// set:html below because one of the attributes above is not one that
+// Astro's script-tag typing recognizes as valid.
+//
+// IMPORTANT: never write the literal opening-plus-closing tag pair
+// for this element anywhere in this file, including in comments, not
+// even as a written-out example. Any occurrence of it in the raw
+// source (tag name spelled out twice, once to open and once to
+// close, with nothing of substance in between) has repeatedly
+// confused Vite's esbuild dependency scanner during `astro dev`,
+// silently breaking content-collection loading sitewide. That's why
+// the tag name is built from a variable below instead of being
+// written directly. Purely a source-text workaround; the rendered
+// HTML output is unaffected.
+const tag = 'script';
+const travelpayoutsSnippet = `<${tag} nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
   (function () {
       var script = document.createElement("script");
       script.async = 1;
@@ -31,7 +42,7 @@ const travelpayoutsSnippet = `<script nowprocket data-noptimize="1" data-cfasync
       script.src = 'https://tp-em.com/NTY0NDA0.js?t=564404';
       document.head.appendChild(script);
   })();
-</script>`;
+</${tag}>`;
 
 // hreflang alternates — tells search engines the English and Spanish pages
 // are translations of each other, not duplicate content.
