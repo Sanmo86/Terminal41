@@ -2,6 +2,7 @@ import type { APIRoute } from 'astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import sharp from 'sharp';
 import { SITE, regionColor } from '../../../config/site';
+import { escapeXml, wrapText } from '../../../lib/svgText';
 
 // Build-time dynamic Open Graph image generator — one real PNG per
 // article (not the plain cover.svg), used for og:image/twitter:image and
@@ -17,43 +18,6 @@ export async function getStaticPaths() {
     params: { lang: entry.data.lang, slug: entry.data.articleSlug },
     props: { entry },
   }));
-}
-
-function escapeXml(value: string): string {
-  return value
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&apos;');
-}
-
-// Greedy word-wrap by character count — good enough for a headline-style
-// line at a fixed font size, no need for real text-metrics here. Wraps
-// the full string first, then truncates with an ellipsis only if that
-// genuinely produces more lines than allowed (rather than bailing out
-// mid-wrap, which previously left a stray leftover word as the last line).
-function wrapText(text: string, maxCharsPerLine: number, maxLines: number): string[] {
-  const words = text.split(' ');
-  const lines: string[] = [];
-  let current = '';
-  for (const word of words) {
-    const candidate = current ? `${current} ${word}` : word;
-    if (candidate.length > maxCharsPerLine && current) {
-      lines.push(current);
-      current = word;
-    } else {
-      current = candidate;
-    }
-  }
-  if (current) lines.push(current);
-
-  if (lines.length > maxLines) {
-    const kept = lines.slice(0, maxLines);
-    kept[maxLines - 1] = kept[maxLines - 1].replace(/\s*\S*$/, '') + '…';
-    return kept;
-  }
-  return lines;
 }
 
 interface Props {
