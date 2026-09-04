@@ -78,8 +78,8 @@ export const AFFILIATE_LINKS = {
   parking: '',
   lounge: '',
   esim: 'https://airalo.tpk.ro/yyBwLnVt',
-  carRental: '',
+  carRental: 'https://autoeurope.tpk.ro/ib2HWExf',
   flights: 'https://aviasales.tpk.ro/N5RX147W',
   hotels: '',
-  activities: '',
+  activities: 'https://klook.tpk.ro/697y44jL',
 };
