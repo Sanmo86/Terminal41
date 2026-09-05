@@ -35,6 +35,7 @@ export const ui = {
     'footer.privacyPolicy': 'Privacy Policy',
     'footer.cookiePolicy': 'Cookie Policy',
     'footer.rights': 'All rights reserved.',
+    'footer.followPinterest': 'Follow us on Pinterest',
 
     'home.tagline': 'Your gate to smarter travel',
     'home.description':
@@ -197,6 +198,7 @@ export const ui = {
     'footer.privacyPolicy': 'Política de Privacidad',
     'footer.cookiePolicy': 'Política de Cookies',
     'footer.rights': 'Todos los derechos reservados.',
+    'footer.followPinterest': 'Síguenos en Pinterest',
 
     'home.tagline': 'Tu puerta a un viaje más inteligente',
     'home.description':

@@ -6,6 +6,7 @@ export const SITE = {
   url: 'https://www.terminal41.co',
   defaultOgImage: '/og-default.svg',
   twitter: '@terminal41',
+  pinterest: 'https://es.pinterest.com/Terminal41/',
   // Used on About, Legal Notice, Privacy Policy, and Cookie Policy pages.
   legalName: 'The Terminal41 Team',
   contactEmail: 'terminal41.co@gmail.com',
