@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640">
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <text x="600" y="44" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e293b" text-anchor="middle">LAS — Simplified Terminal Layout</text>
+  <rect x="260" y="210" width="320" height="160" rx="18" fill="#faf5ff" stroke="#9333ea" stroke-width="2"/>
+  <text x="420" y="290" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#7e22ce" text-anchor="middle">Terminal 1</text>
+  <text x="420" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#475569" text-anchor="middle">Domestic, most airlines</text>
+  <rect x="640" y="230" width="260" height="120" rx="18" fill="#fff1f2" stroke="#be123c" stroke-width="2"/>
+  <text x="770" y="296" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#9f1239" text-anchor="middle">Terminal 3</text>
+  <path d="M580 300 L640 300" stroke="#94a3b8" stroke-width="8"/>
+  <text x="610" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">Tram</text>
+  <text x="600" y="450" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b" text-anchor="middle">About 10–15 minutes by taxi or rideshare to the Strip</text>
+  <text x="600" y="620" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Simplified schematic, not to scale — see the official interactive map for precise wayfinding.</text>
+</svg>
