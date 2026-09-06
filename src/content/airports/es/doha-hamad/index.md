@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["catar", "hub-qatar-airways", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "50M+/año"
+  passengers: "52,7M (2024)"
   terminals: "1 (4 concourses)"
   distanceToCity: "15 km"
 security:
@@ -67,7 +67,7 @@ El Aeropuerto Internacional Hamad (IATA: **DOH**) es el aeropuerto con más trá
 
 ## Panorama general
 
-DOH opera como una única gran terminal dividida en cuatro concourses, diseñada específicamente para gestionar enormes volúmenes de pasajeros en tránsito de forma eficiente. Es también un destino en sí mismo gracias a su arte a gran escala, entre lo que destaca la icónica escultura **Lamp Bear** de Urs Fischer, un oso de peluche gigante que se ha convertido en uno de los símbolos más reconocibles del aeropuerto.
+DOH opera como una única gran terminal dividida en cuatro concourses, diseñada específicamente para gestionar enormes volúmenes de pasajeros en tránsito de forma eficiente. Es también un destino en sí mismo gracias a su arte a gran escala, entre lo que destaca la icónica escultura **Lamp Bear** de Urs Fischer, un oso de peluche gigante que se ha convertido en uno de los símbolos más reconocibles del aeropuerto. Hamad International [registró un récord de 52,7 millones de pasajeros en 2024](https://www.dfnionline.com/latest-news/hamad-international-airport-serves-record-breaking-52-7-million-passengers-2024-06-01-2025/), un 15% más interanual, según el propio operador del aeropuerto.
 
 ## Terminales
 

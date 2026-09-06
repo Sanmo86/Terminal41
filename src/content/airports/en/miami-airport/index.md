@@ -18,7 +18,7 @@ region: "americas"
 tags: ["united-states", "hub-american-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "52M+/year"
+  passengers: "56M (2024)"
   terminals: "3 concourses (North, Central, South)"
   distanceToCity: "13 km / 8 mi"
 security:
@@ -63,11 +63,11 @@ spotlight:
 hubAirlines: ["American Airlines"]
 ---
 
-Miami International Airport (IATA: **MIA**) is American Airlines' largest international gateway and the principal US hub for travel to Latin America and the Caribbean, handling more than 52 million passengers a year. It sits about 13 km (8 mi) west of downtown Miami — notably close for a major US hub.
+Miami International Airport (IATA: **MIA**) is American Airlines' largest international gateway and the principal US hub for travel to Latin America and the Caribbean, handling nearly 56 million passengers a year. It sits about 13 km (8 mi) west of downtown Miami — notably close for a major US hub.
 
 ## Overview
 
-MIA operates as a single large terminal complex divided into North, Central, and South sections, each with its own set of concourses. Its defining role is as the "Gateway of the Americas" — more flights depart MIA for Latin America and the Caribbean than from any other US airport, making it a genuinely distinctive hub within the American aviation landscape, more international in character than most US airports of similar size.
+MIA operates as a single large terminal complex divided into North, Central, and South sections, each with its own set of concourses. Its defining role is as the "Gateway of the Americas" — more flights depart MIA for Latin America and the Caribbean than from any other US airport, making it a genuinely distinctive hub within the American aviation landscape, more international in character than most US airports of similar size. The [Miami-Dade Aviation Department reported nearly 56 million passengers for 2024](https://www.miamidade.gov/global/release.page?Mduid_release=rel1740490708573278) — a third consecutive annual record, split roughly between 30.8 million domestic and 25.2 million international travelers.
 
 ## Terminals
 

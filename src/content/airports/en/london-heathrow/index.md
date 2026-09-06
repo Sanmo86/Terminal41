@@ -18,7 +18,7 @@ region: "europe"
 tags: ["uk", "british-airways-hub", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "84M+/year"
+  passengers: "83.9M (2024)"
   terminals: "4"
   distanceToCity: "24 km / 15 mi"
 security:
@@ -71,7 +71,7 @@ London Heathrow (IATA: **LHR**) is Europe's busiest airport and one of the most 
 
 ## Overview
 
-Heathrow operates four active terminals — Terminal 1 permanently closed in 2015. Unlike more compact hub airports, Heathrow's terminals are spread across a large site and aren't within walking distance of each other; moving between them, even airside, requires a dedicated shuttle train or bus. Always check your terminal well before travel, since it directly affects which train station or drop-off point you need.
+Heathrow operates four active terminals — Terminal 1 permanently closed in 2015. Unlike more compact hub airports, Heathrow's terminals are spread across a large site and aren't within walking distance of each other; moving between them, even airside, requires a dedicated shuttle train or bus. Always check your terminal well before travel, since it directly affects which train station or drop-off point you need. Heathrow Airport Limited [confirmed 83.9 million passengers for 2024](https://www.aerotime.aero/articles/heathrow-airport-passenger-finance-figures-2024), a new annual record and up 5.9% on 2023's 79.1 million.
 
 ## Terminals
 

@@ -18,7 +18,7 @@ region: "africa"
 tags: ["nigeria", "hub-air-peace", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "8M+/año"
+  passengers: "7M+/año"
   terminals: "2 (nacional e internacional)"
   distanceToCity: "22 km"
 security:
@@ -67,7 +67,7 @@ El Aeropuerto Internacional Murtala Muhammed (IATA: **LOS**) es el aeropuerto co
 
 ## Panorama general
 
-LOS opera terminales nacional e internacional separadas y funciona como la principal puerta de entrada aérea a Lagos, la ciudad más poblada de África y una de las economías urbanas de más rápido crecimiento del mundo. Pese a la escala de la ciudad que sirve, el aeropuerto en sí sigue siendo relativamente compacto, y las mejoras de infraestructura continúan para seguir el ritmo de la demanda.
+LOS opera terminales nacional e internacional separadas y funciona como la principal puerta de entrada aérea a Lagos, la ciudad más poblada de África y una de las economías urbanas de más rápido crecimiento del mundo. Pese a la escala de la ciudad que sirve, el aeropuerto en sí sigue siendo relativamente compacto, y las mejoras de infraestructura continúan para seguir el ritmo de la demanda. La [Autoridad Federal de Aeropuertos de Nigeria (FAAN) sitúa el tráfico de LOS en más de 7 millones de pasajeros al año](https://businessday.ng/news/article/lagos-airport-records-11-8-growth-in-air-traffic-in-2025-fastest-in-africa/), y registró el crecimiento de tráfico aéreo más rápido de cualquier gran aeropuerto de África en 2025.
 
 ## Terminales
 

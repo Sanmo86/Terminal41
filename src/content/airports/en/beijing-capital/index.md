@@ -18,7 +18,7 @@ region: "asia"
 tags: ["china", "hub-air-china", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "55M+/year"
+  passengers: "67.4M (2024)"
   terminals: "3"
   distanceToCity: "32 km / 20 mi"
 security:
@@ -67,7 +67,7 @@ Beijing Capital International Airport (IATA: **PEK**) is one of the busiest airp
 
 ## Overview
 
-PEK operates three terminals, with **Terminal 3** standing out as one of the largest airport terminal buildings ever built — when it opened for the 2008 Beijing Olympics, it was the largest single airport terminal in the world, designed by architect Norman Foster with a dragon-inspired roofline. Beijing now also has a second major airport, Daxing (PKX), but PEK remains a massive hub, particularly for Air China and Star Alliance.
+PEK operates three terminals, with **Terminal 3** standing out as one of the largest airport terminal buildings ever built — when it opened for the 2008 Beijing Olympics, it was the largest single airport terminal in the world, designed by architect Norman Foster with a dragon-inspired roofline. Beijing now also has a second major airport, Daxing (PKX), but PEK remains a massive hub, particularly for Air China and Star Alliance — official operating data put its 2024 passenger throughput at [67.37 million, up 27.4% year-on-year](https://www.marketscreener.com/quote/stock/BEIJING-CAPITAL-INTERNATI-6170607/news/Beijing-Capital-International-Airport-December-2024-operation-data-48726895/) as international travel continued recovering.
 
 ## Terminals
 

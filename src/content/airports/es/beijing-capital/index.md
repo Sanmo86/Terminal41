@@ -18,7 +18,7 @@ region: "asia"
 tags: ["china", "hub-air-china", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "55M+/año"
+  passengers: "67,4M (2024)"
   terminals: "3"
   distanceToCity: "32 km"
 security:
@@ -67,7 +67,7 @@ El Aeropuerto Internacional de Pekín Capital (IATA: **PEK**) es uno de los aero
 
 ## Panorama general
 
-PEK opera tres terminales, y la **Terminal 3** destaca como uno de los edificios de terminal de aeropuerto más grandes jamás construidos — cuando se inauguró para los Juegos Olímpicos de Pekín 2008, fue la terminal de aeropuerto individual más grande del mundo, diseñada por el arquitecto Norman Foster con una silueta de tejado inspirada en un dragón. Pekín cuenta ahora también con un segundo gran aeropuerto, Daxing (PKX), pero PEK sigue siendo un hub enorme, especialmente para Air China y Star Alliance.
+PEK opera tres terminales, y la **Terminal 3** destaca como uno de los edificios de terminal de aeropuerto más grandes jamás construidos — cuando se inauguró para los Juegos Olímpicos de Pekín 2008, fue la terminal de aeropuerto individual más grande del mundo, diseñada por el arquitecto Norman Foster con una silueta de tejado inspirada en un dragón. Pekín cuenta ahora también con un segundo gran aeropuerto, Daxing (PKX), pero PEK sigue siendo un hub enorme, especialmente para Air China y Star Alliance — los datos oficiales de operación sitúan su tráfico de pasajeros de 2024 en [67,37 millones, un 27,4% más interanual](https://www.marketscreener.com/quote/stock/BEIJING-CAPITAL-INTERNATI-6170607/news/Beijing-Capital-International-Airport-December-2024-operation-data-48726895/), reflejo de la recuperación continuada del tráfico internacional.
 
 ## Terminales
 

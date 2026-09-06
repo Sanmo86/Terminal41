@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["qatar", "qatar-airways-hub", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "50M+/year"
+  passengers: "52.7M (2024)"
   terminals: "1 (4 concourses)"
   distanceToCity: "15 km / 9 mi"
 security:
@@ -67,7 +67,7 @@ Hamad International Airport (IATA: **DOH**) is Qatar's main gateway and one of t
 
 ## Overview
 
-DOH operates as a single large terminal building divided into four concourses, purpose-built to handle Qatar Airways' extensive long-haul connecting traffic efficiently. It's consistently ranked among the world's best airports, known for a combination of striking architecture, art installations, and genuinely useful passenger amenities.
+DOH operates as a single large terminal building divided into four concourses, purpose-built to handle Qatar Airways' extensive long-haul connecting traffic efficiently. It's consistently ranked among the world's best airports, known for a combination of striking architecture, art installations, and genuinely useful passenger amenities. Hamad International [served a record 52.7 million passengers in 2024](https://www.dfnionline.com/latest-news/hamad-international-airport-serves-record-breaking-52-7-million-passengers-2024-06-01-2025/), up 15% year-on-year, according to the airport's own operator.
 
 ## Terminals
 

@@ -18,7 +18,7 @@ region: "asia"
 tags: ["singapore", "singapore-airlines-hub", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "70M+/year"
+  passengers: "67.7M (2024)"
   terminals: "4 + Jewel"
   distanceToCity: "20 km / 12 mi"
 security:
@@ -67,7 +67,7 @@ Singapore Changi Airport (IATA: **SIN**) is consistently rated one of the best a
 
 ## Overview
 
-Changi operates four terminals connected by Skytrain (T1–T3) and shuttle bus (T4), plus **Jewel Changi**, a separate landside complex attached near Terminal 1 that's become an attraction in its own right — accessible to visitors even without a flight, though transit passengers would need to clear immigration into Singapore to visit it.
+Changi operates four terminals connected by Skytrain (T1–T3) and shuttle bus (T4), plus **Jewel Changi**, a separate landside complex attached near Terminal 1 that's become an attraction in its own right — accessible to visitors even without a flight, though transit passengers would need to clear immigration into Singapore to visit it. Changi Airport Group [reported 67.7 million passenger movements for 2024](https://www.dfnionline.com/latest-news/changi-airport-reports-15-passenger-growth-2024-22-01-2025/), up 14.8% on 2023 and just shy of 2019's pre-pandemic record.
 
 ## Terminals
 

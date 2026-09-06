@@ -11,16 +11,23 @@
 // "fastest security" claims are worse than an airport quietly missing from
 // one list.
 
+// Accepts either "." or "," as the decimal separator — ES copy writes
+// decimals like "67,7M" while EN writes "67.7M", and both are valid,
+// hand-written prose rather than a locale-enforced format.
+function parseLocaleFloat(value: string): number {
+  return parseFloat(value.replace(',', '.'));
+}
+
 export function parseDistanceKm(distanceToCity?: string): number | null {
   if (!distanceToCity) return null;
-  const m = distanceToCity.match(/^(\d+(?:\.\d+)?)\s*km/i);
-  return m ? parseFloat(m[1]) : null;
+  const m = distanceToCity.match(/^(\d+(?:[.,]\d+)?)\s*km/i);
+  return m ? parseLocaleFloat(m[1]) : null;
 }
 
 export function parsePassengersMillions(passengers?: string): number | null {
   if (!passengers) return null;
-  const m = passengers.match(/^(\d+(?:\.\d+)?)\s*M/i);
-  return m ? parseFloat(m[1]) : null;
+  const m = passengers.match(/^(\d+(?:[.,]\d+)?)\s*M/i);
+  return m ? parseLocaleFloat(m[1]) : null;
 }
 
 // Parses "10–15 min" / "10-15 min" / "90 minutes" -> the lower/optimistic

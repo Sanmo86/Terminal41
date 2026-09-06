@@ -18,7 +18,7 @@ region: "africa"
 tags: ["nigeria", "hub-air-peace", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "8M+/year"
+  passengers: "7M+/year"
   terminals: "2 (MM2 domestic, MMIA international)"
   distanceToCity: "22 km / 14 mi"
 security:
@@ -67,7 +67,7 @@ Murtala Muhammed International Airport (IATA: **LOS**) is Nigeria's busiest airp
 
 ## Overview
 
-LOS operates two main terminal areas — the domestic MM2 terminal and the international MMIA terminal — serving as the primary entry point to an enormous and fast-growing megacity. As Nigeria's main gateway, the airport connects West Africa's largest economy to an extensive domestic network plus international routes across Africa, Europe, and beyond.
+LOS operates two main terminal areas — the domestic MM2 terminal and the international MMIA terminal — serving as the primary entry point to an enormous and fast-growing megacity. As Nigeria's main gateway, the airport connects West Africa's largest economy to an extensive domestic network plus international routes across Africa, Europe, and beyond. The [Federal Airports Authority of Nigeria puts LOS's traffic at more than 7 million passengers a year](https://businessday.ng/news/article/lagos-airport-records-11-8-growth-in-air-traffic-in-2025-fastest-in-africa/), and it recorded the fastest air-traffic growth of any major airport in Africa in 2025.
 
 ## Terminals
 

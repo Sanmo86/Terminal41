@@ -18,7 +18,7 @@ region: "asia"
 tags: ["singapur", "hub-singapore-airlines", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "70M+/año"
+  passengers: "67,7M (2024)"
   terminals: "4 + Jewel"
   distanceToCity: "20 km"
 security:
@@ -67,7 +67,7 @@ El Aeropuerto de Singapur Changi (IATA: **SIN**) está considerado sistemáticam
 
 ## Panorama general
 
-Changi opera cuatro terminales conectadas por Skytrain (T1–T3) y bus lanzadera (T4), además de **Jewel Changi**, un complejo aparte en zona pública junto a la Terminal 1 que se ha convertido en una atracción por derecho propio — accesible incluso sin volar, aunque los pasajeros en tránsito necesitarían pasar la inmigración de Singapur para visitarlo.
+Changi opera cuatro terminales conectadas por Skytrain (T1–T3) y bus lanzadera (T4), además de **Jewel Changi**, un complejo aparte en zona pública junto a la Terminal 1 que se ha convertido en una atracción por derecho propio — accesible incluso sin volar, aunque los pasajeros en tránsito necesitarían pasar la inmigración de Singapur para visitarlo. Changi Airport Group [registró 67,7 millones de movimientos de pasajeros en 2024](https://www.dfnionline.com/latest-news/changi-airport-reports-15-passenger-growth-2024-22-01-2025/), un 14,8% más que en 2023 y prácticamente al nivel del récord previo a la pandemia en 2019.
 
 ## Terminales
 

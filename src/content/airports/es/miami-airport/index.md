@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "hub-american-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "52M+/año"
+  passengers: "56M (2024)"
   terminals: "3 zonas (Norte, Central, Sur)"
   distanceToCity: "13 km"
 security:
@@ -63,11 +63,11 @@ spotlight:
 hubAirlines: ["American Airlines"]
 ---
 
-El Aeropuerto Internacional de Miami (IATA: **MIA**) es el mayor hub internacional de American Airlines y el principal hub de EE. UU. para viajar a Latinoamérica y el Caribe, con más de 52 millones de pasajeros al año. Está a unos 13 km al oeste del centro de Miami — notablemente cerca para un gran hub de EE. UU.
+El Aeropuerto Internacional de Miami (IATA: **MIA**) es el mayor hub internacional de American Airlines y el principal hub de EE. UU. para viajar a Latinoamérica y el Caribe, con casi 56 millones de pasajeros al año. Está a unos 13 km al oeste del centro de Miami — notablemente cerca para un gran hub de EE. UU.
 
 ## Panorama general
 
-MIA opera como un único y gran complejo de terminal dividido en zonas Norte, Central y Sur, cada una con sus propios concourses. Su papel definitorio es el de "Puerta de las Américas" — desde MIA salen más vuelos hacia Latinoamérica y el Caribe que desde cualquier otro aeropuerto de EE. UU., lo que lo convierte en un hub genuinamente distintivo dentro del panorama aeronáutico estadounidense, con un carácter más internacional que la mayoría de aeropuertos de EE. UU. de tamaño similar.
+MIA opera como un único y gran complejo de terminal dividido en zonas Norte, Central y Sur, cada una con sus propios concourses. Su papel definitorio es el de "Puerta de las Américas" — desde MIA salen más vuelos hacia Latinoamérica y el Caribe que desde cualquier otro aeropuerto de EE. UU., lo que lo convierte en un hub genuinamente distintivo dentro del panorama aeronáutico estadounidense, con un carácter más internacional que la mayoría de aeropuertos de EE. UU. de tamaño similar. El [Departamento de Aviación de Miami-Dade registró casi 56 millones de pasajeros en 2024](https://www.miamidade.gov/global/release.page?Mduid_release=rel1740490708573278) — tercer año consecutivo de récord, repartidos aproximadamente entre 30,8 millones nacionales y 25,2 millones internacionales.
 
 ## Terminales
 

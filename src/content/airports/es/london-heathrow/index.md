@@ -18,7 +18,7 @@ region: "europe"
 tags: ["reino-unido", "hub-british-airways", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "84M+/año"
+  passengers: "83,9M (2024)"
   terminals: "4"
   distanceToCity: "24 km"
 security:
@@ -71,7 +71,7 @@ Londres Heathrow (IATA: **LHR**) es el aeropuerto con más tráfico de Europa y 
 
 ## Panorama general
 
-Heathrow opera cuatro terminales activas — la Terminal 1 cerró definitivamente en 2015. A diferencia de hubs más compactos, las terminales de Heathrow se reparten por un recinto muy grande y no están a distancia caminable entre sí; moverse entre ellas, incluso en zona de embarque, requiere un tren lanzadera o bus dedicado. Comprueba siempre tu terminal bien antes de viajar, ya que afecta directamente a qué estación de tren o punto de recogida necesitas.
+Heathrow opera cuatro terminales activas — la Terminal 1 cerró definitivamente en 2015. A diferencia de hubs más compactos, las terminales de Heathrow se reparten por un recinto muy grande y no están a distancia caminable entre sí; moverse entre ellas, incluso en zona de embarque, requiere un tren lanzadera o bus dedicado. Comprueba siempre tu terminal bien antes de viajar, ya que afecta directamente a qué estación de tren o punto de recogida necesitas. Heathrow Airport Limited [confirmó 83,9 millones de pasajeros en 2024](https://www.aerotime.aero/articles/heathrow-airport-passenger-finance-figures-2024), un nuevo récord anual y un 5,9% más que los 79,1 millones de 2023.
 
 ## Terminales
 
