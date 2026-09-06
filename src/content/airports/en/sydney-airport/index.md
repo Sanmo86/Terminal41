@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "qantas-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "42M+/year"
+  passengers: "41M+ (2024)"
   terminals: "3"
   distanceToCity: "8 km / 5 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Flat whites, local cafe culture"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Rydges Sydney Airport, opposite T1"
 spotlight:
   title: "Try Sydney's famous plane-spotting park"
   text: "Free Barton Park, right next to the runway, is a well-known local spot to watch huge jets land and take off just meters overhead — a favorite with plane spotters and a fun way to spend time near the airport, even before or after your flight."
@@ -67,7 +70,7 @@ Sydney Kingsford Smith Airport (IATA: **SYD**) is Australia's busiest airport an
 
 ## Overview
 
-SYD operates three terminals: an international terminal and two domestic terminals used by different airlines. Because the international terminal (T1) is physically separate from the domestic terminals (T2 and T3), transferring between them — even on connecting itineraries — requires the Airport Link train or a shuttle bus, not a walk.
+SYD operates three terminals: an international terminal and two domestic terminals used by different airlines. Because the international terminal (T1) is physically separate from the domestic terminals (T2 and T3), transferring between them — even on connecting itineraries — requires the Airport Link train or a shuttle bus, not a walk. Sydney Airport Corporation [reported more than 41 million passengers for 2024](https://www.sydneyairport.com.au/corporate/media/corporate-newsroom/sydney-airport-annual-traffic-performance-q4-2024), its strongest year since 2019, with international traffic up 12.1% and domestic up 4.1%.
 
 ## Terminals
 
@@ -102,6 +105,10 @@ All three terminals have adjacent short- and long-stay car parks. Pre-booking on
 ## Wifi
 
 Free wifi is available across the terminals with a time-limited free session; an eSIM is a reliable backup for longer connectivity needs.
+
+## Airport Hotel
+
+The **Rydges Sydney Airport Hotel** sits directly across the road from the international terminal (T1) — genuinely walkable, not a shuttle-ride away. It has three in-house venues: Smithy's Bar, The Ascot restaurant, and the Cloud 9 Rooftop Bar. There's no hotel at either domestic terminal (T2/T3), so if you need a bed near a domestic flight, you'll need to factor in transfer time to T1.
 
 ## Best Times to Arrive
 

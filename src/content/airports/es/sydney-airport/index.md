@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "42M+/año"
+  passengers: "41M+ (2024)"
   terminals: "3"
   distanceToCity: "8 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Flat whites, cultura de cafeterías"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Rydges Sydney Airport, frente a la T1"
 spotlight:
   title: "Prueba el famoso parque de avistamiento de aviones"
   text: "El gratuito Barton Park, justo junto a la pista, es un sitio local muy conocido para ver aterrizar y despegar aviones enormes a pocos metros de altura — un favorito de los aficionados a los aviones y una forma divertida de pasar el tiempo cerca del aeropuerto, incluso antes o después de tu vuelo."
@@ -67,7 +70,7 @@ El Aeropuerto de Sídney Kingsford Smith (IATA: **SYD**) es el aeropuerto con m�
 
 ## Panorama general
 
-SYD opera tres terminales: una terminal internacional y dos terminales nacionales usadas por distintas aerolíneas. Como la terminal internacional (T1) está físicamente separada de las nacionales (T2 y T3), cambiar entre ellas — incluso en itinerarios de conexión — requiere el tren Airport Link o un bus lanzadera, no caminar.
+SYD opera tres terminales: una terminal internacional y dos terminales nacionales usadas por distintas aerolíneas. Como la terminal internacional (T1) está físicamente separada de las nacionales (T2 y T3), cambiar entre ellas — incluso en itinerarios de conexión — requiere el tren Airport Link o un bus lanzadera, no caminar. Sydney Airport Corporation [registró más de 41 millones de pasajeros en 2024](https://www.sydneyairport.com.au/corporate/media/corporate-newsroom/sydney-airport-annual-traffic-performance-q4-2024), su mejor año desde 2019, con el tráfico internacional subiendo un 12,1% y el nacional un 4,1%.
 
 ## Terminales
 
@@ -102,6 +105,10 @@ Las tres terminales tienen aparcamientos adyacentes de corta y larga estancia. R
 ## Wifi
 
 El wifi gratuito está disponible en las terminales con una sesión gratuita de tiempo limitado; una eSIM es un buen respaldo para necesidades de conexión más largas.
+
+## Hotel en el aeropuerto
+
+El **Rydges Sydney Airport Hotel** está justo enfrente de la terminal internacional (T1) — genuinamente andable, no hace falta shuttle. Tiene tres espacios propios: Smithy's Bar, el restaurante The Ascot y el Cloud 9 Rooftop Bar. No hay hotel en ninguna de las terminales nacionales (T2/T3), así que si necesitas alojamiento cerca de un vuelo nacional, cuenta con tiempo de traslado hasta la T1.
 
 ## Mejores momentos para llegar
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["canada", "air-canada-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "47M+/year"
+  passengers: "46.8M (2024)"
   terminals: "2"
   distanceToCity: "27 km / 17 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Tim Hortons, international chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sheraton Gateway, connected to Terminal 3"
 spotlight:
   title: "Clear US customs before you even board"
   text: "Pearson has one of the world's largest US border preclearance facilities — if you're flying to the US, you go through US customs and immigration in Toronto itself, landing as a domestic arrival with no US customs line at the other end."
@@ -67,7 +70,7 @@ Toronto Pearson International Airport (IATA: **YYZ**) is Canada's busiest airpor
 
 ## Overview
 
-Pearson operates two terminals, both large enough to handle the full range of domestic, transborder, and international traffic. One of its most distinctive features is a huge **US border preclearance facility** — one of the largest of its kind anywhere — which lets US-bound passengers clear American customs and immigration before boarding, arriving in the US as a domestic flight.
+Pearson operates two terminals, both large enough to handle the full range of domestic, transborder, and international traffic. One of its most distinctive features is a huge **US border preclearance facility** — one of the largest of its kind anywhere — which lets US-bound passengers clear American customs and immigration before boarding, arriving in the US as a domestic flight. The Greater Toronto Airports Authority [reported 46.8 million passengers for 2024](https://www.insauga.com/46-8m-travellers-used-toronto-pearson-airport-in-mississauga-in-2024-report/), up 4.4% on 2023, with international travel — 30.4 million of the total — leading the growth.
 
 ## Terminals
 
@@ -101,6 +104,10 @@ Both terminals have extensive adjacent short- and long-stay car parks, plus more
 ## Wifi
 
 Free, unlimited wifi is available throughout Pearson with no time cap.
+
+## Airport Hotel
+
+The **Sheraton Gateway Hotel** is built directly into Terminal 3 — no shuttle or outdoor walk required, just an indoor connection from the terminal itself. Its in-house restaurant, **&More by Sheraton**, is a genuinely convenient option if you're staying overnight or have a long layover and don't want to leave security.
 
 ## Best Times to Arrive
 

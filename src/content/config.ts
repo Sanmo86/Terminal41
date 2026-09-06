@@ -109,7 +109,7 @@ const airports = defineCollection({
         z.object({
           // Stable, non-translated key used to pick the right icon in
           // AmenityGrid.astro — label/detail are the translated display text.
-          key: z.enum(['wifi', 'lounges', 'duty-free', 'dining']),
+          key: z.enum(['wifi', 'lounges', 'duty-free', 'dining', 'hotel']),
           label: z.string(),
           detail: z.string(),
         })

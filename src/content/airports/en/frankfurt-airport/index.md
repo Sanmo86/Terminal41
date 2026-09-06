@@ -18,7 +18,7 @@ region: "europe"
 tags: ["germany", "lufthansa-hub", "long-layover", "schengen"]
 featured: true
 quickFacts:
-  passengers: "63M+/year"
+  passengers: "61.6M (2024)"
   terminals: "2"
   distanceToCity: "12 km / 7 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Pretzels, German food, beer"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sheraton, built into Terminal 1"
 spotlight:
   title: "Catch a high-speed train straight from the airport"
   text: "Frankfurt Airport has its own long-distance train station with direct ICE high-speed rail connections to major German cities — you can go straight from your flight to Cologne, Munich, or Berlin without ever entering Frankfurt itself."
@@ -67,7 +70,7 @@ Frankfurt Airport (IATA: **FRA**) is Germany's busiest airport and one of Europe
 
 ## Overview
 
-FRA operates two terminals connected by the free Skyline shuttle train. One of its most distinctive features is a dedicated long-distance rail station attached directly to Terminal 1, integrating the airport into Germany's national ICE high-speed rail network — a level of rail integration few other major airports match.
+FRA operates two terminals connected by the free Skyline shuttle train. One of its most distinctive features is a dedicated long-distance rail station attached directly to Terminal 1, integrating the airport into Germany's national ICE high-speed rail network — a level of rail integration few other major airports match. Fraport, the airport operator, [reported 61.6 million passengers for 2024](https://www.fraport.com/en/newsroom/press-releases/2025/traffic-figures/fraport-traffic-figures-2024--frankfurt-remains-the-leading-airp.html), up 3.7% on 2023 though still 12.7% below 2019's pre-pandemic level.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free wifi is available across the terminals with a time-limited free session; an
 
 ## Where to Eat
 
-FRA has a strong selection of German food — pretzels, sausages, and hearty regional dishes — alongside international chains and beer garden-style options, concentrated mainly in Terminal 1. Prices are on the higher side, typical of a major European hub.
+FRA has a strong selection of German food — pretzels, sausages, and hearty regional dishes — alongside international chains and beer garden-style options, concentrated mainly in Terminal 1. Prices are on the higher side, typical of a major European hub. Inside the Sheraton hotel complex, **Taverne** serves German specialties in a cozy setting, while **Flavors** runs an expansive international show kitchen — both open to non-guests, not just hotel residents.
+
+## Airport Hotel
+
+The **Sheraton Frankfurt Airport Hotel** is built directly into Terminal 1, with airside and landside access points. Beyond Taverne and Flavors, it also has **The Eatery Kitchen & Bar**, positioned between the Sheraton and the adjacent Marriott with direct access to The Squaire and the airport's ICE train station.
 
 ## Lounges
 

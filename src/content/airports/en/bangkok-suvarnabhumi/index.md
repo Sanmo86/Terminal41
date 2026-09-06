@@ -18,7 +18,7 @@ region: "asia"
 tags: ["thailand", "hub-thai-airways", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "50M+/year"
+  passengers: "62M+ (2024)"
   terminals: "1 main terminal"
   distanceToCity: "25 km / 16 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Thai cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, 5-min covered walkway"
 spotlight:
   title: "A golden mural the size of a terminal hall"
   text: "Suvarnabhumi's name means \"Golden Land,\" and its main terminal hall features a massive golden relief mural depicting the Churning of the Milk Ocean, a scene from Hindu mythology — one of the most striking pieces of art in any airport in the world."
@@ -67,7 +70,7 @@ Suvarnabhumi Airport (IATA: **BKK**) is Thailand's main international gateway an
 
 ## Overview
 
-BKK operates as a single large terminal complex, notable for its dramatic architecture and art — most strikingly, a massive golden relief mural depicting the Churning of the Milk Ocean, a well-known scene from Hindu mythology, dominating the main terminal hall. The airport's name, Suvarnabhumi, translates to "Golden Land."
+BKK operates as a single large terminal complex, notable for its dramatic architecture and art — most strikingly, a massive golden relief mural depicting the Churning of the Milk Ocean, a well-known scene from Hindu mythology, dominating the main terminal hall. The airport's name, Suvarnabhumi, translates to "Golden Land." BKK [handled about 62 million passengers in 2024](https://www.thetraveler.org/bangkoks-suvarnabhumi-surges-as-new-aviation-power-in-asean/), making it the busiest airport in Thailand and the main driver of growth across Airports of Thailand's six-airport network.
 
 ## Terminals
 
@@ -107,7 +110,11 @@ Free wifi is available in the terminal with a time-limited free session.
 
 ## Where to Eat
 
-BKK has an excellent selection of authentic Thai cuisine alongside international chains, spread across the terminal.
+BKK has an excellent selection of authentic Thai cuisine alongside international chains, spread across the terminal. Inside the on-site Novotel, **Sala Thai** serves authentic Thai dishes, **Golden Village** covers Cantonese cuisine and daily dim sum, and **Kinsen** does Japanese teppanyaki — all open to travelers, not just hotel guests.
+
+## Airport Hotel
+
+The **Novotel Bangkok Suvarnabhumi Airport Hotel** is the only official on-site hotel, reachable via a covered, air-conditioned underground walkway about a 5-minute walk from the terminal — no need to go back through security to reach it. Beyond its Thai, Cantonese, and Japanese restaurants, it also has **The Square**, a 24-hour international buffet restaurant, genuinely useful for odd-hour arrivals or long layovers.
 
 ## Lounges
 

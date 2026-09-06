@@ -18,7 +18,7 @@ region: "europe"
 tags: ["alemania", "hub-lufthansa", "escala-larga", "schengen"]
 featured: true
 quickFacts:
-  passengers: "63M+/año"
+  passengers: "61,6M (2024)"
   terminals: "2"
   distanceToCity: "12 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Pretzels, comida alemana, cerveza"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sheraton, integrado en la Terminal 1"
 spotlight:
   title: "Coge un tren de alta velocidad directamente desde el aeropuerto"
   text: "El Aeropuerto de Fráncfort tiene su propia estación de tren de largo recorrido con conexiones directas de alta velocidad ICE a las principales ciudades alemanas — puedes ir directo desde tu vuelo a Colonia, Múnich o Berlín sin pisar Fráncfort en absoluto."
@@ -67,7 +70,7 @@ El Aeropuerto de Fráncfort (IATA: **FRA**) es el aeropuerto con más tráfico d
 
 ## Panorama general
 
-FRA opera dos terminales conectadas por el tren lanzadera gratuito Skyline. Una de sus características más distintivas es una estación de tren de largo recorrido dedicada, conectada directamente a la Terminal 1, que integra el aeropuerto en la red ferroviaria de alta velocidad ICE de Alemania — un nivel de integración ferroviaria que pocos grandes aeropuertos igualan.
+FRA opera dos terminales conectadas por el tren lanzadera gratuito Skyline. Una de sus características más distintivas es una estación de tren de largo recorrido dedicada, conectada directamente a la Terminal 1, que integra el aeropuerto en la red ferroviaria de alta velocidad ICE de Alemania — un nivel de integración ferroviaria que pocos grandes aeropuertos igualan. Fraport, el operador del aeropuerto, [registró 61,6 millones de pasajeros en 2024](https://www.fraport.com/en/newsroom/press-releases/2025/traffic-figures/fraport-traffic-figures-2024--frankfurt-remains-the-leading-airp.html), un 3,7% más que en 2023 aunque todavía un 12,7% por debajo del nivel prepandemia de 2019.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito está disponible en las terminales con una sesión gratuita de 
 
 ## Dónde comer
 
-FRA tiene una buena selección de comida alemana — pretzels, salchichas y platos regionales contundentes — junto a cadenas internacionales y opciones estilo cervecería, concentradas sobre todo en la Terminal 1. Los precios son altos, típico de un gran hub europeo.
+FRA tiene una buena selección de comida alemana — pretzels, salchichas y platos regionales contundentes — junto a cadenas internacionales y opciones estilo cervecería, concentradas sobre todo en la Terminal 1. Los precios son altos, típico de un gran hub europeo. Dentro del complejo del Sheraton, **Taverne** sirve especialidades alemanas en un ambiente acogedor, mientras que **Flavors** tiene una amplia cocina show internacional — ambos abiertos también a quien no se aloja en el hotel.
+
+## Hotel en el aeropuerto
+
+El **Sheraton Frankfurt Airport Hotel** está integrado directamente en la Terminal 1, con accesos tanto desde zona de embarque como desde zona pública. Además de Taverne y Flavors, también tiene **The Eatery Kitchen & Bar**, situado entre el Sheraton y el Marriott contiguo, con acceso directo a The Squaire y a la estación de tren ICE del aeropuerto.
 
 ## Salas VIP
 

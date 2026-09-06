@@ -18,7 +18,7 @@ region: "europe"
 tags: ["france", "air-france-hub", "long-layover", "schengen"]
 featured: true
 quickFacts:
-  passengers: "70M+/year"
+  passengers: "70.3M (2024)"
   terminals: "3"
   distanceToCity: "25 km / 15 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Bistros to international chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sheraton, built into Terminal 2"
 spotlight:
   title: "Look up in Terminal 1"
   text: "Terminal 1's central atrium, with its criss-crossing glass escalator tubes designed by Paul Andreu, is one of the most photographed pieces of 1970s airport architecture in the world."
@@ -67,7 +70,7 @@ Paris-Charles de Gaulle (IATA: **CDG**) is France's main international gateway a
 
 ## Overview
 
-CDG is spread across three terminal complexes connected by CDGVAL, a free automated shuttle train. It's one of the more sprawling major airports, so connections between terminals — especially between T1 and T3 — can take a while; always check your terminal and hall before heading out.
+CDG is spread across three terminal complexes connected by CDGVAL, a free automated shuttle train. It's one of the more sprawling major airports, so connections between terminals — especially between T1 and T3 — can take a while; always check your terminal and hall before heading out. Groupe ADP, the airport's operator, [confirmed 70,288,694 passengers for 2024](https://pariscdgairport.com/statistics/), a 2.9% increase on 2023, making CDG Europe's second-busiest airport and its largest hub for intercontinental connections.
 
 ## Terminals
 
@@ -110,7 +113,11 @@ Free, unlimited wifi is available throughout CDG with no time cap — a traveler
 
 ## Where to Eat
 
-Terminal 2E and 2F have the strongest food selection, with French bistro-style restaurants alongside international chains. Terminal 1's dining options are more limited but include solid French classics. Expect premium pricing typical of a major European hub.
+Terminal 2E and 2F have the strongest food selection, with French bistro-style restaurants alongside international chains. Terminal 1's dining options are more limited but include solid French classics. Expect premium pricing typical of a major European hub. Inside the Sheraton hotel complex, **Restaurant Les Saisons** serves bistro classics and a breakfast buffet, and **Restaurant Les Étoiles** is the more formal, gourmet option — both open to non-guests.
+
+## Airport Hotel
+
+The **Sheraton Paris Charles de Gaulle Airport Hotel** is built directly into Terminal 2, no shuttle needed. Beyond Les Saisons and Les Étoiles, it also has the **Galaxy Bar** for tapas, cocktails, and French wine — a genuinely convenient stop if you're stuck in Terminal 2 with time to kill rather than a night to spend.
 
 ## Lounges
 

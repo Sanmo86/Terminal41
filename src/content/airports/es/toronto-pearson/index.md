@@ -18,7 +18,7 @@ region: "americas"
 tags: ["canadá", "hub-air-canada", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "47M+/año"
+  passengers: "46,8M (2024)"
   terminals: "2"
   distanceToCity: "27 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Tim Hortons, cadenas internacionales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sheraton Gateway, conectado a la Terminal 3"
 spotlight:
   title: "Pasa la aduana de EE. UU. antes incluso de embarcar"
   text: "Pearson tiene una de las mayores instalaciones de preclearance de la frontera de EE. UU. del mundo — si vuelas a EE. UU., pasas la aduana e inmigración estadounidense en el propio Toronto, y llegas como un vuelo nacional sin ninguna cola de aduanas al otro lado."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Toronto Pearson (IATA: **YYZ**) es, con diferenci
 
 ## Panorama general
 
-Pearson opera dos terminales, ambas lo bastante grandes como para gestionar toda la gama de tráfico nacional, transfronterizo e internacional. Una de sus características más distintivas es una enorme **instalación de preclearance fronterizo de EE. UU.** — una de las más grandes de su tipo en cualquier parte — que permite a los pasajeros con destino a EE. UU. pasar la aduana e inmigración estadounidense antes de embarcar, llegando a EE. UU. como un vuelo nacional.
+Pearson opera dos terminales, ambas lo bastante grandes como para gestionar toda la gama de tráfico nacional, transfronterizo e internacional. Una de sus características más distintivas es una enorme **instalación de preclearance fronterizo de EE. UU.** — una de las más grandes de su tipo en cualquier parte — que permite a los pasajeros con destino a EE. UU. pasar la aduana e inmigración estadounidense antes de embarcar, llegando a EE. UU. como un vuelo nacional. La Greater Toronto Airports Authority [registró 46,8 millones de pasajeros en 2024](https://www.insauga.com/46-8m-travellers-used-toronto-pearson-airport-in-mississauga-in-2024-report/), un 4,4% más que en 2023, con el tráfico internacional — 30,4 millones del total — liderando el crecimiento.
 
 ## Terminales
 
@@ -101,6 +104,10 @@ Ambas terminales tienen amplios aparcamientos adyacentes de corta y larga estanc
 ## Wifi
 
 El wifi gratuito e ilimitado está disponible en todo Pearson sin límite de tiempo.
+
+## Hotel en el aeropuerto
+
+El **Sheraton Gateway Hotel** está integrado directamente en la Terminal 3 — sin shuttle ni tramos al aire libre, solo una conexión interior desde la propia terminal. Su restaurante propio, **&More by Sheraton**, es una opción genuinamente cómoda si pasas la noche o tienes una escala larga y no quieres salir de la zona de seguridad.
 
 ## Mejores momentos para llegar
 

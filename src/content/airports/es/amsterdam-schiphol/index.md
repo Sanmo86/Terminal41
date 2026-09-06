@@ -19,7 +19,7 @@ region: "europe"
 tags: ["países-bajos", "hub-klm", "escala-larga", "schengen"]
 featured: true
 quickFacts:
-  passengers: "60M+/año"
+  passengers: "66,8M (2024)"
   terminals: "1 (3 salas)"
   distanceToCity: "9 km"
 security:
@@ -58,6 +58,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina neerlandesa e internacional"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "YOTELAIR, en zona de embarque"
 spotlight:
   title: "Visita el museo entre vuelos"
   text: "Schiphol tiene una sede real del Rijksmuseum (gratis, en zona de embarque) además de su propia biblioteca pública — uno de los pocos aeropuertos del mundo donde puedes ver un Rembrandt auténtico sin salir de seguridad."
@@ -68,7 +71,7 @@ hubAirlines: ["KLM", "Delta", "Air France", "Korean Air"]
 
 ## Panorama general
 
-El diseño de Schiphol, "una terminal, varias salas" (salas B a M), significa que el control de pasaportes y la seguridad están centralizados, y una vez en zona de embarque, moverse entre puertas es sobre todo cuestión de caminar o coger un tren interno entre las salas E/F/EM.
+El diseño de Schiphol, "una terminal, varias salas" (salas B a M), significa que el control de pasaportes y la seguridad están centralizados, y una vez en zona de embarque, moverse entre puertas es sobre todo cuestión de caminar o coger un tren interno entre las salas E/F/EM. Royal Schiphol Group [registró 66,8 millones de pasajeros en 2024](https://www.businesstravelnewseurope.com/Air-Travel/Amsterdam-Schiphol-s-traffic-rose-by-8-in-2024), un 8% más que en 2023 pero todavía por debajo de los 71,7 millones prepandemia de 2019.
 
 ## Terminales
 
@@ -109,7 +112,11 @@ Schiphol ofrece wifi gratuito e ilimitado en toda la terminal sin límite de tie
 
 ## Dónde comer
 
-Schiphol tiene una oferta gastronómica inusualmente buena para un aeropuerto, con restaurantes neerlandeses e internacionales con servicio de mesa, una conocida biblioteca del aeropuerto y un anexo del Rijksmuseum, además de opciones informales en todas las salas. Las bitterballen y los stroopwafels son los snacks neerlandeses clásicos para probar.
+Schiphol tiene una oferta gastronómica inusualmente buena para un aeropuerto, con restaurantes neerlandeses e internacionales con servicio de mesa, una conocida biblioteca del aeropuerto y un anexo del Rijksmuseum, además de opciones informales en todas las salas. Las bitterballen y los stroopwafels son los snacks neerlandeses clásicos para probar. Entre las opciones con nombre destacan **Grand Café Het Paleis** y **Schiphol Grand Café Plaza** para una comida sentada, además de **Dutch Kitchen** para una versión más informal de platos locales.
+
+## Hotel en el aeropuerto
+
+**YOTELAIR Amsterdam Schiphol** está en zona de embarque, dentro de la Lounge 2 de la Terminal 2 — después de seguridad, así que solo sirve si ya has pasado el proceso de salidas. Sus cabinas compactas, inspiradas en primera clase, están pensadas específicamente para escalas cortas en vez de una noche completa, lo que lo hace genuinamente distinto de un hotel de aeropuerto en zona pública del que tendrías que volver a salir por seguridad.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "europe"
 tags: ["francia", "hub-air-france", "escala-larga", "schengen"]
 featured: true
 quickFacts:
-  passengers: "70M+/año"
+  passengers: "70,3M (2024)"
   terminals: "3"
   distanceToCity: "25 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "De bistrós a cadenas internacionales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sheraton, integrado en la Terminal 2"
 spotlight:
   title: "Mira hacia arriba en la Terminal 1"
   text: "El atrio central de la Terminal 1, con sus tubos de escaleras mecánicas de cristal entrecruzados diseñados por Paul Andreu, es una de las piezas de arquitectura aeroportuaria de los años 70 más fotografiadas del mundo."
@@ -67,7 +70,7 @@ París-Charles de Gaulle (IATA: **CDG**) es la principal puerta de entrada inter
 
 ## Panorama general
 
-CDG se reparte en tres complejos de terminales conectados por el CDGVAL, un tren lanzadera automático gratuito. Es uno de los grandes aeropuertos más extensos, así que las conexiones entre terminales — sobre todo entre T1 y T3 — pueden llevar un rato; comprueba siempre tu terminal y sala antes de salir.
+CDG se reparte en tres complejos de terminales conectados por el CDGVAL, un tren lanzadera automático gratuito. Es uno de los grandes aeropuertos más extensos, así que las conexiones entre terminales — sobre todo entre T1 y T3 — pueden llevar un rato; comprueba siempre tu terminal y sala antes de salir. Groupe ADP, el operador del aeropuerto, [confirmó 70.288.694 pasajeros en 2024](https://pariscdgairport.com/statistics/), un 2,9% más que en 2023, lo que convierte a CDG en el segundo aeropuerto más transitado de Europa y su mayor hub para conexiones intercontinentales.
 
 ## Terminales
 
@@ -110,7 +113,11 @@ El wifi gratuito e ilimitado está disponible en todo CDG sin límite de tiempo 
 
 ## Dónde comer
 
-La Terminal 2E y 2F tienen la mejor oferta gastronómica, con restaurantes de estilo bistró francés junto a cadenas internacionales. Las opciones de la Terminal 1 son más limitadas pero incluyen sólidos clásicos franceses. Espera precios altos, típicos de un gran hub europeo.
+La Terminal 2E y 2F tienen la mejor oferta gastronómica, con restaurantes de estilo bistró francés junto a cadenas internacionales. Las opciones de la Terminal 1 son más limitadas pero incluyen sólidos clásicos franceses. Espera precios altos, típicos de un gran hub europeo. Dentro del complejo del Sheraton, **Restaurant Les Saisons** sirve clásicos de bistró y buffet de desayuno, y **Restaurant Les Étoiles** es la opción más formal y gourmet — ambos abiertos también a quien no se aloja en el hotel.
+
+## Hotel en el aeropuerto
+
+El **Sheraton Paris Charles de Gaulle Airport Hotel** está integrado directamente en la Terminal 2, sin necesidad de shuttle. Además de Les Saisons y Les Étoiles, tiene también el **Galaxy Bar** para tapas, cócteles y vino francés — una parada genuinamente cómoda si te quedas en la Terminal 2 con tiempo que matar en vez de una noche que pasar.
 
 ## Salas VIP
 

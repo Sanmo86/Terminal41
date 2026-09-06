@@ -18,7 +18,7 @@ region: "asia"
 tags: ["tailandia", "hub-thai-airways", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "50M+/año"
+  passengers: "62M+ (2024)"
   terminals: "1 terminal principal"
   distanceToCity: "25 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina tailandesa"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, a 5 min a pie cubierto"
 spotlight:
   title: "Un mural dorado del tamaño de un vestíbulo"
   text: "El nombre Suvarnabhumi significa \"Tierra Dorada\", y su vestíbulo principal presenta un enorme mural en relieve dorado que representa el Batido del Océano de Leche, una conocida escena de la mitología hindú — una de las obras de arte más llamativas de cualquier aeropuerto del mundo."
@@ -67,7 +70,7 @@ El Aeropuerto de Suvarnabhumi (IATA: **BKK**) es la principal puerta de entrada 
 
 ## Panorama general
 
-BKK opera como un único y gran complejo de terminal, destacado por su arquitectura y arte dramáticos — sobre todo, un enorme mural en relieve dorado que representa el Batido del Océano de Leche, una conocida escena de la mitología hindú, que domina el vestíbulo principal de la terminal. El nombre del aeropuerto, Suvarnabhumi, se traduce como "Tierra Dorada".
+BKK opera como un único y gran complejo de terminal, destacado por su arquitectura y arte dramáticos — sobre todo, un enorme mural en relieve dorado que representa el Batido del Océano de Leche, una conocida escena de la mitología hindú, que domina el vestíbulo principal de la terminal. El nombre del aeropuerto, Suvarnabhumi, se traduce como "Tierra Dorada". BKK [gestionó unos 62 millones de pasajeros en 2024](https://www.thetraveler.org/bangkoks-suvarnabhumi-surges-as-new-aviation-power-in-asean/), lo que lo convierte en el aeropuerto más transitado de Tailandia y el principal motor de crecimiento de la red de seis aeropuertos de Airports of Thailand.
 
 ## Terminales
 
@@ -107,7 +110,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 
 ## Dónde comer
 
-BKK tiene una excelente selección de auténtica cocina tailandesa junto a cadenas internacionales, repartida por la terminal.
+BKK tiene una excelente selección de auténtica cocina tailandesa junto a cadenas internacionales, repartida por la terminal. Dentro del Novotel del propio aeropuerto, **Sala Thai** sirve platos tailandeses auténticos, **Golden Village** se centra en cocina cantonesa y dim sum diario, y **Kinsen** ofrece teppanyaki japonés — todos abiertos a cualquier viajero, no solo a los huéspedes del hotel.
+
+## Hotel en el aeropuerto
+
+El **Novotel Bangkok Suvarnabhumi Airport Hotel** es el único hotel oficial dentro del recinto, accesible por un pasillo subterráneo cubierto y climatizado a unos 5 minutos a pie de la terminal — sin necesidad de volver a pasar por seguridad para llegar. Además de sus restaurantes tailandés, cantonés y japonés, tiene también **The Square**, un restaurante buffet internacional abierto 24 horas, genuinamente útil para llegadas a horas intempestivas o escalas largas.
 
 ## Salas VIP
 

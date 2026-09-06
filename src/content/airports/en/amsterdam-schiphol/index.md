@@ -19,7 +19,7 @@ region: "europe"
 tags: ["netherlands", "klm-hub", "long-layover", "schengen"]
 featured: true
 quickFacts:
-  passengers: "60M+/year"
+  passengers: "66.8M (2024)"
   terminals: "1 (3 halls)"
   distanceToCity: "9 km / 5.5 mi"
 security:
@@ -58,6 +58,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Dutch & international"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "YOTELAIR, airside past security"
 spotlight:
   title: "Visit the museum between flights"
   text: "Schiphol houses a genuine outpost of the Rijksmuseum (free, airside) plus its own public library — one of the only airports in the world where you can see a real Rembrandt without leaving security."
@@ -68,7 +71,7 @@ Amsterdam Schiphol (IATA: **AMS**) is one of Europe's busiest hub airports and t
 
 ## Overview
 
-Schiphol's "one terminal, multiple piers" design (piers B through M) means passport control and security are centralized, and once you're airside, moving between gates is mostly a matter of walking or taking an internal train between the E/F/EM piers.
+Schiphol's "one terminal, multiple piers" design (piers B through M) means passport control and security are centralized, and once you're airside, moving between gates is mostly a matter of walking or taking an internal train between the E/F/EM piers. Royal Schiphol Group [reported 66.8 million passengers for 2024](https://www.businesstravelnewseurope.com/Air-Travel/Amsterdam-Schiphol-s-traffic-rose-by-8-in-2024), up 8% on 2023 but still below 2019's pre-pandemic 71.7 million.
 
 ## Terminals
 
@@ -109,7 +112,11 @@ Schiphol provides free, unlimited wifi throughout the terminal with no time cap 
 
 ## Where to Eat
 
-Schiphol has an unusually strong food scene for an airport, including sit-down Dutch and international restaurants, a well-known airport library and museum annex (Rijksmuseum outpost), and casual options throughout every pier. Bitterballen and stroopwafels are the classic Dutch airport snacks to try.
+Schiphol has an unusually strong food scene for an airport, including sit-down Dutch and international restaurants, a well-known airport library and museum annex (Rijksmuseum outpost), and casual options throughout every pier. Bitterballen and stroopwafels are the classic Dutch airport snacks to try. Named options include **Grand Café Het Paleis** and **Schiphol Grand Café Plaza** for a sit-down meal, plus **Dutch Kitchen** for a more casual take on local dishes.
+
+## Airport Hotel
+
+**YOTELAIR Amsterdam Schiphol** sits airside, inside Lounge 2 at Terminal 2 — past security, so it's only usable if you're already through the departures process. Its compact, first-class-inspired cabins are built specifically for short layover stays rather than a full overnight, which makes it a genuinely different option from a landside airport hotel you'd need to clear security to leave again.
 
 ## Lounges
 
