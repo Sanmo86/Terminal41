@@ -18,7 +18,7 @@ region: "americas"
 tags: ["united-states", "hub-united-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "50M+/year"
+  passengers: "52.3M (2024)"
   terminals: "4 (1, 2, 3, International)"
   distanceToCity: "21 km"
 security:
@@ -67,7 +67,7 @@ San Francisco International Airport (IATA: **SFO**) is one of United Airlines' l
 
 ## Overview
 
-SFO operates four terminals and holds a genuinely distinctive credential: SFO Museum is the first and only US airport museum accredited by the American Alliance of Museums, with rotating art and cultural exhibitions spread throughout the terminal buildings — a real curated collection, not just decorative airport art. As a major United Airlines hub, SFO also anchors an extensive network across the Pacific to Asia and Oceania.
+SFO operates four terminals and holds a genuinely distinctive credential: SFO Museum is the first and only US airport museum accredited by the American Alliance of Museums, with rotating art and cultural exhibitions spread throughout the terminal buildings — a real curated collection, not just decorative airport art. As a major United Airlines hub, SFO also anchors an extensive network across the Pacific to Asia and Oceania. The airport's own air traffic statistics [put 2024 volume at 52.29 million passengers](https://roadgenius.com/statistics/airports/usa/san-francisco-sfo-airport/), with international traffic to Asia and the Middle East growing especially fast.
 
 ## Terminals
 

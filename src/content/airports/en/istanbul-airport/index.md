@@ -18,7 +18,7 @@ region: "europe"
 tags: ["turkey", "turkish-airlines-hub", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "84M+/year"
+  passengers: "80M (2024)"
   terminals: "1 mega-terminal"
   distanceToCity: "35 km / 22 mi"
 security:
@@ -67,7 +67,7 @@ Istanbul Airport (IATA: **IST**) is one of the largest airports in the world by 
 
 ## Overview
 
-Unlike most airports of its size, IST is built as a single continuous mega-terminal under one roof, divided into five concourses rather than separate buildings. Opened in 2018 to replace the old Atatürk Airport, it was designed with huge growth capacity in mind — the scale is genuinely impressive, but it also means long walking distances; moving walkways and internal transit are essential for getting between distant gates.
+Unlike most airports of its size, IST is built as a single continuous mega-terminal under one roof, divided into five concourses rather than separate buildings. Opened in 2018 to replace the old Atatürk Airport, it was designed with huge growth capacity in mind — the scale is genuinely impressive, but it also means long walking distances; moving walkways and internal transit are essential for getting between distant gates. Turkey's Transport and Infrastructure Minister [confirmed IST served 79.98 million passengers in 2024](https://www.dailysabah.com/business/transportation/turkish-airports-serve-over-230-million-passengers-in-2024) — 17.09 million domestic and 62.9 million international — making it Europe's second-busiest airport behind only London Heathrow.
 
 ## Terminals
 

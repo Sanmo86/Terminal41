@@ -18,7 +18,7 @@ region: "americas"
 tags: ["ee-uu", "hub-delta", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "108M+/año"
+  passengers: "108,1M (2024)"
   terminals: "7 concourses"
   distanceToCity: "16 km"
 security:
@@ -67,7 +67,7 @@ El Aeropuerto Internacional Hartsfield-Jackson de Atlanta (IATA: **ATL**) es, po
 
 ## Panorama general
 
-El diseño de ATL es genuinamente distinto al de la mayoría de grandes aeropuertos: en vez de edificios de terminal separados, se organiza como una Terminal Nacional (con los concourses T, A, B y C) y una Terminal Internacional, el Concourse F, conectado con los concourses D y E. Los siete concourses están conectados por el **Plane Train** subterráneo, un tren automático esencial para moverse — caminar entre concourses lejanos es posible por pasillos de conexión, pero puede llevar mucho tiempo.
+El diseño de ATL es genuinamente distinto al de la mayoría de grandes aeropuertos: en vez de edificios de terminal separados, se organiza como una Terminal Nacional (con los concourses T, A, B y C) y una Terminal Internacional, el Concourse F, conectado con los concourses D y E. Los siete concourses están conectados por el **Plane Train** subterráneo, un tren automático esencial para moverse — caminar entre concourses lejanos es posible por pasillos de conexión, pero puede llevar mucho tiempo. ATL [recibió a 108,1 millones de pasajeros en 2024](https://airportchamber.com/hartsfield-jackson-serves-108m-passengers-in-2024/), su segundo año más transitado de la historia solo por detrás de 2019, y sigue siendo el aeropuerto más transitado del mundo por tráfico de pasajeros.
 
 ## Terminales
 

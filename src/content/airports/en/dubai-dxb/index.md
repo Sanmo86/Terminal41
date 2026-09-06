@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["uae", "emirates-hub", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "95M+/year"
+  passengers: "92.3M (2024)"
   terminals: "3"
   distanceToCity: "5 km / 3 mi"
 security:
@@ -67,7 +67,7 @@ Dubai International Airport (IATA: **DXB**) is one of the world's busiest airpor
 
 ## Overview
 
-DXB operates three terminals with a distinct split: Terminal 3 is used exclusively by Emirates and is one of the largest airport terminal buildings in the world by floor space, while Terminal 1 handles most other international airlines and Terminal 2 focuses on charter and scheduled regional flights. Because Terminal 3 is so large, expect long walks between check-in and your gate — moving walkways are essential, not optional.
+DXB operates three terminals with a distinct split: Terminal 3 is used exclusively by Emirates and is one of the largest airport terminal buildings in the world by floor space, while Terminal 1 handles most other international airlines and Terminal 2 focuses on charter and scheduled regional flights. Because Terminal 3 is so large, expect long walks between check-in and your gate — moving walkways are essential, not optional. Dubai Airports [confirmed a record 92.3 million passengers in 2024](https://media.dubaiairports.ae/dxb-records-highest-annual-traffic-in-2024-celebrating-a-decade-as-the-worlds-busiest-international-airport/), marking DXB's tenth consecutive year as the world's busiest airport for international passengers.
 
 ## Terminals
 

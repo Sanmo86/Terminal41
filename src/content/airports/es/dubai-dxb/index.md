@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["eau", "hub-emirates", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "95M+/año"
+  passengers: "92,3M (2024)"
   terminals: "3"
   distanceToCity: "5 km"
 security:
@@ -67,7 +67,7 @@ El Aeropuerto Internacional de Dubái (IATA: **DXB**) es uno de los aeropuertos 
 
 ## Panorama general
 
-DXB opera tres terminales con una división clara: la Terminal 3 la usa exclusivamente Emirates y es uno de los edificios de terminal más grandes del mundo por superficie, mientras que la Terminal 1 gestiona la mayoría de las demás aerolíneas internacionales y la Terminal 2 se centra en vuelos chárter y regionales programados. Como la Terminal 3 es tan grande, cuenta con caminar bastante entre el check-in y tu puerta — las cintas transportadoras son esenciales, no opcionales.
+DXB opera tres terminales con una división clara: la Terminal 3 la usa exclusivamente Emirates y es uno de los edificios de terminal más grandes del mundo por superficie, mientras que la Terminal 1 gestiona la mayoría de las demás aerolíneas internacionales y la Terminal 2 se centra en vuelos chárter y regionales programados. Como la Terminal 3 es tan grande, cuenta con caminar bastante entre el check-in y tu puerta — las cintas transportadoras son esenciales, no opcionales. Dubai Airports [confirmó un récord de 92,3 millones de pasajeros en 2024](https://media.dubaiairports.ae/dxb-records-highest-annual-traffic-in-2024-celebrating-a-decade-as-the-worlds-busiest-international-airport/), su décimo año consecutivo como el aeropuerto más transitado del mundo en pasajeros internacionales.
 
 ## Terminales
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["usa", "delta-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "108M+/year"
+  passengers: "108.1M (2024)"
   terminals: "7 concourses"
   distanceToCity: "16 km / 10 mi"
 security:
@@ -67,7 +67,7 @@ Hartsfield-Jackson Atlanta International Airport (IATA: **ATL**) is, by total pa
 
 ## Overview
 
-ATL's design is genuinely different from most large airports: instead of separate terminal buildings, it's organized as a Domestic Terminal (with concourses T, A, B, and C) and an International Terminal, Concourse F, connected to concourses D and E. All seven concourses are linked by the underground **Plane Train**, an automated people mover that's essential for getting around — walking between distant concourses is possible via connector corridors but can take a long time.
+ATL's design is genuinely different from most large airports: instead of separate terminal buildings, it's organized as a Domestic Terminal (with concourses T, A, B, and C) and an International Terminal, Concourse F, connected to concourses D and E. All seven concourses are linked by the underground **Plane Train**, an automated people mover that's essential for getting around — walking between distant concourses is possible via connector corridors but can take a long time. ATL [hosted 108.1 million passengers in 2024](https://airportchamber.com/hartsfield-jackson-serves-108m-passengers-in-2024/), its second-busiest year ever behind only 2019, and remains the world's busiest airport by passenger traffic.
 
 ## Terminals
 

@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["barein", "hub-gulf-air", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "10M+/año"
+  passengers: "14M (2024)"
   terminals: "1 (nueva terminal, inaugurada en 2021)"
   distanceToCity: "7 km"
 security:
@@ -63,7 +63,7 @@ El Aeropuerto Internacional de Baréin (IATA: **BAH**) es el principal aeropuert
 
 ## Panorama general
 
-BAH opera una única gran terminal, inaugurada en 2021 para sustituir a las instalaciones más antiguas, y destaca por una razón sencilla pero valiosa: es uno de los grandes aeropuertos más cercanos del Golfo a la capital a la que sirve. Como hub de Gulf Air — una aerolínea con raíces que se remontan a 1950, entre las más antiguas de la región — BAH sostiene una extensa red por Oriente Medio, el sur de Asia y más allá.
+BAH opera una única gran terminal, inaugurada en 2021 para sustituir a las instalaciones más antiguas, y destaca por una razón sencilla pero valiosa: es uno de los grandes aeropuertos más cercanos del Golfo a la capital a la que sirve. Como hub de Gulf Air — una aerolínea con raíces que se remontan a 1950, entre las más antiguas de la región — BAH sostiene una extensa red por Oriente Medio, el sur de Asia y más allá. Los datos oficiales de la Dirección de Aviación Civil de Baréin [sitúan el tráfico de 2024 en casi 14 millones de pasajeros](https://www.newsofbahrain.com/bahrain/108599.html), frente a los 13,3 millones de 2023, impulsado en parte por un fuerte aumento del tráfico en tránsito.
 
 ## Terminales
 

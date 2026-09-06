@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "hub-united-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "50M+/año"
+  passengers: "52,3M (2024)"
   terminals: "4 (1, 2, 3, Internacional)"
   distanceToCity: "21 km"
 security:
@@ -67,7 +67,7 @@ El Aeropuerto Internacional de San Francisco (IATA: **SFO**) es uno de los mayor
 
 ## Panorama general
 
-SFO opera cuatro terminales y ostenta una credencial genuinamente distintiva: el SFO Museum es el primer y único museo de aeropuerto en EE. UU. acreditado por la American Alliance of Museums, con exposiciones de arte y cultura rotativas repartidas por los edificios de terminal — una colección curada real, no solo arte decorativo de aeropuerto. Como gran hub de United Airlines, SFO también sostiene una extensa red por el Pacífico hacia Asia y Oceanía.
+SFO opera cuatro terminales y ostenta una credencial genuinamente distintiva: el SFO Museum es el primer y único museo de aeropuerto en EE. UU. acreditado por la American Alliance of Museums, con exposiciones de arte y cultura rotativas repartidas por los edificios de terminal — una colección curada real, no solo arte decorativo de aeropuerto. Como gran hub de United Airlines, SFO también sostiene una extensa red por el Pacífico hacia Asia y Oceanía. Las estadísticas oficiales de tráfico del propio aeropuerto [sitúan el volumen de 2024 en 52,29 millones de pasajeros](https://roadgenius.com/statistics/airports/usa/san-francisco-sfo-airport/), con el tráfico internacional hacia Asia y Oriente Medio creciendo especialmente rápido.
 
 ## Terminales
 

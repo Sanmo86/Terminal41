@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["bahrain", "hub-gulf-air", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "10M+/year"
+  passengers: "14M (2024)"
   terminals: "1 (new terminal, opened 2021)"
   distanceToCity: "7 km"
 security:
@@ -63,7 +63,7 @@ Bahrain International Airport (IATA: **BAH**) is Bahrain's main airport and the 
 
 ## Overview
 
-BAH operates a single large terminal, opened in 2021 to replace the older facility, and stands out for a simple but valuable reason: it's one of the closest major airports in the Gulf to the capital city it serves. As Gulf Air's home hub — an airline with roots stretching back to 1950, among the oldest in the region — BAH anchors an extensive network across the Middle East, South Asia, and beyond.
+BAH operates a single large terminal, opened in 2021 to replace the older facility, and stands out for a simple but valuable reason: it's one of the closest major airports in the Gulf to the capital city it serves. As Gulf Air's home hub — an airline with roots stretching back to 1950, among the oldest in the region — BAH anchors an extensive network across the Middle East, South Asia, and beyond. Official figures from Bahrain's Civil Aviation Affairs [put 2024 traffic at nearly 14 million passengers](https://www.newsofbahrain.com/bahrain/108599.html), up from 13.3 million in 2023, driven partly by a sharp rise in transfer traffic.
 
 ## Terminals
 

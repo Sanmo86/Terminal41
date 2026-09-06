@@ -18,7 +18,7 @@ region: "europe"
 tags: ["turquía", "hub-turkish-airlines", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "84M+/año"
+  passengers: "80M (2024)"
   terminals: "1 megaterminal"
   distanceToCity: "35 km"
 security:
@@ -67,7 +67,7 @@ El Aeropuerto de Estambul (IATA: **IST**) es uno de los aeropuertos más grandes
 
 ## Panorama general
 
-A diferencia de la mayoría de aeropuertos de su tamaño, IST está construido como un único megaterminal continuo bajo un solo techo, dividido en cinco concourses en vez de edificios separados. Inaugurado en 2018 para sustituir al antiguo Aeropuerto Atatürk, se diseñó pensando en una enorme capacidad de crecimiento — la escala es realmente impresionante, pero también implica largas distancias a pie; las cintas transportadoras y el transporte interno son esenciales para moverse entre puertas lejanas.
+A diferencia de la mayoría de aeropuertos de su tamaño, IST está construido como un único megaterminal continuo bajo un solo techo, dividido en cinco concourses en vez de edificios separados. Inaugurado en 2018 para sustituir al antiguo Aeropuerto Atatürk, se diseñó pensando en una enorme capacidad de crecimiento — la escala es realmente impresionante, pero también implica largas distancias a pie; las cintas transportadoras y el transporte interno son esenciales para moverse entre puertas lejanas. El Ministro de Transportes e Infraestructura de Turquía [confirmó que IST sirvió a 79,98 millones de pasajeros en 2024](https://www.dailysabah.com/business/transportation/turkish-airports-serve-over-230-million-passengers-in-2024) — 17,09 millones nacionales y 62,9 millones internacionales — lo que lo convierte en el segundo aeropuerto más transitado de Europa, solo por detrás de Londres Heathrow.
 
 ## Terminales
 

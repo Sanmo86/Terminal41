@@ -18,7 +18,7 @@ region: "americas"
 tags: ["bolivia", "hub-boliviana-de-aviacion", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "3M+/año"
+  passengers: "2,6M (2023)"
   terminals: "1"
   distanceToCity: "11 km"
 security:
@@ -63,7 +63,7 @@ El Aeropuerto Internacional El Alto (IATA: **LPB**) es la principal puerta de en
 
 ## Panorama general
 
-LPB opera una única terminal y ostenta una distinción genuinamente extrema: a unos 4.061 metros (13.325 pies) sobre el nivel del mar, es uno de los aeropuertos internacionales más altos de todo el mundo. La altitud es lo suficientemente significativa como para que algunas aerolíneas adviertan a los pasajeros que llegan sobre posibles efectos, y el aire enrarecido requiere pistas notablemente más largas para despegues y aterrizajes seguros.
+LPB opera una única terminal y ostenta una distinción genuinamente extrema: a unos 4.061 metros (13.325 pies) sobre el nivel del mar, es uno de los aeropuertos internacionales más altos de todo el mundo. La altitud es lo suficientemente significativa como para que algunas aerolíneas adviertan a los pasajeros que llegan sobre posibles efectos, y el aire enrarecido requiere pistas notablemente más largas para despegues y aterrizajes seguros. LPB [gestionó unos 2,6 millones de pasajeros en 2023](https://en.wikipedia.org/wiki/El_Alto_International_Airport), un 5,2% más que el año anterior, en línea con la recuperación regional post-pandemia — modesto para estándares globales, pero un crecimiento sostenido para la principal puerta de entrada de Bolivia.
 
 ## Terminales
 
