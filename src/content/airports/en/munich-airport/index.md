@@ -18,7 +18,7 @@ region: "europe"
 tags: ["germany", "hub-lufthansa", "long-layover", "schengen"]
 featured: true
 quickFacts:
-  passengers: "40M+/year"
+  passengers: "41.6M (2024)"
   terminals: "2"
   distanceToCity: "40 km / 25 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Bavarian cuisine, the airport's own brewery restaurant"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hilton, on-site next to Terminal 2"
 spotlight:
   title: "Grab a beer at the airport's own brewery"
   text: "Munich Airport has its own working microbrewery, Airbräu, in a beer garden between Terminal 1 and 2 — beer is brewed on-site and served fresh, making MUC one of the very few airports in the world with its own working brewery."
@@ -67,7 +70,7 @@ Munich Airport (IATA: **MUC**) is Germany's second-busiest airport and Lufthansa
 
 ## Overview
 
-MUC operates two terminals connected by a central area known as MAC (Munich Airport Center), which includes shops, restaurants, and — genuinely uniquely — the airport's own working brewery. As Lufthansa's second hub after Frankfurt, MUC anchors an extensive network across Europe and long-haul routes worldwide, with a reputation as one of Europe's more relaxed, efficient major airports.
+MUC operates two terminals connected by a central area known as MAC (Munich Airport Center), which includes shops, restaurants, and — genuinely uniquely — the airport's own working brewery. As Lufthansa's second hub after Frankfurt, MUC anchors an extensive network across Europe and long-haul routes worldwide, with a reputation as one of Europe's more relaxed, efficient major airports. Munich Airport [reported 41.6 million passengers for 2024](https://www.munich-airport.com/press-double-digit-passenger-growth-29842843), an increase of 4.5 million on 2023 that made it Germany's fastest-growing airport that year.
 
 ## Terminals
 
@@ -111,6 +114,10 @@ Free, unlimited wifi is available across both terminals with no time limit.
 ## Where to Eat
 
 MUC has a strong lineup of genuine Bavarian cuisine — pretzels, weisswurst, and hearty regional dishes — alongside international chains, with the standout being the airport's own Airbräu brewery restaurant and beer garden in the MAC area.
+
+## Airport Hotel
+
+The **Hilton Munich Airport** (formerly the Kempinski Hotel Airport Munich) sits on airport grounds next to Terminal 2, with a glass atrium housing the **Charles Lindbergh Restaurant**, the **Night Flight Bar** under tall indoor palm trees, and a lobby café for something lighter — a genuinely striking space to wait out a long layover even if you're not staying overnight.
 
 ## Lounges
 

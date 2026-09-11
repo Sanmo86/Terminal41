@@ -19,7 +19,7 @@ region: "europe"
 tags: ["spain", "iberia-hub", "long-layover", "schengen"]
 featured: true
 quickFacts:
-  passengers: "60M+/year"
+  passengers: "66.2M (2024)"
   terminals: "4"
   distanceToCity: "13 km / 8 mi"
 security:
@@ -58,6 +58,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Tapas to sit-down, best in T4"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Aerotel, inside Terminal 4"
 spotlight:
   title: "Spot the bamboo roof"
   text: "Terminal 4's undulating roof, clad in bamboo and color-coded by section, was designed by Richard Rogers — the colors double as a quick way to orient yourself if you forget your gate area."
@@ -68,7 +71,7 @@ Madrid-Barajas (IATA: **MAD**) is Spain's largest airport and the main hub for I
 
 ## Overview
 
-MAD is spread across four terminals connected by a free internal shuttle (for airside connections) and a walkable — if long — landside layout. If you're connecting between Terminal 4 (T4) and Terminals 1-2-3 (T123), budget extra time: they are physically separated by several kilometers of taxiway.
+MAD is spread across four terminals connected by a free internal shuttle (for airside connections) and a walkable — if long — landside layout. If you're connecting between Terminal 4 (T4) and Terminals 1-2-3 (T123), budget extra time: they are physically separated by several kilometers of taxiway. Aena, the airport operator, [confirmed 66,196,984 passengers for 2024](https://www.aena.es/en/press/aena-group-airports-recorded-over-369.4-million-passengers-in-2024.html), a 9.9% increase on 2023 and the highest total in the airport's history.
 
 ## Terminals
 
@@ -117,6 +120,10 @@ Free wifi is available throughout the airport for the first 15-30 minutes; after
 ## Where to Eat
 
 T4 has the strongest food selection, ranging from quick tapas bars to sit-down restaurants near the boarding gates. Post-security options include Spanish chains serving jamón, tortilla, and coffee, plus international fast food. Prices run noticeably higher than downtown Madrid, as is typical for large hub airports.
+
+## Airport Hotel
+
+**Aerotel Madrid Airport** sits inside Terminal 4's public zone (landside, before security) — a compact sleep-pod-style hotel built for short stays rather than a full-service resort, with rooms bookable by the hour as well as overnight. It doesn't have a full restaurant of its own, so pair a stay there with T4's tapas bars and sit-down options just outside.
 
 ## Lounges
 

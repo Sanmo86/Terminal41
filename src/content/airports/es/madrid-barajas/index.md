@@ -19,7 +19,7 @@ region: "europe"
 tags: ["españa", "hub-iberia", "escala-larga", "schengen"]
 featured: true
 quickFacts:
-  passengers: "60M+/año"
+  passengers: "66,2M (2024)"
   terminals: "4"
   distanceToCity: "13 km"
 security:
@@ -58,6 +58,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "De tapas a restaurantes, lo mejor en T4"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Aerotel, dentro de la Terminal 4"
 spotlight:
   title: "Fíjate en el techo de bambú"
   text: "El techo ondulado de la Terminal 4, revestido de bambú y codificado por colores según la zona, lo diseñó Richard Rogers — los colores también sirven para orientarte rápido si olvidas en qué zona está tu puerta."
@@ -68,7 +71,7 @@ Madrid-Barajas (IATA: **MAD**) es el aeropuerto más grande de España y el prin
 
 ## Panorama general
 
-MAD se reparte en cuatro terminales conectadas por un shuttle interno gratuito (para conexiones en zona de embarque) y un trazado peatonal — largo, pero caminable. Si conectas entre la Terminal 4 (T4) y las Terminales 1-2-3 (T123), reserva tiempo extra: están separadas físicamente por varios kilómetros de pista.
+MAD se reparte en cuatro terminales conectadas por un shuttle interno gratuito (para conexiones en zona de embarque) y un trazado peatonal — largo, pero caminable. Si conectas entre la Terminal 4 (T4) y las Terminales 1-2-3 (T123), reserva tiempo extra: están separadas físicamente por varios kilómetros de pista. Aena, el operador del aeropuerto, [confirmó 66.196.984 pasajeros en 2024](https://www.aena.es/en/press/aena-group-airports-recorded-over-369.4-million-passengers-in-2024.html), un 9,9% más que en 2023 y la cifra más alta de la historia del aeropuerto.
 
 ## Terminales
 
@@ -117,6 +120,10 @@ El wifi gratuito está disponible en todo el aeropuerto durante los primeros 15-
 ## Dónde comer
 
 T4 tiene la mejor oferta gastronómica, desde bares de tapas rápidos hasta restaurantes con servicio de mesa cerca de las puertas de embarque. Tras el control de seguridad hay cadenas españolas con jamón, tortilla y café, además de comida rápida internacional. Los precios son notablemente más altos que en el centro de Madrid, como es habitual en los grandes aeropuertos hub.
+
+## Hotel en el aeropuerto
+
+El **Aerotel Madrid Airport** está dentro de la zona pública de la Terminal 4 (antes de seguridad) — un hotel compacto tipo cápsula pensado para estancias cortas más que para una estancia completa de resort, con habitaciones reservables por horas o por noche. No tiene restaurante propio completo, así que combina la estancia con los bares de tapas y restaurantes de la propia T4, justo al lado.
 
 ## Salas VIP
 

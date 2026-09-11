@@ -18,7 +18,7 @@ region: "europe"
 tags: ["alemania", "hub-lufthansa", "escala-larga", "schengen"]
 featured: true
 quickFacts:
-  passengers: "40M+/año"
+  passengers: "41,6M (2024)"
   terminals: "2"
   distanceToCity: "40 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina bávara, el restaurante de la propia cervecería"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hilton, en el recinto junto a la Terminal 2"
 spotlight:
   title: "Tómate una cerveza en la cervecería propia del aeropuerto"
   text: "El Aeropuerto de Múnich tiene su propia microcervecería en funcionamiento, Airbräu, en un jardín de cerveza entre la Terminal 1 y la 2 — la cerveza se elabora in situ y se sirve fresca, lo que convierte a MUC en uno de los pocos aeropuertos del mundo con su propia cervecería en funcionamiento."
@@ -67,7 +70,7 @@ El Aeropuerto de Múnich (IATA: **MUC**) es el segundo aeropuerto con más tráf
 
 ## Panorama general
 
-MUC opera dos terminales conectadas por una zona central conocida como MAC (Munich Airport Center), que incluye tiendas, restaurantes y — de forma genuinamente única — la propia cervecería del aeropuerto. Como segundo hub de Lufthansa tras Fráncfort, MUC sostiene una extensa red por Europa y rutas de largo radio por todo el mundo, con fama de ser uno de los grandes aeropuertos europeos más relajados y eficientes.
+MUC opera dos terminales conectadas por una zona central conocida como MAC (Munich Airport Center), que incluye tiendas, restaurantes y — de forma genuinamente única — la propia cervecería del aeropuerto. Como segundo hub de Lufthansa tras Fráncfort, MUC sostiene una extensa red por Europa y rutas de largo radio por todo el mundo, con fama de ser uno de los grandes aeropuertos europeos más relajados y eficientes. El Aeropuerto de Múnich [registró 41,6 millones de pasajeros en 2024](https://www.munich-airport.com/press-double-digit-passenger-growth-29842843), un incremento de 4,5 millones sobre 2023 que lo convirtió en el aeropuerto de mayor crecimiento de Alemania ese año.
 
 ## Terminales
 
@@ -111,6 +114,10 @@ El wifi gratuito e ilimitado está disponible en ambas terminales sin límite de
 ## Dónde comer
 
 MUC tiene una sólida oferta de auténtica cocina bávara — pretzels, weisswurst y platos regionales contundentes — junto a cadenas internacionales, con la propia cervecería y jardín de cerveza Airbräu en la zona MAC como protagonista.
+
+## Hotel en el aeropuerto
+
+El **Hilton Munich Airport** (antes Kempinski Hotel Airport Munich) está en el propio recinto, junto a la Terminal 2, con un atrio acristalado que alberga el **Charles Lindbergh Restaurant**, el **Night Flight Bar** bajo altas palmeras interiores, y una cafetería de lobby para algo más ligero — un espacio genuinamente llamativo para pasar una escala larga aunque no te alojes por la noche.
 
 ## Salas VIP
 

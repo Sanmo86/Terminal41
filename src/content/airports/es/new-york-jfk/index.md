@@ -18,7 +18,7 @@ region: "americas"
 tags: ["ee-uu", "hub-delta", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "62M+/año"
+  passengers: "63,3M (2024)"
   terminals: "5 activas"
   distanceToCity: "26 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Sitios de chefs famosos, en T4"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "TWA Hotel, en la Terminal 5"
 spotlight:
   title: "Visita el TWA Hotel"
   text: "Construido dentro de la icónica Terminal TWA de 1962 diseñada por Eero Saarinen, junto a la Terminal 5, el TWA Hotel se puede visitar aunque no te alojes — el lounge retro y el bar de la piscina con vistas a la pista merecen el desvío."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional John F. Kennedy de Nueva York (IATA: **JFK**) es el 
 
 ## Panorama general
 
-JFK está organizado alrededor de una carretera perimetral circular (la antigua "Terminal City") que conecta sus terminales, con el AirTrain recorriendo el mismo circuito además de un ramal hacia el metro y el Long Island Rail Road. El aeropuerto está en plena una enorme remodelación de varios años — varias terminales antiguas ya han sido sustituidas o están siendo sustituidas por la nueva **New Terminal One**, así que la señalización y numeración de terminales puede cambiar; comprueba siempre tu terminal el día del viaje.
+JFK está organizado alrededor de una carretera perimetral circular (la antigua "Terminal City") que conecta sus terminales, con el AirTrain recorriendo el mismo circuito además de un ramal hacia el metro y el Long Island Rail Road. El aeropuerto está en plena una enorme remodelación de varios años — varias terminales antiguas ya han sido sustituidas o están siendo sustituidas por la nueva **New Terminal One**, así que la señalización y numeración de terminales puede cambiar; comprueba siempre tu terminal el día del viaje. La Autoridad Portuaria de Nueva York y Nueva Jersey [confirmó que JFK procesó 63,3 millones de pasajeros en 2024](https://roadgenius.com/statistics/airports/usa/jfk-airport/), un nuevo récord individual anual, un 1% más que en 2023 y ligeramente por encima del nivel prepandemia de 2019.
 
 ## Terminales
 
@@ -111,7 +114,11 @@ El wifi gratuito (vía Boingo) está disponible en todo JFK, normalmente con una
 
 ## Dónde comer
 
-JFK se ha ganado la reputación de ser uno de los mejores aeropuertos de EE. UU. para comer, sobre todo en el food hall de la Terminal 4, que reúne locales de restaurantes y chefs conocidos de Nueva York junto a las habituales cadenas de comida rápida. La Terminal 5 (JetBlue) también tiene una oferta gastronómica destacada para ser una terminal nacional.
+JFK se ha ganado la reputación de ser uno de los mejores aeropuertos de EE. UU. para comer, sobre todo en el food hall de la Terminal 4, que reúne locales de restaurantes y chefs conocidos de Nueva York junto a las habituales cadenas de comida rápida. La Terminal 5 (JetBlue) también tiene una oferta gastronómica destacada para ser una terminal nacional. Dentro del TWA Hotel, **Paris Café by Jean-Georges** ocupa el espacio del Paris Café y el Lisbon Lounge originales de 1962, y el food hall tiene nombres genuinamente neoyorquinos como **Fly-By Bagels** y los perritos calientes de **Feltman's of Coney Island**.
+
+## Hotel en el aeropuerto
+
+El **TWA Hotel**, en la Terminal 5, construido dentro de la emblemática Terminal TWA de 1962 diseñada por Eero Saarinen, se puede visitar aunque no te alojes — el Sunken Lounge retro y un avión Lockheed Constellation convertido en bar de cócteles ya merecen el desvío por sí solos, además del Paris Café y el food hall.
 
 ## Salas VIP
 

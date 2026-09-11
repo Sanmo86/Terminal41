@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "doble-hub", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "80M+/año"
+  passengers: "80,1M (2024)"
   terminals: "4"
   distanceToCity: "27 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Deep-dish de Chicago, cadenas locales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hilton, conectado a T1/T2/T3"
 spotlight:
   title: "Camina por el túnel de neón"
   text: "El pasillo subterráneo entre las Terminales B y C alberga \"Sky's the Limit\", un túnel iluminado con neón y un espectáculo de luces rotativo con música ambiental, diseñado por el artista Michael Hayden en 1987. Es una de las obras de arte de aeropuerto más reconocibles de EE. UU., y pura curiosidad incluso si no conectas por esas terminales."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional O'Hare de Chicago (IATA: **ORD**) es uno de los aero
 
 ## Panorama general
 
-ORD se organiza en torno a cuatro terminales principales conectadas por un tren subterráneo gratuito, el Airport Transit System (ATS). Su elemento más conocido es el pasillo peatonal iluminado con neón entre las Terminales B y C — una auténtica obra de arte de aeropuerto, no solo un pasillo — que se ha convertido en uno de los rincones más fotografiados de cualquier aeropuerto de EE. UU.
+ORD se organiza en torno a cuatro terminales principales conectadas por un tren subterráneo gratuito, el Airport Transit System (ATS). Su elemento más conocido es el pasillo peatonal iluminado con neón entre las Terminales B y C — una auténtica obra de arte de aeropuerto, no solo un pasillo — que se ha convertido en uno de los rincones más fotografiados de cualquier aeropuerto de EE. UU. El Departamento de Aviación de Chicago [registró 80,07 millones de pasajeros en ORD en 2024](https://roadgenius.com/statistics/airports/usa/ohare-ord-airport/), un 8,3% más que en 2023, situándolo entre los diez aeropuertos más transitados del mundo.
 
 ## Terminales
 
@@ -114,7 +117,11 @@ El wifi gratuito e ilimitado está disponible en todas las terminales sin límit
 
 ## Dónde comer
 
-ORD tiene una sólida oferta de comida auténtica de Chicago — pizza deep-dish y cadenas locales de la ciudad — junto a marcas nacionales, repartida por las cuatro terminales.
+ORD tiene una sólida oferta de comida auténtica de Chicago — pizza deep-dish y cadenas locales de la ciudad — junto a marcas nacionales, repartida por las cuatro terminales. Dentro del Hilton del propio aeropuerto, **Andiamo** sirve cocina americana todo el día, y **The Gaslight Club** ofrece un steakhouse de inspiración años 20 con una amplia carta de whiskies — ambos abiertos también a quien no se aloja en el hotel.
+
+## Hotel en el aeropuerto
+
+El **Hilton Chicago O'Hare Airport** es el único hotel dentro del recinto, conectado directamente a las Terminales 1, 2 y 3 — sin necesidad de salir del edificio de la terminal. Además de Andiamo y The Gaslight Club, tiene también el **Sports Edition Bar**, con hasta 12 partidos a la vez, y **Caffè Mercato** para café Starbucks y bollería para llevar.
 
 ## Salas VIP
 

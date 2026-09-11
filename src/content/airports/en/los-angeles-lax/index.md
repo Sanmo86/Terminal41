@@ -18,7 +18,7 @@ region: "americas"
 tags: ["united-states", "multi-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "75M+/year"
+  passengers: "76.6M (2024)"
   terminals: "9"
   distanceToCity: "30 km / 18 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "LA chef-driven concepts, In-N-Out at T1"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hyatt Regency, adjacent to Terminal 1"
 spotlight:
   title: "Ride the brand-new free terminal train"
   text: "LAX opened its Automated People Mover in 2023 — a free train that finally links all nine terminals to a new Metro rail connection and a consolidated rental car facility, ending decades of relying on the notoriously congested horseshoe-shaped terminal loop road for many trips."
@@ -67,7 +70,7 @@ Los Angeles International Airport (IATA: **LAX**) is one of the busiest airports
 
 ## Overview
 
-LAX is a sprawling nine-terminal airport built around a horseshoe-shaped central roadway that's become infamous for gridlock, especially during pickup and drop-off. The airport's biggest recent change is the **Automated People Mover (APM)**, a free train that opened in 2023 connecting every terminal to the new LAX/Metro Transit Center and a consolidated rental car facility — a long-overdue fix that's reshaping how people actually move through the airport.
+LAX is a sprawling nine-terminal airport built around a horseshoe-shaped central roadway that's become infamous for gridlock, especially during pickup and drop-off. The airport's biggest recent change is the **Automated People Mover (APM)**, a free train that opened in 2023 connecting every terminal to the new LAX/Metro Transit Center and a consolidated rental car facility — a long-overdue fix that's reshaping how people actually move through the airport. LAX [handled 76.59 million passengers in 2024](https://roadgenius.com/statistics/airports/usa/los-angeles-lax-airport/), a 2% increase on 2023 though still 13% below 2019's pre-pandemic peak.
 
 ## Terminals
 
@@ -109,7 +112,11 @@ Free, unlimited wifi is available across all terminals with no time limit.
 
 ## Where to Eat
 
-LAX has leaned into LA's food culture in recent years, with chef-driven concepts and local favorites (including an In-N-Out counter in Terminal 1) alongside the usual airport chains, spread across all nine terminals with the strongest selection in TBIT.
+LAX has leaned into LA's food culture in recent years, with chef-driven concepts and local favorites (including an In-N-Out counter in Terminal 1) alongside the usual airport chains, spread across all nine terminals with the strongest selection in TBIT. Inside the Hyatt Regency, **Beckett's** covers breakfast through late-night cocktails, and **Unity LA** does Latin-Asian fusion — both open to non-guests.
+
+## Airport Hotel
+
+The **Hyatt Regency Los Angeles International Airport** is the only hotel actually on airport property, directly adjacent to Terminal 1. Beyond Beckett's and Unity LA, it has a 24-hour grab-and-go market accessible with a room key — genuinely useful if you land at an odd hour and every terminal restaurant is closed.
 
 ## Lounges
 

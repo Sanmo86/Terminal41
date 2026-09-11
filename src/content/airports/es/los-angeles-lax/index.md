@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "multi-hub", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "75M+/año"
+  passengers: "76,6M (2024)"
   terminals: "9"
   distanceToCity: "30 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Conceptos gastronómicos de LA, In-N-Out en la T1"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hyatt Regency, junto a la Terminal 1"
 spotlight:
   title: "Sube al nuevo tren gratuito entre terminales"
   text: "LAX inauguró su Automated People Mover en 2023 — un tren gratuito que por fin conecta las nueve terminales con una nueva línea de Metro y un centro de alquiler de coches consolidado, poniendo fin a décadas de depender del famoso y congestionado bucle vial en forma de herradura para muchos trayectos."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Los Ángeles (IATA: **LAX**) es uno de los aeropu
 
 ## Panorama general
 
-LAX es un extenso aeropuerto de nueve terminales construido alrededor de una vía central en forma de herradura que se ha hecho tristemente famosa por sus atascos, especialmente en las zonas de recogida y dejada de pasajeros. El cambio más importante de los últimos años es el **Automated People Mover (APM)**, un tren gratuito inaugurado en 2023 que conecta todas las terminales con el nuevo LAX/Metro Transit Center y un centro de alquiler de coches consolidado — una solución largamente esperada que está transformando cómo se mueve la gente por el aeropuerto.
+LAX es un extenso aeropuerto de nueve terminales construido alrededor de una vía central en forma de herradura que se ha hecho tristemente famosa por sus atascos, especialmente en las zonas de recogida y dejada de pasajeros. El cambio más importante de los últimos años es el **Automated People Mover (APM)**, un tren gratuito inaugurado en 2023 que conecta todas las terminales con el nuevo LAX/Metro Transit Center y un centro de alquiler de coches consolidado — una solución largamente esperada que está transformando cómo se mueve la gente por el aeropuerto. LAX [gestionó 76,59 millones de pasajeros en 2024](https://roadgenius.com/statistics/airports/usa/los-angeles-lax-airport/), un 2% más que en 2023 aunque todavía un 13% por debajo del pico prepandemia de 2019.
 
 ## Terminales
 
@@ -109,7 +112,11 @@ El wifi gratuito e ilimitado está disponible en todas las terminales sin límit
 
 ## Dónde comer
 
-LAX ha apostado en los últimos años por la cultura gastronómica de Los Ángeles, con conceptos de chefs locales y favoritos de la ciudad (incluyendo un mostrador de In-N-Out en la Terminal 1) junto a las cadenas habituales de aeropuerto, repartidos por las nueve terminales, con la mejor selección en la TBIT.
+LAX ha apostado en los últimos años por la cultura gastronómica de Los Ángeles, con conceptos de chefs locales y favoritos de la ciudad (incluyendo un mostrador de In-N-Out en la Terminal 1) junto a las cadenas habituales de aeropuerto, repartidos por las nueve terminales, con la mejor selección en la TBIT. Dentro del Hyatt Regency, **Beckett's** cubre desde el desayuno hasta cócteles nocturnos, y **Unity LA** ofrece fusión latino-asiática — ambos abiertos también a quien no se aloja en el hotel.
+
+## Hotel en el aeropuerto
+
+El **Hyatt Regency Los Angeles International Airport** es el único hotel realmente dentro del recinto del aeropuerto, justo al lado de la Terminal 1. Además de Beckett's y Unity LA, tiene un mercado de autoservicio abierto 24 horas accesible con la llave de la habitación — genuinamente útil si aterrizas a una hora rara y todos los restaurantes de la terminal están cerrados.
 
 ## Salas VIP
 

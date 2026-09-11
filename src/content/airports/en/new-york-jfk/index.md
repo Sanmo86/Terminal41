@@ -18,7 +18,7 @@ region: "americas"
 tags: ["usa", "delta-hub", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "62M+/year"
+  passengers: "63.3M (2024)"
   terminals: "5 active"
   distanceToCity: "26 km / 16 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Celebrity-chef spots, T4"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "TWA Hotel, at Terminal 5"
 spotlight:
   title: "Check out the TWA Hotel"
   text: "Built inside Eero Saarinen's iconic 1962 TWA Flight Center next to Terminal 5, the TWA Hotel is open to visit even if you're not staying — the retro lounge and runway-view pool bar are worth the detour."
@@ -67,7 +70,7 @@ New York's John F. Kennedy International Airport (IATA: **JFK**) is the busiest 
 
 ## Overview
 
-JFK is laid out around a circular perimeter road (the old "Terminal City" loop) linking its terminals, with the AirTrain people-mover running the same loop plus a spur out to the subway and Long Island Rail Road. The airport is in the middle of a huge, multi-year redevelopment — several older terminals have already been replaced or are being replaced by the new **New Terminal One**, so signage and terminal numbers can shift; always double check your terminal on the day of travel.
+JFK is laid out around a circular perimeter road (the old "Terminal City" loop) linking its terminals, with the AirTrain people-mover running the same loop plus a spur out to the subway and Long Island Rail Road. The airport is in the middle of a huge, multi-year redevelopment — several older terminals have already been replaced or are being replaced by the new **New Terminal One**, so signage and terminal numbers can shift; always double check your terminal on the day of travel. The Port Authority of New York and New Jersey [confirmed JFK processed 63.3 million passengers in 2024](https://roadgenius.com/statistics/airports/usa/jfk-airport/), a new individual annual record, up 1% on 2023 and just above the 2019 pre-pandemic level.
 
 ## Terminals
 
@@ -111,7 +114,11 @@ Free wifi (via Boingo) is available across JFK, typically with a free introducto
 
 ## Where to Eat
 
-JFK has built a reputation as one of the better US airports for food, particularly in Terminal 4's food hall, which features outposts of well-known NYC restaurants and chefs alongside the usual fast-food chains. Terminal 5 (JetBlue) also has a strong, JFK-Mood-Board-worthy food scene for a domestic terminal.
+JFK has built a reputation as one of the better US airports for food, particularly in Terminal 4's food hall, which features outposts of well-known NYC restaurants and chefs alongside the usual fast-food chains. Terminal 5 (JetBlue) also has a strong, JFK-Mood-Board-worthy food scene for a domestic terminal. Inside the TWA Hotel, **Paris Café by Jean-Georges** occupies the footprint of the original 1962 Paris Café and Lisbon Lounge, and the food hall has genuinely New York names like **Fly-By Bagels** and **Feltman's of Coney Island** hot dogs.
+
+## Airport Hotel
+
+The **TWA Hotel** at Terminal 5, built inside Eero Saarinen's landmark 1962 TWA Flight Center, is open to visit even if you're not staying — the retro Sunken Lounge and a converted Lockheed Constellation aircraft turned cocktail bar are worth the detour on their own, on top of Paris Café and the food hall.
 
 ## Lounges
 

@@ -18,7 +18,7 @@ region: "asia"
 tags: ["hong-kong", "hub-cathay-pacific", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "50M+/año"
+  passengers: "53,1M (2024)"
   terminals: "2"
   distanceToCity: "34 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina cantonesa, dim sum"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Regal Airport Hotel, a 2 min de la T1"
 spotlight:
   title: "Conecta directo desde un ferry sin pasar por inmigración"
   text: "SkyPier, una terminal de ferris dedicada integrada en el aeropuerto, permite a los pasajeros que llegan desde China continental y Macao en ferry de alta velocidad conectar directamente con su vuelo de continuación sin llegar a entrar formalmente en Hong Kong ni pasar por su inmigración — una pieza de infraestructura transfronteriza genuinamente poco habitual, única de este aeropuerto."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Hong Kong (IATA: **HKG**) es el aeropuerto con m�
 
 ## Panorama general
 
-HKG opera dos terminales y funciona como uno de los hubs de conexión más importantes de Asia, apoyado en la extensa red de largo radio de Cathay Pacific. La característica más distintiva del aeropuerto es SkyPier, una terminal de ferris dedicada integrada en el aeropuerto que permite a los pasajeros que llegan en ferry de alta velocidad desde China continental y Macao conectar directamente con su vuelo de continuación — sin llegar a entrar formalmente en Hong Kong ni pasar por su inmigración, una infraestructura genuinamente poco habitual que no se replica en la mayoría de aeropuertos del mundo.
+HKG opera dos terminales y funciona como uno de los hubs de conexión más importantes de Asia, apoyado en la extensa red de largo radio de Cathay Pacific. La característica más distintiva del aeropuerto es SkyPier, una terminal de ferris dedicada integrada en el aeropuerto que permite a los pasajeros que llegan en ferry de alta velocidad desde China continental y Macao conectar directamente con su vuelo de continuación — sin llegar a entrar formalmente en Hong Kong ni pasar por su inmigración, una infraestructura genuinamente poco habitual que no se replica en la mayoría de aeropuertos del mundo. HKIA [gestionó 53,06 millones de pasajeros en 2024](https://roadgenius.com/statistics/airports/hong-kong-hkg-airport/), un salto del 34,3% sobre 2023 con la entrada en funcionamiento del nuevo sistema de tres pistas, aunque todavía en torno al 71% de su pico prepandemia de 2018.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-HKG tiene una excelente selección de cocina cantonesa y dim sum junto a cadenas internacionales, repartida por ambas terminales.
+HKG tiene una excelente selección de cocina cantonesa y dim sum junto a cadenas internacionales, repartida por ambas terminales. Dentro del Regal Airport Hotel, **Rouge** cubre la cocina cantonesa y **Dragon Inn** la shanghainesa, junto a **Airport Izakaya** para japonesa — todos abiertos también a quien no se aloja en el hotel.
+
+## Hotel en el aeropuerto
+
+El **Regal Airport Hotel** está a 2 minutos a pie de la Terminal 1 — genuinamente andable, no una conexión en shuttle. Además de Rouge, Dragon Inn y Airport Izakaya, tiene seis restaurantes y bares en total, incluyendo opciones occidentales, lo que lo convierte en una base razonable para una escala larga incluso sin entrar en la ciudad.
 
 ## Salas VIP
 
