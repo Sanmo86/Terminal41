@@ -18,7 +18,7 @@ region: "asia"
 tags: ["south-korea", "hub-korean-air", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "66M+/year"
+  passengers: "74M (2024)"
   terminals: "2"
   distanceToCity: "48 km / 30 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Korean cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Grand Hyatt, 3-min shuttle from T1"
 spotlight:
   title: "An ice rink, a casino, and a spa — all inside"
   text: "Incheon has built itself into a genuine entertainment complex — an indoor ice skating rink, a casino, a spa, indoor gardens, and even a golf course, all inside the terminal complex, consistently earning it rankings among the world's best airports."
@@ -67,7 +70,7 @@ Incheon International Airport (IATA: **ICN**) is South Korea's main internationa
 
 ## Overview
 
-ICN operates two terminals and is consistently ranked among the world's best airports, largely thanks to genuinely unusual on-site amenities: an indoor ice skating rink, a casino, a spa, indoor gardens, and a golf course are all built into the terminal complex — turning what's normally dead layover time into something closer to a destination in itself.
+ICN operates two terminals and is consistently ranked among the world's best airports, largely thanks to genuinely unusual on-site amenities: an indoor ice skating rink, a casino, a spa, indoor gardens, and a golf course are all built into the terminal complex — turning what's normally dead layover time into something closer to a destination in itself. Incheon International Airport Corporation [reported approximately 74.04 million passengers for 2024](https://en.sedaily.com/news/2025/12/16/incheon-airport-passenger-traffic-hits-74-million-in-2024), a 4.1% increase on 2023 and above the airport's pre-pandemic 2019 baseline.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-ICN has an excellent selection of Korean cuisine alongside international chains, spread across both terminals.
+ICN has an excellent selection of Korean cuisine alongside international chains, spread across both terminals. At the nearby Grand Hyatt, **Restaurant 8** packs eight distinct dining concepts — from sushi to yakitori to noodles — into one venue, and **Grand Café** runs a European-and-Asian buffet.
+
+## Airport Hotel
+
+The **Grand Hyatt Incheon** is a 3-minute free shuttle ride from Terminal 1 — not walkable, but genuinely fast. Beyond Restaurant 8 and Grand Café, it has the **Swell Lounge** for coffee and light meals, making it a comfortable base for a long layover even without heading into Seoul.
 
 ## Lounges
 

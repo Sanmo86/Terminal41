@@ -19,7 +19,7 @@ region: "europe"
 tags: ["españa", "hub-vueling", "escala-corta", "schengen"]
 featured: true
 quickFacts:
-  passengers: "50M+/año"
+  passengers: "55M (2024)"
   terminals: "2"
   distanceToCity: "12 km"
 security:
@@ -58,6 +58,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Comida catalana, lo mejor en T1"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sleep&Fly, dentro de la Terminal 1"
 spotlight:
   title: "Busca ventana en tu llegada"
   text: "El vestíbulo de salidas de T1 tiene ventanales de suelo a techo con vistas al Mediterráneo y a la sierra de Collserola — una de las vistas de terminal más bonitas de Europa, sobre todo al atardecer."
@@ -68,7 +71,7 @@ Barcelona-El Prat (IATA: **BCN**) es el segundo aeropuerto con más tráfico de 
 
 ## Panorama general
 
-BCN tiene dos terminales de pasajeros principales — T1 y T2 — que **no** están a distancia caminable entre sí. Un bus lanzadera gratuito las conecta en unos 10 minutos. Comprueba siempre tu terminal antes de salir, sobre todo si conectas entre una aerolínea tradicional y una low-cost.
+BCN tiene dos terminales de pasajeros principales — T1 y T2 — que **no** están a distancia caminable entre sí. Un bus lanzadera gratuito las conecta en unos 10 minutos. Comprueba siempre tu terminal antes de salir, sobre todo si conectas entre una aerolínea tradicional y una low-cost. Aena, el operador del aeropuerto, [confirmó 55.034.955 pasajeros en 2024](https://www.catalannews.com/business/item/barcelona-airport-record-passenger-numbers-2024), un 10,3% más que en 2023 y un nuevo récord histórico que alcanzó la capacidad máxima declarada del aeropuerto.
 
 ## Terminales
 
@@ -111,7 +114,11 @@ El wifi gratuito está disponible en ambas terminales con una sesión gratuita d
 
 ## Dónde comer
 
-T1 ofrece una oferta más amplia de restaurantes con servicio de mesa y comida catalana tras el control de seguridad, mientras que T2 se decanta por cafeterías de servicio rápido y comida rápida, en línea con su perfil de pasajeros low-cost. Ambas terminales tienen cadenas de café españolas y bares de tapas.
+T1 ofrece una oferta más amplia de restaurantes con servicio de mesa y comida catalana tras el control de seguridad, mientras que T2 se decanta por cafeterías de servicio rápido y comida rápida, en línea con su perfil de pasajeros low-cost. Ambas terminales tienen cadenas de café españolas y bares de tapas. Entre las opciones con nombre en T1 están **Alas by Hermanos Torres** — un concepto de cocina abierta de los famosos hermanos chef — y **Como**, con platos regionales españoles frescos.
+
+## Hotel en el aeropuerto
+
+**Sleep&Fly** está dentro de la zona de business center de la Terminal 1 — un hotel compacto pensado para estancias cortas entre vuelos más que un resort completo, con recepción 24 horas. No tiene restaurante propio, así que combina la estancia con las opciones de mesa de la propia T1, justo al lado.
 
 ## Salas VIP
 

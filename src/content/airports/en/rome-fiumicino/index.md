@@ -18,7 +18,7 @@ region: "europe"
 tags: ["italy", "ita-airways-hub", "long-layover", "schengen"]
 featured: true
 quickFacts:
-  passengers: "49M+/year"
+  passengers: "49.2M (2024)"
   terminals: "2"
   distanceToCity: "32 km / 20 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Espresso bars, pasta, pizza"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hilton, 10-min walkway from terminals"
 spotlight:
   title: "Browse a free art exhibit between flights"
   text: "Fiumicino regularly hosts free art and archaeology exhibitions throughout its terminals — including rotating displays tied to Rome's museums — making it one of the more culturally interesting airports to wander through during a layover."
@@ -67,7 +70,7 @@ Rome Fiumicino Airport (IATA: **FCO**), officially Leonardo da Vinci–Fiumicino
 
 ## Overview
 
-FCO operates two main terminals — Terminal 1 and Terminal 3 — after a reorganization that consolidated operations from the airport's older terminal buildings. Terminal 3, the larger of the two, handles both Schengen and non-Schengen flights and hosts most international carriers, while Terminal 1 is primarily used by ITA Airways.
+FCO operates two main terminals — Terminal 1 and Terminal 3 — after a reorganization that consolidated operations from the airport's older terminal buildings. Terminal 3, the larger of the two, handles both Schengen and non-Schengen flights and hosts most international carriers, while Terminal 1 is primarily used by ITA Airways. Aeroporti di Roma (ADR) [reported 49,203,734 passengers for 2024](https://fiumicinoairport.com/statistics/), a 21.36% jump on 2023 — the best growth rate of any airport in Europe's top 100 that year.
 
 ## Terminals
 
@@ -110,7 +113,11 @@ Free wifi is available across the terminals with a time-limited free session; an
 
 ## Where to Eat
 
-FCO has a strong food selection reflecting Italian food culture — proper espresso bars, fresh pasta and pizza counters, and sit-down trattoria-style restaurants — concentrated mainly in Terminal 3. Prices are higher than in the city but the quality is generally a cut above typical airport fare.
+FCO has a strong food selection reflecting Italian food culture — proper espresso bars, fresh pasta and pizza counters, and sit-down trattoria-style restaurants — concentrated mainly in Terminal 3. Prices are higher than in the city but the quality is generally a cut above typical airport fare. Inside the Hilton, **Le Colonne** serves Italian and international dishes, and **Caffè Tevere Bistrò** covers pasta, pizza, and burgers for something quicker.
+
+## Airport Hotel
+
+The **Hilton Rome Airport Hotel** connects to the terminals via a covered overpass with moving walkways, about a 10-minute walk from Terminals 1, 2, and 3. Beyond Le Colonne and Caffè Tevere, it has the Artists' Bar for something more relaxed — a genuinely comfortable option for an overnight layover without leaving the airport campus.
 
 ## Lounges
 

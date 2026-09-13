@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "hub-united-airlines", "escala-corta", "nacional"]
 featured: true
 quickFacts:
-  passengers: "80M+/año"
+  passengers: "82,3M (2024)"
   terminals: "1 (3 concourses)"
   distanceToCity: "40 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cerveza artesanal de Colorado, conceptos locales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Westin, conectado a la Terminal Jeppesen"
 spotlight:
   title: "Conoce a Blucifer, el mustang azul de 10 metros"
   text: "Una escultura de fibra de vidrio de un mustang azul de casi 10 metros llamada \"Mustang\", obra del artista Luis Jiménez — apodada \"Blucifer\" por sus ojos rojos brillantes — recibe a los conductores en la entrada de DEN. Es una de las obras de arte público más fotografiadas (y comentadas) de cualquier aeropuerto de EE. UU."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Denver (IATA: **DEN**) es uno de los aeropuertos 
 
 ## Panorama general
 
-DEN es fácilmente reconocible por el techo de su Terminal Jeppesen: una serie de picos blancos de tela tensada que evocan las cercanas Montañas Rocosas. La terminal conecta con tres concourses (A, B y C) mediante un tren subterráneo, y todo el complejo ocupa una extensión de la pradera de Colorado tan vasta que el trayecto desde el centro realmente tarda más que en la mayoría de aeropuertos de EE. UU.
+DEN es fácilmente reconocible por el techo de su Terminal Jeppesen: una serie de picos blancos de tela tensada que evocan las cercanas Montañas Rocosas. La terminal conecta con tres concourses (A, B y C) mediante un tren subterráneo, y todo el complejo ocupa una extensión de la pradera de Colorado tan vasta que el trayecto desde el centro realmente tarda más que en la mayoría de aeropuertos de EE. UU. DEN [registró un récord de 82,3 millones de pasajeros en 2024](https://simpleflying.com/denver-international-airport-breaks-record-82-million-passengers/), un 5,8% más que en 2023 — el primer año de su historia por encima de los 80 millones.
 
 ## Terminales
 
@@ -113,7 +116,11 @@ El wifi gratuito e ilimitado está disponible en toda la terminal y los tres con
 
 ## Dónde comer
 
-DEN tiene una sólida oferta de cerveza artesanal de Colorado y conceptos gastronómicos locales junto a cadenas nacionales, repartida por los tres concourses — una escena gastronómica notablemente más local que en muchos hubs de EE. UU. de tamaño similar.
+DEN tiene una sólida oferta de cerveza artesanal de Colorado y conceptos gastronómicos locales junto a cadenas nacionales, repartida por los tres concourses — una escena gastronómica notablemente más local que en muchos hubs de EE. UU. de tamaño similar. Dentro del Westin, **Grill & Vine** ofrece una carta de inspiración farm-to-table para desayuno y cena, e **Ingredients** cubre café Starbucks y opciones para llevar más rápidas.
+
+## Hotel en el aeropuerto
+
+El **Westin Denver International Airport** está integrado directamente en la Terminal Jeppesen, conectado mediante un puente sobre la estación de tren — sin necesidad de shuttle. Además de Grill & Vine e Ingredients, tiene el **Sky Lounge** para cócteles y picoteo, una parada genuinamente cómoda para un vuelo de madrugada dado lo lejos que está el aeropuerto del centro.
 
 ## Salas VIP
 

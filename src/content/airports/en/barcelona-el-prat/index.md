@@ -19,7 +19,7 @@ region: "europe"
 tags: ["spain", "vueling-hub", "short-layover", "schengen"]
 featured: true
 quickFacts:
-  passengers: "50M+/year"
+  passengers: "55M (2024)"
   terminals: "2"
   distanceToCity: "12 km / 7 mi"
 security:
@@ -58,6 +58,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Catalan food, best in T1"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sleep&Fly, inside Terminal 1"
 spotlight:
   title: "Grab a window seat on arrival"
   text: "T1's departures hall has floor-to-ceiling windows facing both the Mediterranean and the Collserola hills — one of the more scenic terminal views in Europe, especially at sunset."
@@ -68,7 +71,7 @@ Barcelona-El Prat (IATA: **BCN**) is Spain's second-busiest airport and the main
 
 ## Overview
 
-BCN has two main passenger terminals — T1 and T2 — that are **not** within walking distance of each other. A free shuttle bus connects them in about 10 minutes. Always double-check your terminal before heading out, especially if you're connecting between a legacy carrier and a low-cost one.
+BCN has two main passenger terminals — T1 and T2 — that are **not** within walking distance of each other. A free shuttle bus connects them in about 10 minutes. Always double-check your terminal before heading out, especially if you're connecting between a legacy carrier and a low-cost one. Aena, the airport operator, [confirmed 55,034,955 passengers for 2024](https://www.catalannews.com/business/item/barcelona-airport-record-passenger-numbers-2024), a 10.3% increase on 2023 and a new all-time record that reached the airport's stated maximum capacity.
 
 ## Terminals
 
@@ -111,7 +114,11 @@ Free wifi is available across both terminals with a time-limited free session. F
 
 ## Where to Eat
 
-T1 offers a broader range of sit-down restaurants and Catalan food options post-security, while T2 leans toward quick-service cafes and fast food, in line with its low-cost carrier passenger base. Both terminals have Spanish coffee chains and tapas bars.
+T1 offers a broader range of sit-down restaurants and Catalan food options post-security, while T2 leans toward quick-service cafes and fast food, in line with its low-cost carrier passenger base. Both terminals have Spanish coffee chains and tapas bars. Named options in T1 include **Alas by Hermanos Torres** — an open-kitchen concept from the celebrity chef brothers — and **Como**, serving fresh regional Spanish dishes.
+
+## Airport Hotel
+
+**Sleep&Fly** sits inside Terminal 1's business center area — a compact hotel built for short stays between flights rather than a full-service resort, with 24-hour reception. It doesn't have its own restaurant, so pair a stay there with T1's sit-down options just outside.
 
 ## Lounges
 

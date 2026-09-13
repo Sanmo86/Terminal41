@@ -18,7 +18,7 @@ region: "americas"
 tags: ["united-states", "hub-united-airlines", "short-layover", "domestic"]
 featured: true
 quickFacts:
-  passengers: "80M+/year"
+  passengers: "82.3M (2024)"
   terminals: "1 (3 concourses)"
   distanceToCity: "40 km / 25 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Colorado craft beer, local concepts"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Westin, connected to the Jeppesen Terminal"
 spotlight:
   title: "Meet Blucifer, the 32-foot blue mustang"
   text: "A 32-foot fiberglass blue mustang sculpture named \"Mustang\" by artist Luis Jiménez — nicknamed \"Blucifer\" for its glowing red eyes — greets drivers at DEN's entrance. It's one of the most photographed (and debated) pieces of public art at any US airport."
@@ -67,7 +70,7 @@ Denver International Airport (IATA: **DEN**) is one of the busiest airports in t
 
 ## Overview
 
-DEN is instantly recognizable for its Jeppesen Terminal roof: a series of white tensile peaks meant to evoke the nearby Rocky Mountains. The terminal connects to three concourses (A, B, and C) via an underground train, and the whole complex sits on such a vast stretch of Colorado prairie that the drive in from downtown genuinely takes longer than at most US airports.
+DEN is instantly recognizable for its Jeppesen Terminal roof: a series of white tensile peaks meant to evoke the nearby Rocky Mountains. The terminal connects to three concourses (A, B, and C) via an underground train, and the whole complex sits on such a vast stretch of Colorado prairie that the drive in from downtown genuinely takes longer than at most US airports. DEN [served a record 82.3 million passengers in 2024](https://simpleflying.com/denver-international-airport-breaks-record-82-million-passengers/), up 5.8% on 2023 — the first year in its history topping 80 million.
 
 ## Terminals
 
@@ -113,7 +116,11 @@ Free, unlimited wifi is available throughout the terminal and all three concours
 
 ## Where to Eat
 
-DEN has a strong lineup of Colorado craft beer bars and local dining concepts alongside national chains, spread across all three concourses — a noticeably more local-flavored food scene than many similarly sized US hubs.
+DEN has a strong lineup of Colorado craft beer bars and local dining concepts alongside national chains, spread across all three concourses — a noticeably more local-flavored food scene than many similarly sized US hubs. Inside the Westin, **Grill & Vine** runs a farm-to-table-inspired menu for breakfast and dinner, and **Ingredients** covers Starbucks coffee and grab-and-go for a quicker option.
+
+## Airport Hotel
+
+The **Westin Denver International Airport** is built directly onto the Jeppesen Terminal, connected via a bridge over the train station — no shuttle needed. Beyond Grill & Vine and Ingredients, it has the **Sky Lounge** for cocktails and light bites, a genuinely convenient stop for an early-morning flight given how far the airport sits from downtown.
 
 ## Lounges
 

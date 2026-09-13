@@ -18,7 +18,7 @@ region: "americas"
 tags: ["usa", "american-airlines-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "85M+/year"
+  passengers: "87.8M (2024)"
   terminals: "5"
   distanceToCity: "27 km / 17 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Tex-Mex, BBQ, national chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Grand Hyatt, inside Terminal D"
 spotlight:
   title: "DFW is bigger than Manhattan"
   text: "At nearly 7,000 acres, Dallas Fort Worth's airport grounds are larger than the island of Manhattan — the free SkyLink train connecting all five terminals is essential, not optional, for getting around."
@@ -67,7 +70,7 @@ Dallas Fort Worth International Airport (IATA: **DFW**) is one of the busiest ai
 
 ## Overview
 
-DFW is famous for its sheer physical scale — at nearly 7,000 acres, it's larger in land area than the island of Manhattan. Five terminals (A through E) are arranged around a central oval and connected by the free automated **SkyLink train**, which is essential for moving between terminals; walking between distant ones isn't realistic.
+DFW is famous for its sheer physical scale — at nearly 7,000 acres, it's larger in land area than the island of Manhattan. Five terminals (A through E) are arranged around a central oval and connected by the free automated **SkyLink train**, which is essential for moving between terminals; walking between distant ones isn't realistic. DFW Airport [reported more than 87.8 million customers for 2024](https://www.dfwairport.com/dfwnewsroom/dfw-remains-worlds-third-busiest-airport-for-passenger-traffic/), up 7.4% on 2023 and retaining its position as the world's third-busiest airport by total passenger traffic.
 
 ## Terminals
 
@@ -112,7 +115,11 @@ Free, unlimited wifi is available throughout DFW with no time cap.
 
 ## Where to Eat
 
-DFW has a strong selection of Texan food — proper Tex-Mex and barbecue alongside national chains — spread across all five terminals. As one of American's largest hubs, expect crowds at peak connection times.
+DFW has a strong selection of Texan food — proper Tex-Mex and barbecue alongside national chains — spread across all five terminals. As one of American's largest hubs, expect crowds at peak connection times. Inside the Grand Hyatt in Terminal D, the **Grand Met Restaurant** serves internationally inspired, locally sourced dishes, and there's a dedicated sushi bar for something lighter.
+
+## Airport Hotel
+
+The **Grand Hyatt DFW** is built directly into Terminal D — no shuttle or walkway needed if that's your terminal. Beyond the Grand Met Restaurant and sushi bar, it has the **Grand Met Lounge** for cocktails and wine, and **Moka** for a quick coffee — a genuinely convenient option for a long connection through American's hub.
 
 ## Lounges
 

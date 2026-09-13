@@ -18,7 +18,7 @@ region: "europe"
 tags: ["suiza", "hub-swiss", "escala-corta", "schengen"]
 featured: true
 quickFacts:
-  passengers: "31M+/año"
+  passengers: "31,2M (2024)"
   terminals: "2 + muelle central"
   distanceToCity: "10 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina suiza, servicio con precisión"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Radisson Blu, a pasos de la Terminal 1"
 spotlight:
   title: "Diez minutos entre el aterrizaje y la estación de tren"
   text: "El Aeropuerto de Zúrich tiene una estación de tren directa bajo la terminal, con conexiones rápidas que salen cada pocos minutos directas a la Hauptbahnhof de Zúrich en unos 10 minutos — una de las conexiones aeropuerto-ciudad más rápidas y eficientes de Europa."
@@ -67,7 +70,7 @@ El Aeropuerto de Zúrich (IATA: **ZRH**) es el aeropuerto con más tráfico de S
 
 ## Panorama general
 
-ZRH opera dos terminales principales más un muelle central conectado por el tren automático SkyMetro. Como hub principal de SWISS y puerta de entrada de Star Alliance, sostiene una extensa red europea además de rutas de largo radio por todo el mundo. El aeropuerto está constantemente entre los más eficientes de Europa, reflejo de la reputación suiza de puntualidad y precisión.
+ZRH opera dos terminales principales más un muelle central conectado por el tren automático SkyMetro. Como hub principal de SWISS y puerta de entrada de Star Alliance, sostiene una extensa red europea además de rutas de largo radio por todo el mundo. El aeropuerto está constantemente entre los más eficientes de Europa, reflejo de la reputación suiza de puntualidad y precisión. Flughafen Zürich [registró 31,2 millones de pasajeros en 2024](https://www.trbusiness.com/regional-news/europe/zurich-airport-passenger-numbers-reached-99-of-pre-covid-levels-in-2024/262154), un 8% más que en 2023, alcanzando el 99% del nivel prepandemia de 2019 — el segundo año más transitado de su historia.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-ZRH tiene una sólida selección de auténtica cocina suiza junto a cadenas internacionales, reflejo de los altos estándares del país para la calidad de la comida incluso en un entorno de tránsito.
+ZRH tiene una sólida selección de auténtica cocina suiza junto a cadenas internacionales, reflejo de los altos estándares del país para la calidad de la comida incluso en un entorno de tránsito. Dentro del Radisson Blu, **Filini** sirve platos italianos clásicos, y el **Atrium Bar & Lounge** añade un toque suizo a su carta de cócteles y picoteo.
+
+## Hotel en el aeropuerto
+
+El **Radisson Blu Hotel, Zurich Airport** está en la Terminal 1, a solo unos pasos de los edificios de terminal — sin necesidad de shuttle. Además de Filini y el Atrium Bar, su ubicación lo convierte en una opción genuinamente cómoda para pasar la noche antes de una salida temprana o tras una llegada tardía.
 
 ## Salas VIP
 
