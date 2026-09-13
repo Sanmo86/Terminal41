@@ -18,7 +18,7 @@ region: "asia"
 tags: ["china", "hub-china-southern", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "60M+/year"
+  passengers: "76.4M (2024)"
   terminals: "2"
   distanceToCity: "28 km / 17 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Cantonese dim sum, regional Chinese cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Pullman, skybridge-connected to Terminal 1"
 spotlight:
   title: "144 visa-free hours to explore the city"
   text: "Guangzhou is one of the Chinese cities eligible for the 144-hour visa-free transit policy, letting travelers from many countries leave the airport and explore Guangzhou (and nearby Shenzhen or Hong Kong) for up to six days without a Chinese visa — check current eligibility and paperwork requirements before you fly, since rules and eligible nationalities do change."
@@ -67,7 +70,7 @@ Guangzhou Baiyun International Airport (IATA: **CAN**) is one of the busiest air
 
 ## Overview
 
-CAN operates two terminals connected by an automated people mover (APM) train. As the main gateway to the Pearl River Delta — one of the most economically significant regions in China — it's a major connecting hub for travel between mainland China and Southeast Asia, and one of the Chinese airports where eligible travelers can take advantage of extended visa-free transit to explore the city itself.
+CAN operates two terminals connected by an automated people mover (APM) train. As the main gateway to the Pearl River Delta — one of the most economically significant regions in China — it's a major connecting hub for travel between mainland China and Southeast Asia, and one of the Chinese airports where eligible travelers can take advantage of extended visa-free transit to explore the city itself. CAN [handled approximately 76.37 million passenger trips in 2024](https://www.dimsumdaily.hk/guangzhou-baiyun-airport-hits-record-76-million-passengers-in-2024/), a 20.89% surge on 2023 — only the second time it's topped 70 million since 2019.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free wifi is available throughout the airport, though registering with your pass
 
 ## Where to Eat
 
-CAN has an excellent selection of Cantonese dim sum and regional Chinese cuisine alongside international chains, spread across both terminals — a genuine reflection of Guangzhou's status as the birthplace of Cantonese food culture.
+CAN has an excellent selection of Cantonese dim sum and regional Chinese cuisine alongside international chains, spread across both terminals — a genuine reflection of Guangzhou's status as the birthplace of Cantonese food culture. At the Pullman hotel, the all-day dining restaurant covers Cantonese specialties, and **Taotaoju** — a genuinely famous Guangzhou dim sum brand — has a branch inside the terminal itself.
+
+## Airport Hotel
+
+The **Pullman Guangzhou Baiyun Airport** connects to Terminal 1 via a covered skybridge from the third floor — a roughly 30-second walk from the departure gates, no shuttle needed. Travelers arriving at Terminal 2 need a short shuttle instead.
 
 ## Lounges
 

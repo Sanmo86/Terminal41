@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["saudi-arabia", "hub-saudia", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "40M+/year"
+  passengers: "49.1M (2024)"
   terminals: "1 main terminal + historic Hajj Terminal"
   distanceToCity: "20 km / 12 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Saudi and Middle Eastern cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Aerotel, inside Terminal 1"
 spotlight:
   title: "A terminal built to shelter millions of pilgrims"
   text: "Jeddah's historic Hajj Terminal has a massive tent-like fabric roof — one of the largest tensile structures in the world, designed by Skidmore, Owings & Merrill — built specifically to process the huge seasonal surge of Hajj and Umrah pilgrims traveling onward to nearby Mecca."
@@ -67,7 +70,7 @@ King Abdulaziz International Airport (IATA: **JED**) is one of the busiest airpo
 
 ## Overview
 
-JED's defining feature is its role as the primary gateway for Hajj and Umrah pilgrims traveling to Mecca — the airport's historic **Hajj Terminal** has an enormous tent-like fabric roof, one of the largest tensile membrane structures ever built, specifically designed to process millions of pilgrims during peak religious travel seasons. A newer main terminal now handles the bulk of scheduled commercial flights.
+JED's defining feature is its role as the primary gateway for Hajj and Umrah pilgrims traveling to Mecca — the airport's historic **Hajj Terminal** has an enormous tent-like fabric roof, one of the largest tensile membrane structures ever built, specifically designed to process millions of pilgrims during peak religious travel seasons. A newer main terminal now handles the bulk of scheduled commercial flights. JED [served more than 49.1 million passengers in 2024](https://www.listmag.com/en/travel-and-stay/getaways-staycations/more-than-49-million-passengers-travelled-through-jeddah-airport-in-2024-3054), a 14% increase on 2023 and the highest annual total in Saudi aviation history.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free wifi is available in the terminal for travelers.
 
 ## Where to Eat
 
-JED has a good selection of Saudi and broader Middle Eastern cuisine alongside international chains, reflecting the airport's role as a major gateway for both business travelers and religious pilgrims.
+JED has a good selection of Saudi and broader Middle Eastern cuisine alongside international chains, reflecting the airport's role as a major gateway for both business travelers and religious pilgrims. Terminal 1's food court centers on familiar names — Starbucks, McDonald's, and Saudi chain **KUDU** — plus **Broccoli Pizza & Pasta** for something more substantial.
+
+## Airport Hotel
+
+**Aerotel Jeddah** sits inside Terminal 1 itself, offering private short-stay and overnight rooms for departing and connecting passengers without leaving security. It doesn't have its own full restaurant, so pair a stay there with the terminal's food court just outside.
 
 ## Lounges
 

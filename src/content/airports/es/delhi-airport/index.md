@@ -18,7 +18,7 @@ region: "asia"
 tags: ["india", "hub-indigo", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "70M+/año"
+  passengers: "77,8M (2024)"
   terminals: "3"
   distanceToCity: "16 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina regional india, cadenas internacionales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Roseate House, a minutos de la terminal"
 spotlight:
   title: "Necesitas el billete solo para entrar"
   text: "A diferencia de la mayoría de aeropuertos donde el público en general puede entrar libremente al vestíbulo de facturación, el Aeropuerto de Delhi exige un billete o tarjeta de embarque válida más identificación con foto solo para pasar el control de seguridad del CISF en la puerta de entrada de la terminal — solo entran los pasajeros con billete, así que no cuentes con recibir a nadie más allá del acceso."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional Indira Gandhi (IATA: **DEL**) es el aeropuerto con m
 
 ## Panorama general
 
-DEL opera tres terminales, y la **Terminal 3** destaca como uno de los edificios de terminal de aeropuerto más grandes del mundo cuando se inauguró para los Juegos de la Commonwealth de 2010. Algo que sorprende a quienes visitan el aeropuerto por primera vez: a diferencia de la mayoría de aeropuertos del mundo, no se puede entrar al edificio de la terminal sin un billete válido y una identificación con foto emitida por el gobierno — los controles de seguridad ocurren en la puerta de entrada, no solo antes de tu puerta de embarque.
+DEL opera tres terminales, y la **Terminal 3** destaca como uno de los edificios de terminal de aeropuerto más grandes del mundo cuando se inauguró para los Juegos de la Commonwealth de 2010. Algo que sorprende a quienes visitan el aeropuerto por primera vez: a diferencia de la mayoría de aeropuertos del mundo, no se puede entrar al edificio de la terminal sin un billete válido y una identificación con foto emitida por el gobierno — los controles de seguridad ocurren en la puerta de entrada, no solo antes de tu puerta de embarque. La Autoridad de Aeropuertos de India [registró 77,8 millones de pasajeros en DEL en 2024](https://www.newsonair.gov.in/delhis-igi-airport-ranked-9th-busiest-globally-in-2024), un 7,8% más que en 2023, lo que lo convirtió en el aeropuerto más transitado de India y el noveno del mundo.
 
 ## Terminales
 
@@ -111,7 +114,11 @@ El wifi gratuito está disponible en las terminales con una sesión gratuita de 
 
 ## Dónde comer
 
-DEL tiene una sólida selección de cocina regional india — desde dosas del sur de India hasta favoritos callejeros del norte — junto a cadenas internacionales, repartida por las tres terminales con la mayor variedad en la Terminal 3.
+DEL tiene una sólida selección de cocina regional india — desde dosas del sur de India hasta favoritos callejeros del norte — junto a cadenas internacionales, repartida por las tres terminales con la mayor variedad en la Terminal 3. En el cercano Roseate House, un restaurante llamado literalmente **DEL** — por el código del aeropuerto — sirve un menú bistró de cocina mundial con estaciones de cocina en vivo, junto a **Kheer** para clásicos del norte de India.
+
+## Hotel en el aeropuerto
+
+El **Roseate House New Delhi** está a minutos de la terminal, en el distrito hotelero de Aerocity, construido específicamente para servir al Aeropuerto IGI. Además de DEL y Kheer, tiene **Tara**, un lounge en la azotea con pequeños platos japoneses, y **Roasted by Roseate**, un salón de té dedicado — un conjunto genuinamente variado de opciones para una escala larga.
 
 ## Salas VIP
 

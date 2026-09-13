@@ -18,7 +18,7 @@ region: "asia"
 tags: ["malasia", "hub-malaysia-airlines", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "50M+/año"
+  passengers: "57M (2024)"
   terminals: "2 (Terminal Principal + klia2)"
   distanceToCity: "45 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina malasia, food court estilo hawker"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sama-Sama, pasarela a la Terminal Principal"
 spotlight:
   title: "Hay una selva tropical de verdad creciendo dentro de la terminal"
   text: "El Jungle Boardwalk de la Terminal Principal es un jardín de selva tropical genuino integrado en el propio aeropuerto — árboles reales, un paseo de madera real y humedad tropical real, no una decoración temática — convirtiéndolo en uno de los espacios de escala más inusuales y genuinamente relajantes de cualquier aeropuerto del mundo."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Kuala Lumpur (IATA: **KUL**) es el aeropuerto con
 
 ## Panorama general
 
-KUL opera entre la Terminal Principal y klia2 (la terminal dedicada a aerolíneas de bajo coste) y ostenta una distinción genuinamente poco habitual entre los grandes aeropuertos del mundo: el Jungle Boardwalk de la Terminal Principal es un jardín de selva tropical real integrado en el propio edificio, con árboles auténticos y un paseo de madera — una pieza de diseño biofílico llamativa y funcional, no una atracción temática.
+KUL opera entre la Terminal Principal y klia2 (la terminal dedicada a aerolíneas de bajo coste) y ostenta una distinción genuinamente poco habitual entre los grandes aeropuertos del mundo: el Jungle Boardwalk de la Terminal Principal es un jardín de selva tropical real integrado en el propio edificio, con árboles auténticos y un paseo de madera — una pieza de diseño biofílico llamativa y funcional, no una atracción temática. KUL [gestionó 57 millones de pasajeros en 2024](https://bernama.com/en/news.php?id=2465967), un salto de en torno al 21% sobre 2023 que acortó la distancia con Singapur Changi y lo convirtió en el segundo aeropuerto más transitado del Sudeste Asiático.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-KUL tiene una excelente selección de cocina malasia, incluyendo un genuino food court estilo hawker, junto a cadenas internacionales, repartida por ambas terminales.
+KUL tiene una excelente selección de cocina malasia, incluyendo un genuino food court estilo hawker, junto a cadenas internacionales, repartida por ambas terminales. En el hotel Sama-Sama, **Degrees Restaurant** y **Continents Restaurant** abren las 24 horas, cubriendo cocina internacional a cualquier hora que aterrice tu vuelo.
+
+## Hotel en el aeropuerto
+
+El **Sama-Sama Hotel** conecta con la Terminal Principal mediante una pasarela, a unos 5 minutos a pie — genuinamente útil dado el trazado de KUL. Para pasajeros en tránsito en zona de embarque que no pueden salir de la terminal, **Sama-Sama Express** ofrece habitaciones de estancia corta sin pasar por inmigración.
 
 ## Salas VIP
 

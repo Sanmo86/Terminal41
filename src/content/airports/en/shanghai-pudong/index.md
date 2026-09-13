@@ -18,7 +18,7 @@ region: "asia"
 tags: ["china", "china-eastern-hub", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "85M+/year"
+  passengers: "76.8M (2024)"
   terminals: "2"
   distanceToCity: "30 km / 19 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Regional Chinese, global chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hyatt Regency, connected to the terminal"
 spotlight:
   title: "Ride the world's fastest commercial train"
   text: "The Shanghai Maglev, connecting Pudong to Longyang Road station, reaches speeds up to 431 km/h (267 mph) — the fastest commercial train service in the world, and it only takes about 8 minutes to complete the trip."
@@ -67,7 +70,7 @@ Shanghai Pudong International Airport (IATA: **PVG**) is Asia's busiest airport 
 
 ## Overview
 
-PVG operates two terminals connected by an internal shuttle. Its most famous feature is the **Shanghai Maglev**, the world's fastest commercial train, which connects the airport to Longyang Road station on the edge of the city in about 8 minutes at speeds up to 431 km/h — from there, passengers transfer to the regular metro system for the rest of the journey into central Shanghai.
+PVG operates two terminals connected by an internal shuttle. Its most famous feature is the **Shanghai Maglev**, the world's fastest commercial train, which connects the airport to Longyang Road station on the edge of the city in about 8 minutes at speeds up to 431 km/h — from there, passengers transfer to the regular metro system for the rest of the journey into central Shanghai. PVG [handled approximately 76.8 million passengers in 2024](https://www.wxagecl.com/news/top-10-airport-throughput-rankings-in-china-in-84084319.html), surpassing 2019's pre-pandemic level and ranking as mainland China's largest international gateway.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free wifi is available throughout the airport, though registration with your pas
 
 ## Where to Eat
 
-PVG has a solid selection of regional Chinese cuisine alongside international chains, spread across both terminals. Options range from quick noodle counters to full sit-down restaurants.
+PVG has a solid selection of regional Chinese cuisine alongside international chains, spread across both terminals. Options range from quick noodle counters to full sit-down restaurants — look for **Yang's Dumplings** in Terminal 2's public area for genuine Shanghainese pan-fried pork buns (shengjianbao), and **Tai Hing** for Hong Kong-style barbecue.
+
+## Airport Hotel
+
+The **Hyatt Regency Shanghai Pudong Airport** connects directly to the terminal — no shuttle needed. It's a genuinely convenient option for an overnight layover given how far PVG sits from central Shanghai, roughly 40 minutes even on the high-speed Maglev plus a metro transfer.
 
 ## Lounges
 

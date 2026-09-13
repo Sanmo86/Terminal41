@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["arabia-saudita", "hub-saudia", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "40M+/año"
+  passengers: "49,1M (2024)"
   terminals: "1 terminal principal + histórica Terminal del Hajj"
   distanceToCity: "20 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina saudí y de Oriente Medio"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Aerotel, dentro de la Terminal 1"
 spotlight:
   title: "Una terminal construida para acoger a millones de peregrinos"
   text: "La histórica Terminal del Hajj de Yeda tiene un enorme techo de tela en forma de tienda de campaña — una de las mayores estructuras textiles tensadas del mundo, diseñada por Skidmore, Owings & Merrill — construida específicamente para procesar la enorme oleada estacional de peregrinos del Hach y la Umrah que continúan viaje hacia la cercana Meca."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional Rey Abdulaziz (IATA: **JED**) es uno de los aeropuer
 
 ## Panorama general
 
-El rasgo definitorio de JED es su papel como principal puerta de entrada para los peregrinos del Hach y la Umrah que se dirigen a La Meca — la histórica **Terminal del Hajj** del aeropuerto tiene un enorme techo de tela en forma de tienda de campaña, una de las mayores estructuras de membrana tensada jamás construidas, diseñada específicamente para procesar a millones de peregrinos durante las temporadas punta de viaje religioso. Una terminal principal más nueva gestiona ahora el grueso de los vuelos comerciales regulares.
+El rasgo definitorio de JED es su papel como principal puerta de entrada para los peregrinos del Hach y la Umrah que se dirigen a La Meca — la histórica **Terminal del Hajj** del aeropuerto tiene un enorme techo de tela en forma de tienda de campaña, una de las mayores estructuras de membrana tensada jamás construidas, diseñada específicamente para procesar a millones de peregrinos durante las temporadas punta de viaje religioso. Una terminal principal más nueva gestiona ahora el grueso de los vuelos comerciales regulares. JED [sirvió a más de 49,1 millones de pasajeros en 2024](https://www.listmag.com/en/travel-and-stay/getaways-staycations/more-than-49-million-passengers-travelled-through-jeddah-airport-in-2024-3054), un 14% más que en 2023 y la cifra anual más alta en la historia de la aviación saudí.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito está disponible en la terminal para los viajeros.
 
 ## Dónde comer
 
-JED tiene una buena selección de cocina saudí y de Oriente Medio en general junto a cadenas internacionales, reflejo del papel del aeropuerto como gran puerta de entrada tanto para viajeros de negocios como para peregrinos religiosos.
+JED tiene una buena selección de cocina saudí y de Oriente Medio en general junto a cadenas internacionales, reflejo del papel del aeropuerto como gran puerta de entrada tanto para viajeros de negocios como para peregrinos religiosos. El food court de la Terminal 1 se centra en nombres conocidos — Starbucks, McDonald's y la cadena saudí **KUDU** — además de **Broccoli Pizza & Pasta** para algo más contundente.
+
+## Hotel en el aeropuerto
+
+**Aerotel Jeddah** está dentro de la propia Terminal 1, con habitaciones privadas de estancia corta o nocturna para pasajeros en salida o conexión sin salir de la zona de seguridad. No tiene restaurante propio completo, así que combina la estancia con el food court de la terminal, justo al lado.
 
 ## Salas VIP
 

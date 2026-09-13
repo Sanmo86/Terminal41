@@ -18,7 +18,7 @@ region: "asia"
 tags: ["china", "hub-china-eastern", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "85M+/año"
+  passengers: "76,8M (2024)"
   terminals: "2"
   distanceToCity: "30 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina china regional, cadenas globales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hyatt Regency, conectado a la terminal"
 spotlight:
   title: "Sube al tren comercial más rápido del mundo"
   text: "El Maglev de Shanghái, que conecta Pudong con la estación de Longyang Road, alcanza velocidades de hasta 431 km/h — el servicio de tren comercial más rápido del mundo, y solo tarda unos 8 minutos en completar el trayecto."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Shanghái Pudong (IATA: **PVG**) es el aeropuerto
 
 ## Panorama general
 
-PVG opera dos terminales conectadas por un shuttle interno. Su característica más famosa es el **Maglev de Shanghái**, el tren comercial más rápido del mundo, que conecta el aeropuerto con la estación de Longyang Road, en el borde de la ciudad, en unos 8 minutos a velocidades de hasta 431 km/h — desde ahí, los pasajeros hacen transbordo al sistema de metro habitual para el resto del trayecto hasta el centro de Shanghái.
+PVG opera dos terminales conectadas por un shuttle interno. Su característica más famosa es el **Maglev de Shanghái**, el tren comercial más rápido del mundo, que conecta el aeropuerto con la estación de Longyang Road, en el borde de la ciudad, en unos 8 minutos a velocidades de hasta 431 km/h — desde ahí, los pasajeros hacen transbordo al sistema de metro habitual para el resto del trayecto hasta el centro de Shanghái. PVG [gestionó unos 76,8 millones de pasajeros en 2024](https://www.wxagecl.com/news/top-10-airport-throughput-rankings-in-china-in-84084319.html), superando el nivel prepandemia de 2019 y situándose como la mayor puerta de entrada internacional de la China continental.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito está disponible en todo el aeropuerto, aunque normalmente se r
 
 ## Dónde comer
 
-PVG tiene una buena selección de cocina china regional junto a cadenas internacionales, repartida por ambas terminales. Las opciones van desde puestos rápidos de fideos hasta restaurantes de mesa completos.
+PVG tiene una buena selección de cocina china regional junto a cadenas internacionales, repartida por ambas terminales. Las opciones van desde puestos rápidos de fideos hasta restaurantes de mesa completos — busca **Yang's Dumplings** en la zona pública de la Terminal 2 para auténticos shengjianbao (empanadillas de cerdo fritas al estilo de Shanghái), y **Tai Hing** para barbacoa al estilo de Hong Kong.
+
+## Hotel en el aeropuerto
+
+El **Hyatt Regency Shanghai Pudong Airport** se conecta directamente con la terminal — sin necesidad de shuttle. Es una opción genuinamente cómoda para una escala nocturna dado lo lejos que está PVG del centro de Shanghái, unos 40 minutos incluso en el Maglev de alta velocidad más un transbordo de metro.
 
 ## Salas VIP
 

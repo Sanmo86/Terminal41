@@ -18,7 +18,7 @@ region: "asia"
 tags: ["malaysia", "hub-malaysia-airlines", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "50M+/year"
+  passengers: "57M (2024)"
   terminals: "2 (Main Terminal + klia2)"
   distanceToCity: "45 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Malaysian cuisine, hawker-style food court"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sama-Sama, skybridge to the Main Terminal"
 spotlight:
   title: "There's a real rainforest growing inside the terminal"
   text: "The Main Terminal's Jungle Boardwalk is a genuine tropical rainforest garden built into the airport itself — real trees, a real boardwalk, and real tropical humidity, not a themed decoration — making it one of the most unusual and genuinely relaxing layover spaces of any airport in the world."
@@ -67,7 +70,7 @@ Kuala Lumpur International Airport (IATA: **KUL**) is Malaysia's busiest airport
 
 ## Overview
 
-KUL operates across the Main Terminal and klia2 (the dedicated low-cost carrier terminal) and holds a genuinely unusual distinction among the world's major airports: the Main Terminal's Jungle Boardwalk is a real tropical rainforest garden built into the building itself, complete with actual trees and a walking boardwalk — a striking, functioning piece of biophilic design rather than a themed attraction.
+KUL operates across the Main Terminal and klia2 (the dedicated low-cost carrier terminal) and holds a genuinely unusual distinction among the world's major airports: the Main Terminal's Jungle Boardwalk is a real tropical rainforest garden built into the building itself, complete with actual trees and a walking boardwalk — a striking, functioning piece of biophilic design rather than a themed attraction. KUL [handled 57 million passengers in 2024](https://bernama.com/en/news.php?id=2465967), a roughly 21% jump on 2023 that narrowed the gap with Singapore Changi and made it Southeast Asia's second-busiest airport.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-KUL has an excellent selection of Malaysian cuisine, including a genuine hawker-style food court, alongside international chains, spread across both terminals.
+KUL has an excellent selection of Malaysian cuisine, including a genuine hawker-style food court, alongside international chains, spread across both terminals. At the Sama-Sama hotel, **Degrees Restaurant** and **Continents Restaurant** both run 24 hours, covering international cuisine at any hour your flight lands.
+
+## Airport Hotel
+
+The **Sama-Sama Hotel** connects to the Main Terminal via a skybridge, about a 5-minute walk — genuinely useful given KUL's layout. For airside transit passengers who can't leave the terminal, **Sama-Sama Express** offers short-stay rooms without clearing immigration.
 
 ## Lounges
 

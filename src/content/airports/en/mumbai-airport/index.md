@@ -18,7 +18,7 @@ region: "asia"
 tags: ["india", "hub-indigo", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "50M+/year"
+  passengers: "54.8M (2024)"
   terminals: "2 (T1 Domestic, T2 International)"
   distanceToCity: "25 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Indian regional cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, 1.5 km from the international terminal"
 spotlight:
   title: "A full art museum spans the entire international terminal"
   text: "Terminal 2's \"Jaya He\" installation is a genuine, museum-quality public art project spanning the entire building — thousands of pieces of Indian art, craft, and cultural artifacts displayed throughout the concourses, turning a walk to the gate into something closer to a museum visit than a typical airport trek."
@@ -67,7 +70,7 @@ Chhatrapati Shivaji Maharaj International Airport (IATA: **BOM**) is India's sec
 
 ## Overview
 
-BOM operates two terminals and is home to a genuinely remarkable piece of public art: Terminal 2's "Jaya He" installation, a museum-quality display of thousands of pieces of Indian art and craft spanning the entire international terminal building. As India's financial capital's main airport, BOM also anchors an extensive domestic and international network.
+BOM operates two terminals and is home to a genuinely remarkable piece of public art: Terminal 2's "Jaya He" installation, a museum-quality display of thousands of pieces of Indian art and craft spanning the entire international terminal building. As India's financial capital's main airport, BOM also anchors an extensive domestic and international network. The Mumbai International Airport operator [reported 54.8 million passengers for 2024](https://www.tribuneindia.com/news/business/mumbai-international-airport-witnesses-highest-ever-passenger-traffic-with-54-8-million-passengers-in-cy2024/), the airport's highest-ever total and a 6.3% increase on 2023.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free wifi is available in the terminal with a time-limited free session.
 
 ## Where to Eat
 
-BOM has an excellent selection of Indian regional cuisine alongside international chains, spread across both terminals.
+BOM has an excellent selection of Indian regional cuisine alongside international chains, spread across both terminals. At the nearby Novotel, **Food Exchange** runs an all-day dining buffet, and **190 AMSL** — named for the airport's altitude above sea level — is a rooftop bar with skyline views.
+
+## Airport Hotel
+
+The **Novotel Mumbai International Airport** sits about 1.5 km from the international terminal — close, though not directly connected, so factor in a short transfer. Beyond Food Exchange and 190 AMSL, it has the **Gourmet Bar** for a more relaxed take on comfort dining.
 
 ## Lounges
 

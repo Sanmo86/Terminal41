@@ -18,7 +18,7 @@ region: "asia"
 tags: ["india", "hub-indigo", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "70M+/year"
+  passengers: "77.8M (2024)"
   terminals: "3"
   distanceToCity: "16 km / 10 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Regional Indian cuisine, international chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Roseate House, minutes from the terminal"
 spotlight:
   title: "You need your ticket just to walk in"
   text: "Unlike most airports where the general public can freely enter the check-in hall, Delhi Airport requires a valid ticket or boarding pass plus photo ID just to pass the CISF security check at the terminal entrance gate — only ticketed passengers get in, so don't plan on meeting anyone past the curb."
@@ -67,7 +70,7 @@ Indira Gandhi International Airport (IATA: **DEL**) is India's busiest airport a
 
 ## Overview
 
-DEL operates three terminals, with **Terminal 3** standing out as one of the largest airport terminal buildings in the world when it opened for the 2010 Commonwealth Games. A key thing that catches first-time visitors off guard: unlike most airports worldwide, you cannot enter the terminal building at all without a valid ticket and government-issued photo ID — security checks happen at the entrance gate, not just before your gate.
+DEL operates three terminals, with **Terminal 3** standing out as one of the largest airport terminal buildings in the world when it opened for the 2010 Commonwealth Games. A key thing that catches first-time visitors off guard: unlike most airports worldwide, you cannot enter the terminal building at all without a valid ticket and government-issued photo ID — security checks happen at the entrance gate, not just before your gate. The Airports Authority of India [reported 77.8 million passengers for DEL in 2024](https://www.newsonair.gov.in/delhis-igi-airport-ranked-9th-busiest-globally-in-2024), a 7.8% increase on 2023 that made it India's busiest airport and the world's ninth busiest.
 
 ## Terminals
 
@@ -111,7 +114,11 @@ Free wifi is available across the terminals with a time-limited free session; a 
 
 ## Where to Eat
 
-DEL has a strong selection of regional Indian cuisine — from South Indian dosas to North Indian street food favorites — alongside international chains, spread across all three terminals with the widest selection in Terminal 3.
+DEL has a strong selection of regional Indian cuisine — from South Indian dosas to North Indian street food favorites — alongside international chains, spread across all three terminals with the widest selection in Terminal 3. At the nearby Roseate House, a restaurant genuinely named **DEL** — after the airport's own code — serves a world-cuisine bistro menu with live cooking counters, alongside **Kheer** for North Indian classics.
+
+## Airport Hotel
+
+**Roseate House New Delhi** sits minutes from the terminal in the Aerocity hotel district, built specifically to serve IGI Airport. Beyond DEL and Kheer, it has **Tara**, a rooftop lounge doing Japanese small plates, and **Roasted by Roseate**, a dedicated tea lounge — a genuinely varied set of options for a long layover.
 
 ## Lounges
 
