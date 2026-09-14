@@ -18,7 +18,7 @@ region: "americas"
 tags: ["colombia", "hub-avianca", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "35M+/año"
+  passengers: "45,8M (2024)"
   terminals: "1 (Concourses A y B)"
   distanceToCity: "15 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina colombiana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Habitel, a pie desde la terminal"
 spotlight:
   title: "Uno de los aeropuertos más altos del mundo"
   text: "El Dorado está a casi 2.550 metros sobre el nivel del mar — un aire lo bastante enrarecido como para afectar al rendimiento de despegue de los aviones, y algunos viajeros que llegan notan una ligera falta de aire al subir escaleras o caminar rápido su primer día."
 hubAirlines: ["Avianca"]
 ---
 
-El Aeropuerto Internacional El Dorado (IATA: **BOG**) es el aeropuerto con más tráfico de Colombia y el hub principal de Avianca, con más de 35 millones de pasajeros al año. Está a unos 15 km al noroeste del centro de Bogotá, a una altitud de casi 2.550 metros — uno de los aeropuertos de gran tamaño más altos del mundo.
+El Aeropuerto Internacional El Dorado (IATA: **BOG**) es el aeropuerto con más tráfico de Colombia y el hub principal de Avianca, con [45,8 millones de pasajeros en 2024](https://bogota.gov.co/en/international/bogotas-el-dorado-airport-leads-latin-america-passenger-traffic), una cifra que lo convirtió en el aeropuerto con más tráfico de toda Latinoamérica, superando tanto a Ciudad de México como a São Paulo. Está a unos 15 km al noroeste del centro de Bogotá, a una altitud de casi 2.550 metros — uno de los aeropuertos de gran tamaño más altos del mundo.
 
 ## Panorama general
 
@@ -108,7 +111,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 
 ## Dónde comer
 
-El Dorado tiene una buena selección de cocina colombiana — incluyendo un excelente café local, por supuesto — junto a cadenas internacionales.
+El Dorado tiene una buena selección de cocina colombiana — incluyendo un excelente café local, por supuesto — junto a cadenas internacionales. En el Habitel, **Manduka** sirve platos internacionales contemporáneos y **La Tiendita Steak House** se especializa en carnes a la parrilla.
+
+## Hotel en el aeropuerto
+
+El **Habitel** está genuinamente a pie desde la terminal principal — sin necesidad de shuttle. Además de Manduka y La Tiendita, es una buena opción para pasar la noche antes de una salida temprana de Avianca.
 
 ## Salas VIP
 

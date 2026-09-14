@@ -18,7 +18,7 @@ region: "africa"
 tags: ["kenya", "hub-kenya-airways", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "9M+/year"
+  passengers: "9.07M (2024)"
   terminals: "1 (expanding)"
   distanceToCity: "15 km / 9 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Kenyan and East African cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Ole Sereni ~12 km away"
 spotlight:
   title: "Where planes take off next to wild lions"
   text: "Nairobi National Park — a real wildlife reserve with free-roaming lions, giraffes, and rhinos — sits directly adjacent to the airport, making NBO one of the only major international airports in the world where flights depart within sight of genuine African wildlife."
 hubAirlines: ["Kenya Airways"]
 ---
 
-Jomo Kenyatta International Airport (IATA: **NBO**) is Kenya's busiest airport and Kenya Airways' principal hub, serving more than 9 million passengers a year as East Africa's most important aviation connecting point. It sits about 15 km (9 mi) southeast of central Nairobi — directly adjacent to Nairobi National Park.
+Jomo Kenyatta International Airport (IATA: **NBO**) is Kenya's busiest airport and Kenya Airways' principal hub. NBO [served 9.07 million passengers in 2024](https://www.kenyans.co.ke/news/109068-jkia-records-increased-number-passenger-traffic-2024-knbs), about 75% of all of Kenya's air traffic, making it East Africa's most important aviation connecting point. It sits about 15 km (9 mi) southeast of central Nairobi — directly adjacent to Nairobi National Park.
 
 ## Overview
 
@@ -108,6 +111,10 @@ Free wifi is available in the terminal for travelers.
 ## Where to Eat
 
 NBO has a solid selection of Kenyan and East African cuisine alongside more standard airport dining options.
+
+## Airport Hotel
+
+NBO doesn't have a hotel on-site. The closest notable option is **Ole Sereni**, about 12 km away on Mombasa Road, with a 24/7 shuttle — it happens to sit on the edge of Nairobi National Park itself, so the wildlife-next-to-the-airport theme carries over even to where you'd sleep.
 
 ## Lounges
 

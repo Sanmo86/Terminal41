@@ -18,7 +18,7 @@ region: "asia"
 tags: ["japon", "hub-japan-airlines", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "25M+/año"
+  passengers: "30,6M (2024)"
   terminals: "2 (T1, T2)"
   distanceToCity: "50 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina japonesa, street food de Osaka"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hotel Nikko, pasillo cubierto a la T1"
 spotlight:
   title: "Construido enteramente en una isla artificial que se está hundiendo"
   text: "El Aeropuerto Internacional de Kansai se construyó desde cero sobre una isla artificial masiva en la bahía de Osaka — uno de los proyectos de ingeniería de aeropuertos más ambiciosos jamás emprendidos. La isla ha estado hundiéndose gradualmente desde su apertura, un desafío de ingeniería genuinamente en curso que ha requerido contramedidas continuas para mantener el aeropuerto operativo décadas después."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Kansai (IATA: **KIX**) es uno de los dos grandes 
 
 ## Panorama general
 
-KIX opera dos terminales y ostenta una distinción de ingeniería genuinamente extraordinaria: todo el aeropuerto se asienta sobre una isla artificial construida desde cero específicamente para albergarlo, uno de los proyectos de ingeniería civil más ambiciosos jamás emprendidos. La isla ha estado hundiéndose gradualmente desde su apertura — un desafío real y en curso que ha requerido contramedidas de ingeniería continuas para mantener el aeropuerto funcionando.
+KIX opera dos terminales y ostenta una distinción de ingeniería genuinamente extraordinaria: todo el aeropuerto se asienta sobre una isla artificial construida desde cero específicamente para albergarlo, uno de los proyectos de ingeniería civil más ambiciosos jamás emprendidos. La isla ha estado hundiéndose gradualmente desde su apertura — un desafío real y en curso que ha requerido contramedidas de ingeniería continuas para mantener el aeropuerto funcionando. KIX [sirvió a más de 30,6 millones de pasajeros en 2024](https://en.newsroom.vinci-airports.com/news/vinci-airports-inaugurates-major-modernization-and-extension-works-at-kansai-international-airport-ahead-of-the-osaka-2025-expo-opening-d208c-46ae7.html), parte del sostenido repunte del turismo internacional que ha llevado a la renovación de la Terminal 1 a elevar la capacidad anual a 40 millones.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-KIX tiene una excelente selección de cocina japonesa, incluyendo genuina street food al estilo de Osaka, junto a cadenas internacionales, repartida por ambas terminales.
+KIX tiene una excelente selección de cocina japonesa, incluyendo genuina street food al estilo de Osaka, junto a cadenas internacionales, repartida por ambas terminales. En el Hotel Nikko, cuatro restaurantes cubren el abanico: **Hanazato** para cocina japonesa, **Icho** para teppanyaki a la parrilla, **Toh-Lee** para cocina china, y **The Brasserie** para fusión japonesa-occidental, además de **Jet Stream** para platos a la parrilla con vistas a las pistas.
+
+## Hotel en el aeropuerto
+
+El **Hotel Nikko Kansai Airport** conecta con la Terminal 1 mediante un pasillo cubierto, un paseo de unos 5 minutos que se hace enteramente bajo techo. Con cuatro restaurantes distintos en el propio hotel, es una opción genuinamente bien equipada para una escala larga o una salida temprana.
 
 ## Salas VIP
 

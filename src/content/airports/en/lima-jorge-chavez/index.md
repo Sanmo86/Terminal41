@@ -18,7 +18,7 @@ region: "americas"
 tags: ["peru", "hub-latam", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "24M+/year"
+  passengers: "24.5M (2024)"
   terminals: "1 (new mega-terminal, opened 2025)"
   distanceToCity: "12 km / 7 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Peruvian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Wyndham Grand, connected via walkway"
 spotlight:
   title: "Landing in one of Latin America's newest mega-terminals"
   text: "Lima opened a huge new terminal in 2025 — one of the largest infrastructure projects in Peru's history — roughly doubling the airport's capacity and making it one of the most modern airport terminals anywhere in Latin America."
@@ -67,7 +70,7 @@ Jorge Chávez International Airport (IATA: **LIM**) is Peru's busiest airport an
 
 ## Overview
 
-LIM recently opened a massive new terminal — one of the largest infrastructure projects in Peru's history — roughly doubling the airport's overall capacity and replacing much of the older facility. As LATAM's Pacific coast hub, it anchors an extensive network across Peru and South America, and the new terminal has quickly made LIM one of the most modern airports in the region.
+LIM recently opened a massive new terminal — one of the largest infrastructure projects in Peru's history — roughly doubling the airport's overall capacity and replacing much of the older facility. As LATAM's Pacific coast hub, it anchors an extensive network across Peru and South America, and the new terminal has quickly made LIM one of the most modern airports in the region. LIM [set a new record with 24.5 million passengers in 2024](https://www.aviacionline.com/limas-jorge-chavez-international-airport-sets-record-with-245-million-passengers-in-2024), finally surpassing its pre-pandemic 2018 peak.
 
 ## Terminals
 
@@ -107,7 +110,11 @@ Free wifi is available in the terminal with a time-limited free session.
 
 ## Where to Eat
 
-LIM reflects Peru's globally renowned food culture well, with a strong selection of Peruvian cuisine alongside international chains, spread across the new terminal.
+LIM reflects Peru's globally renowned food culture well, with a strong selection of Peruvian cuisine alongside international chains, spread across the new terminal. At the Wyndham Grand, **Páprika** builds its menu around Peru's own culinary traditions.
+
+## Airport Hotel
+
+The **Wyndham Grand Costa del Sol Lima Airport** was the first hotel to open inside the new terminal itself, connected by a short walkway on the second level — no shuttle needed. Beyond Páprika, it's a genuinely convenient pick for a long layover or an early LATAM departure.
 
 ## Lounges
 

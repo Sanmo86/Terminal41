@@ -18,7 +18,7 @@ region: "europe"
 tags: ["czech-republic", "hub-smartwings", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "17M+/year"
+  passengers: "16.4M (2024)"
   terminals: "2 (T1, T2)"
   distanceToCity: "17 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Czech cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Courtyard, walkway to T2"
 spotlight:
   title: "Gateway to one of Europe's best-preserved old towns"
   text: "Prague's historic center is a UNESCO World Heritage Site and widely considered one of the best-preserved medieval old towns anywhere in Europe — largely spared the wartime destruction that reshaped many other European capitals, making the short trip from this airport into the city center a genuine step back in time."
 hubAirlines: ["Smartwings"]
 ---
 
-Václav Havel Airport Prague (IATA: **PRG**) is the Czech Republic's busiest airport and the main base of Smartwings, with more than 17 million passengers a year. It sits about 17 km northwest of central Prague.
+Václav Havel Airport Prague (IATA: **PRG**) is the Czech Republic's busiest airport and the main base of Smartwings. PRG [handled 16.4 million passengers in 2024](https://www.prg.aero/en/letiste-praha-vloni-odbavilo-164-milionu-cestujicich-zaznamenalo-mezirocni-narust-o-18-procent), an 18% jump on the year before and the airport's third-highest total ever. It sits about 17 km northwest of central Prague.
 
 ## Overview
 
@@ -103,7 +106,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-PRG has a good selection of Czech cuisine alongside international chains, spread across both terminals.
+PRG has a good selection of Czech cuisine alongside international chains, spread across both terminals. At the Courtyard, **Oleo Pazzo Mediterranean Bistro** runs the on-site dining.
+
+## Airport Hotel
+
+The **Courtyard by Marriott Prague Airport** sits in the Europort building between Terminals 1 and 2, connected to Terminal 2 by a covered walkway — no shuttle needed. Beyond Oleo Pazzo, it has a 24-hour fitness center, a solid option for an early departure or a long layover.
 
 ## Lounges
 

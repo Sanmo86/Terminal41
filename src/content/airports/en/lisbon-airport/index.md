@@ -18,7 +18,7 @@ region: "europe"
 tags: ["portugal", "hub-tap-air-portugal", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "35M+/year"
+  passengers: "35.1M (2024)"
   terminals: "2 (T1, T2)"
   distanceToCity: "7 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Portuguese cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Meliá, 2-min walk from T1"
 spotlight:
   title: "Europe's best-connected hub to Brazil"
   text: "Thanks to centuries of historic ties between Portugal and Brazil, TAP Air Portugal operates more direct routes to Brazilian cities than any other European carrier — a genuine, distinctive strength that makes Lisbon one of the smartest European connecting points for travel to South America's largest country."
@@ -67,7 +70,7 @@ Humberto Delgado Airport (IATA: **LIS**), commonly known as Lisbon Airport, is P
 
 ## Overview
 
-LIS operates two terminals and holds a genuinely distinctive position among European hubs: thanks to Portugal and Brazil's deep historic ties, TAP Air Portugal flies to more Brazilian cities directly than any other European airline, making Lisbon one of the smartest connecting points in Europe for onward travel to Brazil specifically. The airport's proximity to the city — just 7 km out — is a bonus on top of that network strength.
+LIS operates two terminals and holds a genuinely distinctive position among European hubs: thanks to Portugal and Brazil's deep historic ties, TAP Air Portugal flies to more Brazilian cities directly than any other European airline, making Lisbon one of the smartest connecting points in Europe for onward travel to Brazil specifically. The airport's proximity to the city — just 7 km out — is a bonus on top of that network strength. ANA Aeroportos [reported 35.1 million passengers at Lisbon in 2024](https://airserviceone.com/portugals-airports-smashed-passenger-record-in-2024-lisbon-passed-35-million-for-first-time/), the first time the airport passed 35 million and a 4% increase on 2023.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-LIS has a strong selection of Portuguese cuisine alongside international chains, spread across both terminals.
+LIS has a strong selection of Portuguese cuisine alongside international chains, spread across both terminals. At the Meliá, **Restaurante Colinas de Lisboa** runs an open-kitchen buffet breakfast and lunch, with an à la carte dinner service.
+
+## Airport Hotel
+
+The **Meliá Lisboa Aeroporto** is about a 2-minute walk from Terminal 1 arrivals, with a free shuttle also available — genuinely convenient either way, and it even offers day-use rooms in 3, 6, or 9-hour blocks for a long layover.
 
 ## Lounges
 

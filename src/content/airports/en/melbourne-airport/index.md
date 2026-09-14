@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "qantas-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "38M+/year"
+  passengers: "36.0M (FY2024/25)"
   terminals: "4"
   distanceToCity: "23 km / 14 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Melbourne coffee culture"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, walkable, no shuttle"
 spotlight:
   title: "No train line — yet"
   text: "Despite being one of the world's busiest airports without rail access, Melbourne Airport still has no train connection to the city center — a rail link has been planned and delayed for years. For now, SkyBus is the only fast public transport option."
 hubAirlines: ["Qantas", "Jetstar", "Virgin Australia"]
 ---
 
-Melbourne Airport (IATA: **MEL**), also known as Tullamarine, is Australia's second-busiest airport and Victoria's main international gateway, serving more than 38 million passengers a year. It sits about 23 km northwest of central Melbourne.
+Melbourne Airport (IATA: **MEL**), also known as Tullamarine, is Australia's second-busiest airport and Victoria's main international gateway, [serving 36.0 million passengers in the 2024/25 financial year](https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Australia) — Australian airports report on a July-to-June financial year rather than the calendar year. It sits about 23 km northwest of central Melbourne.
 
 ## Overview
 
@@ -112,7 +115,11 @@ Free wifi is available across the terminals with a time-limited free session; an
 
 ## Where to Eat
 
-MEL reflects Melbourne's famous coffee and cafe culture well, with good coffee options and a solid mix of local and international dining spread across all four terminals, particularly strong in Terminal 2 and Terminal 4.
+MEL reflects Melbourne's famous coffee and cafe culture well, with good coffee options and a solid mix of local and international dining spread across all four terminals, particularly strong in Terminal 2 and Terminal 4. At the Novotel, **Boccata** serves contemporary Italian food with a wine bar, and **Amber State Taphouse & Kitchen** runs a pub-style menu with a strong beer and cocktail list.
+
+## Airport Hotel
+
+The **Novotel Melbourne Airport** is genuinely walkable to all four terminals — no shuttle needed. The **PARKROYAL Melbourne Airport** is connected even more directly, via a pedestrian skybridge straight to the terminals. Beyond Boccata and Amber State, the Novotel also has a café for a quick breakfast before an early flight.
 
 ## Lounges
 

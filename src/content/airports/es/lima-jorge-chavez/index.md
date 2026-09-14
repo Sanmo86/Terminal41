@@ -18,7 +18,7 @@ region: "americas"
 tags: ["peru", "hub-latam", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "24M+/año"
+  passengers: "24,5M (2024)"
   terminals: "1 (nueva megaterminal, inaugurada en 2025)"
   distanceToCity: "12 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina peruana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Wyndham Grand, conectado por pasillo"
 spotlight:
   title: "Aterriza en una de las megaterminales más nuevas de Latinoamérica"
   text: "Lima inauguró una enorme terminal nueva en 2025 — uno de los mayores proyectos de infraestructura en la historia de Perú — que duplicó aproximadamente la capacidad del aeropuerto y lo convirtió en una de las terminales de aeropuerto más modernas de toda Latinoamérica."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional Jorge Chávez (IATA: **LIM**) es el aeropuerto con m
 
 ## Panorama general
 
-LIM inauguró recientemente una enorme terminal nueva — uno de los mayores proyectos de infraestructura en la historia de Perú — que duplicó aproximadamente la capacidad total del aeropuerto y sustituyó gran parte de las instalaciones anteriores. Como hub de LATAM en la costa del Pacífico, sostiene una extensa red por Perú y Sudamérica, y la nueva terminal ha convertido rápidamente a LIM en uno de los aeropuertos más modernos de la región.
+LIM inauguró recientemente una enorme terminal nueva — uno de los mayores proyectos de infraestructura en la historia de Perú — que duplicó aproximadamente la capacidad total del aeropuerto y sustituyó gran parte de las instalaciones anteriores. Como hub de LATAM en la costa del Pacífico, sostiene una extensa red por Perú y Sudamérica, y la nueva terminal ha convertido rápidamente a LIM en uno de los aeropuertos más modernos de la región. LIM [estableció un nuevo récord con 24,5 millones de pasajeros en 2024](https://www.aviacionline.com/limas-jorge-chavez-international-airport-sets-record-with-245-million-passengers-in-2024), superando por fin su pico prepandemia de 2018.
 
 ## Terminales
 
@@ -107,7 +110,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 
 ## Dónde comer
 
-LIM refleja bien la cultura gastronómica peruana, reconocida mundialmente, con una sólida selección de cocina peruana junto a cadenas internacionales, repartida por la nueva terminal.
+LIM refleja bien la cultura gastronómica peruana, reconocida mundialmente, con una sólida selección de cocina peruana junto a cadenas internacionales, repartida por la nueva terminal. En el Wyndham Grand, **Páprika** construye su carta en torno a las propias tradiciones culinarias de Perú.
+
+## Hotel en el aeropuerto
+
+El **Wyndham Grand Costa del Sol Lima Airport** fue el primer hotel en abrir dentro de la propia nueva terminal, conectado por un breve pasillo en el segundo nivel — sin necesidad de shuttle. Además de Páprika, es una opción genuinamente cómoda para una escala larga o una salida temprana de LATAM.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "africa"
 tags: ["kenia", "hub-kenya-airways", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "9M+/año"
+  passengers: "9,07M (2024)"
   terminals: "1 terminal principal"
   distanceToCity: "15 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina keniana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Ole Sereni a ~12 km"
 spotlight:
   title: "Donde los aviones despegan junto a leones salvajes"
   text: "El Parque Nacional de Nairobi — un parque de vida salvaje real y en pleno funcionamiento con leones, jirafas y rinocerontes — linda directamente con el aeropuerto, creando la extraña y genuina posibilidad de ver animales salvajes desde la ventanilla de tu avión al despegar o aterrizar."
 hubAirlines: ["Kenya Airways"]
 ---
 
-El Aeropuerto Internacional Jomo Kenyatta (IATA: **NBO**) es la principal puerta de entrada internacional de Kenia y el hub principal de Kenya Airways, con más de 9 millones de pasajeros al año. Está a unos 15 km al sureste del centro de Nairobi.
+El Aeropuerto Internacional Jomo Kenyatta (IATA: **NBO**) es la principal puerta de entrada internacional de Kenia y el hub principal de Kenya Airways. NBO [sirvió a 9,07 millones de pasajeros en 2024](https://www.kenyans.co.ke/news/109068-jkia-records-increased-number-passenger-traffic-2024-knbs), alrededor del 75% de todo el tráfico aéreo de Kenia, lo que lo convierte en el punto de conexión aeronáutico más importante del este de África. Está a unos 15 km al sureste del centro de Nairobi.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 NBO tiene una selección de cocina keniana junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+NBO no tiene un hotel en el propio recinto. La opción notable más cercana es **Ole Sereni**, a unos 12 km por Mombasa Road, con shuttle 24/7 — precisamente está en el borde del propio Parque Nacional de Nairobi, así que el tema de la fauna salvaje junto al aeropuerto se extiende incluso a donde duermes.
 
 ## Salas VIP
 

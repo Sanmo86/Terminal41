@@ -18,7 +18,7 @@ region: "europe"
 tags: ["republica-checa", "hub-smartwings", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "17M+/año"
+  passengers: "16,4M (2024)"
   terminals: "2 (T1, T2)"
   distanceToCity: "17 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina checa"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Courtyard, pasillo a la T2"
 spotlight:
   title: "La puerta a uno de los cascos antiguos mejor conservados de Europa"
   text: "El centro histórico de Praga es Patrimonio de la Humanidad de la UNESCO y está considerado ampliamente uno de los cascos antiguos medievales mejor conservados de toda Europa — libre en gran parte de la destrucción bélica que transformó muchas otras capitales europeas, lo que convierte el corto trayecto desde este aeropuerto hasta el centro en un genuino viaje en el tiempo."
 hubAirlines: ["Smartwings"]
 ---
 
-El Aeropuerto Václav Havel de Praga (IATA: **PRG**) es el aeropuerto con más tráfico de la República Checa y la base principal de Smartwings, con más de 17 millones de pasajeros al año. Está a unos 17 km al noroeste del centro de Praga.
+El Aeropuerto Václav Havel de Praga (IATA: **PRG**) es el aeropuerto con más tráfico de la República Checa y la base principal de Smartwings. PRG [gestionó 16,4 millones de pasajeros en 2024](https://www.prg.aero/en/letiste-praha-vloni-odbavilo-164-milionu-cestujicich-zaznamenalo-mezirocni-narust-o-18-procent), un salto del 18% respecto al año anterior y la tercera cifra más alta de su historia. Está a unos 17 km al noroeste del centro de Praga.
 
 ## Panorama general
 
@@ -103,7 +106,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-PRG tiene una buena selección de cocina checa junto a cadenas internacionales, repartida por ambas terminales.
+PRG tiene una buena selección de cocina checa junto a cadenas internacionales, repartida por ambas terminales. En el Courtyard, **Oleo Pazzo Mediterranean Bistro** se encarga de la restauración del hotel.
+
+## Hotel en el aeropuerto
+
+El **Courtyard by Marriott Prague Airport** está en el edificio Europort entre la Terminal 1 y la Terminal 2, conectado a la Terminal 2 mediante un pasillo cubierto — sin necesidad de shuttle. Además de Oleo Pazzo, tiene un gimnasio 24 horas, una buena opción para una salida temprana o una escala larga.
 
 ## Salas VIP
 

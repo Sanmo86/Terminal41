@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["israel", "hub-el-al", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "20M+/año"
+  passengers: "13,8M (2024)"
   terminals: "2 (T1, T3)"
   distanceToCity: "20 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina israelí y de Oriente Medio"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno todavía; uno está en construcción"
 spotlight:
   title: "Dentro de uno de los aeropuertos con seguridad más rigurosa del mundo"
   text: "El Aeropuerto Ben Gurión está ampliamente considerado por profesionales de seguridad como el que tiene el proceso de cribado de pasajeros más intensivo y eficaz de cualquier gran aeropuerto del mundo. En vez de depender principalmente de equipos de escaneo, el sistema de TLV se construye en torno al perfilado conductual y entrevistas individuales realizadas por agentes de seguridad formados — un modelo estudiado por aeropuertos y agencias de todo el mundo, aunque su naturaleza intensiva en mano de obra dificulta replicarlo en hubs más grandes y con más volumen."
 hubAirlines: ["El Al", "Arkia", "Israir"]
 ---
 
-El Aeropuerto Internacional Ben Gurión (IATA: **TLV**) es la principal puerta de entrada internacional de Israel y el hub de El Al, con más de 20 millones de pasajeros al año. Está a unos 20 km al sureste del centro de Tel Aviv.
+El Aeropuerto Internacional Ben Gurión (IATA: **TLV**) es la principal puerta de entrada internacional de Israel y el hub de El Al. El tráfico ha fluctuado bruscamente en los últimos años: la Autoridad de Aeropuertos de Israel [informó de 13,8 millones de pasajeros en 2024](https://english.news.cn/20241231/49bfe95c05594a3e978ff7940e0cf31c/c.html), un descenso del 34% respecto a los 21 millones de 2023, ya que muchas aerolíneas extranjeras redujeron o suspendieron sus operaciones tras la escalada del conflicto regional en octubre de 2023. Está a unos 20 km al sureste del centro de Tel Aviv.
 
 ## Panorama general
 
@@ -109,6 +112,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 TLV tiene una excelente selección de cocina israelí y de Oriente Medio en general, junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+TLV todavía no tiene un hotel en el propio recinto — sería el primero del aeropuerto. Brown Hotels cuenta con permiso de construcción para un hotel de 5 estrellas cerca de la Terminal 3 con acceso directo al vestíbulo de pasajeros, pero no se espera que las obras empiecen hasta la segunda mitad de 2027, así que por ahora, cuenta con un hotel en la propia Tel Aviv o alguna de las opciones cerca del perímetro del aeropuerto.
 
 ## Salas VIP
 

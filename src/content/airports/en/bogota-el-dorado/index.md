@@ -18,7 +18,7 @@ region: "americas"
 tags: ["colombia", "hub-avianca", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "35M+/year"
+  passengers: "45.8M (2024)"
   terminals: "1 (2 concourses)"
   distanceToCity: "15 km / 9 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Colombian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Habitel, walking distance"
 spotlight:
   title: "One of the world's highest major airports"
   text: "El Dorado sits nearly 2,550 meters (8,360 ft) above sea level — thin enough air that it affects aircraft takeoff performance and that some arriving travelers notice mild breathlessness climbing stairs or walking briskly on their first day."
 hubAirlines: ["Avianca"]
 ---
 
-El Dorado International Airport (IATA: **BOG**) is Colombia's busiest airport and Avianca's principal hub, handling more than 35 million passengers a year. It sits about 15 km (9 mi) northwest of central Bogotá, at an elevation of nearly 2,550 meters — one of the highest-altitude major airports in the world.
+El Dorado International Airport (IATA: **BOG**) is Colombia's busiest airport and Avianca's principal hub, [handling 45.8 million passengers in 2024](https://bogota.gov.co/en/international/bogotas-el-dorado-airport-leads-latin-america-passenger-traffic), a total that made it Latin America's single busiest airport, surpassing both Mexico City and São Paulo. It sits about 15 km (9 mi) northwest of central Bogotá, at an elevation of nearly 2,550 meters — one of the highest-altitude major airports in the world.
 
 ## Overview
 
@@ -108,7 +111,11 @@ Free wifi is available in the terminal with a time-limited free session.
 
 ## Where to Eat
 
-BOG has a good selection of Colombian cuisine — including excellent local coffee, naturally — alongside international chains.
+BOG has a good selection of Colombian cuisine — including excellent local coffee, naturally — alongside international chains. At the Habitel, **Manduka** serves contemporary international dishes and **La Tiendita Steak House** specializes in grilled meats.
+
+## Airport Hotel
+
+The **Habitel** is genuinely within walking distance of the main terminal — no shuttle required. Beyond Manduka and La Tiendita, it's a solid pick for a comfortable overnight before an early Avianca departure.
 
 ## Lounges
 
