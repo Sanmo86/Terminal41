@@ -18,7 +18,7 @@ region: "africa"
 tags: ["egypt", "egyptair-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "31M+/year"
+  passengers: "28.8M (2024)"
   terminals: "3"
   distanceToCity: "15 km / 9 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Egyptian classics, global chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, 5 minutes from the terminal"
 spotlight:
   title: "Visa on arrival is available for many nationalities"
   text: "Most visitors don't need to arrange a visa in advance — CAI has visa-on-arrival counters (cash only, typically $25 USD) for many nationalities right before passport control, alongside an e-Visa option you can arrange online ahead of time."
@@ -67,7 +70,7 @@ Cairo International Airport (IATA: **CAI**) is Egypt's largest and busiest airpo
 
 ## Overview
 
-CAI operates three main terminals plus a seasonal terminal used during Hajj and Umrah pilgrimage periods. Terminal 3, the newest and most modern, handles EgyptAir and most Star Alliance flights, while Terminal 1 and Terminal 2 split domestic, regional, and other international traffic. Always confirm your terminal, since transfers between them require a shuttle bus rather than a walk.
+CAI operates three main terminals plus a seasonal terminal used during Hajj and Umrah pilgrimage periods. Terminal 3, the newest and most modern, handles EgyptAir and most Star Alliance flights, while Terminal 1 and Terminal 2 split domestic, regional, and other international traffic. Always confirm your terminal, since transfers between them require a shuttle bus rather than a walk. Egypt's Ministry of Civil Aviation [reported 28.775 million passengers for CAI in 2024](https://www.aaco.org/media-center/news/industry/9-increase-in-passenger-traffic-at-egyptian-airports-in-2024), up from 26.463 million in 2023 as part of a broader 9% rise across Egyptian airports.
 
 ## Terminals
 
@@ -110,7 +113,11 @@ Free wifi is available across the terminals with a time-limited free session; an
 
 ## Where to Eat
 
-Terminal 3 has the strongest dining selection, with Egyptian classics — koshari, falafel, fresh juices — alongside international fast-food chains and sit-down options. Terminals 1 and 2 have more limited but functional choices.
+Terminal 3 has the strongest dining selection, with Egyptian classics — koshari, falafel, fresh juices — alongside international fast-food chains and sit-down options. Terminals 1 and 2 have more limited but functional choices. At the nearby Novotel, **Le Jardin** runs an international buffet and à la carte menu in the lobby, and **Le Rêve** offers a quieter à la carte option.
+
+## Airport Hotel
+
+The **Novotel Cairo Airport** is about 5 minutes from the terminal — close, though not directly connected, so budget a short transfer. Beyond Le Jardin and Le Rêve, it has **Le Rendez-vous** for live music and drinks, a genuinely relaxed option for an overnight layover.
 
 ## Lounges
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["mexico", "hub-aeromexico", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "50M+/año"
+  passengers: "45,4M (2024)"
   terminals: "2"
   distanceToCity: "5 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina regional mexicana, tacos"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "NH Collection, integrado en la Terminal 2"
 spotlight:
   title: "Uno de los aeropuertos más cercanos a su centro"
   text: "A pesar de ser uno de los aeropuertos con más tráfico del mundo, el AICM está a solo 5 km del Zócalo histórico de la Ciudad de México — más cerca de su centro que la mayoría de los grandes hubs del mundo."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de la Ciudad de México (IATA: **MEX**) es el aeropu
 
 ## Panorama general
 
-El AICM opera dos terminales conectadas por un shuttle gratuito (Aerotrén), ya que no están conectadas en zona de embarque. Como hub principal de Aeroméxico, sostiene una extensa red nacional por todo México además de rutas internacionales por Norteamérica, Europa y Asia. Su ubicación central — genuinamente cerca del centro en vez de en las afueras — es una de sus grandes ventajas prácticas para los viajeros.
+El AICM opera dos terminales conectadas por un shuttle gratuito (Aerotrén), ya que no están conectadas en zona de embarque. Como hub principal de Aeroméxico, sostiene una extensa red nacional por todo México además de rutas internacionales por Norteamérica, Europa y Asia. Su ubicación central — genuinamente cerca del centro en vez de en las afueras — es una de sus grandes ventajas prácticas para los viajeros. El AICM [sirvió a 45,36 millones de pasajeros en 2024](https://mexicobusiness.news/aerospace/news/aicm-extends-multi-year-passenger-decline-2025), un descenso real desde los 48,4 millones de 2023, a medida que aeropuertos regionales y limitaciones de capacidad han ido restándole cuota de mercado.
 
 ## Terminales
 
@@ -110,7 +113,11 @@ El wifi gratuito está disponible en las terminales con una sesión gratuita de 
 
 ## Dónde comer
 
-El AICM tiene una sólida selección de cocina regional mexicana — tacos de verdad y especialidades regionales, no solo comida genérica de aeropuerto — junto a cadenas internacionales, repartida por ambas terminales.
+El AICM tiene una sólida selección de cocina regional mexicana — tacos de verdad y especialidades regionales, no solo comida genérica de aeropuerto — junto a cadenas internacionales, repartida por ambas terminales. En el NH Collection, **Bottega** sirve platos italianos y argentinos para comer y cenar, y **La Sagrada Terrace Bar** se inclina hacia el estilo de cantina mexicana con copas y platos para compartir.
+
+## Hotel en el aeropuerto
+
+El **NH Collection Mexico City Airport T2** está integrado directamente en la Terminal 2 — sin necesidad de shuttle si esa es tu terminal. Además de Bottega y La Sagrada, su buffet de desayuno incluye una estación de cocina en vivo para huevos al momento, una opción genuinamente sólida antes de un vuelo temprano.
 
 ## Salas VIP
 

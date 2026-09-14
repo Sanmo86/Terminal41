@@ -18,7 +18,7 @@ region: "africa"
 tags: ["egipto", "hub-egyptair", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "31M+/año"
+  passengers: "28,8M (2024)"
   terminals: "3"
   distanceToCity: "15 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Clásicos egipcios, cadenas globales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, a 5 minutos de la terminal"
 spotlight:
   title: "El visado a la llegada está disponible para muchas nacionalidades"
   text: "La mayoría de visitantes no necesitan tramitar un visado con antelación — CAI tiene mostradores de visado a la llegada (solo efectivo, normalmente 25 $) para muchas nacionalidades justo antes del control de pasaportes, además de una opción de e-Visa que puedes tramitar online con antelación."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de El Cairo (IATA: **CAI**) es el aeropuerto más gr
 
 ## Panorama general
 
-CAI opera tres terminales principales más una terminal estacional usada durante los periodos de peregrinación del Hajj y la Umrah. La Terminal 3, la más nueva y moderna, gestiona EgyptAir y la mayoría de vuelos de Star Alliance, mientras que la Terminal 1 y la Terminal 2 se reparten el tráfico nacional, regional y otro tráfico internacional. Confirma siempre tu terminal, ya que los traslados entre ellas requieren un bus lanzadera en vez de caminar.
+CAI opera tres terminales principales más una terminal estacional usada durante los periodos de peregrinación del Hajj y la Umrah. La Terminal 3, la más nueva y moderna, gestiona EgyptAir y la mayoría de vuelos de Star Alliance, mientras que la Terminal 1 y la Terminal 2 se reparten el tráfico nacional, regional y otro tráfico internacional. Confirma siempre tu terminal, ya que los traslados entre ellas requieren un bus lanzadera en vez de caminar. El Ministerio de Aviación Civil de Egipto [registró 28,775 millones de pasajeros en CAI en 2024](https://www.aaco.org/media-center/news/industry/9-increase-in-passenger-traffic-at-egyptian-airports-in-2024), frente a los 26,463 millones de 2023, dentro de un crecimiento más amplio del 9% en los aeropuertos egipcios.
 
 ## Terminales
 
@@ -110,7 +113,11 @@ El wifi gratuito está disponible en las terminales con una sesión gratuita de 
 
 ## Dónde comer
 
-La Terminal 3 tiene la mejor oferta gastronómica, con clásicos egipcios — koshari, falafel, zumos naturales — junto a cadenas de comida rápida internacionales y opciones de mesa. Las Terminales 1 y 2 tienen opciones más limitadas pero funcionales.
+La Terminal 3 tiene la mejor oferta gastronómica, con clásicos egipcios — koshari, falafel, zumos naturales — junto a cadenas de comida rápida internacionales y opciones de mesa. Las Terminales 1 y 2 tienen opciones más limitadas pero funcionales. En el cercano Novotel, **Le Jardin** ofrece buffet internacional y carta en el lobby, y **Le Rêve** es una opción a la carta más tranquila.
+
+## Hotel en el aeropuerto
+
+El **Novotel Cairo Airport** está a unos 5 minutos de la terminal — cerca, aunque no conectado directamente, así que cuenta con un breve traslado. Además de Le Jardin y Le Rêve, tiene **Le Rendez-vous** para música en vivo y copas, una opción genuinamente relajada para una escala nocturna.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["emiratos-arabes-unidos", "hub-etihad-airways", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "24M+/año"
+  passengers: "28,8M (2024)"
   terminals: "Terminal A (nueva, inaugurada en 2023)"
   distanceToCity: "26 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina emiratí, internacional"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "AUHotel, en zona de embarque de la T. A"
 spotlight:
   title: "Aterriza en una de las terminales más grandes del mundo"
   text: "La Terminal A, inaugurada en 2023, es uno de los edificios de terminal de aeropuerto individuales más grandes del mundo por superficie construida — una declaración arquitectónica que refleja la ambición de Abu Dabi de convertirse en un importante centro de conexión mundial junto a sus vecinos regionales."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional Zayed (IATA: **AUH**) es la principal puerta de entr
 
 ## Panorama general
 
-AUH opera en torno a la Terminal A, una enorme y nueva terminal inaugurada en 2023 que consolidó las operaciones del aeropuerto en uno de los edificios de terminal individuales más grandes del mundo. La apertura marcó un salto importante en capacidad y confort para Etihad Airways y reforzó la posición de Abu Dabi como centro de conexión entre Europa, Asia y Oceanía.
+AUH opera en torno a la Terminal A, una enorme y nueva terminal inaugurada en 2023 que consolidó las operaciones del aeropuerto en uno de los edificios de terminal individuales más grandes del mundo. La apertura marcó un salto importante en capacidad y confort para Etihad Airways y reforzó la posición de Abu Dabi como centro de conexión entre Europa, Asia y Oceanía. Zayed International [gestionó 28,8 millones de pasajeros en 2024](https://www.thenationalnews.com/business/aviation/2025/02/05/abu-dhabis-airports-handle-record-294-million-passengers-in-2024/), muy por encima de los 22,4 millones de 2023 — un salto del 28% con la llegada de nuevas aerolíneas y rutas junto a la nueva terminal.
 
 ## Terminales
 
@@ -108,6 +111,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 AUH tiene una buena selección de cocina emiratí junto a numerosas opciones internacionales, repartida por la enorme Terminal A.
+
+## Hotel en el aeropuerto
+
+**AUHotel** está en zona de embarque, dentro de la propia Terminal A — genuinamente útil para pasajeros en tránsito que no pueden salir de seguridad. Es un hotel de tránsito compacto pensado para estancias cortas más que un resort completo, sin restaurante propio dedicado, así que combina la estancia con las opciones de restauración de la propia terminal cerca.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["uae", "hub-etihad", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "24M+/year"
+  passengers: "28.8M (2024)"
   terminals: "Terminal A (new, opened 2023)"
   distanceToCity: "26 km / 16 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Middle Eastern and international cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "AUHotel, airside inside Terminal A"
 spotlight:
   title: "Landing in one of the world's largest terminals"
   text: "Abu Dhabi's new Terminal A, opened in late 2023, is one of the largest single airport terminal buildings ever constructed — a massive infrastructure achievement built to position Abu Dhabi as a major global connecting hub alongside Dubai and Doha."
@@ -67,7 +70,7 @@ Zayed International Airport (IATA: **AUH**) is the United Arab Emirates' second 
 
 ## Overview
 
-AUH recently opened Terminal A, a massive new facility that opened in late 2023 and ranks among the largest single airport terminal buildings in the world by floor area. The new terminal significantly expanded the airport's capacity and amenities, positioning Abu Dhabi as a serious long-haul connecting hub alongside its larger neighbors Dubai and Doha.
+AUH recently opened Terminal A, a massive new facility that opened in late 2023 and ranks among the largest single airport terminal buildings in the world by floor area. The new terminal significantly expanded the airport's capacity and amenities, positioning Abu Dhabi as a serious long-haul connecting hub alongside its larger neighbors Dubai and Doha. Zayed International [handled 28.8 million passengers in 2024](https://www.thenationalnews.com/business/aviation/2025/02/05/abu-dhabis-airports-handle-record-294-million-passengers-in-2024/), up sharply from 22.4 million in 2023 — a 28% jump as new airlines and routes launched alongside the new terminal.
 
 ## Terminals
 
@@ -108,6 +111,10 @@ Free, unlimited wifi is available throughout the new terminal with no time limit
 ## Where to Eat
 
 AUH has a good selection of Middle Eastern and international dining, reflecting the new terminal's significantly expanded amenities compared to the airport's previous facilities.
+
+## Airport Hotel
+
+**AUHotel** sits airside inside Terminal A itself — genuinely useful for transit passengers who can't leave security. It's a compact transit hotel built for short stays rather than a full-service resort, without its own dedicated restaurant, so pair a stay there with the terminal's own dining options nearby.
 
 ## Lounges
 

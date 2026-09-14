@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["saudi-arabia", "hub-saudia", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "35M+/year"
+  passengers: "37M+ (2024)"
   terminals: "5 (T1–T5)"
   distanceToCity: "35 km / 22 mi"
 security:
@@ -53,6 +53,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Saudi and international cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Radisson, on-site at the airport"
 spotlight:
   title: "Home to a brand-new national airline"
   text: "As part of Saudi Arabia's Vision 2030 development plans, Riyadh is being massively expanded and is set to become the home base of Riyadh Air, a brand-new national carrier — one of the most ambitious airline launches anywhere in the world in recent years."
@@ -63,7 +66,7 @@ King Khalid International Airport (IATA: **RUH**) is Saudi Arabia's capital gate
 
 ## Overview
 
-RUH operates five terminals and is undergoing significant expansion as part of Saudi Arabia's broader Vision 2030 development plans. The airport is set to become the home base of Riyadh Air, an entirely new national carrier being built essentially from scratch — one of the most ambitious airline launches anywhere in commercial aviation in recent memory, reflecting Riyadh's ambitions to become a major global aviation hub alongside Dubai and Doha.
+RUH operates five terminals and is undergoing significant expansion as part of Saudi Arabia's broader Vision 2030 development plans. The airport is set to become the home base of Riyadh Air, an entirely new national carrier being built essentially from scratch — one of the most ambitious airline launches anywhere in commercial aviation in recent memory, reflecting Riyadh's ambitions to become a major global aviation hub alongside Dubai and Doha. RUH [served more than 37 million passengers in 2024](https://qazinform.com/news/king-khalid-international-airport-sets-record-37mln-passengers-86-on-time-departures-in-2024-e20534), a new annual record and the world's top-ranked airport for on-time departure performance that year.
 
 ## Terminals
 
@@ -102,7 +105,11 @@ Free wifi is available in the terminals for travelers.
 
 ## Where to Eat
 
-RUH has a good selection of Saudi and broader international cuisine, reflecting the capital's role as a major business and government center.
+RUH has a good selection of Saudi and broader international cuisine, reflecting the capital's role as a major business and government center. At the on-site Radisson, **Lune** does chic all-day international dining, and **Kazbah Café** covers a more casual bite. Terminal 1's **Al Mamlaka Restaurant** serves traditional Saudi dishes like lamb kebabs and shawarma.
+
+## Airport Hotel
+
+The **Radisson Hotel Riyadh Airport** is genuinely on-site, making it a convenient option for an overnight layover without leaving the airport grounds. Beyond Lune and Kazbah Café, its location puts it close to Terminal 1's food court for additional options.
 
 ## Lounges
 

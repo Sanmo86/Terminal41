@@ -18,7 +18,7 @@ region: "europe"
 tags: ["austria", "hub-star-alliance", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "31M+/año"
+  passengers: "31,7M (2024)"
   terminals: "3 (1, 1A, 3)"
   distanceToCity: "18 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina austriaca y vienesa"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Moxy, a pasos de la terminal"
 spotlight:
   title: "Más vuelos directos al Este que cualquier otro hub de Europa Occidental"
   text: "Viena aprovecha su posición histórica como cruce entre Europa Occidental y Oriental, y la red de Austrian Airlines refleja ese legado — el aeropuerto ofrece más rutas directas a Europa del Este, los Balcanes y los antiguos estados soviéticos que cualquier otro hub de Europa Occidental, un nicho genuinamente distintivo entre los grandes aeropuertos europeos."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Viena (IATA: **VIE**) es el aeropuerto con más t
 
 ## Panorama general
 
-VIE opera tres terminales y ha construido un nicho genuinamente distintivo entre los grandes hubs europeos: aprovechando el papel histórico de Viena como cruce entre Europa Occidental y Oriental, el aeropuerto ofrece más conexiones directas a Europa del Este, los Balcanes y los antiguos estados soviéticos que cualquier otro aeropuerto de Europa Occidental. Ese legado, junto con valoraciones de servicio consistentemente altas, ha convertido a VIE en un punto de conexión fiable para viajeros con destino a esa región.
+VIE opera tres terminales y ha construido un nicho genuinamente distintivo entre los grandes hubs europeos: aprovechando el papel histórico de Viena como cruce entre Europa Occidental y Oriental, el aeropuerto ofrece más conexiones directas a Europa del Este, los Balcanes y los antiguos estados soviéticos que cualquier otro aeropuerto de Europa Occidental. Ese legado, junto con valoraciones de servicio consistentemente altas, ha convertido a VIE en un punto de conexión fiable para viajeros con destino a esa región. Flughafen Wien [registró 31,72 millones de pasajeros en 2024](https://simpleflying.com/passenger-numbers-europes-17th-largest-airport-2024/), un nuevo récord que superó por poco los 31,67 millones prepandemia de 2019.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-VIE tiene una buena selección de cocina austriaca y vienesa junto a cadenas internacionales, repartida por sus terminales.
+VIE tiene una buena selección de cocina austriaca y vienesa junto a cadenas internacionales, repartida por sus terminales. En el Moxy, el **Restaurant Johann** sirve platos austriacos regionales y de temporada, y la Terminal 3 añade opciones de mesa como **Jamie's Italian** y el **Vienna Skyline Bar & Restaurant** en el nivel 2.
+
+## Hotel en el aeropuerto
+
+El **Moxy Vienna Airport** está a pasos de la terminal — genuinamente andable, sin necesidad de shuttle. Además del Restaurant Johann, sus habitaciones compactas y de diseño lo convierten en una buena opción para una salida temprana o una llegada tardía sin aventurarse hasta la ciudad.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "asia"
 tags: ["taiwan", "hub-china-airlines", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "45M+/año"
+  passengers: "44,9M (2024)"
   terminals: "2 (T1, T2)"
   distanceToCity: "40 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina taiwanesa, food court estilo mercado nocturno"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hyatt Regency, conectado a la terminal"
 spotlight:
   title: "Un cine gratis mientras esperas tu vuelo"
   text: "Las terminales de Taoyuan incluyen un cine genuinamente gratuito junto con tranquilas salas de lectura y otros espacios de ocio construidos específicamente para pasajeros con tiempo por delante — parte de por qué está considerado constantemente uno de los aeropuertos más cómodos de Asia para escalas largas."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Taiwán Taoyuan (IATA: **TPE**) es la principal p
 
 ## Panorama general
 
-TPE opera dos terminales y está considerado constantemente entre los aeropuertos más cómodos para el pasajero de Asia, gracias a un servicio genuinamente poco habitual: un cine gratuito integrado en la terminal, junto con tranquilas salas de lectura y otros espacios de ocio dedicados diseñados específicamente para viajeros con tiempo por delante, más allá de las tiendas y restaurantes habituales.
+TPE opera dos terminales y está considerado constantemente entre los aeropuertos más cómodos para el pasajero de Asia, gracias a un servicio genuinamente poco habitual: un cine gratuito integrado en la terminal, junto con tranquilas salas de lectura y otros espacios de ocio dedicados diseñados específicamente para viajeros con tiempo por delante, más allá de las tiendas y restaurantes habituales. TPE [gestionó unos 44,9 millones de pasajeros en 2024](https://www.taiwannews.com.tw/news/6152296), un salto del 27% sobre 2023 que lo devolvió a en torno al 92% de su pico prepandemia de 2019.
 
 ## Terminales
 
@@ -107,7 +110,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-TPE tiene una excelente selección de cocina taiwanesa, incluyendo un genuino food court estilo mercado nocturno, junto a cadenas internacionales, repartida por ambas terminales.
+TPE tiene una excelente selección de cocina taiwanesa, incluyendo un genuino food court estilo mercado nocturno, junto a cadenas internacionales, repartida por ambas terminales. En el hotel conectado, **The South Square** ofrece un menú de todo el día basado en ingredientes orgánicos de granjas locales de Taoyuan, y **Wei Fang** sirve auténticos platos de Shanghái.
+
+## Hotel en el aeropuerto
+
+El **Hyatt Regency Taoyuan International Airport** (renombrado desde Novotel a principios de 2025) conecta directamente con la terminal — sin necesidad de shuttle. Además de The South Square y Wei Fang, tiene **Market Café** para una oferta internacional más informal, una opción genuinamente cómoda para una escala nocturna.
 
 ## Salas VIP
 

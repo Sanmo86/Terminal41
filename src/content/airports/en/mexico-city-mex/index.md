@@ -18,7 +18,7 @@ region: "americas"
 tags: ["mexico", "hub-aeromexico", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "50M+/year"
+  passengers: "45.4M (2024)"
   terminals: "2"
   distanceToCity: "5 km / 3 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Mexican regional cuisine, tacos"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "NH Collection, built into Terminal 2"
 spotlight:
   title: "One of the closest big-city airports to its downtown"
   text: "Despite being one of the busiest airports in the world, MEX sits just 5 km from Mexico City's historic Zócalo — closer to its downtown core than most major hub airports get to theirs."
@@ -67,7 +70,7 @@ Mexico City International Airport (IATA: **MEX**) is Mexico's busiest airport an
 
 ## Overview
 
-MEX operates two terminals connected by a free shuttle (Aerotrén) since they aren't linked airside. As Aeroméxico's main hub, it anchors an extensive domestic network across Mexico plus international routes throughout North America, Europe, and Asia as a SkyTeam member. The airport's central location — genuinely close to downtown rather than out in the suburbs — is one of its defining practical advantages for travelers.
+MEX operates two terminals connected by a free shuttle (Aerotrén) since they aren't linked airside. As Aeroméxico's main hub, it anchors an extensive domestic network across Mexico plus international routes throughout North America, Europe, and Asia as a SkyTeam member. The airport's central location — genuinely close to downtown rather than out in the suburbs — is one of its defining practical advantages for travelers. MEX [served 45.36 million passengers in 2024](https://mexicobusiness.news/aerospace/news/aicm-extends-multi-year-passenger-decline-2025), a real decline from 48.4 million in 2023 as regional airports and capacity constraints have chipped away at its market share.
 
 ## Terminals
 
@@ -110,7 +113,11 @@ Free wifi is available in the terminals with a time-limited free session.
 
 ## Where to Eat
 
-MEX has a strong selection of Mexican regional cuisine — real tacos and regional specialties, not just generic airport fare — alongside international chains, spread across both terminals.
+MEX has a strong selection of Mexican regional cuisine — real tacos and regional specialties, not just generic airport fare — alongside international chains, spread across both terminals. At the NH Collection, **Bottega** serves Italian and Argentine dishes for lunch and dinner, and **La Sagrada Terrace Bar** leans into Mexican cantina style with drinks and shareable plates.
+
+## Airport Hotel
+
+The **NH Collection Mexico City Airport T2** is built directly into Terminal 2 — no shuttle needed if that's your terminal. Beyond Bottega and La Sagrada, its breakfast buffet includes a live cooking station for made-to-order eggs, a genuinely solid option before an early flight.
 
 ## Lounges
 

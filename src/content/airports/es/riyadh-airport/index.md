@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["arabia-saudita", "hub-saudia", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "35M+/año"
+  passengers: "37M+ (2024)"
   terminals: "5 (T1–T5)"
   distanceToCity: "35 km"
 security:
@@ -53,6 +53,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina saudí"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Radisson, dentro del propio aeropuerto"
 spotlight:
   title: "Sede de una aerolínea nacional totalmente nueva"
   text: "Riad es la base de \"Riyadh Air\", una aerolínea nacional completamente nueva lanzada como parte del plan Visión 2030 de Arabia Saudita, junto a una masiva expansión del propio aeropuerto — una de las ampliaciones de aviación más ambiciosas actualmente en marcha en cualquier parte del mundo."
@@ -63,7 +66,7 @@ El Aeropuerto Internacional Rey Khalid (IATA: **RUH**) es el aeropuerto con más
 
 ## Panorama general
 
-RUH opera cinco terminales y se encuentra en medio de una expansión masiva mientras Arabia Saudita ejecuta su plan Visión 2030, que incluye el lanzamiento de "Riyadh Air", una aerolínea nacional completamente nueva construida desde cero. La ambición del proyecto convierte a RUH en uno de los proyectos de aviación más observados del mundo en este momento.
+RUH opera cinco terminales y se encuentra en medio de una expansión masiva mientras Arabia Saudita ejecuta su plan Visión 2030, que incluye el lanzamiento de "Riyadh Air", una aerolínea nacional completamente nueva construida desde cero. La ambición del proyecto convierte a RUH en uno de los proyectos de aviación más observados del mundo en este momento. RUH [sirvió a más de 37 millones de pasajeros en 2024](https://qazinform.com/news/king-khalid-international-airport-sets-record-37mln-passengers-86-on-time-departures-in-2024-e20534), un nuevo récord anual, y fue el aeropuerto mejor clasificado del mundo en puntualidad de salidas ese año.
 
 ## Terminales
 
@@ -102,7 +105,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 
 ## Dónde comer
 
-RUH tiene una buena selección de cocina saudí junto a cadenas internacionales, repartida por sus terminales.
+RUH tiene una buena selección de cocina saudí junto a cadenas internacionales, repartida por sus terminales. En el Radisson del propio aeropuerto, **Lune** ofrece una carta internacional elegante para todo el día, y **Kazbah Café** cubre algo más informal. El **Al Mamlaka Restaurant** de la Terminal 1 sirve platos tradicionales saudíes como kebabs de cordero y shawarma.
+
+## Hotel en el aeropuerto
+
+El **Radisson Hotel Riyadh Airport** está genuinamente dentro del recinto, lo que lo convierte en una opción cómoda para una escala nocturna sin salir del aeropuerto. Además de Lune y Kazbah Café, su ubicación lo deja cerca del food court de la Terminal 1 para más opciones.
 
 ## Salas VIP
 
