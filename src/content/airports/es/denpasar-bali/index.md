@@ -18,7 +18,7 @@ region: "asia"
 tags: ["indonesia", "hub-garuda-indonesia", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "24M+/año"
+  passengers: "23,9M (2024)"
   terminals: "2 (Nacional, Internacional)"
   distanceToCity: "13 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina indonesia y balinesa"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, pasillo entre terminales"
 spotlight:
   title: "Aterriza sobre el océano en una pista construida dentro del mar"
   text: "La pista del Aeropuerto Internacional de Ngurah Rai se amplió hacia el océano sobre terreno ganado al mar para dar cabida a aviones modernos más grandes, creando una de las aproximaciones finales más espectaculares de cualquier aeropuerto del mundo — los vuelos que llegan pasan bajo directamente sobre mar abierto justo antes de aterrizar. El aeropuerto lleva el nombre de I Gusti Ngurah Rai, un héroe nacional indonesio que lideró la resistencia contra las fuerzas coloniales holandesas y murió en combate en 1946, en vez de llevar el nombre de un lugar, como la mayoría de los aeropuertos."
 hubAirlines: ["Garuda Indonesia", "Citilink"]
 ---
 
-El Aeropuerto Internacional de Ngurah Rai (IATA: **DPS**) es la principal puerta de entrada a Bali y un hub clave de la red de Garuda Indonesia para el este de Indonesia, con más de 24 millones de pasajeros al año. Está a unos 13 km al sur de Denpasar, cerca de las populares zonas de Kuta y Seminyak.
+El Aeropuerto Internacional de Ngurah Rai (IATA: **DPS**) es la principal puerta de entrada a Bali y un hub clave de la red de Garuda Indonesia para el este de Indonesia. DPS [gestionó un récord de 23,9 millones de pasajeros en 2024](https://jakartaglobe.id/news/bali-airport-hits-record-high-with-239-million-passengers-in-2024), un aumento del 12% sobre 2023, impulsado por el tráfico internacional que subió un 22% hasta 14,1 millones. Está a unos 13 km al sur de Denpasar, cerca de las populares zonas de Kuta y Seminyak.
 
 ## Panorama general
 
@@ -108,7 +111,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-DPS tiene una excelente selección de cocina indonesia y balinesa junto a cadenas internacionales, repartida por ambas terminales.
+DPS tiene una excelente selección de cocina indonesia y balinesa junto a cadenas internacionales, repartida por ambas terminales. En el Novotel, **The Square Restaurant** y **GourmetBar** cubren la restauración principal, y **Run@way Bar** en la azotea tiene vistas al atardecer y a las pistas.
+
+## Hotel en el aeropuerto
+
+El **Novotel Bali Ngurah Rai Airport** está entre la terminal internacional y la nacional, conectado por un pasillo cubierto de unos 5–10 minutos a pie. Además del restaurante y el bar de azotea, tiene piscina exterior, gimnasio y spa — una opción genuinamente sólida para una escala larga.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["emiratos-arabes-unidos", "hub-air-arabia", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "10M+/año"
+  passengers: "17,1M (2024)"
   terminals: "1"
   distanceToCity: "15 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina emiratí"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Airport Hotel, dentro de seguridad"
 spotlight:
   title: "La base de bajo coste más activa del Golfo"
   text: "Sharjah es la sede de Air Arabia, una de las aerolíneas de bajo coste más activas y de mayor trayectoria de Oriente Medio, lo que le da a este aeropuerto un carácter genuinamente distinto al de sus vecinos más llamativos de Dubái y Abu Dabi. La propia Sharjah está oficialmente reconocida como la capital cultural de los EAU y es el único emirato del país donde no se vende alcohol, con un ambiente marcadamente diferente al resto de los EAU."
 hubAirlines: ["Air Arabia"]
 ---
 
-El Aeropuerto Internacional de Sharjah (IATA: **SHJ**) es una puerta de entrada importante de los Emiratos Árabes Unidos y la base principal de Air Arabia, una de las aerolíneas de bajo coste más activas de Oriente Medio, con más de 10 millones de pasajeros al año. Está a unos 15 km al sureste del centro de Sharjah, aproximadamente 25 km de Dubái.
+El Aeropuerto Internacional de Sharjah (IATA: **SHJ**) es una puerta de entrada importante de los Emiratos Árabes Unidos y la base principal de Air Arabia, una de las aerolíneas de bajo coste más activas de Oriente Medio. SHJ [recibió a 17,1 millones de pasajeros en 2024](https://sharjah24.ae/en/Articles/2025/01/13/aa5), un salto del 11,4% sobre 2023. Está a unos 15 km al sureste del centro de Sharjah, aproximadamente 25 km de Dubái.
 
 ## Panorama general
 
@@ -103,6 +106,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 SHJ tiene una buena selección de cocina emiratí junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+El **Sharjah Airport Hotel**, gestionado por Flora Hospitality, está genuinamente dentro de seguridad, cerca de las puertas de embarque — una mezcla de habitaciones deluxe, cápsulas individuales y dormitorios compartidos para escalas de presupuesto ajustado, con su propia cafetería y un restaurante que sirve platos americanos, chinos e indios con opciones halal.
 
 ## Salas VIP
 

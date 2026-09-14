@@ -18,7 +18,7 @@ region: "africa"
 tags: ["tanzania", "hub-precision-air", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "2M+/año"
+  passengers: "2,9M (2024)"
   terminals: "1 (Terminal 3, inaugurada en 2013)"
   distanceToCity: "12 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina tanzana y de la costa suajili"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno todavía; uno está en planificación"
 spotlight:
   title: "El auténtico punto de partida a los safaris del Serengeti y Zanzíbar"
   text: "Mientras que Zanzíbar y el Serengeti se llevan las postales, el aeropuerto de Dar es Salaam es la puerta continental por la que en realidad pasa primero la mayoría de viajeros internacionales — conectando después mediante vuelos domésticos cortos hacia las pistas de safari y hacia las playas de Zanzíbar, lo que lo convierte en el auténtico centro logístico detrás de los grandes atractivos turísticos de Tanzania."
 hubAirlines: ["Precision Air"]
 ---
 
-El Aeropuerto Internacional Julius Nyerere (IATA: **DAR**) es la principal puerta de entrada internacional de Tanzania y la base de Precision Air, con más de 2 millones de pasajeros al año. Está a unos 12 km al suroeste del centro de Dar es Salaam.
+El Aeropuerto Internacional Julius Nyerere (IATA: **DAR**) es la principal puerta de entrada internacional de Tanzania y la base de Precision Air. DAR [gestionó unos 2,9 millones de pasajeros en 2024](https://www.unisco.com/international-airports/julius-nyerere-intl-airport), repartidos de forma bastante equilibrada entre tráfico nacional e internacional. Está a unos 12 km al suroeste del centro de Dar es Salaam.
 
 ## Panorama general
 
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 DAR tiene una buena selección de cocina tanzana y de la costa suajili junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+DAR todavía no tiene un hotel en el propio recinto. La Autoridad de Aeropuertos de Tanzania anunció en 2022 planes para un hotel de cuatro estrellas y un complejo comercial en el aeropuerto mediante una asociación público-privada, y el proceso de contratación ya ha empezado — pero por ahora, cuenta con un hotel en la ciudad, la mayoría con shuttle al aeropuerto coordinado con los vuelos.
 
 ## Salas VIP
 

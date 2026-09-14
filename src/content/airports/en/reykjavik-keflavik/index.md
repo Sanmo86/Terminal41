@@ -18,7 +18,7 @@ region: "europe"
 tags: ["iceland", "hub-icelandair", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "9M+/year"
+  passengers: "8.3M (2024)"
   terminals: "1"
   distanceToCity: "50 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Icelandic seafood and lamb"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Courtyard, ~100m from the terminal"
 spotlight:
   title: "Landing on a lava field in one of the world's most volcanic countries"
   text: "Keflavík International Airport sits on the Reykjanes peninsula, a stretch of Iceland with one of the highest concentrations of active volcanic systems anywhere on Earth — several have erupted within a few kilometers of the airport in recent years. Iceland itself runs almost entirely on renewable geothermal and hydroelectric power, a striking contrast that makes the approach genuinely unlike landing anywhere else."
 hubAirlines: ["Icelandair", "Play"]
 ---
 
-Keflavík International Airport (IATA: **KEF**) is Iceland's main international gateway and the hub of Icelandair, with more than 9 million passengers a year. It sits about 50 km southwest of central Reykjavík, on the volcanically active Reykjanes peninsula.
+Keflavík International Airport (IATA: **KEF**) is Iceland's main international gateway and the hub of Icelandair. KEF [welcomed 8.3 million passengers in 2024](https://www.aviation24.be/airports/keflavik-airport-kef/keflavik-airport-welcomes-8-3-million-passengers-in-2024-sees-transit-growth/), a 7.1% increase and the second-busiest year in the airport's history, with transit passengers making up nearly a third of the total. It sits about 50 km southwest of central Reykjavík, on the volcanically active Reykjanes peninsula.
 
 ## Overview
 
@@ -107,7 +110,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-KEF has a solid selection of Icelandic seafood and lamb dishes alongside international chains, spread across the terminal.
+KEF has a solid selection of Icelandic seafood and lamb dishes alongside international chains, spread across the terminal. At the Courtyard, **Langbest Restaurant** handles the on-site dining.
+
+## Airport Hotel
+
+The **Courtyard by Marriott Reykjavik Keflavik Airport** is about 100 meters — genuinely walking distance — from the terminal, with a Marriott Bonvoy-member shuttle running 4:30–8:30am for those who'd rather not walk. Beyond Langbest, it has a second restaurant and bar.
 
 ## Lounges
 

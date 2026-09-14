@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["nueva-zelanda", "hub-air-new-zealand", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "5M+/año"
+  passengers: "5,5M (año fiscal 2023/24)"
   terminals: "1"
   distanceToCity: "8 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina neozelandesa, cultura del café"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Rydges, integrado en la terminal"
 spotlight:
   title: "Levanta la vista y busca el águila gigante de El Señor de los Anillos"
   text: "Una escultura masiva del águila Gwaihir llevando a Gandalf cuelga del techo de la terminal — un homenaje al estatus de Wellington como sede de Weta Workshop, el estudio de efectos especiales detrás de las películas de El Señor de los Anillos y El Hobbit, y una pieza de arte de aeropuerto genuinamente llamativa e imposible de pasar por alto."
 hubAirlines: ["Air New Zealand"]
 ---
 
-El Aeropuerto Internacional de Wellington (IATA: **WLG**) es el tercer aeropuerto con más tráfico de Nueva Zelanda y un hub nacional clave para Air New Zealand, con más de 5 millones de pasajeros al año. Está a unos 8 km al sureste del centro de Wellington.
+El Aeropuerto Internacional de Wellington (IATA: **WLG**) es el tercer aeropuerto con más tráfico de Nueva Zelanda y un hub nacional clave para Air New Zealand. WLG [transportó a 5,5 millones de pasajeros en el año hasta marzo de 2024](https://www.wellingtonairport.co.nz/news/airport-updates/wellington-airport-reports-growth-in-passengers-and-earnings/), casi 200.000 más que el año anterior y en torno al 89% de los niveles prepandemia — los aeropuertos neozelandeses informan por año fiscal de abril a marzo, no por año calendario. Está a unos 8 km al sureste del centro de Wellington.
 
 ## Panorama general
 
@@ -107,7 +110,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-WLG tiene una buena selección de cocina neozelandesa y una sólida cultura del café junto a cadenas internacionales, repartida por la terminal.
+WLG tiene una buena selección de cocina neozelandesa y una sólida cultura del café junto a cadenas internacionales, repartida por la terminal. En el Rydges, **Good Day**, **Whiskey Lima Golf** y **Peloton Bar & Eatery** cubren el extremo norte de la terminal, y **United Brew Works** está más cerca del lado nacional.
+
+## Hotel en el aeropuerto
+
+El **Rydges Wellington Airport** es el primer hotel de aeropuerto totalmente integrado de Nueva Zelanda — genuinamente construido sobre la terminal internacional, con acceso directo desde la sala de pasajeros en vez de un paseo o shuttle aparte. La mayoría de habitaciones dan a la bahía de Lyall y a la pista, y hay tarifas de day-use disponibles para una escala larga.
 
 ## Salas VIP
 

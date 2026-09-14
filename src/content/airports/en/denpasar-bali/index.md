@@ -18,7 +18,7 @@ region: "asia"
 tags: ["indonesia", "hub-garuda-indonesia", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "24M+/year"
+  passengers: "23.9M (2024)"
   terminals: "2 (Domestic, International)"
   distanceToCity: "13 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Indonesian and Balinese cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, walkway between terminals"
 spotlight:
   title: "Landing over the ocean on a runway built into the sea"
   text: "Ngurah Rai International Airport's runway was extended out into the ocean on reclaimed land to accommodate larger modern jets, creating one of the most scenic final approaches of any airport in the world — passengers fly in low directly over open water. The airport is named after I Gusti Ngurah Rai, an Indonesian national hero who led resistance against Dutch colonial forces and died in battle in 1946, not after a place, unlike most airport names."
 hubAirlines: ["Garuda Indonesia", "Citilink"]
 ---
 
-Ngurah Rai International Airport (IATA: **DPS**) is Bali's main gateway and a key hub for Garuda Indonesia's eastern Indonesia network, with more than 24 million passengers a year. It sits about 13 km south of Denpasar, close to the popular Kuta and Seminyak areas.
+Ngurah Rai International Airport (IATA: **DPS**) is Bali's main gateway and a key hub for Garuda Indonesia's eastern Indonesia network. DPS [handled a record 23.9 million passengers in 2024](https://jakartaglobe.id/news/bali-airport-hits-record-high-with-239-million-passengers-in-2024), a 12% increase on 2023, driven by international traffic up 22% to 14.1 million. It sits about 13 km south of Denpasar, close to the popular Kuta and Seminyak areas.
 
 ## Overview
 
@@ -108,7 +111,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-DPS has a strong selection of Indonesian and Balinese cuisine alongside international chains, spread across both terminals.
+DPS has a strong selection of Indonesian and Balinese cuisine alongside international chains, spread across both terminals. At the Novotel, **The Square Restaurant** and **GourmetBar** cover the main dining, and **Run@way Bar** on the rooftop has sunset and runway views.
+
+## Airport Hotel
+
+The **Novotel Bali Ngurah Rai Airport** sits between the international and domestic terminals, connected by a covered walkway about a 5–10 minute walk. Beyond the restaurant and rooftop bar, it has an outdoor pool, gym, and spa — a genuinely solid pick for a long layover.
 
 ## Lounges
 

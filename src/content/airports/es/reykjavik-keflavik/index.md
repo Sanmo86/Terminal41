@@ -18,7 +18,7 @@ region: "europe"
 tags: ["islandia", "hub-icelandair", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "9M+/año"
+  passengers: "8,3M (2024)"
   terminals: "1"
   distanceToCity: "50 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Marisco y cordero islandés"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Courtyard, a ~100 m de la terminal"
 spotlight:
   title: "Aterriza sobre un campo de lava en uno de los países más volcánicos del mundo"
   text: "El Aeropuerto Internacional de Keflavík está en la península de Reykjanes, una zona de Islandia con una de las mayores concentraciones de sistemas volcánicos activos del planeta — varios han entrado en erupción a pocos kilómetros del aeropuerto en los últimos años. Islandia funciona casi enteramente con energía geotérmica e hidroeléctrica renovable, un contraste llamativo que hace que la aproximación sea genuinamente distinta a aterrizar en cualquier otro lugar."
 hubAirlines: ["Icelandair", "Play"]
 ---
 
-El Aeropuerto Internacional de Keflavík (IATA: **KEF**) es la principal puerta de entrada internacional de Islandia y el hub de Icelandair, con más de 9 millones de pasajeros al año. Está a unos 50 km al suroeste del centro de Reikiavik, en la península de Reykjanes, volcánicamente activa.
+El Aeropuerto Internacional de Keflavík (IATA: **KEF**) es la principal puerta de entrada internacional de Islandia y el hub de Icelandair. KEF [recibió a 8,3 millones de pasajeros en 2024](https://www.aviation24.be/airports/keflavik-airport-kef/keflavik-airport-welcomes-8-3-million-passengers-in-2024-sees-transit-growth/), un aumento del 7,1% y el segundo año con más tráfico de la historia del aeropuerto, con los pasajeros en tránsito representando casi un tercio del total. Está a unos 50 km al suroeste del centro de Reikiavik, en la península de Reykjanes, volcánicamente activa.
 
 ## Panorama general
 
@@ -107,7 +110,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-KEF tiene una buena selección de marisco y cordero islandés junto a cadenas internacionales, repartida por la terminal.
+KEF tiene una buena selección de marisco y cordero islandés junto a cadenas internacionales, repartida por la terminal. En el Courtyard, **Langbest Restaurant** se encarga de la restauración del hotel.
+
+## Hotel en el aeropuerto
+
+El **Courtyard by Marriott Reykjavik Keflavik Airport** está a unos 100 metros — genuinamente a pie — de la terminal, con un shuttle exclusivo para miembros de Marriott Bonvoy de 4:30 a 8:30 para quien prefiera no caminar. Además de Langbest, tiene un segundo restaurante y bar.
 
 ## Salas VIP
 

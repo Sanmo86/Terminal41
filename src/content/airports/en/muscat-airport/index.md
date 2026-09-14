@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["oman", "hub-oman-air", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "14M+/year"
+  passengers: "12.9M (2024)"
   terminals: "1 (new terminal, opened 2018)"
   distanceToCity: "32 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Omani cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Aerotel, airside in Departures"
 spotlight:
   title: "The Gulf hub that skipped the glass-tower look"
   text: "While its neighbors in Dubai, Doha, and Abu Dhabi compete with ever-taller glass mega-terminals, Muscat's new terminal — opened in 2018 — was deliberately designed around traditional Omani architectural motifs instead, a genuinely distinctive choice among Gulf hubs that mirrors Oman's broader reputation for a quieter, more traditional identity in the region."
 hubAirlines: ["Oman Air"]
 ---
 
-Muscat International Airport (IATA: **MCT**) is Oman's busiest airport and the primary hub of Oman Air, with more than 14 million passengers a year. It sits about 32 km northwest of central Muscat.
+Muscat International Airport (IATA: **MCT**) is Oman's busiest airport and the primary hub of Oman Air. MCT [handled 12.9 million passengers in 2024](https://www.aaco.org/media-center/news/industry/muscat-international-airport-handles-12-9-million-passengers-in-2024), according to Oman's National Centre for Statistics and Information, a modest 0.8% increase on 2023. It sits about 32 km northwest of central Muscat.
 
 ## Overview
 
@@ -108,6 +111,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 MCT has a good selection of Omani cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+**Aerotel Muscat** is genuinely airside, on Level 5 within the departures area's secured zone — no need to clear security again. Bookable by the hour or overnight, it's been voted Oman's leading airport hotel for six years running, with 24-hour room service standing in for a full restaurant.
 
 ## Lounges
 

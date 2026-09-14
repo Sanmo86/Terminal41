@@ -18,7 +18,7 @@ region: "africa"
 tags: ["tanzania", "hub-precision-air", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "2M+/year"
+  passengers: "2.9M (2024)"
   terminals: "1 (Terminal 3, opened 2013)"
   distanceToCity: "12 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Tanzanian and Swahili coast cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None yet; one is in planning"
 spotlight:
   title: "The real launch point for Serengeti safaris and Zanzibar"
   text: "While Zanzibar and the Serengeti get the postcards, Dar es Salaam's airport is the mainland gateway most international travelers actually pass through first — connecting onward via short domestic flights to safari airstrips and to Zanzibar's beaches, making it the genuine logistical hub behind Tanzania's biggest tourist draws."
 hubAirlines: ["Precision Air"]
 ---
 
-Julius Nyerere International Airport (IATA: **DAR**) is Tanzania's main international gateway and the base of Precision Air, with more than 2 million passengers a year. It sits about 12 km southwest of central Dar es Salaam.
+Julius Nyerere International Airport (IATA: **DAR**) is Tanzania's main international gateway and the base of Precision Air. DAR [handled about 2.9 million passengers in 2024](https://www.unisco.com/international-airports/julius-nyerere-intl-airport), split roughly evenly between domestic and international traffic. It sits about 12 km southwest of central Dar es Salaam.
 
 ## Overview
 
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 DAR has a good selection of Tanzanian and Swahili coast cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+DAR doesn't have a hotel on-site yet. The Tanzania Airports Authority announced plans back in 2022 for a four-star hotel and commercial complex at the airport through a public-private partnership, and procurement has since started — but for now, plan on a hotel in the city, with most offering airport shuttles timed to flights.
 
 ## Lounges
 

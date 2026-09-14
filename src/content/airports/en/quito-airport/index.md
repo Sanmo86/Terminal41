@@ -18,7 +18,7 @@ region: "americas"
 tags: ["ecuador", "hub-latam-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "5M+/year"
+  passengers: "5.3M (2024)"
   terminals: "1"
   distanceToCity: "18 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Ecuadorian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Wyndham, 5-min walkway"
 spotlight:
   title: "Land between snow-capped volcanoes on your way to the Galápagos"
   text: "Sitting at more than 2,400 meters above sea level and ringed by snow-capped Andean volcanoes, Quito's airport offers a genuinely dramatic approach — and for many travelers, it's also a connecting point on the way to the Galápagos Islands, one of the world's most famous wildlife destinations."
 hubAirlines: ["LATAM Airlines"]
 ---
 
-Mariscal Sucre International Airport (IATA: **UIO**) is Ecuador's main gateway alongside Guayaquil, with more than 5 million passengers a year. It sits about 18 km east of central Quito, high in the Andes.
+Mariscal Sucre International Airport (IATA: **UIO**) is Ecuador's main gateway alongside Guayaquil. UIO [closed 2024 with about 5.3 million passengers](https://www.nlarenas.com/en/2025/01/aeropuerto-quito-cerro-2024-5-3-millones-pasajeros/), a roughly 1% dip from 2023 that left traffic essentially stable. It sits about 18 km east of central Quito, high in the Andes.
 
 ## Overview
 
@@ -107,7 +110,11 @@ Free wifi is available in the terminal with a time-limited free session.
 
 ## Where to Eat
 
-UIO has a good selection of Ecuadorian cuisine alongside international chains, spread across the terminal.
+UIO has a good selection of Ecuadorian cuisine alongside international chains, spread across the terminal. At the Wyndham, **Gran Cóndor** is the main restaurant.
+
+## Airport Hotel
+
+The **Wyndham Quito Airport** is about a 5-minute walk from the terminal via a signposted walkway, with a free shuttle also running every half hour around the clock. Beyond Gran Cóndor, it has a pool, gym, and spa — a solid option before or after a Galápagos connection.
 
 ## Lounges
 

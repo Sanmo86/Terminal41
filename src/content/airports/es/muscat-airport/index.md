@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["oman", "hub-oman-air", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "14M+/año"
+  passengers: "12,9M (2024)"
   terminals: "1 (nueva terminal, inaugurada en 2018)"
   distanceToCity: "32 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina omaní"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Aerotel, en zona de embarque"
 spotlight:
   title: "El hub del Golfo que rompió con las torres de cristal"
   text: "Mientras sus vecinos en Dubái, Doha y Abu Dabi compiten con megaterminales de cristal cada vez más altas, la nueva terminal de Mascate — inaugurada en 2018 — se diseñó deliberadamente en torno a motivos arquitectónicos omaníes tradicionales — una elección genuinamente distintiva entre los hubs del Golfo que refleja la reputación más tranquila y tradicional de Omán en la región."
 hubAirlines: ["Oman Air"]
 ---
 
-El Aeropuerto Internacional de Mascate (IATA: **MCT**) es el aeropuerto con más tráfico de Omán y el hub principal de Oman Air, con más de 14 millones de pasajeros al año. Está a unos 32 km al noroeste del centro de Mascate.
+El Aeropuerto Internacional de Mascate (IATA: **MCT**) es el aeropuerto con más tráfico de Omán y el hub principal de Oman Air. MCT [gestionó 12,9 millones de pasajeros en 2024](https://www.aaco.org/media-center/news/industry/muscat-international-airport-handles-12-9-million-passengers-in-2024), según el Centro Nacional de Estadística e Información de Omán, un modesto aumento del 0,8% sobre 2023. Está a unos 32 km al noroeste del centro de Mascate.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 MCT tiene una buena selección de cocina omaní junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+**Aerotel Muscat** está genuinamente en zona de embarque, en el Nivel 5 dentro de la zona segura de salidas — sin necesidad de volver a pasar seguridad. Reservable por horas o para pasar la noche, ha sido votado como el mejor hotel de aeropuerto de Omán seis años consecutivos, con servicio de habitaciones 24 horas en lugar de un restaurante completo.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["nueva-zelanda", "hub-air-new-zealand", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "6M+/año"
+  passengers: "6,25M (año fiscal 2023/24)"
   terminals: "1 (Nacional + Internacional)"
   distanceToCity: "10 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina neozelandesa"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, a pie, sin shuttle"
 spotlight:
   title: "Una de las pocas puertas reales del mundo hacia la Antártida"
   text: "Christchurch es una de solo un puñado de ciudades del mundo utilizadas como punto de lanzamiento real para operaciones antárticas — alberga bases logísticas de los programas antárticos de Estados Unidos, Nueva Zelanda e Italia, y vuelos especializados salen directamente desde aquí hacia la Estación McMurdo y Scott Base durante el verano austral."
 hubAirlines: ["Air New Zealand"]
 ---
 
-El Aeropuerto Internacional de Christchurch (IATA: **CHC**) es el principal aeropuerto de la Isla Sur y un hub clave para Air New Zealand, con más de 6 millones de pasajeros al año. Está a unos 10 km al noroeste del centro de Christchurch.
+El Aeropuerto Internacional de Christchurch (IATA: **CHC**) es el principal aeropuerto de la Isla Sur y un hub clave para Air New Zealand. CHC [transportó a 6,25 millones de pasajeros en el año fiscal 2024](https://www.christchurchairport.co.nz/globalassets/about-us/who-we-are/financial-reports/2024-annual-review.pdf), un aumento del 10% sobre el año anterior — los aeropuertos neozelandeses informan por año fiscal de abril a marzo, no por año calendario. Está a unos 10 km al noroeste del centro de Christchurch.
 
 ## Panorama general
 
@@ -107,7 +110,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-CHC tiene una buena selección de cocina neozelandesa junto a cadenas internacionales, repartida por la terminal.
+CHC tiene una buena selección de cocina neozelandesa junto a cadenas internacionales, repartida por la terminal. En el Novotel, **Food Exchange** cubre desayuno, comida y cena, y el restaurante de la última planta tiene vistas panorámicas a los Alpes del Sur.
+
+## Hotel en el aeropuerto
+
+El **Novotel Christchurch Airport** está justo fuera de las terminales nacional e internacional — genuinamente a pie, sin necesidad de shuttle. Además de Food Exchange, su última planta es una buena opción para una comida con vistas incluso sin pasar la noche.
 
 ## Salas VIP
 

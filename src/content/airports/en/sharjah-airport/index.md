@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["united-arab-emirates", "hub-air-arabia", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "10M+/year"
+  passengers: "17.1M (2024)"
   terminals: "1"
   distanceToCity: "15 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Emirati cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Airport Hotel, inside security"
 spotlight:
   title: "The Gulf's busiest low-cost carrier base"
   text: "Sharjah is home to Air Arabia, one of the busiest and longest-running low-cost carriers in the Middle East, giving this airport a genuinely different character from its flashier neighbors in Dubai and Abu Dhabi. Sharjah itself is officially recognized as the UAE's cultural capital and is the country's only alcohol-free emirate, with a distinctly different atmosphere from the rest of the UAE."
 hubAirlines: ["Air Arabia"]
 ---
 
-Sharjah International Airport (IATA: **SHJ**) is a major gateway in the United Arab Emirates and the home base of Air Arabia, one of the busiest low-cost carriers in the Middle East, with more than 10 million passengers a year. It sits about 15 km southeast of central Sharjah, roughly 25 km from Dubai.
+Sharjah International Airport (IATA: **SHJ**) is a major gateway in the United Arab Emirates and the home base of Air Arabia, one of the busiest low-cost carriers in the Middle East. SHJ [welcomed 17.1 million passengers in 2024](https://sharjah24.ae/en/Articles/2025/01/13/aa5), an 11.4% jump on 2023. It sits about 15 km southeast of central Sharjah, roughly 25 km from Dubai.
 
 ## Overview
 
@@ -103,6 +106,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 SHJ has a good selection of Emirati cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+The **Sharjah Airport Hotel**, managed by Flora Hospitality, is genuinely inside security, close to the departure gates — a mix of deluxe rooms, capsule-style pods, and shared dorm rooms for budget-conscious layovers, with its own café and a restaurant serving American, Chinese, and Indian dishes with halal options.
 
 ## Lounges
 

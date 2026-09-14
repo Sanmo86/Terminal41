@@ -18,7 +18,7 @@ region: "americas"
 tags: ["ecuador", "hub-latam-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "5M+/año"
+  passengers: "5,3M (2024)"
   terminals: "1"
   distanceToCity: "18 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina ecuatoriana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Wyndham, pasillo de 5 min"
 spotlight:
   title: "Aterriza entre volcanes nevados camino a las Galápagos"
   text: "Situado a más de 2.400 metros sobre el nivel del mar y rodeado de volcanes andinos nevados, el aeropuerto de Quito ofrece una aproximación genuinamente dramática — y para muchos viajeros, también es un punto de conexión camino a las Islas Galápagos, uno de los destinos de fauna salvaje más famosos del mundo."
 hubAirlines: ["LATAM Airlines"]
 ---
 
-El Aeropuerto Internacional Mariscal Sucre (IATA: **UIO**) es la principal puerta de entrada de Ecuador junto con Guayaquil, con más de 5 millones de pasajeros al año. Está a unos 18 km al este del centro de Quito, en plena cordillera andina.
+El Aeropuerto Internacional Mariscal Sucre (IATA: **UIO**) es la principal puerta de entrada de Ecuador junto con Guayaquil. UIO [cerró 2024 con unos 5,3 millones de pasajeros](https://www.nlarenas.com/en/2025/01/aeropuerto-quito-cerro-2024-5-3-millones-pasajeros/), un descenso de aproximadamente el 1% sobre 2023 que dejó el tráfico prácticamente estable. Está a unos 18 km al este del centro de Quito, en plena cordillera andina.
 
 ## Panorama general
 
@@ -107,7 +110,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 
 ## Dónde comer
 
-UIO tiene una buena selección de cocina ecuatoriana junto a cadenas internacionales, repartida por la terminal.
+UIO tiene una buena selección de cocina ecuatoriana junto a cadenas internacionales, repartida por la terminal. En el Wyndham, **Gran Cóndor** es el restaurante principal.
+
+## Hotel en el aeropuerto
+
+El **Wyndham Quito Airport** está a unos 5 minutos a pie de la terminal por un pasillo señalizado, con un shuttle gratuito también cada media hora las 24 horas. Además de Gran Cóndor, tiene piscina, gimnasio y spa — una buena opción antes o después de una conexión a las Galápagos.
 
 ## Salas VIP
 

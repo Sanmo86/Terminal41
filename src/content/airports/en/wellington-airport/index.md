@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["new-zealand", "hub-air-new-zealand", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "5M+/year"
+  passengers: "5.5M (FY2023/24)"
   terminals: "1"
   distanceToCity: "8 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "New Zealand cuisine, coffee culture"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Rydges, built into the terminal"
 spotlight:
   title: "Look up for the giant eagle from Lord of the Rings"
   text: "A massive sculpture of the eagle Gwaihir carrying Gandalf hangs from the terminal ceiling — a tribute to Wellington's status as home to Weta Workshop, the special-effects studio behind the Lord of the Rings and Hobbit films, and a genuinely striking, unmissable piece of airport art."
 hubAirlines: ["Air New Zealand"]
 ---
 
-Wellington International Airport (IATA: **WLG**) is New Zealand's third-busiest airport and a key domestic hub for Air New Zealand, with more than 5 million passengers a year. It sits about 8 km southeast of central Wellington.
+Wellington International Airport (IATA: **WLG**) is New Zealand's third-busiest airport and a key domestic hub for Air New Zealand. WLG [carried 5.5 million passengers in the year to March 2024](https://www.wellingtonairport.co.nz/news/airport-updates/wellington-airport-reports-growth-in-passengers-and-earnings/), almost 200,000 more than the year before and about 89% of pre-Covid levels — New Zealand airports report on an April-to-March financial year rather than the calendar year. It sits about 8 km southeast of central Wellington.
 
 ## Overview
 
@@ -107,7 +110,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-WLG has a good selection of New Zealand cuisine and strong coffee culture alongside international chains, spread across the terminal.
+WLG has a good selection of New Zealand cuisine and strong coffee culture alongside international chains, spread across the terminal. At the Rydges, **Good Day**, **Whiskey Lima Golf**, and **Peloton Bar & Eatery** cover the terminal's north end, and **United Brew Works** sits closer to the domestic side.
+
+## Airport Hotel
+
+The **Rydges Wellington Airport** is New Zealand's first fully integrated airport hotel — genuinely built above the international terminal, with direct access from the passenger lounge rather than a separate walk or shuttle. Most rooms look out over Lyall Bay and the runway, and day-use rates are available for a long layover.
 
 ## Lounges
 
