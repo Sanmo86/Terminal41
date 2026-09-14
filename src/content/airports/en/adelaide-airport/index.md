@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "8M+/year"
+  passengers: "8.5M (FY2023/24)"
   terminals: "1"
   distanceToCity: "7 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "South Australian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Atura, direct walkway from check-in"
 spotlight:
   title: "An hour from some of the world's most famous wine country"
   text: "Adelaide Airport sits genuinely close to both the city and, beyond it, some of the world's most famous wine-growing regions — the Barossa Valley and McLaren Vale are both under an hour's drive, making ADL a legitimately excellent starting point for a wine-focused trip, not just a transit stop."
 hubAirlines: ["Qantas", "Virgin Australia"]
 ---
 
-Adelaide Airport (IATA: **ADL**) is South Australia's main airport and a hub for both Qantas and Virgin Australia, with more than 8 million passengers a year. It sits about 7 km west of central Adelaide — genuinely close by major-airport standards.
+Adelaide Airport (IATA: **ADL**) is South Australia's main airport and a hub for both Qantas and Virgin Australia. ADL [carried more than 8.5 million passengers in the 2024 financial year](https://australianaviation.com.au/2024/04/adelaide-becomes-latest-airport-to-break-pre-pandemic-records/), a 10% increase on the year before and above its pre-pandemic FY19 total — Australian airports report on a July-to-June financial year rather than the calendar year. It sits about 7 km west of central Adelaide — genuinely close by major-airport standards.
 
 ## Overview
 
@@ -107,7 +110,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-ADL has a good selection of South Australian cuisine alongside international chains, spread across the terminal.
+ADL has a good selection of South Australian cuisine alongside international chains, spread across the terminal. At the Atura, **Hangar Bar & Grill** covers the on-site dining.
+
+## Airport Hotel
+
+The **Atura Adelaide Airport** connects directly to both the domestic and international check-in areas via a covered walkway — genuinely no shuttle needed. Beyond Hangar Bar & Grill, its retro-industrial design has made it a destination in its own right, not just a convenient bed before a flight.
 
 ## Lounges
 

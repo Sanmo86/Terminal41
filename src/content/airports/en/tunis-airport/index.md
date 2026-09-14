@@ -18,7 +18,7 @@ region: "africa"
 tags: ["tunisia", "hub-tunisair", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "7M+/year"
+  passengers: "7.25M (2024)"
   terminals: "1"
   distanceToCity: "8 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Tunisian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Golden Tulip ~15 min away"
 spotlight:
   title: "A short ride from the ruins of ancient Carthage"
   text: "Tunis-Carthage International Airport takes its name directly from Carthage, one of the great trading powers of the ancient Mediterranean world and a UNESCO World Heritage Site — genuinely just a short trip from the airport, making it possible to walk among ruins that once rivaled ancient Rome."
 hubAirlines: ["Tunisair"]
 ---
 
-Tunis-Carthage International Airport (IATA: **TUN**) is Tunisia's main international gateway and the primary hub of Tunisair, with more than 7 million passengers a year. It sits about 8 km northeast of central Tunis.
+Tunis-Carthage International Airport (IATA: **TUN**) is Tunisia's main international gateway and the primary hub of Tunisair. TUN [welcomed 7.25 million passengers in 2024](https://en.africanmanager.com/tunisian-airports-a-record-number-of-passengers-in-2024/), an 8.8% increase on 2023 and a new record, operating well above its original 5-million design capacity. It sits about 8 km northeast of central Tunis.
 
 ## Overview
 
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 TUN has a good selection of Tunisian cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+TUN doesn't have a hotel on-site. The **Golden Tulip El Mechtel** is about 5 km away, roughly a 15-minute drive.
 
 ## Lounges
 

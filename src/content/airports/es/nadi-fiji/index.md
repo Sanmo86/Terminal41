@@ -53,6 +53,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina fiyiana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Tanoa a ~3 min"
 spotlight:
   title: "La puerta de entrada al Pacífico Sur"
   text: "Pese a su tamaño modesto, Nadi es la puerta aérea esencial que conecta más de una docena de naciones insulares del Pacífico Sur con Australia, Nueva Zelanda, Norteamérica y Asia — un punto de conexión regional genuinamente vital pese a manejar una fracción del tráfico de los grandes hubs mundiales."
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 NAN tiene una selección de auténtica cocina fiyiana junto a algunas opciones internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+NAN no tiene un hotel en el propio recinto. El **Tanoa International Hotel**, la opción cercana más conocida del aeropuerto, está a unos 3 minutos entre 16 acres de jardines tropicales, con cinco espacios gastronómicos y shuttle gratuito.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "4M+/año"
+  passengers: "4,7M (2024)"
   terminals: "1"
   distanceToCity: "7 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina del norte tropical de Queensland"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; hoteles en el centro"
 spotlight:
   title: "La auténtica puerta a la Gran Barrera de Coral"
   text: "Aunque la Gran Barrera de Coral se extiende por gran parte de la costa noreste de Australia, Cairns es el auténtico centro logístico desde el que en realidad salen la mayoría de los operadores de excursiones al arrecife — convirtiendo a este aeropuerto regional relativamente modesto en el punto de partida real de una de las estructuras vivas más grandes del mundo, no las grandes ciudades que los viajeros podrían esperar."
 hubAirlines: ["Qantas", "Jetstar"]
 ---
 
-El Aeropuerto de Cairns (IATA: **CNS**) es el principal aeropuerto del norte tropical de Queensland y un hub tanto de Qantas como de Jetstar, con más de 4 millones de pasajeros al año. Está a unos 7 km al norte del centro de Cairns — genuinamente cerca para los estándares de un gran aeropuerto.
+El Aeropuerto de Cairns (IATA: **CNS**) es el principal aeropuerto del norte tropical de Queensland y un hub tanto de Qantas como de Jetstar. CNS [gestionó 4,7 millones de pasajeros en 2024](https://en.wikipedia.org/wiki/Cairns_Airport). Está a unos 7 km al norte del centro de Cairns — genuinamente cerca para los estándares de un gran aeropuerto.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 CNS tiene una buena selección de cocina del norte tropical de Queensland junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+CNS no tiene un hotel en el propio recinto. Incluso el conocido **Pullman Cairns International** está en realidad en el centro, a unos 8 km, sin conexión con la terminal — un taxi o Uber cubre el corto trayecto en unos 10 minutos.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "8M+/año"
+  passengers: "8,5M (año fiscal 2023/24)"
   terminals: "1"
   distanceToCity: "7 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina de Australia Meridional"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Atura, pasillo directo desde check-in"
 spotlight:
   title: "A una hora de algunas de las regiones vinícolas más famosas del mundo"
   text: "El Aeropuerto de Adelaida está genuinamente cerca tanto de la ciudad como, más allá, de algunas de las regiones vinícolas más famosas del mundo — Barossa Valley y McLaren Vale están ambas a menos de una hora en coche, convirtiendo a ADL en un punto de partida genuinamente excelente para un viaje centrado en el vino, no solo en una escala de tránsito."
 hubAirlines: ["Qantas", "Virgin Australia"]
 ---
 
-El Aeropuerto de Adelaida (IATA: **ADL**) es el principal aeropuerto de Australia Meridional y un hub tanto de Qantas como de Virgin Australia, con más de 8 millones de pasajeros al año. Está a unos 7 km al oeste del centro de Adelaida — genuinamente cerca para los estándares de un gran aeropuerto.
+El Aeropuerto de Adelaida (IATA: **ADL**) es el principal aeropuerto de Australia Meridional y un hub tanto de Qantas como de Virgin Australia. ADL [transportó a más de 8,5 millones de pasajeros en el año fiscal 2024](https://australianaviation.com.au/2024/04/adelaide-becomes-latest-airport-to-break-pre-pandemic-records/), un aumento del 10% sobre el año anterior y por encima de su cifra prepandemia del año fiscal 2019 — los aeropuertos australianos informan por año fiscal de julio a junio, no por año calendario. Está a unos 7 km al oeste del centro de Adelaida — genuinamente cerca para los estándares de un gran aeropuerto.
 
 ## Panorama general
 
@@ -107,7 +110,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-ADL tiene una buena selección de cocina de Australia Meridional junto a cadenas internacionales, repartida por la terminal.
+ADL tiene una buena selección de cocina de Australia Meridional junto a cadenas internacionales, repartida por la terminal. En el Atura, **Hangar Bar & Grill** se encarga de la restauración del hotel.
+
+## Hotel en el aeropuerto
+
+El **Atura Adelaide Airport** conecta directamente con las zonas de facturación nacional e internacional mediante un pasillo cubierto — genuinamente sin necesidad de shuttle. Además de Hangar Bar & Grill, su diseño retro-industrial lo ha convertido en un destino por derecho propio, no solo una cama cómoda antes de un vuelo.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["libano", "hub-middle-east-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "7M+/año"
+  passengers: "5,62M (2024)"
   terminals: "1"
   distanceToCity: "9 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina libanesa, mezze"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; hoteles a ~20 min"
 spotlight:
   title: "La puerta a una de las ciudades habitadas ininterrumpidamente más antiguas del mundo"
   text: "Beirut tiene una historia documentada de más de 5.000 años, lo que la convierte en una de las ciudades habitadas ininterrumpidamente más antiguas de la Tierra. Capas de historia fenicia, romana, otomana y colonial francesa se asientan bajo la ciudad moderna a la que sirve el Aeropuerto Internacional Rafic Hariri de Beirut — una profundidad histórica que pocas otras puertas aeroportuarias pueden igualar."
 hubAirlines: ["Middle East Airlines"]
 ---
 
-El Aeropuerto Internacional Rafic Hariri de Beirut (IATA: **BEY**) es la principal puerta de entrada a Líbano y el hub de Middle East Airlines (MEA), la aerolínea de bandera nacional, con más de 7 millones de pasajeros al año. Está a unos 9 km al sur del centro de Beirut, cerca de la costa.
+El Aeropuerto Internacional Rafic Hariri de Beirut (IATA: **BEY**) es la principal puerta de entrada a Líbano y el hub de Middle East Airlines (MEA), la aerolínea de bandera nacional. El tráfico ha fluctuado bruscamente en los últimos años: BEY [gestionó 5,62 millones de pasajeros en 2024](https://today.lorientlejour.com/article/1443432/number-of-passengers-at-beirut-airport-decreases-by-21-in-2024.html), un descenso del 20,8% respecto a los 7,1 millones de 2023, ya que la escalada del conflicto entre Israel y Hezbolá llevó a muchas aerolíneas extranjeras a suspender vuelos y alejó a los viajeros. Está a unos 9 km al sur del centro de Beirut, cerca de la costa.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 BEY tiene una excelente selección de cocina libanesa, incluyendo auténtico mezze, junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+BEY no tiene un hotel en el propio recinto. Opciones como Le Royal están a unos 20 minutos, en una colina con vistas al Mediterráneo, con traslados de aeropuerto disponibles — pero la mayoría de viajeros simplemente va directo al centro de Beirut dada la cercanía de la ciudad.
 
 ## Salas VIP
 

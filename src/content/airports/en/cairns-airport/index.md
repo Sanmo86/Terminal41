@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "4M+/year"
+  passengers: "4.7M (2024)"
   terminals: "1"
   distanceToCity: "7 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Tropical North Queensland cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; hotels are in the CBD"
 spotlight:
   title: "The real gateway to the Great Barrier Reef"
   text: "While the Great Barrier Reef stretches along much of Australia's northeast coast, Cairns is the genuine logistical hub most reef tour operators actually depart from — making this relatively modest regional airport the real starting point for one of the world's largest living structures, not the bigger cities travelers might expect."
 hubAirlines: ["Qantas", "Jetstar"]
 ---
 
-Cairns Airport (IATA: **CNS**) is the main airport of Tropical North Queensland and a hub for both Qantas and Jetstar, with more than 4 million passengers a year. It sits about 7 km north of central Cairns — genuinely close by major-airport standards.
+Cairns Airport (IATA: **CNS**) is the main airport of Tropical North Queensland and a hub for both Qantas and Jetstar. CNS [handled 4.7 million passengers in 2024](https://en.wikipedia.org/wiki/Cairns_Airport). It sits about 7 km north of central Cairns — genuinely close by major-airport standards.
 
 ## Overview
 
@@ -108,6 +111,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 CNS has a good selection of Tropical North Queensland cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+CNS doesn't have a hotel on-site. Even the well-known **Pullman Cairns International** is actually in the CBD, about 8 km away, not connected to the terminal — a taxi or Uber covers the short trip in about 10 minutes.
 
 ## Lounges
 

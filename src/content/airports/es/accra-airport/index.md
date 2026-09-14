@@ -18,7 +18,7 @@ region: "africa"
 tags: ["ghana", "hub-africa-world-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "3M+/año"
+  passengers: "3,2M (2024)"
   terminals: "1 (Terminal 3, inaugurada en 2018)"
   distanceToCity: "9 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina ghanesa"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Tang Palace a ~10 min"
 spotlight:
   title: "La puerta que impulsa el turismo de diáspora en África Occidental"
   text: "Desde la iniciativa \"Year of Return\" de Ghana, que conmemoró 400 años desde la llegada de los primeros africanos esclavizados a Virginia, Accra se ha convertido en una gran puerta de entrada para el turismo de herencia — visitantes de la diáspora africana que rastrean su ascendencia a través de los históricos fuertes de esclavos y sitios culturales de la costa de Ghana, una razón genuinamente significativa y creciente por la que este aeropuerto figura en muchos itinerarios."
 hubAirlines: ["Africa World Airlines"]
 ---
 
-El Aeropuerto Internacional Kotoka (IATA: **ACC**) es la principal puerta de entrada internacional de Ghana y la base de Africa World Airlines, con más de 3 millones de pasajeros al año. Está a unos 9 km al noreste del centro de Accra.
+El Aeropuerto Internacional Kotoka (IATA: **ACC**) es la principal puerta de entrada internacional de Ghana y la base de Africa World Airlines. ACC [gestionó 3,2 millones de pasajeros en 2024](https://www.ghanaweb.com/GhanaHomePage/business/KIA-traffic-reaches-3-2-million-in-2024-1994807), un aumento significativo que refleja el creciente turismo de herencia y diáspora de Ghana. Está a unos 9 km al noreste del centro de Accra.
 
 ## Panorama general
 
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 ACC tiene una buena selección de cocina ghanesa junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+ACC no tiene un hotel en el propio recinto. El **Tang Palace Hotel** es la opción conocida más cercana, a unos 10 minutos en coche con shuttle de aeropuerto disponible — una buena opción para una salida temprana sin necesidad de adentrarse mucho en la ciudad.
 
 ## Salas VIP
 

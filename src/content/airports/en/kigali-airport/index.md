@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Rwandan cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Ubumwe Grande in the city"
 spotlight:
   title: "Your gateway to mountain gorilla trekking"
   text: "Kigali International is the main air gateway to Volcanoes National Park, home to endangered mountain gorillas and one of the world's great wildlife experiences. Kigali itself is also genuinely notable — regularly ranked one of Africa's cleanest and safest capitals, with a mandatory monthly community clean-up day (Umuganda) and one of the world's earliest plastic bag bans."
@@ -108,6 +111,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 KGL has a good selection of Rwandan cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+KGL doesn't have a hotel on-site. The **Ubumwe Grande Hotel**, a well-regarded property in downtown Kigali, is about 10.7 km away, with a paid airport shuttle available.
 
 ## Lounges
 

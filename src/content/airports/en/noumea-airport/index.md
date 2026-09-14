@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["new-caledonia", "hub-aircalin", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "1M+/year"
+  passengers: "359K (2024, international)"
   terminals: "1"
   distanceToCity: "50 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "French-Pacific fusion cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; small B&Bs nearby"
 spotlight:
   title: "Gateway to the world's largest lagoon"
   text: "New Caledonia is home to the largest lagoon on Earth, a UNESCO World Heritage-listed marine ecosystem that surrounds much of the main island and stretches larger than some entire countries. La Tontouta Airport is the primary gateway to this archipelago, which — as a French overseas territory in the South Pacific — also blends Melanesian Kanak culture with a distinctly French administrative and culinary influence rarely found elsewhere in Oceania."
 hubAirlines: ["Aircalin"]
 ---
 
-La Tontouta International Airport (IATA: **NOU**) is New Caledonia's main gateway and the hub of Aircalin, with more than 1 million passengers a year. It sits about 50 km northwest of central Nouméa, the territory's capital.
+La Tontouta International Airport (IATA: **NOU**) is New Caledonia's main gateway and the hub of Aircalin. Traffic dropped sharply in 2024: the airport [handled 359,419 international passengers](https://grokipedia.com/page/La_Tontouta_International_Airport), down 27% on 2023, after pro-independence riots that broke out in May 2024 forced its closure for over a month and cut tourist arrivals by more than half for the year. It sits about 50 km northwest of central Nouméa, the territory's capital.
 
 ## Overview
 
@@ -108,6 +111,10 @@ Free wifi is available in the terminal with a limited free session.
 ## Where to Eat
 
 NOU has a good selection of French-Pacific fusion cuisine alongside more standard airport dining options.
+
+## Airport Hotel
+
+NOU doesn't have a hotel on-site. The immediate surroundings have only a handful of small guesthouses and B&Bs, some with a paid shuttle — most travelers head into Nouméa itself, 45–60 minutes away, for a proper hotel selection.
 
 ## Lounges
 

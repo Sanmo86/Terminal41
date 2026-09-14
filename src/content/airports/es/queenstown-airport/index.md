@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["nueva-zelanda", "hub-air-new-zealand", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "2M+/año"
+  passengers: "2,49M (año fiscal 2023/24)"
   terminals: "1"
   distanceToCity: "8 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina neozelandesa"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; hoteles a poca distancia"
 spotlight:
   title: "Aterriza en la capital mundial del turismo de aventura"
   text: "El puenting comercial como negocio real nació justo a las afueras de Queenstown en 1988, en el puente de Kawarau Gorge — y la industria de actividades que desató nunca dejó de crecer. Queenstown está considerada ampliamente la capital mundial del turismo de aventura, y el vuelo de llegada ofrece una de las aproximaciones más panorámicas que existen, atravesando la dramática cordillera de los Remarkables."
 hubAirlines: ["Air New Zealand"]
 ---
 
-El Aeropuerto de Queenstown (IATA: **ZQN**) es la principal puerta de entrada a la capital neozelandesa del turismo de aventura y un hub clave de Air New Zealand, con más de 2 millones de pasajeros al año. Está a unos 8 km al noreste del centro de Queenstown.
+El Aeropuerto de Queenstown (IATA: **ZQN**) es la principal puerta de entrada a la capital neozelandesa del turismo de aventura y un hub clave de Air New Zealand. ZQN [registró 2,49 millones de movimientos de pasajeros en el año hasta junio de 2024](https://www.aci-asiapac.aero/media-centre/news/queenstown-airport-announces-record-dividend-after-positive-year), un año récord para el aeropuerto — los aeropuertos neozelandeses informan por año fiscal de julio a junio, no por año calendario. Está a unos 8 km al noreste del centro de Queenstown.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 ZQN tiene una buena selección de cocina neozelandesa junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+ZQN no tiene un hotel en el propio recinto. Opciones como Rydges Lakeland Resort están a unos 20 minutos en bus o coche en el propio Queenstown, donde la oferta de alojamiento es de todos modos mucho mejor.
 
 ## Salas VIP
 

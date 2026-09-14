@@ -18,7 +18,7 @@ region: "americas"
 tags: ["colombia", "hub-avianca", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "4M+/year"
+  passengers: "7.51M (2024)"
   terminals: "1"
   distanceToCity: "3 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Caribbean Colombian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Holiday Inn ~5 min away"
 spotlight:
   title: "Minutes from a UNESCO walled city on the Caribbean"
   text: "Cartagena's airport sits genuinely close to the Ciudad Amurallada, the city's UNESCO World Heritage walled old town — one of the best-preserved Spanish colonial port cities anywhere in the Americas, with centuries-old fortifications, colorful balconied streets, and a setting right on the Caribbean coast."
 hubAirlines: ["Avianca"]
 ---
 
-Rafael Núñez International Airport (IATA: **CTG**) is the main gateway to Cartagena, Colombia's premier Caribbean coastal destination, with more than 4 million passengers a year. It sits about 3 km from the city's historic center — genuinely close by any major-airport standard.
+Rafael Núñez International Airport (IATA: **CTG**) is the main gateway to Cartagena, Colombia's premier Caribbean coastal destination. CTG [set a new traffic record with 7.51 million passengers in 2024](https://www.aviacionline.com/cartagena-airport-surpasses-72-million-passengers-sets-new-traffic-record), a 16% jump on 2023 and its highest total ever. It sits about 3 km from the city's historic center — genuinely close by any major-airport standard.
 
 ## Overview
 
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 CTG has a good selection of Caribbean Colombian cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+CTG doesn't have a hotel on-site. The **Holiday Inn Cartagena Morros**, right on La Boquilla Beach, is about a 5-minute drive — a solid pick if you'd rather not head all the way into the walled city.
 
 ## Lounges
 

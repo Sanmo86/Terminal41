@@ -18,7 +18,7 @@ region: "africa"
 tags: ["tunez", "hub-tunisair", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "7M+/año"
+  passengers: "7,25M (2024)"
   terminals: "1"
   distanceToCity: "8 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina tunecina"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Golden Tulip a ~15 min"
 spotlight:
   title: "A un corto trayecto de las ruinas de la antigua Cartago"
   text: "El Aeropuerto Internacional de Túnez-Cartago toma su nombre directamente de Cartago, una de las grandes potencias comerciales del mundo mediterráneo antiguo y Patrimonio de la Humanidad de la UNESCO — genuinamente a un corto trayecto del aeropuerto, lo que permite caminar entre ruinas que en su día rivalizaron con la antigua Roma."
 hubAirlines: ["Tunisair"]
 ---
 
-El Aeropuerto Internacional de Túnez-Cartago (IATA: **TUN**) es la principal puerta de entrada internacional de Túnez y el hub principal de Tunisair, con más de 7 millones de pasajeros al año. Está a unos 8 km al noreste del centro de Túnez.
+El Aeropuerto Internacional de Túnez-Cartago (IATA: **TUN**) es la principal puerta de entrada internacional de Túnez y el hub principal de Tunisair. TUN [recibió a 7,25 millones de pasajeros en 2024](https://en.africanmanager.com/tunisian-airports-a-record-number-of-passengers-in-2024/), un aumento del 8,8% sobre 2023 y un nuevo récord, operando muy por encima de su capacidad de diseño original de 5 millones. Está a unos 8 km al noreste del centro de Túnez.
 
 ## Panorama general
 
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 TUN tiene una buena selección de cocina tunecina junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+TUN no tiene un hotel en el propio recinto. El **Golden Tulip El Mechtel** está a unos 5 km, aproximadamente 15 minutos en coche.
 
 ## Salas VIP
 

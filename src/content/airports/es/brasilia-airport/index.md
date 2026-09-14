@@ -18,7 +18,7 @@ region: "americas"
 tags: ["brasil", "hub-latam-brasil", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "17M+/año"
+  passengers: "15M+ (2024)"
   terminals: "1"
   distanceToCity: "11 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina brasileña"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ibis Styles, pasillo cubierto corto"
 spotlight:
   title: "Aterriza en una ciudad con forma de avión"
   text: "Brasília se construyó desde cero a finales de los años 50 como la nueva capital de Brasil, diseñada por el urbanista Lúcio Costa y el arquitecto Oscar Niemeyer — y famosamente trazada, vista desde arriba, con la forma de un avión o un pájaro. Todo el centro de la ciudad es Patrimonio de la Humanidad de la UNESCO, una pieza genuinamente única de planificación urbana modernista del siglo XX."
 hubAirlines: ["LATAM Brasil", "GOL"]
 ---
 
-El Aeropuerto Internacional Presidente Juscelino Kubitschek (IATA: **BSB**) es la principal puerta de entrada a Brasília, la capital de Brasil construida desde cero, y uno de los hubs domésticos con más tráfico del país, con más de 17 millones de pasajeros al año. Está a unos 11 km al sur del centro de Brasília.
+El Aeropuerto Internacional Presidente Juscelino Kubitschek (IATA: **BSB**) es la principal puerta de entrada a Brasília, la capital de Brasil construida desde cero, y uno de los hubs domésticos con más tráfico del país. BSB [gestionó unos 15 millones de pasajeros en 2024](https://en.wikipedia.org/wiki/Bras%C3%ADlia_International_Airport), consolidando su posición como el tercer aeropuerto con más tráfico de Brasil. Está a unos 11 km al sur del centro de Brasília.
 
 ## Panorama general
 
@@ -107,7 +110,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-BSB tiene una buena selección de cocina brasileña junto a cadenas internacionales, repartida por la terminal.
+BSB tiene una buena selección de cocina brasileña junto a cadenas internacionales, repartida por la terminal. En el Ibis Styles, el restaurante ofrece un buffet temático a mediodía — italiano los lunes, árabe los miércoles y feijoada los viernes.
+
+## Hotel en el aeropuerto
+
+El **Ibis Styles Brasília Aeroporto** está a un corto pasillo cubierto de la terminal — genuinamente cómodo para una escala larga o una salida temprana sin necesidad de taxi.
 
 ## Salas VIP
 

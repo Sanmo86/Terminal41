@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["nueva-caledonia", "hub-aircalin", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "1M+/año"
+  passengers: "359K (2024, internacional)"
   terminals: "1"
   distanceToCity: "50 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina de fusión francesa-pacífica"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; pequeños B&B cerca"
 spotlight:
   title: "La puerta a la laguna más grande del mundo"
   text: "Nueva Caledonia alberga la laguna más grande de la Tierra, un ecosistema marino declarado Patrimonio de la Humanidad por la UNESCO que rodea gran parte de la isla principal y se extiende más que algunos países enteros. El Aeropuerto de La Tontouta es la principal puerta de entrada a este archipiélago, que — como territorio de ultramar francés en el Pacífico Sur — combina también la cultura melanesia kanak con una influencia administrativa y culinaria claramente francesa, poco frecuente en el resto de Oceanía."
 hubAirlines: ["Aircalin"]
 ---
 
-El Aeropuerto Internacional de La Tontouta (IATA: **NOU**) es la principal puerta de entrada a Nueva Caledonia y el hub de Aircalin, con más de 1 millón de pasajeros al año. Está a unos 50 km al noroeste del centro de Numea, la capital del territorio.
+El Aeropuerto Internacional de La Tontouta (IATA: **NOU**) es la principal puerta de entrada a Nueva Caledonia y el hub de Aircalin. El tráfico cayó de forma brusca en 2024: el aeropuerto [gestionó 359.419 pasajeros internacionales](https://grokipedia.com/page/La_Tontouta_International_Airport), un descenso del 27% respecto a 2023, después de que los disturbios independentistas que estallaron en mayo de 2024 forzaran su cierre durante más de un mes y redujeran las llegadas turísticas a más de la mitad en el año. Está a unos 50 km al noroeste del centro de Numea, la capital del territorio.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita limita
 ## Dónde comer
 
 NOU tiene una buena selección de cocina de fusión francesa-pacífica junto a opciones de restauración de aeropuerto más habituales.
+
+## Hotel en el aeropuerto
+
+NOU no tiene un hotel en el propio recinto. El entorno inmediato solo tiene un puñado de pequeños alojamientos y B&B, algunos con shuttle de pago — la mayoría de viajeros va hasta la propia Numea, a 45–60 minutos, para tener una selección real de hoteles.
 
 ## Salas VIP
 

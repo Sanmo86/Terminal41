@@ -18,7 +18,7 @@ region: "africa"
 tags: ["mauricio", "hub-air-mauritius", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "4M+/año"
+  passengers: "4M+ (2024)"
   terminals: "1"
   distanceToCity: "48 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina criolla mauriciana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Holiday Inn a ~3 min"
 spotlight:
   title: "El único lugar donde vivió el dodo"
   text: "Mauricio es el único lugar de la Tierra donde existió el dodo — un ave no voladora que evolucionó sin depredadores naturales, y que se extinguió en aproximadamente un siglo tras el contacto humano en el siglo XVII. El dodo sigue siendo el símbolo más perdurable de la isla, apareciendo incluso en su escudo de armas, pese a que ninguna persona viva ha visto jamás uno."
 hubAirlines: ["Air Mauritius"]
 ---
 
-El Aeropuerto Internacional Sir Seewoosagur Ramgoolam (IATA: **MRU**) es la principal puerta de entrada a Mauricio y el hub principal de Air Mauritius, con más de 4 millones de pasajeros al año. Está a unos 48 km al sureste de Port Louis, la capital.
+El Aeropuerto Internacional Sir Seewoosagur Ramgoolam (IATA: **MRU**) es la principal puerta de entrada a Mauricio y el hub principal de Air Mauritius, con aproximadamente 4 millones de pasajeros en 2024. Está a unos 48 km al sureste de Port Louis, la capital.
 
 ## Panorama general
 
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 MRU tiene una buena selección de cocina criolla mauriciana — reflejo de la mezcla de influencias culinarias africanas, indias, chinas y francesas de la isla — junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+MRU no tiene un hotel en el propio recinto. El **Holiday Inn Mauritius Mon Trésor** es la opción más cercana, a unos 700 metros con shuttle gratuito de 7:00 a 23:30 — genuinamente cómodo para una salida temprana, aunque la mayoría de viajeros va directo a su resort.
 
 ## Salas VIP
 

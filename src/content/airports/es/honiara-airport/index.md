@@ -53,6 +53,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina melanesia y del Pacífico"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Heritage Park a ~13 min"
 spotlight:
   title: "Construido sobre uno de los campos de batalla más decisivos de la Segunda Guerra Mundial"
   text: "La pista original del Aeropuerto Internacional de Honiara, Henderson Field, fue el objetivo central de la batalla de Guadalcanal (1942–43) — una de las campañas más decisivas y reñidas de toda la Guerra del Pacífico, un punto de inflexión que detuvo la expansión japonesa en el Pacífico Sur. La pista sobre la que aterrizan hoy los viajeros modernos se asienta sobre un terreno histórico genuinamente significativo."
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita limita
 ## Dónde comer
 
 HIR tiene una buena selección de cocina melanesia y del Pacífico junto a opciones de restauración de aeropuerto más habituales.
+
+## Hotel en el aeropuerto
+
+HIR no tiene un hotel en el propio recinto. El **Heritage Park Hotel**, la propiedad más conocida de Honiara, está en primera línea de playa en el centro de la ciudad, a unos 13 minutos en coche.
 
 ## Salas VIP
 

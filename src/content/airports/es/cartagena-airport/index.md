@@ -18,7 +18,7 @@ region: "americas"
 tags: ["colombia", "hub-avianca", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "4M+/año"
+  passengers: "7,51M (2024)"
   terminals: "1"
   distanceToCity: "3 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina caribeña colombiana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Holiday Inn a ~5 min"
 spotlight:
   title: "A minutos de una ciudad amurallada Patrimonio de la UNESCO"
   text: "El aeropuerto de Cartagena está genuinamente cerca de la Ciudad Amurallada, el casco antiguo Patrimonio de la Humanidad de la UNESCO — una de las ciudades portuarias coloniales españolas mejor conservadas de toda América, con fortificaciones centenarias, calles de balcones coloridos y un entorno justo en la costa caribeña."
 hubAirlines: ["Avianca"]
 ---
 
-El Aeropuerto Internacional Rafael Núñez (IATA: **CTG**) es la principal puerta de entrada a Cartagena, el gran destino costero caribeño de Colombia, con más de 4 millones de pasajeros al año. Está a unos 3 km del centro histórico de la ciudad — genuinamente cerca para los estándares de cualquier gran aeropuerto.
+El Aeropuerto Internacional Rafael Núñez (IATA: **CTG**) es la principal puerta de entrada a Cartagena, el gran destino costero caribeño de Colombia. CTG [estableció un nuevo récord de tráfico con 7,51 millones de pasajeros en 2024](https://www.aviacionline.com/cartagena-airport-surpasses-72-million-passengers-sets-new-traffic-record), un salto del 16% sobre 2023 y su cifra más alta hasta la fecha. Está a unos 3 km del centro histórico de la ciudad — genuinamente cerca para los estándares de cualquier gran aeropuerto.
 
 ## Panorama general
 
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 CTG tiene una buena selección de cocina caribeña colombiana junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+CTG no tiene un hotel en el propio recinto. El **Holiday Inn Cartagena Morros**, justo en la playa de La Boquilla, está a unos 5 minutos en coche — una buena opción si prefieres no ir hasta la ciudad amurallada.
 
 ## Salas VIP
 

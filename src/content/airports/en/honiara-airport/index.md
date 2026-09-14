@@ -53,6 +53,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Melanesian and Pacific cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Heritage Park ~13 min away"
 spotlight:
   title: "Built on one of WWII's most pivotal battlegrounds"
   text: "Honiara International Airport's original airstrip, Henderson Field, was the central objective of the Battle of Guadalcanal (1942–43) — one of the most pivotal and hard-fought campaigns of the entire Pacific War, a turning point that halted Japanese expansion in the South Pacific. The runway modern travelers land on today sits on genuinely significant historical ground."
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a limited free session.
 ## Where to Eat
 
 HIR has a good selection of Melanesian and Pacific cuisine alongside more standard airport dining options.
+
+## Airport Hotel
+
+HIR doesn't have a hotel on-site. The **Heritage Park Hotel**, Honiara's best-known property, sits on the beachfront in the city center, about a 13-minute drive away.
 
 ## Lounges
 

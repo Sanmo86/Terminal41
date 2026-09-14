@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["lebanon", "hub-middle-east-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "7M+/year"
+  passengers: "5.62M (2024)"
   terminals: "1"
   distanceToCity: "9 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Lebanese cuisine, mezze"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; hotels are ~20 min away"
 spotlight:
   title: "Gateway to one of the world's oldest continuously inhabited cities"
   text: "Beirut has a documented history stretching back more than 5,000 years, making it one of the oldest continuously inhabited cities on Earth. Layers of Phoenician, Roman, Ottoman, and French colonial history sit beneath the modern city that Beirut–Rafic Hariri International Airport serves — a depth of history few other airport gateways can match."
 hubAirlines: ["Middle East Airlines"]
 ---
 
-Beirut–Rafic Hariri International Airport (IATA: **BEY**) is Lebanon's main gateway and the hub of Middle East Airlines (MEA), the national flag carrier, with more than 7 million passengers a year. It sits about 9 km south of central Beirut, close to the coast.
+Beirut–Rafic Hariri International Airport (IATA: **BEY**) is Lebanon's main gateway and the hub of Middle East Airlines (MEA), the national flag carrier. Traffic has fluctuated sharply in recent years: BEY [handled 5.62 million passengers in 2024](https://today.lorientlejour.com/article/1443432/number-of-passengers-at-beirut-airport-decreases-by-21-in-2024.html), a 20.8% drop from 2023's 7.1 million as the escalation of the Israel-Hezbollah conflict led many foreign carriers to suspend flights and kept travelers away. It sits about 9 km south of central Beirut, close to the coast.
 
 ## Overview
 
@@ -108,6 +111,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 BEY has a strong selection of Lebanese cuisine, including proper mezze, alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+BEY doesn't have a hotel on-site. Options like Le Royal are about 20 minutes away on a hilltop overlooking the Mediterranean, with airport transfers available — but most travelers simply head into Beirut proper given how close the city is.
 
 ## Lounges
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["brazil", "hub-latam-brasil", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "17M+/year"
+  passengers: "15M+ (2024)"
   terminals: "1"
   distanceToCity: "11 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Brazilian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ibis Styles, short covered walk"
 spotlight:
   title: "Landing in a city shaped like an airplane"
   text: "Brasília was purpose-built in the late 1950s as Brazil's new capital, designed by urban planner Lúcio Costa and architect Oscar Niemeyer — and famously laid out, when viewed from above, in the shape of an airplane or bird. The entire city center is a UNESCO World Heritage Site, a genuinely unique piece of 20th-century modernist urban planning."
 hubAirlines: ["LATAM Brasil", "GOL"]
 ---
 
-Presidente Juscelino Kubitschek International Airport (IATA: **BSB**) is the main gateway to Brasília, Brazil's purpose-built capital, and one of the country's busiest domestic hubs, with more than 17 million passengers a year. It sits about 11 km south of central Brasília.
+Presidente Juscelino Kubitschek International Airport (IATA: **BSB**) is the main gateway to Brasília, Brazil's purpose-built capital, and one of the country's busiest domestic hubs. BSB [handled around 15 million passengers in 2024](https://en.wikipedia.org/wiki/Bras%C3%ADlia_International_Airport), consolidating its position as Brazil's third-busiest airport. It sits about 11 km south of central Brasília.
 
 ## Overview
 
@@ -107,7 +110,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-BSB has a good selection of Brazilian cuisine alongside international chains, spread across the terminal.
+BSB has a good selection of Brazilian cuisine alongside international chains, spread across the terminal. At the Ibis Styles, the restaurant runs a themed lunch buffet — Italian on Mondays, Arabic on Wednesdays, and feijoada on Fridays.
+
+## Airport Hotel
+
+The **Ibis Styles Brasília Aeroporto** is a short covered walk from the terminal — genuinely convenient for a long layover or an early departure without a taxi ride.
 
 ## Lounges
 

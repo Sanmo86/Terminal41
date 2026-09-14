@@ -18,7 +18,7 @@ region: "africa"
 tags: ["ghana", "hub-africa-world-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "3M+/year"
+  passengers: "3.2M (2024)"
   terminals: "1 (Terminal 3, opened 2018)"
   distanceToCity: "9 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Ghanaian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Tang Palace ~10 min away"
 spotlight:
   title: "The gateway fueling West Africa's diaspora tourism boom"
   text: "Since Ghana's \"Year of Return\" initiative marking 400 years since the first enslaved Africans arrived in Virginia, Accra has become a major gateway for heritage tourism — visitors from the African diaspora tracing their ancestry back through Ghana's historic slave forts and coastal sites, a genuinely meaningful and growing reason this airport exists on many travelers' itineraries."
 hubAirlines: ["Africa World Airlines"]
 ---
 
-Kotoka International Airport (IATA: **ACC**) is Ghana's main international gateway and the base of Africa World Airlines, with more than 3 million passengers a year. It sits about 9 km northeast of central Accra.
+Kotoka International Airport (IATA: **ACC**) is Ghana's main international gateway and the base of Africa World Airlines. ACC [handled 3.2 million passengers in 2024](https://www.ghanaweb.com/GhanaHomePage/business/KIA-traffic-reaches-3-2-million-in-2024-1994807), a significant increase reflecting Ghana's growing heritage and diaspora tourism. It sits about 9 km northeast of central Accra.
 
 ## Overview
 
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 ACC has a good selection of Ghanaian cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+ACC doesn't have a hotel on-site. The **Tang Palace Hotel** is the closest well-known option, about a 10-minute drive with an airport shuttle available — a solid pick for an early departure without needing to venture far into the city.
 
 ## Lounges
 

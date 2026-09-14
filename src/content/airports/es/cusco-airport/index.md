@@ -18,7 +18,7 @@ region: "americas"
 tags: ["peru", "hub-latam-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "4M+/año"
+  passengers: "4,2M (2024)"
   terminals: "1"
   distanceToCity: "4 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina andina peruana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; la mayoría se aloja en el centro"
 spotlight:
   title: "El primer paso real hacia Machu Picchu"
   text: "Aunque a Machu Picchu propiamente se llega en tren y autobús desde más adentro del Valle Sagrado, casi todos los viajeros internacionales que visitan la ciudadela inca en realidad pasan primero por el aeropuerto de Cusco — no por Lima, la capital — convirtiendo este aeropuerto regional de gran altitud en una puerta genuinamente esencial hacia uno de los sitios arqueológicos más famosos de Sudamérica."
 hubAirlines: ["LATAM Airlines"]
 ---
 
-El Aeropuerto Internacional Alejandro Velasco Astete (IATA: **CUZ**) es el principal aeropuerto que sirve a Cusco y el Valle Sagrado, con más de 4 millones de pasajeros al año. Está a unos 4 km del centro de Cusco — genuinamente cerca para los estándares de cualquier gran aeropuerto.
+El Aeropuerto Internacional Alejandro Velasco Astete (IATA: **CUZ**) es el principal aeropuerto que sirve a Cusco y el Valle Sagrado. CUZ [gestionó 4,2 millones de pasajeros en 2024](https://www.infobae.com/peru/2026/03/04/aeropuertos-una-region-de-peru-vivio-el-mayor-boom-de-vuelos-en-2025-y-supero-en-50-su-numero-de-pasajeros-recibidos/), según CORPAC, la autoridad de aviación civil de Perú, lo que lo convierte en el segundo aeropuerto con más tráfico del país tras Lima. Está a unos 4 km del centro de Cusco — genuinamente cerca para los estándares de cualquier gran aeropuerto.
 
 ## Panorama general
 
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 CUZ tiene una buena selección de cocina andina peruana junto a opciones internacionales limitadas, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+CUZ no tiene un hotel en el propio recinto, y la zona inmediata alrededor solo tiene un puñado de opciones — la mayoría de viajeros va directo al centro histórico de Cusco, a unos 15–20 minutos, donde la oferta de alojamiento es genuinamente mucho mejor.
 
 ## Salas VIP
 

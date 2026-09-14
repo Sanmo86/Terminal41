@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["new-zealand", "hub-air-new-zealand", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "2M+/year"
+  passengers: "2.49M (FY2023/24)"
   terminals: "1"
   distanceToCity: "8 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "New Zealand cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; hotels are a short drive away"
 spotlight:
   title: "Land in the adventure tourism capital of the world"
   text: "Commercial bungee jumping as an actual business was born just outside Queenstown in 1988, at the Kawarau Gorge Bridge — and the activity industry it kicked off never really stopped growing. Queenstown is widely considered the adventure tourism capital of the world, and the flight in offers one of the most scenic approaches anywhere, threading between the dramatic Remarkables mountain range."
 hubAirlines: ["Air New Zealand"]
 ---
 
-Queenstown Airport (IATA: **ZQN**) is the main gateway to New Zealand's adventure tourism capital and a key hub for Air New Zealand, with more than 2 million passengers a year. It sits about 8 km northeast of central Queenstown.
+Queenstown Airport (IATA: **ZQN**) is the main gateway to New Zealand's adventure tourism capital and a key hub for Air New Zealand. ZQN [recorded 2.49 million passenger movements in the year to June 2024](https://www.aci-asiapac.aero/media-centre/news/queenstown-airport-announces-record-dividend-after-positive-year), a record year for the airport — New Zealand airports report on a July-to-June financial year rather than the calendar year. It sits about 8 km northeast of central Queenstown.
 
 ## Overview
 
@@ -108,6 +111,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 ZQN has a good selection of New Zealand cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+ZQN doesn't have a hotel on-site. Options like Rydges Lakeland Resort are about a 20-minute bus or drive away in Queenstown itself, where the accommodation selection is far better anyway.
 
 ## Lounges
 

@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina ruandesa"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Ubumwe Grande en el centro"
 spotlight:
   title: "Tu puerta al trekking de gorilas de montaña"
   text: "El Aeropuerto Internacional de Kigali es la principal puerta aérea al Parque Nacional de los Volcanes, hogar de gorilas de montaña en peligro de extinción y una de las grandes experiencias de fauna salvaje del mundo. La propia Kigali también es genuinamente destacable — clasificada regularmente entre las capitales más limpias y seguras de África, conocida por su día mensual obligatorio de limpieza comunitaria (Umuganda) y una de las primeras prohibiciones de bolsas de plástico del mundo."
@@ -108,6 +111,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 KGL tiene una buena selección de cocina ruandesa junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+KGL no tiene un hotel en el propio recinto. El **Ubumwe Grande Hotel**, una propiedad bien valorada en el centro de Kigali, está a unos 10,7 km, con shuttle de aeropuerto disponible de pago.
 
 ## Salas VIP
 

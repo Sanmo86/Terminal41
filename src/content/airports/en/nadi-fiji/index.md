@@ -53,6 +53,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Fijian and Pacific cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Tanoa ~3 min away"
 spotlight:
   title: "The gateway to the South Pacific"
   text: "Despite its modest size, Nadi is the essential aviation gateway for much of the South Pacific — Fiji Airways connects more than a dozen smaller island nations across the region to the rest of the world through this single airport, many of which have no other realistic route to international air travel."
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 NAN has a good selection of Fijian and broader Pacific cuisine, reflecting the airport's role as a genuine regional gateway rather than just a resort transit point.
+
+## Airport Hotel
+
+NAN doesn't have a hotel on-site. The **Tanoa International Hotel**, the airport's best-known nearby option, sits about 3 minutes away on 16 acres of tropical gardens, with five dining venues and a complimentary shuttle.
 
 ## Lounges
 

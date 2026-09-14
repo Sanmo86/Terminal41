@@ -18,7 +18,7 @@ region: "africa"
 tags: ["mauritius", "hub-air-mauritius", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "4M+/year"
+  passengers: "4M+ (2024)"
   terminals: "1"
   distanceToCity: "48 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Mauritian Creole cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Holiday Inn ~3 min away"
 spotlight:
   title: "The only place the dodo ever lived"
   text: "Mauritius is the only place on Earth the dodo bird ever existed — a flightless bird that evolved with no natural predators, driven to extinction within roughly a century of human contact in the 17th century. The dodo remains the island's most enduring symbol, appearing on its coat of arms, despite no living person ever having seen one."
 hubAirlines: ["Air Mauritius"]
 ---
 
-Sir Seewoosagur Ramgoolam International Airport (IATA: **MRU**) is the main gateway to Mauritius and the primary hub of Air Mauritius, with more than 4 million passengers a year. It sits about 48 km southeast of Port Louis, the capital.
+Sir Seewoosagur Ramgoolam International Airport (IATA: **MRU**) is the main gateway to Mauritius and the primary hub of Air Mauritius, handling roughly 4 million passengers in 2024. It sits about 48 km southeast of Port Louis, the capital.
 
 ## Overview
 
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 MRU has a good selection of Mauritian Creole cuisine — reflecting the island's blend of African, Indian, Chinese, and French culinary influences — alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+MRU doesn't have a hotel on-site. The **Holiday Inn Mauritius Mon Trésor** is the closest option, about 700 meters away with a complimentary shuttle running 7am to 11:30pm — genuinely convenient for an early departure, though most travelers head straight to their resort instead.
 
 ## Lounges
 

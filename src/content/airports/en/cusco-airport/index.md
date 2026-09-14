@@ -18,7 +18,7 @@ region: "americas"
 tags: ["peru", "hub-latam-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "4M+/year"
+  passengers: "4.2M (2024)"
   terminals: "1"
   distanceToCity: "4 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Andean Peruvian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; most stay in the historic center"
 spotlight:
   title: "The real first step toward Machu Picchu"
   text: "While Machu Picchu itself is reached by train and bus from further into the Sacred Valley, nearly every international traveler visiting the Inca citadel actually passes through Cusco's airport first — not Lima, the capital — making this high-altitude regional airport a genuinely essential gateway for one of South America's most famous archaeological sites."
 hubAirlines: ["LATAM Airlines"]
 ---
 
-Alejandro Velasco Astete International Airport (IATA: **CUZ**) is the main airport serving Cusco and the Sacred Valley, with more than 4 million passengers a year. It sits about 4 km from central Cusco — genuinely close by major-airport standards.
+Alejandro Velasco Astete International Airport (IATA: **CUZ**) is the main airport serving Cusco and the Sacred Valley. CUZ [handled 4.2 million passengers in 2024](https://www.infobae.com/peru/2026/03/04/aeropuertos-una-region-de-peru-vivio-el-mayor-boom-de-vuelos-en-2025-y-supero-en-50-su-numero-de-pasajeros-recibidos/), according to CORPAC, Peru's civil aviation authority, making it the country's second-busiest airport after Lima. It sits about 4 km from central Cusco — genuinely close by major-airport standards.
 
 ## Overview
 
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 CUZ has a good selection of Andean Peruvian cuisine alongside limited international options, spread across the terminal.
+
+## Airport Hotel
+
+CUZ doesn't have a hotel on-site, and the immediate area around it has only a handful of options — most travelers head straight into Cusco's historic center, about 15–20 minutes away, where the accommodation selection is genuinely far better.
 
 ## Lounges
 
