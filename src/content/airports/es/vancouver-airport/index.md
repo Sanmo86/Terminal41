@@ -18,7 +18,7 @@ region: "americas"
 tags: ["canada", "hub-air-canada", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "26M+/año"
+  passengers: "26,2M (2024)"
   terminals: "Nacional + Internacional"
   distanceToCity: "12 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina del Pacífico Noroeste, marisco"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Fairmont, dentro de la terminal"
 spotlight:
   title: "Una terminal llena de arte indígena"
   text: "YVR exhibe una de las colecciones más extensas de arte indígena de la costa noroeste de cualquier aeropuerto del mundo, incluyendo \"La Canoa de Jade\", una famosa escultura de bronce de Bill Reid — una de las obras de arte público más fotografiadas de Canadá."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Vancouver (IATA: **YVR**) es el segundo mayor hub
 
 ## Panorama general
 
-YVR opera terminales nacional e internacional conectadas internamente, y destaca genuinamente por su extensa colección de arte indígena de la costa noroeste expuesta por todo el edificio — no un gesto simbólico, sino una curaduría seria y deliberada que hace que la propia terminal se sienta como un destino cultural. Como puerta del Pacífico de Air Canada, sostiene una extensa red por Canadá además de rutas importantes a Asia.
+YVR opera terminales nacional e internacional conectadas internamente, y destaca genuinamente por su extensa colección de arte indígena de la costa noroeste expuesta por todo el edificio — no un gesto simbólico, sino una curaduría seria y deliberada que hace que la propia terminal se sienta como un destino cultural. Como puerta del Pacífico de Air Canada, sostiene una extensa red por Canadá además de rutas importantes a Asia. YVR [registró en 2024 su segunda cifra de pasajeros más alta de la historia, con 26,2 millones](https://news.yvr.ca/yvr-marks-second-highest-passenger-count-in-airport-history-breaks-cargo-record-in-2024/), un aumento del 5% sobre 2023 y muy cerca del récord prepandemia de 2019, de 26,3 millones.
 
 ## Terminales
 
@@ -107,7 +110,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-YVR refleja bien la sólida escena gastronómica de Vancouver, con una buena selección de cocina del Pacífico Noroeste y marisco fresco junto a cadenas internacionales.
+YVR refleja bien la sólida escena gastronómica de Vancouver, con una buena selección de cocina del Pacífico Noroeste y marisco fresco junto a cadenas internacionales. En el Fairmont, **Globe@YVR** sirve platos del Pacífico Noroeste con marisco certificado Ocean Wise y vistas panorámicas a las pistas, y el **Jetside Bar** es una parada popular para tomar algo antes de volar.
+
+## Hotel en el aeropuerto
+
+El **Fairmont Vancouver Airport** está genuinamente dentro de la propia terminal, sobre las zonas de salidas a EE. UU. y llegadas internacionales — no a un trayecto de shuttle de distancia. Además de Globe@YVR y el Jetside Bar, es uno de los hoteles de aeropuerto más cómodos que existen para una llegada nocturna o una salida temprana de largo radio.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "europe"
 tags: ["ireland", "hub-aer-lingus", "short-layover", "schengen-adjacent"]
 featured: true
 quickFacts:
-  passengers: "32M+/year"
+  passengers: "33.3M (2024)"
   terminals: "2"
   distanceToCity: "10 km / 6 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Irish pub food, international chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Clayton/Radisson, free shuttle"
 spotlight:
   title: "Home to half the world's leased aircraft"
   text: "Ireland has become the global center of the aircraft-leasing industry, and more than half of the world's leased commercial aircraft are managed by companies headquartered around Dublin — a genuinely surprising fact for a country of Ireland's size."
@@ -67,7 +70,7 @@ Dublin Airport (IATA: **DUB**) is Ireland's busiest airport and the primary base
 
 ## Overview
 
-DUB operates two terminals and functions as Ireland's main international gateway, with an outsized role in global aviation that goes well beyond passenger numbers: Ireland is the world center of aircraft leasing, and the majority of the planet's leased commercial aircraft are managed by companies based around Dublin — a quiet but massive industry most travelers never notice.
+DUB operates two terminals and functions as Ireland's main international gateway, with an outsized role in global aviation that goes well beyond passenger numbers: Ireland is the world center of aircraft leasing, and the majority of the planet's leased commercial aircraft are managed by companies based around Dublin — a quiet but massive industry most travelers never notice. DAA, the airport operator, [reported 33.3 million passengers through Dublin's terminals in 2024](https://www.dublinairport.com/latest-news/2025/01/14/33.3m-passengers-went-through-dublin-airport's-terminals-in-2024), a 4% increase on 2023 that pushed the airport past its regulatory passenger cap.
 
 ## Terminals
 
@@ -109,6 +112,10 @@ Free, unlimited wifi is available across both terminals with no time limit.
 ## Where to Eat
 
 DUB has a good selection of Irish pub-style food alongside international chains, spread across both terminals.
+
+## Airport Hotel
+
+DUB doesn't have a hotel built into the terminal itself, but two options sit just outside with free 24-hour shuttles: the **Clayton Hotel Dublin Airport Central**, about an 8–10 minute walk or a short shuttle hop from Terminal 2, and the **Radisson Blu Hotel, Dublin Airport**, reachable the same way. Both are genuinely convenient for an early departure without needing a taxi into the terminal.
 
 ## Lounges
 

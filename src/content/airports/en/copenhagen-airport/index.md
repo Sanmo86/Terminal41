@@ -18,7 +18,7 @@ region: "europe"
 tags: ["denmark", "hub-sas", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "30M+/year"
+  passengers: "29.9M (2024)"
   terminals: "2 (T2, T3, connected)"
   distanceToCity: "8 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "New Nordic cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hilton, covered walkway to T3"
 spotlight:
   title: "14 minutes from touchdown to the center of a capital city"
   text: "Copenhagen Airport sits genuinely close to the city it serves — about 8 km out, with a direct Metro line reaching central Copenhagen in roughly 14 minutes — making it one of the most convenient major airport-to-downtown connections anywhere in Europe."
@@ -67,7 +70,7 @@ Copenhagen Airport (IATA: **CPH**) is Scandinavia's busiest airport and the prim
 
 ## Overview
 
-CPH operates two connected terminals and stands out for a simple but genuinely valuable reason: it's one of the closest major airports in Europe to the capital city center it serves, with a direct Metro connection putting arriving passengers in central Copenhagen in about 14 minutes. As SAS's principal hub, CPH also anchors an extensive Scandinavian and European network.
+CPH operates two connected terminals and stands out for a simple but genuinely valuable reason: it's one of the closest major airports in Europe to the capital city center it serves, with a direct Metro connection putting arriving passengers in central Copenhagen in about 14 minutes. As SAS's principal hub, CPH also anchors an extensive Scandinavian and European network. Copenhagen Airports [served 29.9 million passengers in 2024](https://roadgenius.com/statistics/airports/denmark-copenhagen-cph-airport/), up from 26.8 million the year before as the post-pandemic recovery continued.
 
 ## Terminals
 
@@ -107,7 +110,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-CPH has a strong selection of New Nordic cuisine alongside international chains, spread across its terminals.
+CPH has a strong selection of New Nordic cuisine alongside international chains, spread across its terminals. At the Hilton, **Hamlet Nordic Dining** runs an à la carte menu built around Nordic ingredients, and the all-day **Horizon** restaurant covers breakfast, lunch, and dinner buffet-style.
+
+## Airport Hotel
+
+The **Hilton Copenhagen Airport** connects to Terminal 3's arrivals hall via a covered walkway, about a 2–3 minute walk with no shuttle required. Beyond Hamlet Nordic Dining and Horizon, it has the **Axis Bar** for a quieter drink before a late flight.
 
 ## Lounges
 

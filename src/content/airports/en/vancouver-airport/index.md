@@ -18,7 +18,7 @@ region: "americas"
 tags: ["canada", "hub-air-canada", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "26M+/year"
+  passengers: "26.2M (2024)"
   terminals: "Domestic + International"
   distanceToCity: "12 km / 7 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Pacific Northwest cuisine, seafood"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Fairmont, inside the terminal"
 spotlight:
   title: "A terminal full of Indigenous art"
   text: "YVR displays one of the most extensive collections of Indigenous Northwest Coast art in any airport in the world, including \"The Jade Canoe,\" a famous bronze sculpture by Bill Reid — one of the most photographed pieces of public art in Canada."
@@ -67,7 +70,7 @@ Vancouver International Airport (IATA: **YVR**) is Air Canada's second-largest h
 
 ## Overview
 
-YVR operates domestic and international terminals connected internally, and is genuinely distinctive for its extensive collection of Indigenous Northwest Coast art displayed throughout the building — not a token gesture but a serious, deliberate curation that makes the terminal itself feel like a cultural destination. As Air Canada's Pacific gateway, it anchors an extensive network across Canada plus major routes to Asia.
+YVR operates domestic and international terminals connected internally, and is genuinely distinctive for its extensive collection of Indigenous Northwest Coast art displayed throughout the building — not a token gesture but a serious, deliberate curation that makes the terminal itself feel like a cultural destination. As Air Canada's Pacific gateway, it anchors an extensive network across Canada plus major routes to Asia. YVR [recorded its second-highest passenger count ever in 2024 at 26.2 million](https://news.yvr.ca/yvr-marks-second-highest-passenger-count-in-airport-history-breaks-cargo-record-in-2024/), a 5% increase on 2023 and just short of 2019's pre-pandemic record of 26.3 million.
 
 ## Terminals
 
@@ -107,7 +110,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-YVR reflects Vancouver's strong food scene well, with a good selection of Pacific Northwest cuisine and fresh seafood alongside international chains.
+YVR reflects Vancouver's strong food scene well, with a good selection of Pacific Northwest cuisine and fresh seafood alongside international chains. At the Fairmont, **Globe@YVR** serves Pacific Northwest dishes built around Ocean Wise-certified seafood with panoramic runway views, and **Jetside Bar** is a popular stop for a pre-flight drink.
+
+## Airport Hotel
+
+The **Fairmont Vancouver Airport** is genuinely inside the terminal itself, positioned above the US departures and international arrivals areas — not a shuttle ride away. Beyond Globe@YVR and Jetside Bar, it's one of the most convenient airport hotels anywhere for a red-eye arrival or an early long-haul departure.
 
 ## Lounges
 

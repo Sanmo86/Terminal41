@@ -18,7 +18,7 @@ region: "asia"
 tags: ["japón", "hub-ana", "hub-jal", "escala-corta"]
 featured: true
 quickFacts:
-  passengers: "80M+/año"
+  passengers: "85,7M (2024)"
   terminals: "3"
   distanceToCity: "15 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Ramen, sushi, izakaya"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Royal Park Hotel, en la Terminal 3"
 spotlight:
   title: "Date un baño en el onsen del aeropuerto"
   text: "El complejo Haneda Airport Garden, justo a las afueras de la Terminal 3, tiene un auténtico baño termal japonés (onsen) con vistas a las pistas — una forma poco habitual de pasar una escala larga."
@@ -67,7 +70,7 @@ Tokio Haneda (IATA: **HND**) es el aeropuerto con más pasajeros de Japón y, gr
 
 ## Panorama general
 
-Haneda se divide en tres edificios terminales: la Terminal 1 y la Terminal 2 gestionan vuelos nacionales (y una pequeña parte internacional), mientras que la **Terminal 3** es la terminal internacional dedicada. Las tres están conectadas por pasillos, un bus lanzadera gratuito, y acceso directo desde las estaciones de la Línea Keikyu y el Monorraíl de Tokio. Comparado con Tokio Narita, la gran ventaja de Haneda es la cercanía — la mayoría de traslados a la ciudad tardan bastante menos de 30 minutos.
+Haneda se divide en tres edificios terminales: la Terminal 1 y la Terminal 2 gestionan vuelos nacionales (y una pequeña parte internacional), mientras que la **Terminal 3** es la terminal internacional dedicada. Las tres están conectadas por pasillos, un bus lanzadera gratuito, y acceso directo desde las estaciones de la Línea Keikyu y el Monorraíl de Tokio. Comparado con Tokio Narita, la gran ventaja de Haneda es la cercanía — la mayoría de traslados a la ciudad tardan bastante menos de 30 minutos. Haneda [gestionó 85,7 millones de pasajeros en 2024](https://www.nippon.com/en/japan-data/h02505/), un salto del 9,1% respecto al año anterior, suficiente para consolidarse como el aeropuerto con más tráfico de Japón por un margen amplio.
 
 ## Terminales
 
@@ -109,7 +112,11 @@ El wifi gratuito e ilimitado está disponible en las tres terminales sin límite
 
 ## Dónde comer
 
-Haneda destaca en la oferta gastronómica de aeropuerto — la calle Edo-koji de la Terminal 3 recrea una calle de Tokio de la era Edo con puestos de ramen, sushi y dulces tradicionales, mientras que las tres terminales tienen buenas opciones de tiendas de conveniencia y bento para una comida rápida y de calidad antes de embarcar.
+Haneda destaca en la oferta gastronómica de aeropuerto — la calle Edo-koji de la Terminal 3 recrea una calle de Tokio de la era Edo con puestos de ramen, sushi y dulces tradicionales, mientras que las tres terminales tienen buenas opciones de tiendas de conveniencia y bento para una comida rápida y de calidad antes de embarcar. En el hotel conectado, **TAILWIND** ofrece restauración durante todo el día con vistas a la terminal, mezclando cocina de fusión japonesa y occidental con buffet de desayuno y carta a mediodía y por la noche.
+
+## Hotel en el aeropuerto
+
+El **Royal Park Hotel Tokyo Haneda** está justo junto a la Terminal 3, con su recepción accesible directamente desde la planta de salidas por una escalera mecánica — sin necesidad de shuttle. Además de TAILWIND, es una opción genuinamente cómoda para una llegada tardía o una salida temprana de largo radio sin necesidad de ir al centro de Tokio.
 
 ## Salas VIP
 

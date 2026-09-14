@@ -18,7 +18,7 @@ region: "africa"
 tags: ["sudáfrica", "hub-south-african-airways", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "20M+/año"
+  passengers: "18,5M (año fiscal 2024/25)"
   terminals: "1 (nacional + internacional)"
   distanceToCity: "24 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina sudafricana, cadenas"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "InterContinental, a pasos de la terminal"
 spotlight:
   title: "Usa el Gautrain o un traslado reservado, no pares un taxi en la calle"
   text: "A diferencia de muchos aeropuertos, no se recomienda parar un taxi al azar en la calle en O.R. Tambo — usa el Gautrain, una parada oficial de taxis del aeropuerto, o un traslado reservado con antelación/app de VTC. Es un pequeño paso extra que marca una diferencia real para una llegada tranquila."
 hubAirlines: ["South African Airways", "Airlink"]
 ---
 
-El Aeropuerto Internacional O.R. Tambo (IATA: **JNB**) es el aeropuerto con más tráfico de África, con más de 20 millones de viajeros al año como principal puerta de entrada internacional de Sudáfrica. Está a unos 24 km al noreste del centro de Johannesburgo y es el hub principal de South African Airways y un importante punto de conexión para vuelos por todo el continente africano.
+El Aeropuerto Internacional O.R. Tambo (IATA: **JNB**) es el aeropuerto con más tráfico de África, con [18,5 millones de pasajeros en el año fiscal 2024/25](https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport) — los aeropuertos sudafricanos informan por año fiscal de abril a marzo, no por año calendario — como principal puerta de entrada internacional de Sudáfrica. Está a unos 24 km al noreste del centro de Johannesburgo y es el hub principal de South African Airways y un importante punto de conexión para vuelos por todo el continente africano.
 
 ## Panorama general
 
@@ -109,7 +112,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 
 ## Dónde comer
 
-JNB tiene una buena selección de cocina sudafricana — biltong, boerewors y otras especialidades locales — junto a cadenas internacionales, concentradas sobre todo en la zona de la terminal internacional.
+JNB tiene una buena selección de cocina sudafricana — biltong, boerewors y otras especialidades locales — junto a cadenas internacionales, concentradas sobre todo en la zona de la terminal internacional. En el InterContinental, **Quills Restaurant and Cocktail Bar** abre las 24 horas, con una carta basada en productos sudafricanos y vinos locales.
+
+## Hotel en el aeropuerto
+
+El **InterContinental Johannesburg O.R. Tambo Airport** está a solo unos pasos del edificio de la terminal — genuinamente andable, con personal del hotel recibiendo a los huéspedes en llegadas para un traslado de cortesía. Además de Quills, tiene una piscina climatizada interior y spa, una buena opción para una escala larga o una salida temprana.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "europe"
 tags: ["irlanda", "hub-aer-lingus", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "32M+/año"
+  passengers: "33,3M (2024)"
   terminals: "2"
   distanceToCity: "10 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Comida de pub irlandesa, cadenas internacionales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Clayton/Radisson, shuttle gratis"
 spotlight:
   title: "Hogar de la mitad de los aviones arrendados del mundo"
   text: "Irlanda se ha convertido en el centro mundial de la industria de arrendamiento de aviones, y más de la mitad de los aviones comerciales arrendados del planeta son gestionados por empresas con sede alrededor de Dublín — un dato genuinamente sorprendente para un país del tamaño de Irlanda."
@@ -67,7 +70,7 @@ El Aeropuerto de Dublín (IATA: **DUB**) es el aeropuerto con más tráfico de I
 
 ## Panorama general
 
-DUB opera dos terminales y funciona como la principal puerta de entrada internacional de Irlanda, con un papel desproporcionado en la aviación mundial que va mucho más allá de sus cifras de pasajeros: Irlanda es el centro mundial del arrendamiento de aviones, y la mayoría de los aviones comerciales arrendados del planeta son gestionados por empresas con sede alrededor de Dublín — una industria discreta pero enorme que la mayoría de los viajeros nunca nota.
+DUB opera dos terminales y funciona como la principal puerta de entrada internacional de Irlanda, con un papel desproporcionado en la aviación mundial que va mucho más allá de sus cifras de pasajeros: Irlanda es el centro mundial del arrendamiento de aviones, y la mayoría de los aviones comerciales arrendados del planeta son gestionados por empresas con sede alrededor de Dublín — una industria discreta pero enorme que la mayoría de los viajeros nunca nota. DAA, el operador del aeropuerto, [registró 33,3 millones de pasajeros por las terminales de Dublín en 2024](https://www.dublinairport.com/latest-news/2025/01/14/33.3m-passengers-went-through-dublin-airport's-terminals-in-2024), un aumento del 4% respecto a 2023 que llevó al aeropuerto a superar su límite regulatorio de pasajeros.
 
 ## Terminales
 
@@ -109,6 +112,10 @@ El wifi gratuito e ilimitado está disponible en ambas terminales sin límite de
 ## Dónde comer
 
 DUB tiene una buena selección de comida de pub irlandesa junto a cadenas internacionales, repartida por ambas terminales.
+
+## Hotel en el aeropuerto
+
+DUB no tiene un hotel integrado en la propia terminal, pero hay dos opciones justo fuera con shuttle gratuito 24 horas: el **Clayton Hotel Dublin Airport Central**, a unos 8–10 minutos a pie o un breve trayecto de shuttle desde la Terminal 2, y el **Radisson Blu Hotel, Dublin Airport**, accesible del mismo modo. Ambos son genuinamente cómodos para una salida temprana sin necesidad de un taxi hasta la terminal.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["brasil", "hub-latam", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "43M+/año"
+  passengers: "43,6M (2024)"
   terminals: "3"
   distanceToCity: "25 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina regional brasileña, churrasco"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "TRYP by Wyndham, dentro de la T3"
 spotlight:
   title: "Duerme en un hotel conectado directamente a la terminal"
   text: "El GRU Airport Hotel está conectado directamente a la Terminal 3 mediante un pasillo cubierto, lo que permite a los viajeros con una escala larga o una salida temprana descansar de verdad sin necesidad de un desplazamiento aparte a la ciudad."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de São Paulo–Guarulhos (IATA: **GRU**) es el aero
 
 ## Panorama general
 
-GRU opera tres terminales y funciona como la principal puerta de entrada entre Sudamérica y el resto del mundo — más rutas internacionales conectan a través de GRU que a través de cualquier otro aeropuerto brasileño. Un elemento destacado para los viajeros: hay un hotel integrado directamente en el complejo del aeropuerto, conectado a la Terminal 3 mediante un pasillo cubierto, una opción genuinamente cómoda para escalas largas o salidas tempranas.
+GRU opera tres terminales y funciona como la principal puerta de entrada entre Sudamérica y el resto del mundo — más rutas internacionales conectan a través de GRU que a través de cualquier otro aeropuerto brasileño. Un elemento destacado para los viajeros: hay un hotel integrado directamente en el complejo del aeropuerto, conectado a la Terminal 3 mediante un pasillo cubierto, una opción genuinamente cómoda para escalas largas o salidas tempranas. GRU Airport [gestionó 43,6 millones de pasajeros en 2024](https://brasilturis.com.br/2025/01/06/gru-airport-encerra-2024-com-recorde-historico-de-436-milhoes-de-passageiros/), un nuevo récord que superó el pico previo de 43 millones de 2019.
 
 ## Terminales
 
@@ -109,7 +112,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-GRU tiene una sólida selección de cocina regional brasileña — incluyendo un auténtico churrasco — junto a cadenas internacionales, repartida por las tres terminales.
+GRU tiene una sólida selección de cocina regional brasileña — incluyendo un auténtico churrasco — junto a cadenas internacionales, repartida por las tres terminales. El hotel conectado tiene su propio restaurante en formato buffet, abierto para desayuno, comida y cena con una mezcla de platos brasileños e internacionales — una opción modesta pero genuinamente cómoda sin salir de la terminal.
+
+## Hotel en el aeropuerto
+
+El **TRYP by Wyndham São Paulo Guarulhos Airport** está dentro de la propia zona de embarque internacional de la Terminal 3 — un auténtico hotel de tránsito en zona de embarque, no solo una propiedad cercana, conectado sin necesidad de volver a pasar seguridad. Es una buena opción para una escala larga o una salida temprana, y su restaurante acepta Priority Pass.
 
 ## Salas VIP
 
