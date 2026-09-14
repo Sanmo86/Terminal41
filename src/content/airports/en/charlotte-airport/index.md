@@ -18,7 +18,7 @@ region: "americas"
 tags: ["united-states", "hub-american-airlines", "short-layover", "domestic"]
 featured: true
 quickFacts:
-  passengers: "53M+/year"
+  passengers: "58.8M (2024)"
   terminals: "1 (Concourses A–E)"
   distanceToCity: "11 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Southern American cuisine, regional chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Courtyard 1 mile away"
 spotlight:
   title: "Home to rows of beloved rocking chairs"
   text: "Charlotte Douglas is famous for its long rows of wooden rocking chairs lining the concourses — a simple, low-tech feature that has become one of the airport's most beloved and photographed details. In an industry defined by rushing and stress, they've become a genuinely popular spot for travelers to slow down for a few minutes between flights."
@@ -67,7 +70,7 @@ Charlotte Douglas International Airport (IATA: **CLT**) is one of American Airli
 
 ## Overview
 
-CLT operates a single terminal with five concourses and holds a genuinely charming distinction among major US airports: long rows of wooden rocking chairs line its concourses, a simple feature that has become one of the airport's most beloved and photographed details. As one of American Airlines' busiest connecting hubs, CLT sees enormous volumes of passengers transferring between flights — and the rocking chairs have become a small, welcome way to pause amid that rush.
+CLT operates a single terminal with five concourses and holds a genuinely charming distinction among major US airports: long rows of wooden rocking chairs line its concourses, a simple feature that has become one of the airport's most beloved and photographed details. As one of American Airlines' busiest connecting hubs, CLT sees enormous volumes of passengers transferring between flights — and the rocking chairs have become a small, welcome way to pause amid that rush. CLT [set a new annual record with 58.8 million passengers in 2024](https://www.cltairport.com/news/press-releases/item/clt-breaks-passenger-record-with-58-8-million-in-2024/), a 10% jump on the previous record set in 2023 that made it the 7th-busiest airport in the US.
 
 ## Terminals
 
@@ -108,6 +111,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 CLT has a good selection of Southern American cuisine and regional chains spread across its five concourses.
+
+## Airport Hotel
+
+CLT doesn't have a hotel built into the terminal. The closest option is the **Courtyard Charlotte Airport**, about a mile away with a free shuttle, and the **Sheraton Charlotte Airport Hotel** a bit further, also with complimentary shuttle service — both solid picks for an early departure without needing your own car.
 
 ## Lounges
 

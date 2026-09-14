@@ -18,7 +18,7 @@ region: "africa"
 tags: ["namibia", "hub-flynamibia", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "1M+/year"
+  passengers: "1.26M (2024)"
   terminals: "1"
   distanceToCity: "45 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Namibian and German-influenced cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None near the airport itself"
 spotlight:
   title: "Gateway to the world's oldest desert"
   text: "Namibia is home to the Namib Desert, widely considered the oldest desert on Earth, with an estimated age of 55 to 80 million years. Hosea Kutako International Airport is the primary gateway to its towering red dunes at Sossusvlei — among the tallest sand dunes anywhere in the world — making WDH the starting point for one of Africa's most striking landscapes."
@@ -67,7 +70,7 @@ Hosea Kutako International Airport (IATA: **WDH**) is Namibia's main gateway and
 
 ## Overview
 
-WDH operates a single terminal and serves as the primary entry point to a country with a genuinely remarkable natural claim: the Namib Desert, widely considered the oldest desert on Earth at an estimated 55 to 80 million years old. The airport is the main gateway to Sossusvlei's towering red dunes, among the tallest sand dunes anywhere in the world, making WDH the starting point for one of Africa's most photographed landscapes.
+WDH operates a single terminal and serves as the primary entry point to a country with a genuinely remarkable natural claim: the Namib Desert, widely considered the oldest desert on Earth at an estimated 55 to 80 million years old. The airport is the main gateway to Sossusvlei's towering red dunes, among the tallest sand dunes anywhere in the world, making WDH the starting point for one of Africa's most photographed landscapes. WDH [handled 1,257,093 passengers in 2024](https://en.wikipedia.org/wiki/Hosea_Kutako_International_Airport), a 6.5% increase on the year before.
 
 ## Terminals
 
@@ -108,6 +111,10 @@ Free wifi is available in the terminal with a limited free session.
 ## Where to Eat
 
 WDH has a good selection of Namibian cuisine, which carries a distinctive German influence from the country's colonial history, alongside more standard airport dining options.
+
+## Airport Hotel
+
+There's genuinely no hotel near WDH itself — the closest options are lodges and guest farms 10 minutes or more away by car, more built for a safari stay than an airport layover. Given the distance to Windhoek, most travelers arrange a rental car and head straight to their next destination rather than looking for somewhere to stay near the terminal.
 
 ## Lounges
 

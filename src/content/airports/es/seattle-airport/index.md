@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "hub-alaska-airlines", "escala-corta", "nacional"]
 featured: true
 quickFacts:
-  passengers: "52M+/año"
+  passengers: "52,6M (2024)"
   terminals: "1 (Central + pasillos satélite)"
   distanceToCity: "23 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina del Pacífico Noroeste, tostadores de café locales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Radisson justo enfrente"
 spotlight:
   title: "El atajo secreto de EE.UU. hacia Asia"
   text: "La ubicación de Seattle-Tacoma le da algunos de los tiempos de vuelo más cortos desde cualquier punto de EE.UU. continental hasta Asia, gracias a rutas polares de círculo máximo que se curvan sobre el norte del Pacífico. Esa ventaja geográfica ha convertido a SEA en una de las puertas de entrada más importantes del país a la región Asia-Pacífico, pese a que Seattle no es una de las ciudades más grandes de Estados Unidos."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Seattle-Tacoma (IATA: **SEA**) es la principal pu
 
 ## Panorama general
 
-SEA opera una terminal central conectada a pasillos satélite y ostenta una ventaja geográfica genuinamente valiosa: su ubicación le da algunos de los tiempos de vuelo más cortos desde cualquier punto de EE.UU. continental hasta Asia, gracias a rutas polares de círculo máximo que se curvan sobre el norte del Pacífico. Esa ventaja ha convertido a SEA en una puerta de entrada crítica a Asia-Pacífico pese a que Seattle no es una de las mayores áreas metropolitanas de Estados Unidos — un reflejo de que la geografía importa tanto como la población.
+SEA opera una terminal central conectada a pasillos satélite y ostenta una ventaja geográfica genuinamente valiosa: su ubicación le da algunos de los tiempos de vuelo más cortos desde cualquier punto de EE.UU. continental hasta Asia, gracias a rutas polares de círculo máximo que se curvan sobre el norte del Pacífico. Esa ventaja ha convertido a SEA en una puerta de entrada crítica a Asia-Pacífico pese a que Seattle no es una de las mayores áreas metropolitanas de Estados Unidos — un reflejo de que la geografía importa tanto como la población. SEA [estableció un nuevo récord anual con 52,6 millones de pasajeros en 2024](https://www.portseattle.org/news/sea-airport-completes-pandemic-recovery-record-2024-volumes), superando el pico prepandemia de 2019, de 51,8 millones.
 
 ## Terminales
 
@@ -108,6 +111,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 SEA tiene una excelente selección de cocina del Pacífico Noroeste y café tostado localmente repartida por sus pasillos — un reflejo apropiado de la cultura cafetera de Seattle.
+
+## Hotel en el aeropuerto
+
+SEA no tiene un hotel integrado en la terminal. El **Radisson Hotel Seattle Airport** está justo enfrente con shuttle gratuito, y el **Seattle Airport Marriott** está a menos de 1,6 km con el mismo servicio — ambos genuinamente cómodos para una salida temprana transpacífica.
 
 ## Salas VIP
 

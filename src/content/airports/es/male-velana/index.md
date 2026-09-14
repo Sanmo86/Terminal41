@@ -18,7 +18,7 @@ region: "asia"
 tags: ["maldivas", "hub-maldivian", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "7M+/año"
+  passengers: "7,5M (2024, estimado)"
   terminals: "1"
   distanceToCity: "2 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Marisco maldivo e internacional"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hulhulé Island Hotel, shuttle gratis"
 spotlight:
   title: "El único aeropuerto donde la mayoría nunca llega a la capital"
   text: "El Aeropuerto Internacional de Velana ocupa toda una isla, Hulhulé, justo al otro lado del agua desde Malé. Pero para la mayoría de pasajeros que llegan, la ciudad capital es genuinamente irrelevante para su viaje — pasan directamente del avión a un hidroavión o lancha rápida rumbo a un resort en isla privada, a menudo sin pisar oficialmente jamás el principal núcleo de población del país."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Velana (IATA: **MLE**) es la principal puerta de 
 
 ## Panorama general
 
-MLE opera una única terminal y ostenta una distinción genuinamente inusual: todo el aeropuerto se asienta sobre su propia isla, y para la mayoría de viajeros, la ciudad capital a la que nominalmente pertenece apenas influye en el viaje. La gran mayoría de pasajeros que llegan pasan directamente de su vuelo internacional a un hidroavión nacional o una lancha rápida de resort, rumbo directo a un resort en isla privada sin visitar oficialmente Malé jamás.
+MLE opera una única terminal y ostenta una distinción genuinamente inusual: todo el aeropuerto se asienta sobre su propia isla, y para la mayoría de viajeros, la ciudad capital a la que nominalmente pertenece apenas influye en el viaje. La gran mayoría de pasajeros que llegan pasan directamente de su vuelo internacional a un hidroavión nacional o una lancha rápida de resort, rumbo directo a un resort en isla privada sin visitar oficialmente Malé jamás. MACL, el operador del aeropuerto, [informó de un total de 8 millones de pasajeros en 2025](https://en.maaldif.com/11354/), un aumento del 7% sobre 2024 — calculando hacia atrás con ese ritmo de crecimiento, 2024 quedaría en torno a 7,5 millones, aunque MACL no ha publicado esa cifra exacta por sí misma.
 
 ## Terminales
 
@@ -107,7 +110,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita limita
 
 ## Dónde comer
 
-MLE tiene una buena selección de marisco maldivo e internacional junto a opciones de restauración de aeropuerto más habituales.
+MLE tiene una buena selección de marisco maldivo e internacional junto a opciones de restauración de aeropuerto más habituales. En el Hulhulé Island Hotel, **Uduvilaa** es un restaurante en la planta superior con paredes de cristal y vistas al mar, y **Faru Coffee House** ofrece una carta 24 horas de platos europeos, japoneses e italianos.
+
+## Hotel en el aeropuerto
+
+El **Hulhulé Island Hotel** está a poco más de 800 metros de la terminal, con un shuttle de cortesía que funciona las 24 horas — no es andable, pero es genuinamente la opción más cercana y cómoda para una escala que no encaja con un traslado a resort. Además de Uduvilaa y Faru Coffee House, tiene acceso directo a una playa privada.
 
 ## Salas VIP
 

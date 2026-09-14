@@ -18,7 +18,7 @@ region: "asia"
 tags: ["indonesia", "hub-garuda-indonesia", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "54M+/year"
+  passengers: "54.8M (2024)"
   terminals: "3 (T1, T2, T3)"
   distanceToCity: "20 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Indonesian cuisine, international chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Anara Airport Hotel, inside T3"
 spotlight:
   title: "Serving one of the world's most populous metro areas"
   text: "Jakarta's greater metropolitan area, Jabodetabek, is home to more than 30 million people — more than the population of many entire countries. Soekarno-Hatta International Airport is the primary air gateway to this vast urban region, making it one of the busiest and most essential pieces of transport infrastructure anywhere in Southeast Asia."
@@ -67,7 +70,7 @@ Soekarno-Hatta International Airport (IATA: **CGK**) is Indonesia's main gateway
 
 ## Overview
 
-CGK operates three terminals and serves a genuinely staggering urban region: greater Jakarta, known as Jabodetabek, is home to more than 30 million people — a population larger than most entire countries. That scale makes CGK one of the busiest airports in Southeast Asia and a critical piece of infrastructure for one of the world's largest urban agglomerations.
+CGK operates three terminals and serves a genuinely staggering urban region: greater Jakarta, known as Jabodetabek, is home to more than 30 million people — a population larger than most entire countries. That scale makes CGK one of the busiest airports in Southeast Asia and a critical piece of infrastructure for one of the world's largest urban agglomerations. CGK [handled 54.8 million passengers in 2024](https://www.airportsdata.net/airport-CGK/), a 7% increase on the year before as Indonesia's aviation sector continued its post-pandemic recovery.
 
 ## Terminals
 
@@ -109,7 +112,11 @@ Free wifi is available in the terminal with a limited free session.
 
 ## Where to Eat
 
-CGK has a good selection of Indonesian cuisine alongside international chains, spread across all three terminals.
+CGK has a good selection of Indonesian cuisine alongside international chains, spread across all three terminals. At the Anara Airport Hotel, **Selasih Restaurant** serves Asian and international dishes for both breakfast and dinner service.
+
+## Airport Hotel
+
+The **Anara Airport Hotel** is the only hotel actually located inside Terminal 3, positioned at the international end — a genuine transit hotel, not a nearby property. There's also the **Digital Airport Hotel**, a capsule-style option in the same terminal for shorter transit stays.
 
 ## Lounges
 

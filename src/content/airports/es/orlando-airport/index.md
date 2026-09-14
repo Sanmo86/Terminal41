@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "hub-southwest-airlines", "escala-corta", "nacional"]
 featured: true
 quickFacts:
-  passengers: "57M+/año"
+  passengers: "57,2M (2024)"
   terminals: "2 (A/B, C)"
   distanceToCity: "10 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cadenas americanas, cocina de inspiración floridana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hyatt Regency, dentro de la terminal"
 spotlight:
   title: "La puerta que construyeron los parques temáticos"
   text: "El tráfico del Aeropuerto Internacional de Orlando es abrumadoramente de ocio en vez de negocios — es la principal puerta de entrada a Walt Disney World, Universal Orlando y el complejo de parques temáticos más visitado del mundo. Eso condiciona todo el carácter del aeropuerto: más familias, más viajeros primerizos, y una de las proporciones de tráfico vacacional más altas de cualquier gran aeropuerto del planeta."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Orlando (IATA: **MCO**) es uno de los aeropuertos
 
 ## Panorama general
 
-MCO opera dos complejos de terminales y ostenta un carácter genuinamente distintivo entre los grandes aeropuertos del mundo: su tráfico es abrumadoramente de ocio en vez de negocios, como principal puerta de entrada a Walt Disney World, Universal Orlando y el complejo de parques temáticos más visitado del mundo. Eso condiciona todo el ritmo del aeropuerto: más familias, más viajeros primerizos, y una de las proporciones de tráfico vacacional más altas de cualquier aeropuerto de este tamaño en cualquier lugar.
+MCO opera dos complejos de terminales y ostenta un carácter genuinamente distintivo entre los grandes aeropuertos del mundo: su tráfico es abrumadoramente de ocio en vez de negocios, como principal puerta de entrada a Walt Disney World, Universal Orlando y el complejo de parques temáticos más visitado del mundo. Eso condiciona todo el ritmo del aeropuerto: más familias, más viajeros primerizos, y una de las proporciones de tráfico vacacional más altas de cualquier aeropuerto de este tamaño en cualquier lugar. MCO [gestionó 57,2 millones de pasajeros en 2024](https://roadgenius.com/statistics/airports/usa/orlando-mco-airport/), manteniéndolo como el aeropuerto más transitado de Florida y el 9º de Estados Unidos.
 
 ## Terminales
 
@@ -108,7 +111,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-MCO tiene una buena selección de cadenas americanas y cocina de inspiración floridana repartida por ambas terminales.
+MCO tiene una buena selección de cadenas americanas y cocina de inspiración floridana repartida por ambas terminales. En el Hyatt Regency, **McCoy's Bar & Grill** ofrece una carta de inspiración global con barra de sushi en la planta del vestíbulo, y **Hemisphere**, en la novena planta, combina cocina neocontemporánea internacional con una vista impactante a las pistas — ambos están antes del control de seguridad, así que puede comer cualquiera, no solo huéspedes del hotel o pasajeros con billete.
+
+## Hotel en el aeropuerto
+
+El **Hyatt Regency Orlando International Airport** está genuinamente integrado en la propia terminal, ocupando el atrio entre la entrada principal y las puertas de embarque — no a un trayecto de shuttle de distancia. Además de McCoy's y Hemisphere, es uno de los hoteles de aeropuerto más cómodos del país para una salida temprana a los parques o una llegada tardía.
 
 ## Salas VIP
 

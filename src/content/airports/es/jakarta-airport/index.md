@@ -18,7 +18,7 @@ region: "asia"
 tags: ["indonesia", "hub-garuda-indonesia", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "54M+/año"
+  passengers: "54,8M (2024)"
   terminals: "3 (T1, T2, T3)"
   distanceToCity: "20 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina indonesia, cadenas internacionales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Anara Airport Hotel, dentro de la T3"
 spotlight:
   title: "Sirve a una de las áreas metropolitanas más pobladas del mundo"
   text: "El área metropolitana de Yakarta, conocida como Jabodetabek, alberga a más de 30 millones de personas — más que la población de muchos países enteros. El Aeropuerto Internacional Soekarno-Hatta es la principal puerta de entrada aérea a esta vasta región urbana, lo que lo convierte en uno de los aeropuertos más transitados del Sudeste Asiático y una pieza crítica de infraestructura para una de las mayores aglomeraciones urbanas del mundo."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional Soekarno-Hatta (IATA: **CGK**) es la principal puert
 
 ## Panorama general
 
-CGK opera tres terminales y sirve a una región urbana genuinamente asombrosa: el área metropolitana de Yakarta, conocida como Jabodetabek, alberga a más de 30 millones de personas — una población mayor que la de la mayoría de países enteros. Esa escala convierte a CGK en uno de los aeropuertos más transitados del Sudeste Asiático y en una pieza crítica de infraestructura para una de las mayores aglomeraciones urbanas del mundo.
+CGK opera tres terminales y sirve a una región urbana genuinamente asombrosa: el área metropolitana de Yakarta, conocida como Jabodetabek, alberga a más de 30 millones de personas — una población mayor que la de la mayoría de países enteros. Esa escala convierte a CGK en uno de los aeropuertos más transitados del Sudeste Asiático y en una pieza crítica de infraestructura para una de las mayores aglomeraciones urbanas del mundo. CGK [gestionó 54,8 millones de pasajeros en 2024](https://www.airportsdata.net/airport-CGK/), un aumento del 7% respecto al año anterior, en plena recuperación post-pandemia del sector aéreo indonesio.
 
 ## Terminales
 
@@ -109,7 +112,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita limita
 
 ## Dónde comer
 
-CGK tiene una buena selección de cocina indonesia junto a cadenas internacionales, repartida por las tres terminales.
+CGK tiene una buena selección de cocina indonesia junto a cadenas internacionales, repartida por las tres terminales. En el Anara Airport Hotel, **Selasih Restaurant** sirve platos asiáticos e internacionales tanto en el servicio de desayuno como de cena.
+
+## Hotel en el aeropuerto
+
+El **Anara Airport Hotel** es el único hotel ubicado realmente dentro de la Terminal 3, en el extremo internacional — un auténtico hotel de tránsito, no una propiedad cercana. También está el **Digital Airport Hotel**, una opción tipo cápsula en la misma terminal para estancias de tránsito más cortas.
 
 ## Salas VIP
 

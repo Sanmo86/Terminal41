@@ -18,7 +18,7 @@ region: "africa"
 tags: ["namibia", "hub-flynamibia", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "1M+/año"
+  passengers: "1,26M (2024)"
   terminals: "1"
   distanceToCity: "45 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina namibia con influencia alemana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno cerca del propio aeropuerto"
 spotlight:
   title: "La puerta al desierto más antiguo del mundo"
   text: "Namibia alberga el desierto de Namib, ampliamente considerado el más antiguo de la Tierra, con una edad estimada de entre 55 y 80 millones de años. El Aeropuerto Internacional Hosea Kutako es la puerta principal a sus imponentes dunas rojas de Sossusvlei — entre las dunas de arena más altas del mundo — lo que convierte a WDH en el punto de partida hacia uno de los paisajes más llamativos de África."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional Hosea Kutako (IATA: **WDH**) es la principal puerta 
 
 ## Panorama general
 
-WDH opera una única terminal y sirve como el principal punto de entrada a un país con una afirmación natural genuinamente notable: el desierto de Namib, ampliamente considerado el más antiguo de la Tierra, con una edad estimada de entre 55 y 80 millones de años. El aeropuerto es la puerta principal a las imponentes dunas rojas de Sossusvlei, entre las dunas de arena más altas del mundo, lo que convierte a WDH en el punto de partida hacia uno de los paisajes más fotografiados de África.
+WDH opera una única terminal y sirve como el principal punto de entrada a un país con una afirmación natural genuinamente notable: el desierto de Namib, ampliamente considerado el más antiguo de la Tierra, con una edad estimada de entre 55 y 80 millones de años. El aeropuerto es la puerta principal a las imponentes dunas rojas de Sossusvlei, entre las dunas de arena más altas del mundo, lo que convierte a WDH en el punto de partida hacia uno de los paisajes más fotografiados de África. WDH [gestionó 1.257.093 pasajeros en 2024](https://en.wikipedia.org/wiki/Hosea_Kutako_International_Airport), un aumento del 6,5% respecto al año anterior.
 
 ## Terminales
 
@@ -108,6 +111,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita limita
 ## Dónde comer
 
 WDH tiene una buena selección de cocina namibia, que conserva una influencia alemana distintiva de la historia colonial del país, junto a opciones de restauración de aeropuerto más habituales.
+
+## Hotel en el aeropuerto
+
+Genuinamente no hay ningún hotel cerca del propio WDH — las opciones más cercanas son lodges y granjas de invitados a 10 minutos o más en coche, pensadas más para una estancia de safari que para una escala de aeropuerto. Dada la distancia hasta Windhoek, la mayoría de viajeros recoge un coche de alquiler y va directo a su siguiente destino en vez de buscar algo cerca de la terminal.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["united-states", "hub-southwest-airlines", "short-layover", "domestic"]
 featured: true
 quickFacts:
-  passengers: "55M+/year"
+  passengers: "58.4M (2024)"
   terminals: "2 (T1, T3)"
   distanceToCity: "8 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "American chains, local Vegas favorites"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Strip hotels minutes away"
 spotlight:
   title: "Slot machines before you even collect your bags"
   text: "Harry Reid International has slot machines scattered throughout its terminals and gate areas — a genuinely unusual feature that means passengers can start gambling the moment they land, before they've even reached baggage claim. It's a fitting first impression for a city built entirely around the casino floor."
@@ -67,7 +70,7 @@ Harry Reid International Airport (IATA: **LAS**) is the primary gateway to Las V
 
 ## Overview
 
-LAS operates two terminals and offers a genuinely unusual first impression: slot machines are scattered throughout the terminals and gate areas, meaning passengers can start gambling the moment they land, before they've even reached baggage claim. Renamed in 2021 from McCarran International in honor of the late US Senator Harry Reid, the airport remains one of the busiest leisure-travel gateways in the country, built entirely around a city that runs on tourism.
+LAS operates two terminals and offers a genuinely unusual first impression: slot machines are scattered throughout the terminals and gate areas, meaning passengers can start gambling the moment they land, before they've even reached baggage claim. Renamed in 2021 from McCarran International in honor of the late US Senator Harry Reid, the airport remains one of the busiest leisure-travel gateways in the country, built entirely around a city that runs on tourism. LAS [set a new annual record with 58.4 million passengers in 2024](https://news.harryreidairport.com/58-4-million-passengers-in-2024-a-new-las-record/), a 1.4% increase on the previous record set in 2023.
 
 ## Terminals
 
@@ -109,6 +112,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 LAS has a solid selection of American chains and local Las Vegas favorites spread across both terminals.
+
+## Airport Hotel
+
+LAS doesn't have a hotel built into the terminal — genuinely unusual for a city with this many hotel rooms, but the Strip itself is the draw. The closest option with a free shuttle is the **Best Western McCarran Inn**, about a 5-minute drive; most travelers just head straight to their Strip hotel instead, only 10–15 minutes away by rideshare.
 
 ## Lounges
 

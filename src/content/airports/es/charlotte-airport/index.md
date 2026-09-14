@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "hub-american-airlines", "escala-corta", "nacional"]
 featured: true
 quickFacts:
-  passengers: "53M+/año"
+  passengers: "58,8M (2024)"
   terminals: "1 (Pasillos A–E)"
   distanceToCity: "11 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina sureña estadounidense, cadenas regionales"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Courtyard a 1,6 km"
 spotlight:
   title: "Hogar de sus queridas filas de mecedoras"
   text: "Charlotte Douglas es famoso por sus largas filas de mecedoras de madera a lo largo de los pasillos — una característica sencilla y de baja tecnología que se ha convertido en uno de los detalles más queridos y fotografiados del aeropuerto. En una industria definida por las prisas y el estrés, se han convertido en un lugar genuinamente popular para que los viajeros se relajen unos minutos entre vuelos."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Charlotte Douglas (IATA: **CLT**) es uno de los m
 
 ## Panorama general
 
-CLT opera una única terminal con cinco pasillos y ostenta una distinción genuinamente entrañable entre los grandes aeropuertos de EE.UU.: largas filas de mecedoras de madera recorren sus pasillos, una característica sencilla que se ha convertido en uno de los detalles más queridos y fotografiados del aeropuerto. Como uno de los hubs de conexión más transitados de American Airlines, CLT ve enormes volúmenes de pasajeros en tránsito entre vuelos — y las mecedoras se han convertido en una pequeña y bienvenida forma de hacer una pausa en medio de esas prisas.
+CLT opera una única terminal con cinco pasillos y ostenta una distinción genuinamente entrañable entre los grandes aeropuertos de EE.UU.: largas filas de mecedoras de madera recorren sus pasillos, una característica sencilla que se ha convertido en uno de los detalles más queridos y fotografiados del aeropuerto. Como uno de los hubs de conexión más transitados de American Airlines, CLT ve enormes volúmenes de pasajeros en tránsito entre vuelos — y las mecedoras se han convertido en una pequeña y bienvenida forma de hacer una pausa en medio de esas prisas. CLT [estableció un nuevo récord anual con 58,8 millones de pasajeros en 2024](https://www.cltairport.com/news/press-releases/item/clt-breaks-passenger-record-with-58-8-million-in-2024/), un salto del 10% sobre el récord anterior de 2023 que lo convirtió en el 7º aeropuerto más transitado de EE. UU.
 
 ## Terminales
 
@@ -108,6 +111,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 CLT tiene una buena selección de cocina sureña estadounidense y cadenas regionales repartida por sus cinco pasillos.
+
+## Hotel en el aeropuerto
+
+CLT no tiene un hotel integrado en la terminal. La opción más cercana es el **Courtyard Charlotte Airport**, a algo más de un kilómetro con shuttle gratuito, y el **Sheraton Charlotte Airport Hotel** un poco más lejos, también con shuttle de cortesía — ambas buenas opciones para una salida temprana sin necesidad de coche propio.
 
 ## Salas VIP
 

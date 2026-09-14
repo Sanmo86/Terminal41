@@ -18,7 +18,7 @@ region: "americas"
 tags: ["estados-unidos", "hub-southwest-airlines", "escala-corta", "nacional"]
 featured: true
 quickFacts:
-  passengers: "55M+/año"
+  passengers: "58,4M (2024)"
   terminals: "2 (T1, T3)"
   distanceToCity: "8 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cadenas americanas, favoritos locales de Las Vegas"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; hoteles del Strip a minutos"
 spotlight:
   title: "Máquinas tragaperras antes incluso de recoger las maletas"
   text: "El Aeropuerto Internacional Harry Reid tiene máquinas tragaperras repartidas por sus terminales y zonas de embarque — una característica genuinamente inusual que significa que los pasajeros pueden empezar a jugar en el momento en que aterrizan, antes incluso de llegar a recoger las maletas. Una primera impresión muy acorde con una ciudad construida enteramente alrededor del suelo del casino."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional Harry Reid (IATA: **LAS**) es la principal puerta de
 
 ## Panorama general
 
-LAS opera dos terminales y ofrece una primera impresión genuinamente inusual: hay máquinas tragaperras repartidas por las terminales y zonas de embarque, lo que significa que los pasajeros pueden empezar a jugar en el momento en que aterrizan, antes incluso de llegar a recoger las maletas. Renombrado en 2021 desde McCarran International en honor al fallecido senador estadounidense Harry Reid, el aeropuerto sigue siendo una de las puertas de entrada de viajes de ocio más transitadas del país, construido enteramente alrededor de una ciudad que vive del turismo.
+LAS opera dos terminales y ofrece una primera impresión genuinamente inusual: hay máquinas tragaperras repartidas por las terminales y zonas de embarque, lo que significa que los pasajeros pueden empezar a jugar en el momento en que aterrizan, antes incluso de llegar a recoger las maletas. Renombrado en 2021 desde McCarran International en honor al fallecido senador estadounidense Harry Reid, el aeropuerto sigue siendo una de las puertas de entrada de viajes de ocio más transitadas del país, construido enteramente alrededor de una ciudad que vive del turismo. LAS [estableció un nuevo récord anual con 58,4 millones de pasajeros en 2024](https://news.harryreidairport.com/58-4-million-passengers-in-2024-a-new-las-record/), un aumento del 1,4% sobre el récord anterior de 2023.
 
 ## Terminales
 
@@ -109,6 +112,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 LAS tiene una buena selección de cadenas americanas y favoritos locales de Las Vegas repartida por ambas terminales.
+
+## Hotel en el aeropuerto
+
+LAS no tiene un hotel integrado en la terminal — genuinamente inusual para una ciudad con tantas habitaciones de hotel, pero el propio Strip es el reclamo. La opción más cercana con shuttle gratis es el **Best Western McCarran Inn**, a unos 5 minutos en coche; la mayoría de viajeros simplemente va directo a su hotel del Strip, a solo 10–15 minutos en VTC.
 
 ## Salas VIP
 

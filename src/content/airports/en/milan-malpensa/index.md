@@ -18,7 +18,7 @@ region: "europe"
 tags: ["italy", "hub-easyjet", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "28M+/year"
+  passengers: "28.7M (2024)"
   terminals: "2 (T1, T2)"
   distanceToCity: "50 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Italian cuisine, espresso bars"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sheraton, connected to T1"
 spotlight:
   title: "The low-cost giant's biggest base outside Britain"
   text: "Malpensa is the single largest operating base for easyJet anywhere outside the United Kingdom — bigger than any of the airline's bases within the UK itself. That concentration of low-cost routes, paired with Milan's status as a global fashion capital, gives MXP a genuinely distinctive mix of budget connectivity and high-end duty-free shopping rarely found together at the same airport."
@@ -67,7 +70,7 @@ Milan Malpensa Airport (IATA: **MXP**) is Milan's main international gateway and
 
 ## Overview
 
-MXP operates two terminals and holds a genuinely notable distinction in European low-cost aviation: it's easyJet's biggest operating base anywhere in the world outside the UK, larger than any of the airline's home bases. Combined with Milan's global standing as a fashion capital, that gives MXP an unusual mix — a major budget-carrier hub with a duty-free shopping scene that punches well above its weight for luxury goods.
+MXP operates two terminals and holds a genuinely notable distinction in European low-cost aviation: it's easyJet's biggest operating base anywhere in the world outside the UK, larger than any of the airline's home bases. Combined with Milan's global standing as a fashion capital, that gives MXP an unusual mix — a major budget-carrier hub with a duty-free shopping scene that punches well above its weight for luxury goods. SEA Milan Airports [reported 28.7 million passengers at Malpensa in 2024](https://moodiedavittreport.com/sea-milan-airports-retail-sales-outstrip-passenger-growth-in-2024/), part of a record-breaking 39.3 million across both Milan airports combined.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-MXP has a strong selection of Italian cuisine and proper espresso bars alongside international chains, spread across both terminals.
+MXP has a strong selection of Italian cuisine and proper espresso bars alongside international chains, spread across both terminals. At the Sheraton, **Il Canneto** serves creative Italian cuisine with an extensive wine list, and **Monterosa Bar** covers cocktails and internationally-inspired dishes.
+
+## Airport Hotel
+
+The **Sheraton Milan Malpensa Airport Hotel & Conference Centre** is the only hotel with direct access to Terminal 1 — about a 3-minute walk, no shuttle needed. Beyond Il Canneto and Monterosa, it's a solid pick for an early departure or a long layover without leaving the airport.
 
 ## Lounges
 

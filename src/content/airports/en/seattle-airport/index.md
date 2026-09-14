@@ -18,7 +18,7 @@ region: "americas"
 tags: ["united-states", "hub-alaska-airlines", "short-layover", "domestic"]
 featured: true
 quickFacts:
-  passengers: "52M+/year"
+  passengers: "52.6M (2024)"
   terminals: "1 (Central + Satellite Concourses)"
   distanceToCity: "23 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Pacific Northwest cuisine, local coffee roasters"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Radisson across the street"
 spotlight:
   title: "America's secret shortcut to Asia"
   text: "Seattle-Tacoma's location gives it some of the shortest flight times from anywhere in the US mainland to Asia, thanks to great-circle polar routes that curve up over the north Pacific. That geographic advantage has made SEA one of the country's most important gateways to the Asia-Pacific region, despite Seattle not being one of America's largest cities."
@@ -67,7 +70,7 @@ Seattle-Tacoma International Airport (IATA: **SEA**) is the Pacific Northwest's 
 
 ## Overview
 
-SEA operates a central terminal connected to satellite concourses and holds a genuinely valuable geographic advantage: its location gives it some of the shortest flight times from anywhere in the US mainland to Asia, thanks to great-circle polar routes that curve up over the north Pacific. That advantage has made SEA a critical Asia-Pacific gateway despite Seattle not being one of America's largest metro areas — a reflection of geography mattering as much as population.
+SEA operates a central terminal connected to satellite concourses and holds a genuinely valuable geographic advantage: its location gives it some of the shortest flight times from anywhere in the US mainland to Asia, thanks to great-circle polar routes that curve up over the north Pacific. That advantage has made SEA a critical Asia-Pacific gateway despite Seattle not being one of America's largest metro areas — a reflection of geography mattering as much as population. SEA [set a new annual record with 52.6 million passengers in 2024](https://www.portseattle.org/news/sea-airport-completes-pandemic-recovery-record-2024-volumes), edging past 2019's pre-pandemic peak of 51.8 million.
 
 ## Terminals
 
@@ -108,6 +111,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 SEA has an excellent selection of Pacific Northwest cuisine and locally roasted coffee spread across its concourses — a fitting reflection of Seattle's coffee culture.
+
+## Airport Hotel
+
+SEA doesn't have a hotel built into the terminal. The **Radisson Hotel Seattle Airport** sits directly across the street with a free shuttle, and the **Seattle Airport Marriott** is less than a mile away with the same — both genuinely convenient for an early transpacific departure.
 
 ## Lounges
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["united-states", "hub-southwest-airlines", "short-layover", "domestic"]
 featured: true
 quickFacts:
-  passengers: "57M+/year"
+  passengers: "57.2M (2024)"
   terminals: "2 (A/B, C)"
   distanceToCity: "10 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "American chains, Florida-inspired dining"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hyatt Regency, inside the terminal"
 spotlight:
   title: "The gateway the theme parks built"
   text: "Orlando International's traffic is overwhelmingly leisure travel rather than business — it's the primary gateway to Walt Disney World, Universal Orlando, and the world's most-visited theme park resort complex. That skews the airport's entire character: more families, more first-time flyers, and one of the highest proportions of vacation traffic of any major airport on Earth."
@@ -67,7 +70,7 @@ Orlando International Airport (IATA: **MCO**) is one of the busiest airports in 
 
 ## Overview
 
-MCO operates two terminal complexes and holds a genuinely distinctive character among major world airports: its traffic is overwhelmingly leisure travel rather than business, as the primary gateway to Walt Disney World, Universal Orlando, and the world's most-visited theme park resort complex. That skews everything about the airport's rhythm — more families, more first-time flyers, and one of the highest shares of vacation travel of any airport this size anywhere.
+MCO operates two terminal complexes and holds a genuinely distinctive character among major world airports: its traffic is overwhelmingly leisure travel rather than business, as the primary gateway to Walt Disney World, Universal Orlando, and the world's most-visited theme park resort complex. That skews everything about the airport's rhythm — more families, more first-time flyers, and one of the highest shares of vacation travel of any airport this size anywhere. MCO [handled 57.2 million passengers in 2024](https://roadgenius.com/statistics/airports/usa/orlando-mco-airport/), keeping it Florida's busiest airport and the 9th-busiest in the United States.
 
 ## Terminals
 
@@ -108,7 +111,11 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 
 ## Where to Eat
 
-MCO has a solid selection of American chains and Florida-inspired dining spread across both terminals.
+MCO has a solid selection of American chains and Florida-inspired dining spread across both terminals. At the Hyatt Regency, **McCoy's Bar & Grill** runs a globally-inspired menu with a sushi bar on the lobby level, and **Hemisphere** on the ninth floor pairs neo-contemporary world cuisine with a dramatic runway view — both are pre-security, so anyone can dine there, not just hotel guests or ticketed passengers.
+
+## Airport Hotel
+
+The **Hyatt Regency Orlando International Airport** is genuinely built into the terminal itself, spanning the atrium between the main entrance and the gates — not a shuttle ride away. Beyond McCoy's and Hemisphere, it's one of the most convenient airport hotels in the country for an early theme-park departure or a late arrival.
 
 ## Lounges
 
