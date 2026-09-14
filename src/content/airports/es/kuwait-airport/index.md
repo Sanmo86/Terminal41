@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["kuwait", "hub-kuwait-airways", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "15M+/año"
+  passengers: "15,4M (2024)"
   terminals: "2 (T1 + nueva Terminal 2)"
   distanceToCity: "16 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina kuwaití y del Golfo"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Safir, dentro de la zona restringida"
 spotlight:
   title: "Uno de los edificios de terminal individuales más grandes del planeta"
   text: "La nueva Terminal 2 de Kuwait — diseñada por el reconocido estudio de arquitectura Foster + Partners — es uno de los edificios de terminal de aeropuerto individuales más grandes jamás construidos, una incorporación genuinamente enorme que transformó KWI de un modesto aeropuerto regional a un serio competidor entre los megahubs del Golfo."
 hubAirlines: ["Kuwait Airways"]
 ---
 
-El Aeropuerto Internacional de Kuwait (IATA: **KWI**) es el principal aeropuerto de Kuwait y el hub principal de Kuwait Airways, con más de 15 millones de pasajeros al año. Está a unos 16 km al sur del centro de Ciudad de Kuwait.
+El Aeropuerto Internacional de Kuwait (IATA: **KWI**) es el principal aeropuerto de Kuwait y el hub principal de Kuwait Airways. KWI [gestionó 15,4 millones de pasajeros en 2024](https://www.travelandtourworld.com/news/article/kuwaits-aviation-sector-soars-to-new-heights-in-2024-with-kd-341-2-million-in-sales-and-explosive-demand/), un ligero descenso del 1% frente a los 15,6 millones de 2023, aunque los ingresos generales del sector aéreo crecieron. Está a unos 16 km al sur del centro de Ciudad de Kuwait.
 
 ## Panorama general
 
@@ -104,6 +107,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 KWI tiene una buena selección de cocina kuwaití y del Golfo en general junto a cadenas internacionales, repartida por ambas terminales.
+
+## Hotel en el aeropuerto
+
+El **Safir Airport Hotel** está genuinamente dentro de la zona restringida de aduanas de KWI, entre la Terminal Principal y la Terminal Amiri — accesible mediante un shuttle gratuito desde el mostrador de tránsito en vez de a pie, un trayecto de unos 10 minutos. Según la ley kuwaití de transporte aéreo, los pasajeros con una conexión de 8 horas o más tienen derecho a una habitación gratuita aquí, a cargo de su aerolínea.
 
 ## Salas VIP
 

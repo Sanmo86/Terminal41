@@ -18,7 +18,7 @@ region: "americas"
 tags: ["mexico", "hub-viva-aerobus", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "30M+/year"
+  passengers: "30.4M (2024)"
   terminals: "3 (T2, T3, T4)"
   distanceToCity: "20 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Yucatecan and Mexican cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; resorts are 30–45 min away"
 spotlight:
   title: "Gateway to a resort city that didn't exist before 1970"
   text: "Cancún itself was deliberately planned and built from scratch starting in the early 1970s, when Mexican government planners identified an almost uninhabited stretch of Caribbean coastline and sandbar as ideal for a purpose-built tourist destination. What began as a development project is now one of the busiest airports in Latin America — a rare case of an entire resort city, and the airport serving it, engineered into existence within a single generation."
 hubAirlines: ["Viva Aerobus", "Volaris"]
 ---
 
-Cancún International Airport (IATA: **CUN**) is one of the busiest airports in Latin America and a key focus city for both Viva Aerobus and Volaris, with more than 30 million passengers a year. It sits about 20 km south of the Hotel Zone, on Mexico's Caribbean coast.
+Cancún International Airport (IATA: **CUN**) is one of the busiest airports in Latin America and a key focus city for both Viva Aerobus and Volaris. CUN [handled 30.4 million passengers in 2024](https://www.omnia.com.mx/noticia/354528/aeropuerto-de-cancun-movilizo-304-millones-de-pasajeros-en-el-2024), a second straight year of decline from its 2022 record of 32.7 million — domestic traffic fell 13.6% and international traffic 3.5%, though it remains one of the busiest airports in the Americas. It sits about 20 km south of the Hotel Zone, on Mexico's Caribbean coast.
 
 ## Overview
 
@@ -110,6 +113,10 @@ Free wifi is available in the terminal with a limited free session.
 ## Where to Eat
 
 CUN has a good selection of Yucatecan and broader Mexican cuisine alongside international chains, spread across its terminals.
+
+## Airport Hotel
+
+CUN doesn't have a hotel at the airport itself. Nearly everyone here is headed to a resort in the Hotel Zone, 30–45 minutes away by colectivo or ADO bus — that's genuinely the norm rather than the exception at an airport built to serve a purpose-made resort city.
 
 ## Lounges
 

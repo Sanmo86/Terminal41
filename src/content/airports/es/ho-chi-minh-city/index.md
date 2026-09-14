@@ -18,7 +18,7 @@ region: "asia"
 tags: ["vietnam", "hub-vietnam-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "40M+/año"
+  passengers: "39,8M (2024)"
   terminals: "2 (Nacional + Internacional)"
   distanceToCity: "7 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina vietnamita"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Cápsulas de descanso en la terminal internacional"
 spotlight:
   title: "De una de las bases aéreas más activas del mundo a un hub civil"
   text: "El emplazamiento de Tan Son Nhat fue una de las bases aéreas militares más activas de todo el planeta durante la Guerra de Vietnam — una transformación histórica genuinamente sorprendente desde aquella época hasta el bullicioso hub civil actual, que ahora gestiona decenas de millones de pasajeros al año a solo minutos del centro de la ciudad."
 hubAirlines: ["Vietnam Airlines", "VietJet Air"]
 ---
 
-El Aeropuerto Internacional de Tan Son Nhat (IATA: **SGN**) es el aeropuerto con más tráfico de Vietnam y un gran hub tanto de Vietnam Airlines como de VietJet Air, con más de 40 millones de pasajeros al año. Está a unos 7 km al norte del centro de Ciudad Ho Chi Minh — genuinamente cerca para los estándares de un gran aeropuerto.
+El Aeropuerto Internacional de Tan Son Nhat (IATA: **SGN**) es el aeropuerto con más tráfico de Vietnam y un gran hub tanto de Vietnam Airlines como de VietJet Air. SGN [gestionó unos 39,8 millones de pasajeros en 2024](https://vietnaminsiders.com/tan-son-nhat-airport-is-expected-to-welcome-24-million-passengers-during-the-peak-summer-season/), un descenso del 2,1% respecto a 2023 aunque el tráfico internacional creció un 14%, reflejo de las limitaciones de capacidad de un aeropuerto que ya supera con creces sus límites originales de diseño. Está a unos 7 km al norte del centro de Ciudad Ho Chi Minh — genuinamente cerca para los estándares de un gran aeropuerto.
 
 ## Panorama general
 
@@ -109,6 +112,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 SGN tiene una excelente selección de cocina vietnamita junto a cadenas internacionales, repartida por ambas terminales.
+
+## Hotel en el aeropuerto
+
+SGN no tiene un hotel de servicio completo, pero la terminal internacional tiene cápsulas de descanso de pago — pequeños "sleep boxes" privados con cama, almohada y enchufe, reservables desde unos 7 $ por los primeros 30–60 minutos. Una opción práctica para una escala larga sin salir de la zona de seguridad.
 
 ## Salas VIP
 

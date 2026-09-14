@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "14M+/year"
+  passengers: "16.9M (2024)"
   terminals: "4"
   distanceToCity: "12 km / 7 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Western Australian produce"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None yet; Pullman opens 2027"
 spotlight:
   title: "One of the world's most isolated major airports"
   text: "Perth is famously one of the most isolated major cities on Earth — the nearest other Australian city of comparable size, Adelaide, is over 2,100 km away, and flights from Australia's east coast take 4–5 hours, longer than many international routes."
 hubAirlines: ["Qantas", "Virgin Australia"]
 ---
 
-Perth Airport (IATA: **PER**) is Western Australia's main gateway and Australia's fourth-busiest airport, handling more than 14 million passengers a year. It sits about 12 km (7 mi) east of the Perth CBD, serving one of the most geographically isolated major cities in the world.
+Perth Airport (IATA: **PER**) is Western Australia's main gateway and Australia's fourth-busiest airport. PER [handled a record 16.9 million passengers in 2024](https://www.aviation24.be/airports/perth-per/perth-airport-achieves-record-breaking-16-9-million-passengers-in-2024/), a 10.5% increase on the year before, with international passengers up 23% to 4.8 million. It sits about 12 km (7 mi) east of the Perth CBD, serving one of the most geographically isolated major cities in the world.
 
 ## Overview
 
@@ -109,6 +112,10 @@ Free wifi is available across the terminals with a time-limited free session.
 ## Where to Eat
 
 PER reflects Western Australia's strong local produce well, with a good mix of local and international dining spread across all four terminals.
+
+## Airport Hotel
+
+PER doesn't have an on-site hotel yet — it's set to get its first one, the **Pullman Perth Airport**, opening in 2027 as part of the airport's $5 billion redevelopment, connected to the terminal by a 30-meter skybridge canopy walkway. Until then, plan on a hotel in the city.
 
 ## Lounges
 

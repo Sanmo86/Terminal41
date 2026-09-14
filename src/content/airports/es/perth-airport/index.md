@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "14M+/año"
+  passengers: "16,9M (2024)"
   terminals: "4 (T1–T4)"
   distanceToCity: "12 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina australiana, marisco"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno todavía; el Pullman abre en 2027"
 spotlight:
   title: "Uno de los grandes aeropuertos más aislados del mundo"
   text: "Perth es una de las grandes ciudades más remotas del planeta — la ciudad importante más cercana, Adelaida, está a más de 2.100 km de distancia — lo que convierte a este aeropuerto en un caso genuinamente poco habitual de aislamiento geográfico extremo para una metrópolis de más de dos millones de habitantes."
 hubAirlines: ["Qantas", "Virgin Australia"]
 ---
 
-El Aeropuerto de Perth (IATA: **PER**) es el aeropuerto con más tráfico de Australia Occidental y un importante hub tanto de Qantas como de Virgin Australia, con más de 14 millones de pasajeros al año. Está a unos 12 km al este del centro de Perth.
+El Aeropuerto de Perth (IATA: **PER**) es el aeropuerto con más tráfico de Australia Occidental y un importante hub tanto de Qantas como de Virgin Australia. PER [gestionó un récord de 16,9 millones de pasajeros en 2024](https://www.aviation24.be/airports/perth-per/perth-airport-achieves-record-breaking-16-9-million-passengers-in-2024/), un aumento del 10,5% sobre el año anterior, con los pasajeros internacionales subiendo un 23% hasta 4,8 millones. Está a unos 12 km al este del centro de Perth.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 PER tiene una buena selección de cocina australiana y marisco fresco junto a cadenas internacionales, repartida por sus terminales.
+
+## Hotel en el aeropuerto
+
+PER todavía no tiene un hotel en el propio recinto — tendrá el primero, el **Pullman Perth Airport**, que abre en 2027 como parte de la remodelación de 5.000 millones de dólares del aeropuerto, conectado a la terminal por una pasarela elevada con dosel de 30 metros. Hasta entonces, cuenta con un hotel en la ciudad.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["jordan", "hub-royal-jordanian", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "9M+/year"
+  passengers: "8.8M (2024)"
   terminals: "1"
   distanceToCity: "30 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Jordanian cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Amman Airport Hotel, walkway to terminal"
 spotlight:
   title: "Your gateway to one of the New Seven Wonders of the World"
   text: "Queen Alia International is the main air gateway to Petra, the ancient rock-carved city named one of the New Seven Wonders of the World — roughly a three-hour drive south, making Amman's airport the starting point for one of the most striking archaeological sites on Earth."
 hubAirlines: ["Royal Jordanian"]
 ---
 
-Queen Alia International Airport (IATA: **AMM**) is Jordan's main international gateway and the primary hub of Royal Jordanian, with more than 9 million passengers a year. It sits about 30 km south of central Amman.
+Queen Alia International Airport (IATA: **AMM**) is Jordan's main international gateway and the primary hub of Royal Jordanian. AMM [welcomed 8.8 million passengers in 2024](https://www.aaco.org/media-center/news/industry/queen-alia-international-airport-handles-8-8-million-passengers-in-2024), a 4.4% dip from 2023 according to the airport's operator, Airport International Group. It sits about 30 km south of central Amman.
 
 ## Overview
 
@@ -103,6 +106,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 AMM has a good selection of Jordanian cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+The **Amman Airport Hotel** sits directly opposite the terminal, connected by a pedestrian walkway — the only hotel within a 25 km radius of AMM. It offers a free 24-hour shuttle and meet-and-greet service too, a genuinely convenient pick for an early Royal Jordanian departure or a stop before heading to Petra.
 
 ## Lounges
 

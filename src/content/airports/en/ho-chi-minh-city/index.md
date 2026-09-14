@@ -18,7 +18,7 @@ region: "asia"
 tags: ["vietnam", "hub-vietnam-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "40M+/year"
+  passengers: "39.8M (2024)"
   terminals: "2 (Domestic + International)"
   distanceToCity: "7 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Vietnamese cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sleep pods inside the international terminal"
 spotlight:
   title: "From one of the world's busiest airbases to a civilian hub"
   text: "Tan Son Nhat's site was once one of the busiest military airbases anywhere on the planet during the Vietnam War — a genuinely striking historical transformation from that era into today's bustling civilian gateway, now handling tens of millions of passengers a year just minutes from downtown."
 hubAirlines: ["Vietnam Airlines", "VietJet Air"]
 ---
 
-Tan Son Nhat International Airport (IATA: **SGN**) is Vietnam's busiest airport and a major hub for both Vietnam Airlines and VietJet Air, with more than 40 million passengers a year. It sits about 7 km north of central Ho Chi Minh City — genuinely close by major-airport standards.
+Tan Son Nhat International Airport (IATA: **SGN**) is Vietnam's busiest airport and a major hub for both Vietnam Airlines and VietJet Air. SGN [handled about 39.8 million passengers in 2024](https://vietnaminsiders.com/tan-son-nhat-airport-is-expected-to-welcome-24-million-passengers-during-the-peak-summer-season/), a 2.1% dip from 2023 even as international traffic grew 14%, reflecting capacity constraints at an airport well past its original design limits. It sits about 7 km north of central Ho Chi Minh City — genuinely close by major-airport standards.
 
 ## Overview
 
@@ -109,6 +112,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 SGN has an excellent selection of Vietnamese cuisine alongside international chains, spread across both terminals.
+
+## Airport Hotel
+
+SGN doesn't have a full-service hotel, but the international terminal has paid sleep pods — small private "sleep boxes" with a bed, pillow, and power outlet, bookable from around $7 for the first 30–60 minutes. A practical option for a long layover without leaving security.
 
 ## Lounges
 

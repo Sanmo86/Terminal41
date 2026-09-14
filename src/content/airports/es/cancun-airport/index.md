@@ -18,7 +18,7 @@ region: "americas"
 tags: ["mexico", "hub-viva-aerobus", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "30M+/año"
+  passengers: "30,4M (2024)"
   terminals: "3 (T2, T3, T4)"
   distanceToCity: "20 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina yucateca y mexicana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; resorts a 30–45 min"
 spotlight:
   title: "La puerta a una ciudad turística que no existía antes de 1970"
   text: "Cancún en sí se planificó y construyó deliberadamente desde cero a partir de principios de los años 70, cuando planificadores del gobierno mexicano identificaron un tramo de costa caribeña casi deshabitado, un banco de arena, como ideal para un destino turístico construido a propósito. Lo que empezó como un proyecto de desarrollo es hoy uno de los aeropuertos más transitados de Latinoamérica — un caso poco común de una ciudad turística entera, y el aeropuerto que la sirve, creados en el plazo de una sola generación."
 hubAirlines: ["Viva Aerobus", "Volaris"]
 ---
 
-El Aeropuerto Internacional de Cancún (IATA: **CUN**) es uno de los aeropuertos más transitados de Latinoamérica y una ciudad clave de operaciones tanto para Viva Aerobus como para Volaris, con más de 30 millones de pasajeros al año. Está a unos 20 km al sur de la Zona Hotelera, en la costa caribeña de México.
+El Aeropuerto Internacional de Cancún (IATA: **CUN**) es uno de los aeropuertos más transitados de Latinoamérica y una ciudad clave de operaciones tanto para Viva Aerobus como para Volaris. CUN [gestionó 30,4 millones de pasajeros en 2024](https://www.omnia.com.mx/noticia/354528/aeropuerto-de-cancun-movilizo-304-millones-de-pasajeros-en-el-2024), un segundo año consecutivo a la baja desde su récord de 32,7 millones en 2022 — el tráfico nacional cayó un 13,6% y el internacional un 3,5%, aunque sigue siendo uno de los aeropuertos más transitados de América. Está a unos 20 km al sur de la Zona Hotelera, en la costa caribeña de México.
 
 ## Panorama general
 
@@ -110,6 +113,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita limita
 ## Dónde comer
 
 CUN tiene una buena selección de cocina yucateca y mexicana en general, junto a cadenas internacionales, repartida por sus terminales.
+
+## Hotel en el aeropuerto
+
+CUN no tiene un hotel en el propio aeropuerto. Casi todo el mundo aquí se dirige a un resort en la Zona Hotelera, a 30–45 minutos en colectivo o autobús ADO — eso es genuinamente la norma, no la excepción, en un aeropuerto construido para servir a una ciudad turística creada a propósito.
 
 ## Salas VIP
 

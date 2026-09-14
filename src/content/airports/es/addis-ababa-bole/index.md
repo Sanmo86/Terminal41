@@ -18,7 +18,7 @@ region: "africa"
 tags: ["etiopia", "hub-ethiopian-airlines", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "12M+/año"
+  passengers: "12,1M (2024)"
   terminals: "2"
   distanceToCity: "6 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina etíope, ceremonia del café"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Skylight, conectado a la Terminal 2"
 spotlight:
   title: "Vive una ceremonia tradicional del café"
   text: "Etiopía está ampliamente considerada la cuna del café, y los viajeros que pasan por ADD pueden vivir una auténtica ceremonia etíope del café — granos tostados, molidos y preparados frente a ti — una forma genuinamente única de pasar una escala."
 hubAirlines: ["Ethiopian Airlines"]
 ---
 
-El Aeropuerto Internacional Bole de Adís Abeba (IATA: **ADD**) es uno de los hubs de conexión más importantes y con más tráfico de África, con más de 12 millones de pasajeros al año como base de Ethiopian Airlines, la mayor aerolínea del continente. Está a solo 6 km del centro de Adís Abeba — sorprendentemente cerca para un gran hub internacional.
+El Aeropuerto Internacional Bole de Adís Abeba (IATA: **ADD**) es uno de los hubs de conexión más importantes y con más tráfico de África, base de Ethiopian Airlines, la mayor aerolínea del continente. ADD [sirvió a 12,1 millones de pasajeros en 2024](https://www.theafricareport.com/376393/addis-ababa-set-to-oust-johannesburg-as-busiest-airport-in-sub-saharan-africa/), un aumento del 6,7% que lo dejó a menos de 200.000 pasajeros de superar a Johannesburgo como el aeropuerto con más tráfico del África subsahariana. Está a solo 6 km del centro de Adís Abeba — sorprendentemente cerca para un gran hub internacional.
 
 ## Panorama general
 
@@ -109,6 +112,10 @@ El wifi gratuito está disponible en la terminal para los viajeros.
 ## Dónde comer
 
 ADD tiene una sólida selección de cocina etíope, incluyendo la opción de vivir una ceremonia tradicional del café, junto a opciones de restauración de aeropuerto más estándar.
+
+## Hotel en el aeropuerto
+
+El **Skylight In-Terminal Hotel**, gestionado por Ethiopian Airlines, está físicamente conectado a la zona de salidas de la Terminal 2 — a poca distancia a pie de la puerta de embarque, con su propio restaurante, cafetería y servicio de lavandería. El más grande **Ethiopian Skylight Hotel** está a unos 5 minutos, con seis restaurantes, para quien quiera más variedad gastronómica.
 
 ## Salas VIP
 

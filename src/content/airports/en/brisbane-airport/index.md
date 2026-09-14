@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "23M+/year"
+  passengers: "23.1M (2024)"
   terminals: "2 (domestic + international)"
   distanceToCity: "13 km / 8 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Queensland produce, local coffee culture"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Pullman, 5-min walk from domestic"
 spotlight:
   title: "Australia's newest parallel runway"
   text: "Brisbane Airport opened its New Parallel Runway in 2020 — one of the most modern runway systems in the Southern Hemisphere — roughly doubling the airport's capacity and making it one of the few Australian airports built for genuinely simultaneous independent operations."
 hubAirlines: ["Qantas", "Virgin Australia"]
 ---
 
-Brisbane Airport (IATA: **BNE**) is Australia's third-busiest airport and the main gateway to Queensland, including the nearby Gold Coast and Sunshine Coast, serving more than 23 million passengers a year. It sits about 13 km (8 mi) northeast of the Brisbane CBD.
+Brisbane Airport (IATA: **BNE**) is Australia's third-busiest airport and the main gateway to Queensland, including the nearby Gold Coast and Sunshine Coast. BNE [handled 23.1 million passengers in 2024](https://www.bne.com.au/brisbane-airport-welcomes-226-million-passengers-in-fy24), a 7.4% increase on 2023. It sits about 13 km (8 mi) northeast of the Brisbane CBD.
 
 ## Overview
 
@@ -111,6 +114,10 @@ Free wifi is available across the terminals with a time-limited free session.
 ## Where to Eat
 
 BNE reflects Queensland's strong coffee culture and produce well, with a solid mix of local and international dining spread across both terminals.
+
+## Airport Hotel
+
+The **Pullman Brisbane Airport** is about a 5-minute walk from the domestic terminal — not directly connected, but genuinely close, with a restaurant and bar on-site. An airport-precinct shuttle also loops between it, the nearby ibis and Novotel, and both terminals from 4am to 9am daily.
 
 ## Lounges
 

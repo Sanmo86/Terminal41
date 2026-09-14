@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["jordania", "hub-royal-jordanian", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "9M+/año"
+  passengers: "8,8M (2024)"
   terminals: "1"
   distanceToCity: "30 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina jordana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Amman Airport Hotel, pasillo a la terminal"
 spotlight:
   title: "Tu puerta a una de las nuevas siete maravillas del mundo"
   text: "El Aeropuerto Internacional Reina Alia es la principal puerta aérea a Petra, la antigua ciudad excavada en roca nombrada una de las nuevas siete maravillas del mundo — a aproximadamente tres horas en coche hacia el sur, convirtiendo al aeropuerto de Ammán en el punto de partida de uno de los yacimientos arqueológicos más llamativos del planeta."
 hubAirlines: ["Royal Jordanian"]
 ---
 
-El Aeropuerto Internacional Reina Alia (IATA: **AMM**) es la principal puerta de entrada internacional de Jordania y el hub principal de Royal Jordanian, con más de 9 millones de pasajeros al año. Está a unos 30 km al sur del centro de Ammán.
+El Aeropuerto Internacional Reina Alia (IATA: **AMM**) es la principal puerta de entrada internacional de Jordania y el hub principal de Royal Jordanian. AMM [recibió a 8,8 millones de pasajeros en 2024](https://www.aaco.org/media-center/news/industry/queen-alia-international-airport-handles-8-8-million-passengers-in-2024), un descenso del 4,4% respecto a 2023 según Airport International Group, el operador del aeropuerto. Está a unos 30 km al sur del centro de Ammán.
 
 ## Panorama general
 
@@ -103,6 +106,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 AMM tiene una buena selección de cocina jordana junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+El **Amman Airport Hotel** está justo enfrente de la terminal, conectado por un pasillo peatonal — el único hotel en un radio de 25 km de AMM. Ofrece también shuttle gratuito 24 horas y servicio de recepción — una opción genuinamente cómoda para una salida temprana de Royal Jordanian o una parada antes de ir a Petra.
 
 ## Salas VIP
 

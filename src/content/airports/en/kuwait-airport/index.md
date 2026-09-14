@@ -18,7 +18,7 @@ region: "middle-east"
 tags: ["kuwait", "hub-kuwait-airways", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "15M+/year"
+  passengers: "15.4M (2024)"
   terminals: "2 (T1 + new Terminal 2)"
   distanceToCity: "16 km"
 security:
@@ -53,13 +53,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Kuwaiti and Gulf cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Safir, inside the airport's restricted zone"
 spotlight:
   title: "One of the largest single terminal buildings on Earth"
   text: "Kuwait's new Terminal 2 — designed by the renowned architecture firm Foster + Partners — is one of the largest single airport terminal buildings ever constructed, a genuinely massive addition that transformed KWI from a modest regional airport into a serious contender among the Gulf's mega-hubs."
 hubAirlines: ["Kuwait Airways"]
 ---
 
-Kuwait International Airport (IATA: **KWI**) is Kuwait's main airport and the primary hub of Kuwait Airways, with more than 15 million passengers a year. It sits about 16 km south of central Kuwait City.
+Kuwait International Airport (IATA: **KWI**) is Kuwait's main airport and the primary hub of Kuwait Airways. KWI [handled 15.4 million passengers in 2024](https://www.travelandtourworld.com/news/article/kuwaits-aviation-sector-soars-to-new-heights-in-2024-with-kd-341-2-million-in-sales-and-explosive-demand/), a slight 1% dip from 2023's 15.6 million even as overall aviation-sector revenue grew. It sits about 16 km south of central Kuwait City.
 
 ## Overview
 
@@ -104,6 +107,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 KWI has a good selection of Kuwaiti and wider Gulf cuisine alongside international chains, spread across both terminals.
+
+## Airport Hotel
+
+The **Safir Airport Hotel** is genuinely inside KWI's restricted customs zone, between the Main Terminal and the Amiri Terminal — reachable via a free shuttle from the transit counter rather than on foot, about a 10-minute ride. Under Kuwaiti air transport law, passengers facing an 8+ hour connection are entitled to a free room here, courtesy of their airline.
 
 ## Lounges
 

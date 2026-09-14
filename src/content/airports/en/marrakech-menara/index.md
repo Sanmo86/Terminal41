@@ -18,7 +18,7 @@ region: "africa"
 tags: ["morocco", "royal-air-maroc-hub", "short-layover"]
 featured: true
 quickFacts:
-  passengers: "8M+/year"
+  passengers: "9.3M (2024)"
   terminals: "2"
   distanceToCity: "6 km / 4 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Mint tea, tagine, chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Medina is 6km away"
 spotlight:
   title: "Notice the mashrabiya facade"
   text: "The terminal's exterior uses a traditional Moroccan mashrabiya lattice pattern that filters sunlight and reduces the need for heavy air conditioning — a striking architectural nod before you've even reached the Medina."
 hubAirlines: ["Royal Air Maroc", "Ryanair", "easyJet", "Transavia"]
 ---
 
-Marrakech Menara Airport (IATA: **RAK**) is Morocco's second-busiest airport and the main gateway to Marrakech's Medina and the wider Atlas region. Remarkably close to the city — just 6 km from the Jemaa el-Fnaa square — it has seen fast-growing passenger numbers in step with Morocco's tourism boom, with strong charter and low-cost links to Europe.
+Marrakech Menara Airport (IATA: **RAK**) is Morocco's second-busiest airport and the main gateway to Marrakech's Medina and the wider Atlas region. Remarkably close to the city — just 6 km from the Jemaa el-Fnaa square — it has seen fast-growing passenger numbers in step with Morocco's tourism boom, with strong charter and low-cost links to Europe. RAK [handled 9.3 million passengers in 2024](https://www.moroccoworldnews.com/2024/03/21934/moroccos-airports-witness-17-surge-in-passenger-traffic/), according to ONDA data, making it Morocco's second-busiest airport after Casablanca.
 
 ## Overview
 
@@ -112,6 +115,10 @@ Free wifi is available in both terminals with a time-limited free session, typic
 ## Where to Eat
 
 Options are more limited than at major European or Asian hubs, but both terminals have cafés serving Moroccan mint tea and pastries alongside quick-service tagine and sandwich counters, plus a handful of international fast-food chains post-security.
+
+## Airport Hotel
+
+RAK doesn't have a hotel at the airport itself, but given how close the Medina is — just 6 km, one of the shortest airport-to-old-town distances anywhere on this list — most travelers head straight into the city rather than looking for something near the terminal. Riads and hotels near Jemaa el-Fnaa are a genuinely short taxi ride away.
 
 ## Lounges
 

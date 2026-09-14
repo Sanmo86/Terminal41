@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["australia", "hub-qantas", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "23M+/año"
+  passengers: "23,1M (2024)"
   terminals: "2 (nacional + internacional)"
   distanceToCity: "13 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Producto de Queensland, cultura del café local"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Pullman, a 5 min a pie de la nacional"
 spotlight:
   title: "La pista paralela más nueva de Australia"
   text: "El Aeropuerto de Brisbane inauguró su Nueva Pista Paralela en 2020 — uno de los sistemas de pistas más modernos del hemisferio sur — duplicando aproximadamente la capacidad del aeropuerto y convirtiéndolo en uno de los pocos aeropuertos australianos preparados para operaciones independientes genuinamente simultáneas."
 hubAirlines: ["Qantas", "Virgin Australia"]
 ---
 
-El Aeropuerto de Brisbane (IATA: **BNE**) es el tercer aeropuerto con más tráfico de Australia y la principal puerta de entrada a Queensland, incluyendo la cercana Gold Coast y la Sunshine Coast, con más de 23 millones de pasajeros al año. Está a unos 13 km al noreste del distrito central de Brisbane.
+El Aeropuerto de Brisbane (IATA: **BNE**) es el tercer aeropuerto con más tráfico de Australia y la principal puerta de entrada a Queensland, incluyendo la cercana Gold Coast y la Sunshine Coast. BNE [gestionó 23,1 millones de pasajeros en 2024](https://www.bne.com.au/brisbane-airport-welcomes-226-million-passengers-in-fy24), un aumento del 7,4% sobre 2023. Está a unos 13 km al noreste del distrito central de Brisbane.
 
 ## Panorama general
 
@@ -111,6 +114,10 @@ El wifi gratuito está disponible en las terminales con una sesión gratuita de 
 ## Dónde comer
 
 BNE refleja bien la sólida cultura del café y el producto de Queensland, con una buena mezcla de restauración local e internacional repartida por ambas terminales.
+
+## Hotel en el aeropuerto
+
+El **Pullman Brisbane Airport** está a unos 5 minutos a pie de la terminal nacional — no conectado directamente, pero genuinamente cerca, con restaurante y bar propios. Un shuttle del recinto del aeropuerto también conecta en bucle este hotel, el ibis y el Novotel cercanos, y ambas terminales de 4:00 a 9:00 todos los días.
 
 ## Salas VIP
 
