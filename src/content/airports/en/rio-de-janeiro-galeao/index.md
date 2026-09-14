@@ -18,7 +18,7 @@ region: "americas"
 tags: ["brazil", "latam-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "16M+/year"
+  passengers: "14.4M (2024)"
   terminals: "2"
   distanceToCity: "20 km / 12 mi"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Brazilian classics, coffee bars"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Linx, free 24h shuttle from T2"
 spotlight:
   title: "Request a window seat for the approach"
   text: "Flights arriving from the north often bank past Sugarloaf Mountain and Guanabara Bay on final approach — ask for a right-side window seat for one of the most scenic landings in South America."
@@ -67,7 +70,7 @@ Rio de Janeiro's Galeão International Airport, officially Tom Jobim Internation
 
 ## Overview
 
-Galeão operates two terminals connected by a walkway and shuttle bus. The airport has undergone significant modernization since a major expansion tied to the 2014 World Cup and 2016 Olympics, and today has capacity for well over double its current traffic — meaning it's generally less crowded and easier to navigate than many international hubs of comparable size.
+Galeão operates two terminals connected by a walkway and shuttle bus. The airport has undergone significant modernization since a major expansion tied to the 2014 World Cup and 2016 Olympics, and today has capacity for well over double its current traffic — meaning it's generally less crowded and easier to navigate than many international hubs of comparable size. Galeão [handled 14.4 million passengers in 2024](https://www.mercadoeeventos.com.br/noticias/aviacao/aeroporto-do-galeao-movimenta-144-milhoes-de-passageiros-em-2024-superando-pre-pandemia/), an 82% jump on 2023 that finally pushed it past its 2019 pre-pandemic total.
 
 ## Terminals
 
@@ -112,6 +115,10 @@ Free wifi is available in both terminals with a time-limited free session, typic
 ## Where to Eat
 
 Both terminals have a mix of Brazilian classics — pão de queijo, açaí, coxinha — alongside coffee bars and quick-service international chains post-security. Options are more limited than at Latin America's largest hubs but cover the essentials well.
+
+## Airport Hotel
+
+The **Linx Galeão by Wish** sits about 500 meters from Terminal 2 — close, but there's no pedestrian walkway, so the hotel runs a free shuttle every 20 minutes around the clock instead. It's a solid pick for a long layover, with a 24-hour gym and pool.
 
 ## Lounges
 

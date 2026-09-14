@@ -18,7 +18,7 @@ region: "africa"
 tags: ["sudafrica", "hub-flysafair", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "11M+/año"
+  passengers: "10,8M (año fiscal 2024/25)"
   terminals: "1 (Nacional + Internacional)"
   distanceToCity: "20 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina sudafricana"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hotel Verde, a ~400 m de la T1"
 spotlight:
   title: "Pide ventanilla para la aproximación a Table Mountain"
   text: "El Aeropuerto Internacional de Ciudad del Cabo está considerado constantemente el mejor aeropuerto de África, y los vuelos que aterrizan aquí en un día despejado ofrecen una vista genuinamente dramática de la cima plana de Table Mountain alzándose justo detrás de la ciudad — una de las aproximaciones más reconocibles de la aviación africana."
 hubAirlines: ["FlySafair"]
 ---
 
-El Aeropuerto Internacional de Ciudad del Cabo (IATA: **CPT**) es el segundo aeropuerto con más tráfico de Sudáfrica y la mayor base de FlySafair, la mayor aerolínea de bajo coste del país, con más de 11 millones de pasajeros al año. Está a unos 20 km al sureste del centro de Ciudad del Cabo.
+El Aeropuerto Internacional de Ciudad del Cabo (IATA: **CPT**) es el segundo aeropuerto con más tráfico de Sudáfrica y la mayor base de FlySafair, la mayor aerolínea de bajo coste del país. CPT [procesó 10,8 millones de pasajeros en el año fiscal 2024/25](https://iol.co.za/travel/travel-news/2025-01-29-passenger-traffic-soars-acsa-celebrates-91-percent-recovery-during-2024-holidays/) — los aeropuertos sudafricanos informan por año fiscal de abril a marzo, no por año calendario. Está a unos 20 km al sureste del centro de Ciudad del Cabo.
 
 ## Panorama general
 
@@ -107,7 +110,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 
 ## Dónde comer
 
-CPT tiene una buena selección de cocina sudafricana junto a cadenas internacionales, repartida por la terminal.
+CPT tiene una buena selección de cocina sudafricana junto a cadenas internacionales, repartida por la terminal. En el Hotel Verde, **Nuovo Restaurant and Bar** se encarga de la restauración del hotel.
+
+## Hotel en el aeropuerto
+
+El **Hotel Verde Cape Town Airport** está a unos 400 metros de la Terminal 1, con un shuttle gratuito cada 30 minutos de 4:00 a medianoche — no es exactamente andable, pero es genuinamente cómodo. Además de Nuovo, es conocido por su fuerte enfoque en sostenibilidad, un ángulo poco habitual para un hotel de aeropuerto.
 
 ## Salas VIP
 

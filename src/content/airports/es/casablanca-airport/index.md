@@ -18,7 +18,7 @@ region: "africa"
 tags: ["marruecos", "hub-royal-air-maroc", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "10M+/año"
+  passengers: "10,5M (2024)"
   terminals: "2 (T1, T2)"
   distanceToCity: "30 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina marroquí"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "ONOMO, shuttle gratis cada hora"
 spotlight:
   title: "Baja del avión directo a la red de alta velocidad de Marruecos"
   text: "Una estación de tren construida directamente en la terminal pone a los pasajeros que llegan directamente en la red ferroviaria nacional ONCF de Marruecos — incluyendo conexiones hacia la línea de alta velocidad Al Boraq hasta Tánger — sin necesidad de autobús lanzadera en medio, una infraestructura genuinamente práctica que no todos los grandes aeropuertos pueden igualar."
 hubAirlines: ["Royal Air Maroc"]
 ---
 
-El Aeropuerto Internacional Mohammed V (IATA: **CMN**) es el aeropuerto con más tráfico de Marruecos y el hub principal de Royal Air Maroc, con más de 10 millones de pasajeros al año. Está a unos 30 km al sureste del centro de Casablanca.
+El Aeropuerto Internacional Mohammed V (IATA: **CMN**) es el aeropuerto con más tráfico de Marruecos y el hub principal de Royal Air Maroc. CMN [gestionó 10,5 millones de pasajeros en 2024](https://en.hespress.com/104768-morocco-reaches-record-of-32-7-mln-air-passengers-at-end-of-2024.html), un aumento del 7% respecto al año anterior, dentro de un año récord para los aeropuertos marroquíes en general. Está a unos 30 km al sureste del centro de Casablanca.
 
 ## Panorama general
 
@@ -109,6 +112,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 CMN tiene una buena selección de cocina marroquí junto a cadenas internacionales, repartida por ambas terminales.
+
+## Hotel en el aeropuerto
+
+CMN no tiene un hotel integrado en la terminal. El **ONOMO Hotel Casablanca Airport** es la opción más cercana, a unos 5 minutos con shuttle gratuito cada hora — no es andable, pero es genuinamente cómodo para una escala larga o una salida temprana de Royal Air Maroc.
 
 ## Salas VIP
 

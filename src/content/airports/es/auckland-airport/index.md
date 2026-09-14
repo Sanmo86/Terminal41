@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["nueva-zelanda", "hub-air-new-zealand", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "18M+/año"
+  passengers: "18,5M (año fiscal 2023/24)"
   terminals: "2"
   distanceToCity: "21 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cultura de cafeterías kiwi"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, en la terminal internacional"
 spotlight:
   title: "Los controles de bioseguridad de Nueva Zelanda son muy estrictos"
   text: "El control de bioseguridad del Aeropuerto de Auckland está entre los más estrictos del mundo — incluso pequeñas cantidades de comida, material vegetal, o botas de senderismo sucias pueden generar una inspección o multa. Declara todo a la llegada; Nueva Zelanda se toma muy en serio proteger su ecosistema único."
 hubAirlines: ["Air New Zealand"]
 ---
 
-El Aeropuerto de Auckland (IATA: **AKL**) es el aeropuerto con más tráfico de Nueva Zelanda y la principal puerta de entrada internacional al país, a unos 21 km al sur del centro de Auckland. Es la base de Air New Zealand y el punto de entrada principal para la mayoría de visitantes que llegan al país.
+El Aeropuerto de Auckland (IATA: **AKL**) es el aeropuerto con más tráfico de Nueva Zelanda y la principal puerta de entrada internacional al país, a unos 21 km al sur del centro de Auckland. AKL [transportó a 18,5 millones de pasajeros en el año que terminó en junio de 2024](https://www.interest.co.nz/business/129344/auckland-airport-says-total-number-passengers-and-domestic-visitors-went-through) — un salto del 17% mientras seguía recuperándose la capacidad internacional — los aeropuertos neozelandeses informan por año fiscal de julio a junio, no por año calendario. Es la base de Air New Zealand y el punto de entrada principal para la mayoría de visitantes que llegan al país.
 
 ## Panorama general
 
@@ -110,7 +113,11 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 
 ## Dónde comer
 
-Ambas zonas de terminal tienen una buena mezcla de cultura de cafeterías neozelandesa — buen café y cadenas locales — junto a opciones internacionales. La selección es más limitada que en hubs globales más grandes, pero cubre bien lo esencial.
+Ambas zonas de terminal tienen una buena mezcla de cultura de cafeterías neozelandesa — buen café y cadenas locales — junto a opciones internacionales. La selección es más limitada que en hubs globales más grandes, pero cubre bien lo esencial. En el Novotel, **THIRTEEN50 Bistro & Bar** ofrece una carta de influencia kiwi construida en torno a productos locales frescos y vinos neozelandeses.
+
+## Hotel en el aeropuerto
+
+El **Novotel Auckland Airport**, el único hotel de 5 estrellas dentro del recinto del aeropuerto, tiene acceso directo a pie a la terminal internacional, y está a unos 5 minutos a pie o en shuttle gratuito de la terminal nacional. Además de THIRTEEN50, es una opción genuinamente cómoda para una escala larga o una salida temprana.
 
 ## Salas VIP
 

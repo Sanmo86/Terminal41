@@ -18,7 +18,7 @@ region: "europe"
 tags: ["grecia", "hub-aegean-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "25M+/año"
+  passengers: "31,9M (2024)"
   terminals: "1"
   distanceToCity: "27 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina griega"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sofitel, a 2 min de llegadas"
 spotlight:
   title: "Un museo arqueológico real construido con lo que desenterraron"
   text: "Cuando se construyó el Aeropuerto Internacional de Atenas, las excavaciones para el emplazamiento sacaron a la luz objetos arqueológicos genuinos — y en lugar de simplemente reubicarlos, el aeropuerto construyó un auténtico museo arqueológico in situ que expone hallazgos desenterrados durante su propia construcción, un origen genuinamente poco habitual para una exposición de aeropuerto."
 hubAirlines: ["Aegean Airlines"]
 ---
 
-El Aeropuerto Internacional de Atenas (IATA: **ATH**) es el aeropuerto con más tráfico de Grecia y el hub principal de Aegean Airlines, con más de 25 millones de pasajeros al año. Está a unos 27 km al este del centro de Atenas.
+El Aeropuerto Internacional de Atenas (IATA: **ATH**) es el aeropuerto con más tráfico de Grecia y el hub principal de Aegean Airlines. ATH [gestionó un récord de 31,9 millones de pasajeros en 2024](https://www.travelandtourworld.com/news/article/aia-sets-passenger-record-in-2024-how-you-need-to-know/), un salto del 13% sobre 2023 y un 25% por encima de su cifra prepandemia de 2019. Está a unos 27 km al este del centro de Atenas.
 
 ## Panorama general
 
@@ -107,7 +110,11 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 
 ## Dónde comer
 
-ATH tiene una buena selección de cocina griega junto a cadenas internacionales, repartida por la terminal.
+ATH tiene una buena selección de cocina griega junto a cadenas internacionales, repartida por la terminal. En el Sofitel, **Jenny's Rooftop Restaurant Bar** sirve cocina griega refinada con vistas al valle, y **Mesoghaia** ofrece platos griegos y mediterráneos las 24 horas.
+
+## Hotel en el aeropuerto
+
+El **Sofitel Athens Airport** está a unos 50 metros de la terminal — un auténtico paseo de 2 minutos desde llegadas, sin necesidad de shuttle. Además de Jenny's y Mesoghaia, tiene una terraza al aire libre para una espera agradable por la tarde.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["panama", "hub-copa-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "18M+/year"
+  passengers: "19.25M (2024)"
   terminals: "2"
   distanceToCity: "24 km / 15 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Panamanian and international cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "None on-site; Riande has a free shuttle"
 spotlight:
   title: "The connecting hub of the Americas"
   text: "Copa Airlines built Tocumen into what it markets as the \"Hub of the Americas\" — more one-stop itineraries connect North and South America through PTY than through any other airport, even though Panama City itself is a comparatively small origin-destination market."
 hubAirlines: ["Copa Airlines"]
 ---
 
-Tocumen International Airport (IATA: **PTY**) is Central America's busiest airport by a wide margin and Copa Airlines' exclusive hub, handling more than 18 million passengers a year. It sits about 24 km (15 mi) northeast of central Panama City.
+Tocumen International Airport (IATA: **PTY**) is Central America's busiest airport by a wide margin and Copa Airlines' exclusive hub. PTY [handled 19.25 million passengers in 2024](https://www.aviacionline.com/tocumen-international-airport-closes-2024-with-record-passenger-numbers-and-new-routes), an 8% increase on the year before and a new record. It sits about 24 km (15 mi) northeast of central Panama City.
 
 ## Overview
 
@@ -109,6 +112,10 @@ Free, unlimited wifi is available throughout the airport with no time limit.
 ## Where to Eat
 
 PTY has a good selection of Panamanian cuisine alongside international chains, spread across both terminals.
+
+## Airport Hotel
+
+PTY doesn't have a hotel connected to either terminal. The **Riande Aeropuerto Hotel & Casino** is the closest option, about a 5-minute drive away with a free shuttle running every 30 minutes around the clock, passing through both terminals.
 
 ## Lounges
 

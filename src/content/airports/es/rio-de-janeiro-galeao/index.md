@@ -18,7 +18,7 @@ region: "americas"
 tags: ["brasil", "hub-latam", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "16M+/año"
+  passengers: "14,4M (2024)"
   terminals: "2"
   distanceToCity: "20 km"
 security:
@@ -57,6 +57,9 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Clásicos brasileños, cafeterías"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Linx, shuttle gratis 24h desde T2"
 spotlight:
   title: "Pide ventanilla para la aproximación"
   text: "Los vuelos que llegan desde el norte suelen sobrevolar el Pan de Azúcar y la Bahía de Guanabara en la aproximación final — pide ventanilla en el lado derecho para uno de los aterrizajes más espectaculares de Sudamérica."
@@ -67,7 +70,7 @@ El Aeropuerto Internacional de Río de Janeiro–Galeão, oficialmente Aeropuert
 
 ## Panorama general
 
-Galeão opera dos terminales conectadas por un pasillo y bus lanzadera. El aeropuerto ha pasado por una modernización importante desde la gran ampliación ligada al Mundial de 2014 y los Juegos Olímpicos de 2016, y hoy tiene capacidad para más del doble de su tráfico actual — lo que significa que en general está menos saturado y es más fácil de recorrer que muchos hubs internacionales de tamaño comparable.
+Galeão opera dos terminales conectadas por un pasillo y bus lanzadera. El aeropuerto ha pasado por una modernización importante desde la gran ampliación ligada al Mundial de 2014 y los Juegos Olímpicos de 2016, y hoy tiene capacidad para más del doble de su tráfico actual — lo que significa que en general está menos saturado y es más fácil de recorrer que muchos hubs internacionales de tamaño comparable. Galeão [gestionó 14,4 millones de pasajeros en 2024](https://www.mercadoeeventos.com.br/noticias/aviacao/aeroporto-do-galeao-movimenta-144-milhoes-de-passageiros-em-2024-superando-pre-pandemia/), un salto del 82% sobre 2023 que por fin lo llevó a superar su cifra prepandemia de 2019.
 
 ## Terminales
 
@@ -112,6 +115,10 @@ El wifi gratuito está disponible en ambas terminales con una sesión gratuita d
 ## Dónde comer
 
 Ambas terminales tienen una mezcla de clásicos brasileños — pão de queijo, açaí, coxinha — junto a cafeterías y cadenas internacionales de servicio rápido tras el control de seguridad. Las opciones son más limitadas que en los mayores hubs de Latinoamérica, pero cubren bien lo esencial.
+
+## Hotel en el aeropuerto
+
+El **Linx Galeão by Wish** está a unos 500 metros de la Terminal 2 — cerca, pero no hay pasillo peatonal, así que el hotel opera un shuttle gratuito cada 20 minutos las 24 horas en su lugar. Es una buena opción para una escala larga, con gimnasio y piscina 24 horas.
 
 ## Salas VIP
 

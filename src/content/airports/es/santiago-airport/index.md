@@ -18,7 +18,7 @@ region: "americas"
 tags: ["chile", "hub-latam", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "24M+/año"
+  passengers: "26,2M (2024)"
   terminals: "1 (nueva terminal internacional, 2022)"
   distanceToCity: "20 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina chilena"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Holiday Inn, dentro de la terminal"
 spotlight:
   title: "Aterriza con los Andes de fondo"
   text: "Los vuelos que llegan a Santiago ofrecen una vista genuinamente dramática — la cordillera de los Andes se alza de forma abrupta justo detrás de la ciudad y el aeropuerto, haciendo de la aproximación final una de las más espectaculares de Sudamérica en un día despejado."
 hubAirlines: ["LATAM Airlines"]
 ---
 
-El Aeropuerto Internacional Arturo Merino Benítez (IATA: **SCL**) es el aeropuerto con más tráfico de Chile y el hub fundacional de LATAM Airlines, con más de 24 millones de pasajeros al año. Está a unos 20 km al noroeste del centro de Santiago, con la cordillera de los Andes alzándose de forma dramática justo más allá de las pistas.
+El Aeropuerto Internacional Arturo Merino Benítez (IATA: **SCL**) es el aeropuerto con más tráfico de Chile y el hub fundacional de LATAM Airlines. SCL [cerró 2024 con un récord de 26,2 millones de pasajeros](https://www.nuevopudahuel.cl/news-corporate/santiago-airport-closes-2024-record-passenger?language=en), un aumento del 12,5% sobre 2023 que lo convirtió en el cuarto aeropuerto con más tráfico de Sudamérica. Está a unos 20 km al noroeste del centro de Santiago, con la cordillera de los Andes alzándose de forma dramática justo más allá de las pistas.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 SCL tiene una buena selección de cocina chilena junto a cadenas internacionales, repartida por la nueva terminal.
+
+## Hotel en el aeropuerto
+
+El **Holiday Inn Santiago - Airport Terminal** es el único hotel construido realmente dentro de la terminal, a solo unos pasos de la recogida de equipajes — sin necesidad de shuttle. Tiene piscina interior, spa y servicio de habitaciones 24 horas, una opción genuinamente cómoda para una escala larga o una salida temprana de LATAM.
 
 ## Salas VIP
 

@@ -18,7 +18,7 @@ region: "africa"
 tags: ["south-africa", "hub-flysafair", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "11M+/year"
+  passengers: "10.8M (FY2024/25)"
   terminals: "1 (Domestic + International)"
   distanceToCity: "20 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "South African cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hotel Verde, ~400m from T1"
 spotlight:
   title: "Request a window seat for the Table Mountain approach"
   text: "Cape Town International is consistently rated Africa's best airport, and flights landing here on a clear day offer a genuinely dramatic view of Table Mountain's flat summit rising directly behind the city — one of the most recognizable approaches in African aviation."
 hubAirlines: ["FlySafair"]
 ---
 
-Cape Town International Airport (IATA: **CPT**) is South Africa's second-busiest airport and the largest base for FlySafair, the country's biggest low-cost carrier, with more than 11 million passengers a year. It sits about 20 km southeast of central Cape Town.
+Cape Town International Airport (IATA: **CPT**) is South Africa's second-busiest airport and the largest base for FlySafair, the country's biggest low-cost carrier. CPT [processed 10.8 million passengers in the 2024/25 fiscal year](https://iol.co.za/travel/travel-news/2025-01-29-passenger-traffic-soars-acsa-celebrates-91-percent-recovery-during-2024-holidays/) — South African airports report on an April-to-March fiscal year rather than the calendar year. It sits about 20 km southeast of central Cape Town.
 
 ## Overview
 
@@ -107,7 +110,11 @@ Free wifi is available in the terminal with a time-limited free session.
 
 ## Where to Eat
 
-CPT has a good selection of South African cuisine alongside international chains, spread across the terminal.
+CPT has a good selection of South African cuisine alongside international chains, spread across the terminal. At the Hotel Verde, **Nuovo Restaurant and Bar** serves the on-site menu.
+
+## Airport Hotel
+
+**Hotel Verde Cape Town Airport** sits about 400 meters from Terminal 1, with a free shuttle running every 30 minutes from 4am to midnight — not quite walkable, but genuinely convenient. Beyond Nuovo, it's known for a strong sustainability focus, an unusual angle for an airport hotel.
 
 ## Lounges
 

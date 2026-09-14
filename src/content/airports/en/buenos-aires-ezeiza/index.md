@@ -18,7 +18,7 @@ region: "americas"
 tags: ["argentina", "hub-aerolineas-argentinas", "long-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "11M+/year"
+  passengers: "11.1M (2024)"
   terminals: "1 (Terminal A, international)"
   distanceToCity: "35 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Argentine cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "My Pod capsule hotel, inside the terminal"
 spotlight:
   title: "Why this city actually has two different airports"
   text: "Buenos Aires uniquely splits its air traffic across two separate airports — Ezeiza (EZE) for nearly all international long-haul flights, and Aeroparque Jorge Newbery (AEP), a small airport right in the city, for most domestic and regional flights — a genuinely important distinction for travelers who could otherwise book the wrong one."
 hubAirlines: ["Aerolíneas Argentinas"]
 ---
 
-Ministro Pistarini International Airport (IATA: **EZE**), commonly known as Ezeiza, is Argentina's main international gateway and the primary long-haul hub of Aerolíneas Argentinas, with more than 11 million passengers a year. It sits about 35 km southwest of central Buenos Aires.
+Ministro Pistarini International Airport (IATA: **EZE**), commonly known as Ezeiza, is Argentina's main international gateway and the primary long-haul hub of Aerolíneas Argentinas. EZE [handled 11.1 million passengers in 2024](https://aviacionenargentina.com.ar/aeropuertos-argentina-record-historico-de-pasajeros-en-diciembre-2024-con-3-948-859-viajeros-aeroparque-fue-el-de-mas-crecimiento/), a 7.5% increase on the year before, according to Argentina's civil aviation authority (ANAC). It sits about 35 km southwest of central Buenos Aires.
 
 ## Overview
 
@@ -108,6 +111,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 EZE has a good selection of Argentine cuisine alongside international chains, spread across the terminal.
+
+## Airport Hotel
+
+EZE doesn't have a full-service hotel inside the terminal, but **My Pod Capsule Boutique** genuinely is inside it, tucked between international terminals A and C — capsule-style rooms with showers, changing rooms, and coworking space, bookable in 3, 6, 9, or 12-hour blocks. It's a smart option for a long layover without leaving security.
 
 ## Lounges
 

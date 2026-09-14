@@ -18,7 +18,7 @@ region: "americas"
 tags: ["panama", "hub-copa-airlines", "escala-corta", "internacional"]
 featured: true
 quickFacts:
-  passengers: "18M+/año"
+  passengers: "19,25M (2024)"
   terminals: "2"
   distanceToCity: "24 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina panameña e internacional"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Ninguno en el recinto; Riande con shuttle gratis"
 spotlight:
   title: "El hub de conexión de las Américas"
   text: "Copa Airlines convirtió Tocumen en lo que promociona como el \"Hub de las Américas\" — más itinerarios de una sola escala conectan Norteamérica y Sudamérica a través de PTY que a través de cualquier otro aeropuerto, aunque la propia Ciudad de Panamá sea un mercado de origen-destino comparativamente pequeño."
 hubAirlines: ["Copa Airlines"]
 ---
 
-El Aeropuerto Internacional de Tocumen (IATA: **PTY**) es, con diferencia, el aeropuerto con más tráfico de Centroamérica y el hub exclusivo de Copa Airlines, con más de 18 millones de pasajeros al año. Está a unos 24 km al noreste del centro de Ciudad de Panamá.
+El Aeropuerto Internacional de Tocumen (IATA: **PTY**) es, con diferencia, el aeropuerto con más tráfico de Centroamérica y el hub exclusivo de Copa Airlines. PTY [gestionó 19,25 millones de pasajeros en 2024](https://www.aviacionline.com/tocumen-international-airport-closes-2024-with-record-passenger-numbers-and-new-routes), un aumento del 8% respecto al año anterior y un nuevo récord. Está a unos 24 km al noreste del centro de Ciudad de Panamá.
 
 ## Panorama general
 
@@ -109,6 +112,10 @@ El wifi gratuito e ilimitado está disponible en todo el aeropuerto sin límite 
 ## Dónde comer
 
 PTY tiene una buena selección de cocina panameña junto a cadenas internacionales, repartida por ambas terminales.
+
+## Hotel en el aeropuerto
+
+PTY no tiene un hotel conectado a ninguna de las dos terminales. El **Riande Aeropuerto Hotel & Casino** es la opción más cercana, a unos 5 minutos en coche con un shuttle gratuito cada 30 minutos las 24 horas, que pasa por ambas terminales.
 
 ## Salas VIP
 

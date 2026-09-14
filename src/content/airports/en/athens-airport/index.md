@@ -18,7 +18,7 @@ region: "europe"
 tags: ["greece", "hub-aegean-airlines", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "25M+/year"
+  passengers: "31.9M (2024)"
   terminals: "1"
   distanceToCity: "27 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Greek cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Sofitel, 2-min walk from arrivals"
 spotlight:
   title: "A real archaeological museum built from what they dug up"
   text: "When Athens International was built, excavation for the site uncovered genuine ancient artifacts — and rather than simply relocating them, the airport built an actual on-site archaeological museum displaying finds unearthed during its own construction, a genuinely unusual origin story for an airport exhibit."
 hubAirlines: ["Aegean Airlines"]
 ---
 
-Athens International Airport (IATA: **ATH**) is Greece's busiest airport and the primary hub of Aegean Airlines, with more than 25 million passengers a year. It sits about 27 km east of central Athens.
+Athens International Airport (IATA: **ATH**) is Greece's busiest airport and the primary hub of Aegean Airlines. ATH [handled a record 31.9 million passengers in 2024](https://www.travelandtourworld.com/news/article/aia-sets-passenger-record-in-2024-how-you-need-to-know/), a 13% jump on 2023 and 25% above its pre-pandemic 2019 total. It sits about 27 km east of central Athens.
 
 ## Overview
 
@@ -107,7 +110,11 @@ Free wifi is available in the terminal with a time-limited free session.
 
 ## Where to Eat
 
-ATH has a good selection of Greek cuisine alongside international chains, spread across the terminal.
+ATH has a good selection of Greek cuisine alongside international chains, spread across the terminal. At the Sofitel, **Jenny's Rooftop Restaurant Bar** serves refined Greek cuisine with valley views, and **Mesoghaia** runs Greek and Mediterranean dishes around the clock.
+
+## Airport Hotel
+
+The **Sofitel Athens Airport** sits about 50 meters from the terminal — a genuine 2-minute walk from arrivals, no shuttle needed. Beyond Jenny's and Mesoghaia, it has an open-air terrace for a pleasant evening wait.
 
 ## Lounges
 

@@ -18,7 +18,7 @@ region: "americas"
 tags: ["chile", "hub-latam", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "24M+/year"
+  passengers: "26.2M (2024)"
   terminals: "1 (new international terminal, opened 2022)"
   distanceToCity: "20 km / 12 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Chilean cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Holiday Inn, inside the terminal"
 spotlight:
   title: "Landing with the Andes as your backdrop"
   text: "Flights into Santiago offer a genuinely dramatic view — the Andes mountain range rises abruptly right behind the city and the airport, making the final approach one of the more scenic in South America on a clear day."
 hubAirlines: ["LATAM Airlines"]
 ---
 
-Arturo Merino Benítez International Airport (IATA: **SCL**) is Chile's busiest airport and LATAM Airlines' founding hub, handling more than 24 million passengers a year. It sits about 20 km (12 mi) northwest of central Santiago, with the Andes mountains rising dramatically just beyond the runways.
+Arturo Merino Benítez International Airport (IATA: **SCL**) is Chile's busiest airport and LATAM Airlines' founding hub. SCL [closed 2024 with a record 26.2 million passengers](https://www.nuevopudahuel.cl/news-corporate/santiago-airport-closes-2024-record-passenger?language=en), a 12.5% increase on 2023 that made it South America's fourth-busiest airport. It sits about 20 km (12 mi) northwest of central Santiago, with the Andes mountains rising dramatically just beyond the runways.
 
 ## Overview
 
@@ -108,6 +111,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 SCL has a good selection of Chilean cuisine alongside international chains, spread across the new terminal.
+
+## Airport Hotel
+
+The **Holiday Inn Santiago - Airport Terminal** is the only hotel actually built into the terminal, just steps from baggage claim — no shuttle needed. It has an indoor pool, spa, and 24-hour room service, a genuinely convenient pick for a long layover or an early LATAM departure.
 
 ## Lounges
 

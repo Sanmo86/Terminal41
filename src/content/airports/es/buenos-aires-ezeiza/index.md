@@ -18,7 +18,7 @@ region: "americas"
 tags: ["argentina", "hub-aerolineas-argentinas", "escala-larga", "internacional"]
 featured: true
 quickFacts:
-  passengers: "11M+/año"
+  passengers: "11,1M (2024)"
   terminals: "1 (Terminal A, internacional)"
   distanceToCity: "35 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Restauración"
     detail: "Cocina argentina"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Hotel cápsula My Pod, dentro de la terminal"
 spotlight:
   title: "Por qué esta ciudad en realidad tiene dos aeropuertos distintos"
   text: "Buenos Aires divide de forma única su tráfico aéreo entre dos aeropuertos separados — Ezeiza (EZE) para casi todos los vuelos internacionales de largo radio, y Aeroparque Jorge Newbery (AEP), un pequeño aeropuerto justo en la ciudad, para la mayoría de los vuelos nacionales y regionales — una distinción genuinamente importante para viajeros que podrían reservar el equivocado."
 hubAirlines: ["Aerolíneas Argentinas"]
 ---
 
-El Aeropuerto Internacional Ministro Pistarini (IATA: **EZE**), conocido comúnmente como Ezeiza, es la principal puerta de entrada internacional de Argentina y el hub principal de largo radio de Aerolíneas Argentinas, con más de 11 millones de pasajeros al año. Está a unos 35 km al suroeste del centro de Buenos Aires.
+El Aeropuerto Internacional Ministro Pistarini (IATA: **EZE**), conocido comúnmente como Ezeiza, es la principal puerta de entrada internacional de Argentina y el hub principal de largo radio de Aerolíneas Argentinas. EZE [gestionó 11,1 millones de pasajeros en 2024](https://aviacionenargentina.com.ar/aeropuertos-argentina-record-historico-de-pasajeros-en-diciembre-2024-con-3-948-859-viajeros-aeroparque-fue-el-de-mas-crecimiento/), un aumento del 7,5% respecto al año anterior, según la Administración Nacional de Aviación Civil (ANAC) de Argentina. Está a unos 35 km al suroeste del centro de Buenos Aires.
 
 ## Panorama general
 
@@ -108,6 +111,10 @@ El wifi gratuito está disponible en la terminal con una sesión gratuita de tie
 ## Dónde comer
 
 EZE tiene una buena selección de cocina argentina junto a cadenas internacionales, repartida por la terminal.
+
+## Hotel en el aeropuerto
+
+EZE no tiene un hotel de servicio completo dentro de la terminal, pero **My Pod Capsule Boutique** está genuinamente dentro de ella, entre las terminales internacionales A y C — habitaciones tipo cápsula con duchas, vestuarios y espacio de coworking, reservables en bloques de 3, 6, 9 o 12 horas. Una opción inteligente para una escala larga sin salir de la zona de seguridad.
 
 ## Salas VIP
 

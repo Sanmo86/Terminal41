@@ -18,7 +18,7 @@ region: "africa"
 tags: ["morocco", "hub-royal-air-maroc", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "10M+/year"
+  passengers: "10.5M (2024)"
   terminals: "2 (T1, T2)"
   distanceToCity: "30 km"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Moroccan cuisine"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "ONOMO, free hourly shuttle"
 spotlight:
   title: "Step off your flight onto Morocco's high-speed rail network"
   text: "A train station built directly into the terminal puts arriving passengers straight onto Morocco's ONCF national rail network — including connections toward the Al Boraq high-speed line to Tangier — without ever needing a shuttle bus, a genuinely convenient piece of infrastructure not every major airport can match."
 hubAirlines: ["Royal Air Maroc"]
 ---
 
-Mohammed V International Airport (IATA: **CMN**) is Morocco's busiest airport and the primary hub of Royal Air Maroc, with more than 10 million passengers a year. It sits about 30 km southeast of central Casablanca.
+Mohammed V International Airport (IATA: **CMN**) is Morocco's busiest airport and the primary hub of Royal Air Maroc. CMN [handled 10.5 million passengers in 2024](https://en.hespress.com/104768-morocco-reaches-record-of-32-7-mln-air-passengers-at-end-of-2024.html), a 7% increase on the year before, as part of a record year for Morocco's airports overall. It sits about 30 km southeast of central Casablanca.
 
 ## Overview
 
@@ -109,6 +112,10 @@ Free wifi is available in the terminal with a time-limited free session.
 ## Where to Eat
 
 CMN has a good selection of Moroccan cuisine alongside international chains, spread across both terminals.
+
+## Airport Hotel
+
+CMN doesn't have a hotel built into the terminal. The **ONOMO Hotel Casablanca Airport** is the closest option, about 5 minutes away with a free hourly shuttle — not walkable, but genuinely convenient for a long layover or an early Royal Air Maroc departure.
 
 ## Lounges
 

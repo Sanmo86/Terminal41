@@ -18,7 +18,7 @@ region: "oceania"
 tags: ["new-zealand", "air-new-zealand-hub", "short-layover", "international"]
 featured: true
 quickFacts:
-  passengers: "18M+/year"
+  passengers: "18.5M (FY2023/24)"
   terminals: "2"
   distanceToCity: "21 km / 13 mi"
 security:
@@ -57,13 +57,16 @@ amenities:
   - key: "dining"
     label: "Dining"
     detail: "Kiwi cafe culture, local chains"
+  - key: "hotel"
+    label: "Hotel"
+    detail: "Novotel, at the international terminal"
 spotlight:
   title: "New Zealand's biosecurity checks are strict"
   text: "Auckland Airport's biosecurity screening is some of the strictest in the world — even small amounts of food, plant material, or dirty hiking boots can trigger inspection or a fine. Declare everything on arrival; NZ takes protecting its unique ecosystem seriously."
 hubAirlines: ["Air New Zealand"]
 ---
 
-Auckland Airport (IATA: **AKL**) is New Zealand's busiest airport and the country's main international gateway, sitting about 21 km south of central Auckland. It's the home base of Air New Zealand and the primary entry point for most visitors arriving in the country.
+Auckland Airport (IATA: **AKL**) is New Zealand's busiest airport and the country's main international gateway, sitting about 21 km south of central Auckland. AKL [carried 18.5 million passengers in the year ending June 2024](https://www.interest.co.nz/business/129344/auckland-airport-says-total-number-passengers-and-domestic-visitors-went-through) — a 17% jump as international capacity kept recovering — New Zealand airports report on a July-to-June financial year rather than the calendar year. It's the home base of Air New Zealand and the primary entry point for most visitors arriving in the country.
 
 ## Overview
 
@@ -110,7 +113,11 @@ Free, unlimited wifi is available throughout the airport with no time cap.
 
 ## Where to Eat
 
-Both terminal areas have a solid mix of New Zealand cafe culture — good coffee and local food chains — alongside international options. Selection is more limited than at larger global hubs but covers the essentials well.
+Both terminal areas have a solid mix of New Zealand cafe culture — good coffee and local food chains — alongside international options. Selection is more limited than at larger global hubs but covers the essentials well. At the Novotel, **THIRTEEN50 Bistro & Bar** runs a Kiwi-influenced menu built around fresh local produce and NZ wines.
+
+## Airport Hotel
+
+The **Novotel Auckland Airport**, the only 5-star hotel within the airport precinct, has direct walking access to the international terminal, and it's about a 5-minute walk or free shuttle ride from the domestic terminal. Beyond THIRTEEN50, it's a genuinely convenient pick for a long layover or an early departure.
 
 ## Lounges
 
